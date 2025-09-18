@@ -1,0 +1,3 @@
+ :  velocity, start='11977.6km/s', default width, BARY
+/casadata/repository/casatestdata/unittest/deconvolve/
+refim_point

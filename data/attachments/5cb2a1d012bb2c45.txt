@@ -1,0 +1,6 @@
+2025-09-16 15:47:51	WARN	MSSpw Expression parser::MSSpwIndex::convertToChannelIndex (file /source/casa6/casatools/casacore/ms/MSSel/MSSpwIndex.cc, line 398)	Channel 32 out of range for SPW 0 (valid range 0~31). Limiting it to be within the available range.
+2025-09-16 15:47:51	WARN	MSSpw Expression parser::MSSpwIndex::convertToChannelIndex (file /source/casa6/casatools/casacore/ms/MSSel/MSSpwIndex.cc, line 398)	Channel 32 out of range for SPW 0 (valid range 0~31). Limiting it to be within the available range.
+2025-09-16 15:47:51	WARN	MSSpw Expression parser::MSSpwIndex::convertToChannelIndex (file /source/casa6/casatools/casacore/ms/MSSel/MSSpwIndex.cc, line 398)	Channel 32 out of range for SPW 0 (valid range 0~31). Limiting it to be within the available range.
+2025-09-16 15:47:51	SEVERE	Calibrater::solve	Caught exception: Mismatch with frequency meta-data in append to n08c1.mbdcal detected in spw=0. Check spw selection.
+2025-09-16 15:47:51	SEVERE		Exception Reported: Error in Calibrater::solve.
+2025-09-16 15:47:51	SEVERE	fringefit::::casa	Task fringefit raised an exception of class RuntimeError with the following message: Error in Calibrater::solve.

@@ -1,0 +1,1 @@
+2025-09-16 15:19:09	SEVERE	cvel::::casa	Task cvel raised an exception of class RuntimeError with the following message: Field id 12 was selected as phasecenter but is not among the fields selected for output: [1]

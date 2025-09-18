@@ -1,0 +1,2 @@
+[check_tfmask]  T/F mask name for tst.wyes.image is : ['T'] (Pass : should be ['T']) 
+

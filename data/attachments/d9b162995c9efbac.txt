@@ -1,0 +1,17 @@
+2025-09-16 17:01:27	SEVERE	sdbaseline::::casa	Traceback (most recent call last):
+2025-09-16 17:01:27	SEVERE	sdbaseline::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:01:27	SEVERE	sdbaseline::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdbaseline.py", line 54, in sdbaseline
+2025-09-16 17:01:27	SEVERE	sdbaseline::::casa+	    temp_outfile = _do_fit(infile, datacolumn, antenna, field, spw, timerange, scan,
+2025-09-16 17:01:27	SEVERE	sdbaseline::::casa+	                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:01:27	SEVERE	sdbaseline::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdbaseline.py", line 510, in _do_fit
+2025-09-16 17:01:27	SEVERE	sdbaseline::::casa+	    addwn = parse_wavenumber_param(addwn)
+2025-09-16 17:01:27	SEVERE	sdbaseline::::casa+	            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:01:27	SEVERE	sdbaseline::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdbaseline.py", line 234, in parse_wavenumber_param
+2025-09-16 17:01:27	SEVERE	sdbaseline::::casa+	    __check_positive_or_zero(wn)
+2025-09-16 17:01:27	SEVERE	sdbaseline::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdbaseline.py", line 384, in __check_positive_or_zero
+2025-09-16 17:01:27	SEVERE	sdbaseline::::casa+	    __do_check_positive_or_zero(int(param[i]), allowzero)
+2025-09-16 17:01:27	SEVERE	sdbaseline::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdbaseline.py", line 395, in __do_check_positive_or_zero
+2025-09-16 17:01:27	SEVERE	sdbaseline::::casa+	    raise ValueError(mesg_invalid_wavenumber)
+2025-09-16 17:01:27	SEVERE	sdbaseline::::casa+	ValueError: wrong value given for addwn/rejwn
+2025-09-16 17:01:27	SEVERE	sdbaseline::::casa	wrong value given for addwn/rejwn
+2025-09-16 17:01:27	SEVERE	sdbaseline::::casa	Task sdbaseline raised an exception of class ValueError with the following message: wrong value given for addwn/rejwn

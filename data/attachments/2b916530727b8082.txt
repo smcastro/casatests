@@ -1,0 +1,6 @@
+
+The following MS spws have no corresponding cal spws in out.cal: 0 2 4 6 8 10 12 14 16 17 18 19 20 
+CORRECTED_DATA (77.77078247070312+0j)
+DATA (1+0j)
+FPARAM 77.39237976074219
+difference between CORRECTED_DATA and DATA X FPARAM 0.48656153112961775 %

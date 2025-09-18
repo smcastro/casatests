@@ -1,0 +1,5 @@
+2025-09-16 15:16:25	SEVERE	getcell::TIME	Exception Reported: TableProxy::getCell: no such row
+2025-09-16 15:16:25	SEVERE	getcell::TIME	Exception Reported: TableProxy::getCell: no such row
+2025-09-16 15:16:25	WARN	concat::::casa	The setup of the input MSs is not fully consistent. The concatenation may fail
+2025-09-16 15:16:25	WARN	concat::::casa	and/or the affected columns may contain partially only default data.
+2025-09-16 15:16:25	WARN	concat::::casa	{'xy2.ms': {'FIELD': {'present_a': True, 'present_b': True, 'missingcol_a': ['EPHEMERIS_ID'], 'missingcol_b': []}}}

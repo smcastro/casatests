@@ -1,0 +1,34 @@
+2025-09-16 14:57:29	INFO	test
+::MSConcat::concatenate 	Appending /scratch/scastro/casa/Tests/reports/ngc7538.ms to /scratch/scastro/casa/Tests/reports/ngc5921.ms
+2025-09-16 14:57:29	WARN	test
+::MSConcat::checkCategories	Flag category column shape does not match in these two MSs.
+2025-09-16 14:57:29	WARN	test
+::MSConcat::checkCategories+	This may not be important as Flag category is being deprecated. Will try to continue ...
+2025-09-16 14:57:29	INFO	test
+::MSConcat::concatenate 	No valid state tables present. Result won't have one either.
+2025-09-16 14:57:29	INFO	test
+::MSConcat::concatenate 	Added 3 rows to the source subtable
+2025-09-16 14:57:29	INFO	test
+::MSConcat::concatenate 	Added 2 rows and matched 0 from the data description subtable
+2025-09-16 14:57:29	INFO	test
+::MSConcat::concatenate 	Added 2 rows and matched 0 from the spectral window subtable
+2025-09-16 14:57:29	INFO	test
+::MSConcat::concatenate 	Added 27 rows and matched 0 from the antenna subtable
+2025-09-16 14:57:29	INFO	test
+::MSConcat::concatenate +	Added 27 rows to the feed subtable
+2025-09-16 14:57:29	INFO	test
+::MSConcat::concatenate +	Added 3 rows and matched 0 from the field subtable
+2025-09-16 14:57:29	INFO	test
+::MSConcat::copyObservation	Added 3 rows and matched 0 rows in the observation subtable.
+2025-09-16 14:57:29	INFO	test
+::MSConcat::copyProcessor	Added 0 rows and matched 0 rows in the processor subtable.
+2025-09-16 14:57:29	INFO	test
+::MSConcat::copyPointing	No valid pointing tables present. Result won't have one either.
+2025-09-16 14:57:29	INFO	test
+::MSConcat::copySysCal	No valid syscal tables present. Result won't have one either.
+2025-09-16 14:57:29	INFO	test
+::MSConcat::copyWeather	No valid weather tables present. Result won't have one either.
+2025-09-16 14:57:29	INFO	test
+::MSConcat::copyGainCurve	No valid gain curve tables present. Result won't have one either.
+2025-09-16 14:57:29	INFO	test
+::MSConcat::copyPhaseCal	No valid gain curve tables present. Result won't have one either.

@@ -1,0 +1,3 @@
+2025-09-16 18:47:50	SEVERE	uvcontsub::::casa	Task uvcontsub raised an exception of class RuntimeError with the following message: Wrong field ID given: 99. This MeasurementSet has field IDs between 0 and 3
+2025-09-16 18:47:50	SEVERE	uvcontsub::::casa	Task uvcontsub raised an exception of class RuntimeError with the following message: Invalid field index: -2 (in -2).
+2025-09-16 18:47:50	SEVERE	uvcontsub::::casa	Task uvcontsub raised an exception of class RuntimeError with the following message: Wrong field ID given: 4. This MeasurementSet has field IDs between 0 and 3

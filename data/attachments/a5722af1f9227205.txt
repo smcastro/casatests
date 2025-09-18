@@ -1,0 +1,9 @@
+2025-09-16 16:18:18	WARN	importasdm::::casa	Ephemeris is in ICRS instead of J2000 frame.
+2025-09-16 16:18:18	WARN	importasdm::::casa+	Entry in SOURCE table will be converted to J2000
+2025-09-16 16:18:18	WARN	importasdm::::casa	Ephemeris is in ICRS instead of J2000 frame.
+2025-09-16 16:18:18	WARN	importasdm::::casa+	Entry in SOURCE table will be converted to J2000
+2025-09-16 16:18:18	WARN	::sdm (file src/tools/sdm/sdm_cmpt.cc, line 3576)	A polyephem_tabtimestep > 0 was set but is not used because the ephemeris does not contain polynomials to be evaluated
+2025-09-16 16:18:21	WARN	importasdm::::casa	Ephemeris is in ICRS instead of J2000 frame.
+2025-09-16 16:18:21	WARN	importasdm::::casa+	Entry in SOURCE table will be converted to J2000
+2025-09-16 16:18:21	WARN	importasdm::::casa	Ephemeris is in ICRS instead of J2000 frame.
+2025-09-16 16:18:21	WARN	importasdm::::casa+	Entry in SOURCE table will be converted to J2000

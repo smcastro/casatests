@@ -1,0 +1,11 @@
+2025-09-16 14:56:53	INFO	ImageFactory::createImage	Created Paged image 'zz' of shape [20, 20] with float valued pixels.
+2025-09-16 14:56:53	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:53	INFO	BeamManipulator::set	Setting (global) restoring beam.
+2025-09-16 14:56:53	INFO	BeamManipulator::set	Beam parameters:  Major          : 4 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Minor          : 3 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Position Angle : 10 deg
+2025-09-16 14:56:53	INFO	::::ImageFactory::createImage	Created Paged image 'zz' of shape [20, 20] with float valued pixels.
+2025-09-16 14:56:53	INFO	::::image::fromshape	Ran ia.fromshape
+2025-09-16 14:56:53	INFO	::::image::fromshape	ia.fromshape(outfile="zz", shape=[20,20], csys={...}, linear=false, overwrite=false, log=true, type="f")
+2025-09-16 14:56:53	INFO	::::image::setrestoringbeam	Ran ia.setrestoringbeam
+2025-09-16 14:56:53	INFO	::::image::setrestoringbeam	ia.setrestoringbeam(major="4arcsec", minor="3arcsec", pa="10deg", beam={...}, remove=false, log=true, channel=-1, polarization=-1, imagename="")

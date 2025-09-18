@@ -1,0 +1,26 @@
+2025-09-16 17:06:39	WARN	sdimaging::::casa	The sdimaging task is deprecated and will be removed in future releases. Please use tsdimaging instead.
+2025-09-16 17:06:39	WARN		Field Expression: Found out-of-range index(s) in the list (99 ) [TIP: Double-quoted strings forces name matching]
+2025-09-16 17:06:39	SEVERE	sdimaging::::casa	Traceback (most recent call last):
+2025-09-16 17:06:39	SEVERE	sdimaging::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:06:39	SEVERE	sdimaging::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdimaging.py", line 31, in sdimaging
+2025-09-16 17:06:39	SEVERE	sdimaging::::casa+	    worker.initialize()
+2025-09-16 17:06:39	SEVERE	sdimaging::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/sdutil.py", line 351, in initialize
+2025-09-16 17:06:39	SEVERE	sdimaging::::casa+	    self.compile()
+2025-09-16 17:06:39	SEVERE	sdimaging::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdimaging.py", line 656, in compile
+2025-09-16 17:06:39	SEVERE	sdimaging::::casa+	    selection_ids = self.get_selection_idx_for_ms(self.sorted_idx[0])
+2025-09-16 17:06:39	SEVERE	sdimaging::::casa+	                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:06:39	SEVERE	sdimaging::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdimaging.py", line 594, in get_selection_idx_for_ms
+2025-09-16 17:06:39	SEVERE	sdimaging::::casa+	    sel_ids = my_ms.msseltoindex(vis=vis, spw=spw, field=field,
+2025-09-16 17:06:39	SEVERE	sdimaging::::casa+	              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:06:39	SEVERE	sdimaging::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/ms.py", line 771, in msseltoindex
+2025-09-16 17:06:39	SEVERE	sdimaging::::casa+	    return self._swigobj.msseltoindex(vis, spw, field, baseline, time, scan, uvrange, observation, polarization, taql)
+2025-09-16 17:06:39	SEVERE	sdimaging::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:06:39	SEVERE	sdimaging::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/__casac__/ms.py", line 2073, in msseltoindex
+2025-09-16 17:06:39	SEVERE	sdimaging::::casa+	    return _ms.ms_msseltoindex(self, *args, **kwargs)
+2025-09-16 17:06:39	SEVERE	sdimaging::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:06:39	SEVERE	sdimaging::::casa+	RuntimeError: Field Expression: Partial or no match for Field ID list [99]
+2025-09-16 17:06:39	SEVERE	sdimaging::::casa+	(near char. 2 in string "99")
+2025-09-16 17:06:39	SEVERE	sdimaging::::casa	Field Expression: Partial or no match for Field ID list [99]
+2025-09-16 17:06:39	SEVERE	sdimaging::::casa+	(near char. 2 in string "99")
+2025-09-16 17:06:39	SEVERE	sdimaging::::casa	Task sdimaging raised an exception of class RuntimeError with the following message: Field Expression: Partial or no match for Field ID list [99]
+2025-09-16 17:06:39	SEVERE	sdimaging::::casa+	(near char. 2 in string "99")

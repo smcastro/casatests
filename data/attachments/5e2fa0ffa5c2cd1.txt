@@ -1,0 +1,19 @@
+2025-09-16 17:03:49	SEVERE	image::newimagefromimage (file src/tools/image/image_cmpt.cc, line 4129)	Exception Reported: sdfixscanTest0.im already exists at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/SubImageFactory.tcc, line: 225
+2025-09-16 17:03:49	SEVERE	sdfixscan::::casa	Traceback (most recent call last):
+2025-09-16 17:03:49	SEVERE	sdfixscan::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:03:49	SEVERE	sdfixscan::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdfixscan.py", line 47, in sdfixscan
+2025-09-16 17:03:49	SEVERE	sdfixscan::::casa+	    worker.execute()
+2025-09-16 17:03:49	SEVERE	sdfixscan::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdfixscan.py", line 143, in execute
+2025-09-16 17:03:49	SEVERE	sdfixscan::::casa+	    self.__execute_basket_weaving()
+2025-09-16 17:03:49	SEVERE	sdfixscan::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdfixscan.py", line 347, in __execute_basket_weaving
+2025-09-16 17:03:49	SEVERE	sdfixscan::::casa+	    outimage = ia.newimagefromimage(
+2025-09-16 17:03:49	SEVERE	sdfixscan::::casa+	               ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:03:49	SEVERE	sdfixscan::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/image.py", line 4153, in newimagefromimage
+2025-09-16 17:03:49	SEVERE	sdfixscan::::casa+	    return _wrap_image(swig_object=self._swigobj.newimagefromimage(infile, outfile, region, mask, dropdeg, overwrite))
+2025-09-16 17:03:49	SEVERE	sdfixscan::::casa+	                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:03:49	SEVERE	sdfixscan::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/__casac__/image.py", line 8608, in newimagefromimage
+2025-09-16 17:03:49	SEVERE	sdfixscan::::casa+	    return _image.image_newimagefromimage(self, *args, **kwargs)
+2025-09-16 17:03:49	SEVERE	sdfixscan::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:03:49	SEVERE	sdfixscan::::casa+	RuntimeError: sdfixscanTest0.im already exists at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/SubImageFactory.tcc, line: 225
+2025-09-16 17:03:49	SEVERE	sdfixscan::::casa	sdfixscanTest0.im already exists at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/SubImageFactory.tcc, line: 225
+2025-09-16 17:03:49	SEVERE	sdfixscan::::casa	Task sdfixscan raised an exception of class RuntimeError with the following message: sdfixscanTest0.im already exists at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/SubImageFactory.tcc, line: 225

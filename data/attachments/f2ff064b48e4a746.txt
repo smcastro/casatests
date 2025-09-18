@@ -1,0 +1,2 @@
+2025-09-16 15:55:25	SEVERE	getephemtable::::casa	Task getephemtable raised an exception of class HTTPError with the following message: HTTP Error 404: Not Found
+2025-09-16 15:55:25	SEVERE	getephemtable::::casa	Task getephemtable raised an exception of class URLError with the following message: <urlopen error Unknown host>

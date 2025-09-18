@@ -1,0 +1,32 @@
+NOTE: you provided the Declination/Latitude value "02:40:24.0000" which is understood to be in units of hours.
+      If you meant degrees, please replace ":" by ".".
+NOTE: you provided the Declination/Latitude value "02:40:24.0000" which is understood to be in units of hours.
+      If you meant degrees, please replace ":" by ".".
+NOTE: you provided the Declination/Latitude value "02:40:24.0000" which is understood to be in units of hours.
+      If you meant degrees, please replace ":" by ".".
+NOTE: you provided the Declination/Latitude value "02:40:24.0000" which is understood to be in units of hours.
+      If you meant degrees, please replace ":" by ".".
+NOTE: you provided the Declination/Latitude value "02:40:24.0001" which is understood to be in units of hours.
+      If you meant degrees, please replace ":" by ".".
+NOTE: you provided the Declination/Latitude value "02:40:24.0001" which is understood to be in units of hours.
+      If you meant degrees, please replace ":" by ".".
+NOTE: you provided the Declination/Latitude value "02:40:24.0001" which is understood to be in units of hours.
+      If you meant degrees, please replace ":" by ".".
+NOTE: you provided the Declination/Latitude value "02:40:24.0001" which is understood to be in units of hours.
+      If you meant degrees, please replace ":" by ".".
+NOTE: you provided the Declination/Latitude value "00:25:24.6496" which is understood to be in units of hours.
+      If you meant degrees, please replace ":" by ".".
+NOTE: you provided the Declination/Latitude value "00:25:24.6496" which is understood to be in units of hours.
+      If you meant degrees, please replace ":" by ".".
+NOTE: you provided the Declination/Latitude value "00:25:24.6496" which is understood to be in units of hours.
+      If you meant degrees, please replace ":" by ".".
+NOTE: you provided the Declination/Latitude value "00:25:24.6496" which is understood to be in units of hours.
+      If you meant degrees, please replace ":" by ".".
+NOTE: you provided the Declination/Latitude value "02:39:52.3901" which is understood to be in units of hours.
+      If you meant degrees, please replace ":" by ".".
+NOTE: you provided the Declination/Latitude value "02:39:52.3901" which is understood to be in units of hours.
+      If you meant degrees, please replace ":" by ".".
+NOTE: you provided the Declination/Latitude value "02:39:52.3901" which is understood to be in units of hours.
+      If you meant degrees, please replace ":" by ".".
+NOTE: you provided the Declination/Latitude value "02:39:52.3901" which is understood to be in units of hours.
+      If you meant degrees, please replace ":" by ".".

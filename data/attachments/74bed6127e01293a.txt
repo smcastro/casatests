@@ -1,0 +1,1 @@
+2025-09-16 15:12:29	WARN	applycal::MSIter::setFeedInfo	 time dependent feed table encountered - not correctly handled  - continuing anyway

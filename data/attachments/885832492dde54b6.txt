@@ -1,0 +1,50 @@
+2025-09-16 14:58:40	INFO	test
+::msmetadata_cmpt.cc::open	Performing internal consistency checks on /casadata/repository/casatestdata/unittest/msmetadata/MSMetaData.ms...
+2025-09-16 14:58:40	INFO	test
+::msmetadata_cmpt.cc::open	Performing internal consistency checks on cas7986.ms...
+2025-09-16 14:58:40	SEVERE	test
+::ms::close	Exception Reported: Exception: Illegal ANTENNA1 value 9 found in main table. /scratch/scastro/casa/Tests/reports/cas7986.ms/ANTENNA only has 8 rows (IDs).
+2025-09-16 14:58:40	SEVERE	test
+::ms::close+	... thrown by void casa::MSChecker::checkReferentialIntegrity() const at File: /source/casa6/casatools/src/code/msvis/MSVis/MSChecker.cc, line: 73
+2025-09-16 14:58:40	INFO	test
+::msmetadata_cmpt.cc::open	Performing internal consistency checks on cas7986.ms...
+2025-09-16 14:58:40	SEVERE	test
+::msmetadata_cmpt.cc::open	Exception Reported: Exception: Illegal ANTENNA1 value 9 found in main table. /scratch/scastro/casa/Tests/reports/cas7986.ms/ANTENNA only has 8 rows (IDs).
+2025-09-16 14:58:40	SEVERE	test
+::msmetadata_cmpt.cc::open+	... thrown by void casa::MSChecker::checkReferentialIntegrity() const at File: /source/casa6/casatools/src/code/msvis/MSVis/MSChecker.cc, line: 73
+2025-09-16 14:58:40	INFO	test
+::msmetadata_cmpt.cc::open	Performing internal consistency checks on cas7986.ms...
+2025-09-16 14:58:40	SEVERE	test
+::ms::close	Exception Reported: Exception: Illegal ANTENNA2 value 9 found in main table. /scratch/scastro/casa/Tests/reports/cas7986.ms/ANTENNA only has 8 rows (IDs).
+2025-09-16 14:58:40	SEVERE	test
+::ms::close+	... thrown by void casa::MSChecker::checkReferentialIntegrity() const at File: /source/casa6/casatools/src/code/msvis/MSVis/MSChecker.cc, line: 73
+2025-09-16 14:58:40	INFO	test
+::msmetadata_cmpt.cc::open	Performing internal consistency checks on cas7986.ms...
+2025-09-16 14:58:40	SEVERE	test
+::msmetadata_cmpt.cc::open	Exception Reported: Exception: Illegal ANTENNA2 value 9 found in main table. /scratch/scastro/casa/Tests/reports/cas7986.ms/ANTENNA only has 8 rows (IDs).
+2025-09-16 14:58:40	SEVERE	test
+::msmetadata_cmpt.cc::open+	... thrown by void casa::MSChecker::checkReferentialIntegrity() const at File: /source/casa6/casatools/src/code/msvis/MSVis/MSChecker.cc, line: 73
+2025-09-16 14:58:40	INFO	test
+::msmetadata_cmpt.cc::open	Performing internal consistency checks on cas7986.ms...
+2025-09-16 14:58:40	SEVERE	test
+::ms::close	Exception Reported: Exception: Illegal DATA_DESC_ID value 9 found in main table. /scratch/scastro/casa/Tests/reports/cas7986.ms/DATA_DESCRIPTION only has 3 rows (IDs).
+2025-09-16 14:58:40	SEVERE	test
+::ms::close+	... thrown by void casa::MSChecker::checkReferentialIntegrity() const at File: /source/casa6/casatools/src/code/msvis/MSVis/MSChecker.cc, line: 73
+2025-09-16 14:58:40	INFO	test
+::msmetadata_cmpt.cc::open	Performing internal consistency checks on cas7986.ms...
+2025-09-16 14:58:40	SEVERE	test
+::msmetadata_cmpt.cc::open	Exception Reported: Exception: Illegal DATA_DESC_ID value 9 found in main table. /scratch/scastro/casa/Tests/reports/cas7986.ms/DATA_DESCRIPTION only has 3 rows (IDs).
+2025-09-16 14:58:40	SEVERE	test
+::msmetadata_cmpt.cc::open+	... thrown by void casa::MSChecker::checkReferentialIntegrity() const at File: /source/casa6/casatools/src/code/msvis/MSVis/MSChecker.cc, line: 73
+2025-09-16 14:58:40	INFO	test
+::msmetadata_cmpt.cc::open	Performing internal consistency checks on cas7986.ms...
+2025-09-16 14:58:40	SEVERE	test
+::ms::close	Exception Reported: Exception: Illegal FIELD_ID value 9 found in main table. /scratch/scastro/casa/Tests/reports/cas7986.ms/FIELD only has 1 rows (IDs).
+2025-09-16 14:58:40	SEVERE	test
+::ms::close+	... thrown by void casa::MSChecker::checkReferentialIntegrity() const at File: /source/casa6/casatools/src/code/msvis/MSVis/MSChecker.cc, line: 73
+2025-09-16 14:58:40	INFO	test
+::msmetadata_cmpt.cc::open	Performing internal consistency checks on cas7986.ms...
+2025-09-16 14:58:40	SEVERE	test
+::msmetadata_cmpt.cc::open	Exception Reported: Exception: Illegal FIELD_ID value 9 found in main table. /scratch/scastro/casa/Tests/reports/cas7986.ms/FIELD only has 1 rows (IDs).
+2025-09-16 14:58:40	SEVERE	test
+::msmetadata_cmpt.cc::open+	... thrown by void casa::MSChecker::checkReferentialIntegrity() const at File: /source/casa6/casatools/src/code/msvis/MSVis/MSChecker.cc, line: 73

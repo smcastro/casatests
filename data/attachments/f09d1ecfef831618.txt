@@ -1,0 +1,23 @@
+2025-09-17 17:02:37	WARN	AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]	Setting up for weights accumulation for term 0 during gridding to compute sensitivity pattern.
+2025-09-17 17:02:37	WARN	AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]+	Consequently, the first gridding cycle will be slower than the subsequent ones.
+2025-09-17 17:02:39	WARN	AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]	Setting up for weights accumulation for term 1 during gridding to compute sensitivity pattern.
+2025-09-17 17:02:39	WARN	AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]+	Consequently, the first gridding cycle will be slower than the subsequent ones.
+2025-09-17 17:02:39	WARN	AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]	Setting up for weights accumulation for term 2 during gridding to compute sensitivity pattern.
+2025-09-17 17:02:39	WARN	AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]+	Consequently, the first gridding cycle will be slower than the subsequent ones.
+
+0%....10....20....30....40....50....60....70....80....90....100%
+2025-09-17 17:02:59	WARN	AWProjectFT::finalizeToSky	time to massage data 8.83
+2025-09-17 17:02:59	WARN	AWProjectFT::finalizeToSky	time gridding 5.15
+2025-09-17 17:03:20	WARN	AWProjectFT::finalizeToSky	time to massage data 0.15
+2025-09-17 17:03:20	WARN	AWProjectFT::finalizeToSky	time gridding 5.13
+2025-09-17 17:03:40	WARN	AWProjectFT::finalizeToSky	time to massage data 0.16
+2025-09-17 17:03:40	WARN	AWProjectFT::finalizeToSky	time gridding 5.12
+2025-09-17 17:04:02	WARN	tclean::::casa	Warning! Non-zero values at the edge of the .pb image can cause unexpected aliasing effects! (found value 0.050604067742824554 at index [np.int64(1), np.int64(5040), np.int64(0), np.int64(0)])
+
+0%....10....20....30....40....50....60....70....80....90....100%
+2025-09-17 17:07:49	WARN	AWProjectFT::finalizeToSky	time to massage data 165.47
+2025-09-17 17:07:49	WARN	AWProjectFT::finalizeToSky	time gridding 27.7
+2025-09-17 17:07:55	WARN	AWProjectFT::finalizeToSky	time to massage data 0.37
+2025-09-17 17:07:55	WARN	AWProjectFT::finalizeToSky	time gridding 27.72
+2025-09-17 17:08:23	WARN	task_tclean::SIImageStore::restore (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SIImageStore.cc, line 2345)	Restoring with an empty model image. Only residuals will be processed to form the output restored image.
+2025-09-17 17:08:25	WARN	task_tclean::SIImageStore::restore (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SIImageStore.cc, line 2345)	Restoring with an empty model image. Only residuals will be processed to form the output restored image.

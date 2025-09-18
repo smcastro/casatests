@@ -1,0 +1,1 @@
+VERSION   sys.version_info(major=3, minor=12, micro=4, releaselevel='final', serial=0)

@@ -1,0 +1,3 @@
+_run_task::starts
+Exception running sdtimeaverage: Antenna Expression: No match found for token(s) "gBT"  
+tearDown::deleting MSs.

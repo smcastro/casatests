@@ -1,0 +1,3 @@
+Test refval=''
+Test refval='-100GHz'
+Test refval='300K'

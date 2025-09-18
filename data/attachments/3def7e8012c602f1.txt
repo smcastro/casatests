@@ -1,0 +1,4 @@
+The MS is already around, just unflag
+Unflag the MS
+flagadta is expected to fail with datacolumn=RESIDUAL
+flagadta is expected to fail with datacolumn=RESIDUAL_DATA

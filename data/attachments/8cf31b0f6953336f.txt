@@ -1,0 +1,7 @@
+2025-09-16 14:56:53	INFO	ImageFactory::createImage	Created Temp image  of shape [2, 3, 4] with Complex valued pixels.
+2025-09-16 14:56:53	INFO	ImageFactory::createImage	Created Temp image  of shape [2, 3, 4] with float valued pixels.
+2025-09-16 14:56:53	SEVERE	image::putchunk (file src/tools/image/image_cmpt.cc, line 4428)	Exception Reported: Unsupported type for pixels parameter. It must be either a vector of doubles or ints at File: src/tools/image/image_cmpt.cc, line: 4522
+2025-09-16 14:56:53	INFO	name::	No table opened.
+2025-09-16 14:56:53	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:56:53	INFO	name::	No table opened.
+2025-09-16 14:56:53	INFO	name::	No table opened.

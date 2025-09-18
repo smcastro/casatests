@@ -1,0 +1,1 @@
+2025-09-16 16:24:46	WARN	MSFitsInput::fillAntennaTable	EVLA there is at least one gap in the antenna sequence found in the FITS AN table. Empty rows will be inserted into the ANTENNA table representing the gaps.

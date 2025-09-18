@@ -1,0 +1,8 @@
+before  [0 1 0 1]
+after [2 3 2 3]
+The following MS spws have no corresponding cal spws in doublecircletest_const.ms.tsys: 4 5 6 7 
+The following MS spws have no corresponding cal spws in doublecircletest_const.ms.sky: 4 5 6 7 
+[[0.9983687687153909]
+ [0.9983687687153909]]
+[[0.9983687687153909]
+ [0.9983687687153909]]

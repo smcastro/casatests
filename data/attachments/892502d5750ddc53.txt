@@ -1,0 +1,3 @@
+Number of matching rows found:  172260
+Number of matching rows found:  156600
+Intent already exists

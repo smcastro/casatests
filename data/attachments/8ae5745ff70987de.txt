@@ -1,0 +1,8 @@
+2025-09-16 16:11:46	SEVERE	image::subimage (file src/tools/image/image_cmpt.cc, line 6162)	Exception Reported: The input image shape ([10, 20, 4, 40]) and mask shape ([10, 20, 1, 1]) are different, and it was specified that the mask should not be extended, so the mask cannot be applied to the (sub)image. Specifying that the mask should be extended may resolve the issue at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/SubImageFactory.tcc, line: 306
+2025-09-16 16:11:46	SEVERE	immath::::casa	Unable to process expression 1*IM0
+2025-09-16 16:11:46	SEVERE	immath::::casa	Exception caught was: Unable to apply region to file: myim.im
+2025-09-16 16:11:46	SEVERE	immath::::casa	Task immath raised an exception of class Exception with the following message: Unable to apply region to file: myim.im
+2025-09-16 16:11:46	SEVERE	image::subimage (file src/tools/image/image_cmpt.cc, line 6162)	Exception Reported: The input image shape ([10, 20, 4, 40]) and mask shape ([10, 20, 4, 2]) are different, and it was specified that the mask should not be extended, so the mask cannot be applied to the (sub)image. Specifying that the mask should be extended may resolve the issue at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/SubImageFactory.tcc, line: 306
+2025-09-16 16:11:46	SEVERE	immath::::casa	Unable to process expression 1*IM0
+2025-09-16 16:11:46	SEVERE	immath::::casa	Exception caught was: Unable to apply region to file: myim.im
+2025-09-16 16:11:46	SEVERE	immath::::casa	Task immath raised an exception of class Exception with the following message: Unable to apply region to file: myim.im

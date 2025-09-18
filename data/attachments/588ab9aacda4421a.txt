@@ -1,0 +1,13 @@
+2025-09-16 16:08:18	WARN	imcontsub::::casa	The linefile parameter is empty, consequently the spectral line image will NOT be
+2025-09-16 16:08:18	WARN	imcontsub::::casa+	saved on disk.
+2025-09-16 16:08:18	WARN	imcontsub::::casa	The contfile parameter is empty, consequently the continuum image will NOT be
+2025-09-16 16:08:18	WARN	imcontsub::::casa+	saved on disk.
+2025-09-16 16:08:18	SEVERE	regionmanager::frombcs	Exception Reported: LCBox::LCBox - blc [0, 0, 0, 0] must be <= trc [511, 511, -2147483648, 39]
+2025-09-16 16:08:18	SEVERE	imcontsub::::casa	Task imcontsub raised an exception of class RuntimeError with the following message: LCBox::LCBox - blc [0, 0, 0, 0] must be <= trc [511, 511, -2147483648, 39]
+2025-09-16 16:08:18	WARN	imcontsub::::casa	The linefile parameter is empty, consequently the spectral line image will NOT be
+2025-09-16 16:08:18	WARN	imcontsub::::casa+	saved on disk.
+2025-09-16 16:08:18	WARN	imcontsub::::casa	The contfile parameter is empty, consequently the continuum image will NOT be
+2025-09-16 16:08:18	WARN	imcontsub::::casa+	saved on disk.
+2025-09-16 16:08:18	SEVERE	CasacRegionManager::_setPolarizationRanges	(Sub)String YELLOW in stokes specification part YELLOW does not match a known polarization.
+2025-09-16 16:08:18	SEVERE	regionmanager::frombcs	Exception Reported: 2025-09-16 16:08:18	SEVERE	CasacRegionManager::_setPolarizationRanges	(Sub)String YELLOW in stokes specification part YELLOW does not match a known polarization.
+2025-09-16 16:08:18	SEVERE	imcontsub::::casa	Task imcontsub raised an exception of class RuntimeError with the following message: 2025-09-16 16:08:18	SEVERE	CasacRegionManager::_setPolarizationRanges	(Sub)String YELLOW in stokes specification part YELLOW does not match a known polarization.

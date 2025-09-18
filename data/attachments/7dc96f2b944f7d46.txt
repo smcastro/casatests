@@ -1,0 +1,8 @@
+2025-09-16 14:56:53	INFO	ImageFactory::createImage	Created Paged image 'kfe.im' of shape [20, 20] with float valued pixels.
+2025-09-16 14:56:53	INFO	ImageFactory::createImage	Created Paged image 'jfjd.im' of shape [5, 5] with float valued pixels.
+2025-09-16 14:56:53	SEVERE	image::name (file src/tools/image/image_cmpt.cc, line 4026)	Exception Reported: Exception: File kfe.im exists, and the user does not want to remove it..
+2025-09-16 14:56:53	SEVERE	image::name (file src/tools/image/image_cmpt.cc, line 4026)+	... thrown by static void casa::ImageFactory::_checkOutfile(const casacore::String&, casacore::Bool) at File: /source/casa6/casatools/src/code/imageanalysis/ImageAnalysis/ImageFactory2.cc, line: 594
+2025-09-16 14:56:53	INFO	ImageFactory::_rename	Successfully renamed file /scratch/scastro/casa/Tests/reports/jfjd.im to kfe.im
+2025-09-16 14:56:53	INFO	ImageFactory::_rename	Successfully renamed file /scratch/scastro/casa/Tests/reports/kfe.im to kfe.im
+2025-09-16 14:56:53	INFO	name::	No table opened.
+2025-09-16 14:56:53	INFO	showcache::	The Table Cache is empty.

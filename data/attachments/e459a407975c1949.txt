@@ -1,0 +1,4 @@
+2025-09-16 18:47:45	WARN	MSTransformManager::checkDataColumnsToFill	CORRECTED_DATA column requested but not available in input MS 
+2025-09-16 18:47:45	SEVERE	uvcontsub::::casa	Task uvcontsub raised an exception of class RuntimeError with the following message: Desired column (CORRECTED_DATA) not found in the input MS (/scratch/scastro/casa/Tests/reports/known0.ms).
+2025-09-16 18:47:45	WARN	MSTransformManager::checkDataColumnsToFill	MODEL_DATA column requested but not available in input MS 
+2025-09-16 18:47:45	SEVERE	uvcontsub::::casa	Task uvcontsub raised an exception of class RuntimeError with the following message: Desired column (MODEL_DATA) not found in the input MS (/scratch/scastro/casa/Tests/reports/known0.ms).

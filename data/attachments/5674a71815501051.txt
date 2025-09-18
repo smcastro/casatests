@@ -1,0 +1,2 @@
+2025-09-16 15:16:24	SEVERE	getcell::TIME	Exception Reported: TableProxy::getCell: no such row
+2025-09-16 15:16:24	SEVERE	getcell::TIME	Exception Reported: TableProxy::getCell: no such row

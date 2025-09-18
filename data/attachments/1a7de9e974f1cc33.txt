@@ -1,0 +1,23 @@
+2025-09-16 16:11:27	WARN	ImageFitter::setNoiseFWHM	noiseFWHM is less than a pixel width, using uncorrelated noise expressions to calculate uncertainties
+2025-09-16 16:11:27	WARN	imfit::ImageFitter::setNoiseFWHM	noiseFWHM is less than a pixel width, using uncorrelated noise expressions to calculate uncertainties
+2025-09-16 16:11:27	WARN	componentlist::fromrecord	componentlist is not empty; overwriting it
+2025-09-16 16:11:27	WARN	ImageFitter::setNoiseFWHM	noiseFWHM is less than a pixel width, using uncorrelated noise expressions to calculate uncertainties
+2025-09-16 16:11:27	WARN	componentlist::fromrecord	componentlist is not empty; overwriting it
+2025-09-16 16:11:27	WARN	imfit::ImageFitter::setNoiseFWHM	noiseFWHM is less than a pixel width, using uncorrelated noise expressions to calculate uncertainties
+2025-09-16 16:11:27	WARN	componentlist::fromrecord	componentlist is not empty; overwriting it
+2025-09-16 16:11:27	WARN	ImageFitter::setNoiseFWHM	noiseFWHM is less than a pixel width, using uncorrelated noise expressions to calculate uncertainties
+2025-09-16 16:11:27	WARN	componentlist::fromrecord	componentlist is not empty; overwriting it
+2025-09-16 16:11:27	WARN	imfit::ImageFitter::setNoiseFWHM	noiseFWHM is less than a pixel width, using uncorrelated noise expressions to calculate uncertainties
+2025-09-16 16:11:27	WARN	componentlist::fromrecord	componentlist is not empty; overwriting it
+2025-09-16 16:11:27	WARN	componentlist::fromrecord	componentlist is not empty; overwriting it
+2025-09-16 16:11:27	WARN	componentlist::fromrecord	componentlist is not empty; overwriting it
+2025-09-16 16:11:27	WARN	componentlist::fromrecord	componentlist is not empty; overwriting it
+2025-09-16 16:11:28	WARN	componentlist::fromrecord	componentlist is not empty; overwriting it
+2025-09-16 16:11:28	WARN	componentlist::fromrecord	componentlist is not empty; overwriting it
+2025-09-16 16:11:28	WARN	componentlist::fromrecord	componentlist is not empty; overwriting it
+2025-09-16 16:11:28	WARN	componentlist::fromrecord	componentlist is not empty; overwriting it
+2025-09-16 16:11:28	WARN	componentlist::fromrecord	componentlist is not empty; overwriting it
+2025-09-16 16:11:28	WARN	componentlist::fromrecord	componentlist is not empty; overwriting it
+2025-09-16 16:11:28	WARN	componentlist::fromrecord	componentlist is not empty; overwriting it
+2025-09-16 16:11:28	WARN	componentlist::fromrecord	componentlist is not empty; overwriting it
+2025-09-16 16:11:28	WARN	componentlist::fromrecord	componentlist is not empty; overwriting it

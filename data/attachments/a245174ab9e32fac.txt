@@ -1,0 +1,4 @@
+2025-09-16 16:11:47	WARN	immath::::casa	Ignoring stokes parameters selection for mode='poli'.
+2025-09-16 16:11:47	SEVERE	immath::::casa	Error running immath
+2025-09-16 16:11:47	SEVERE	immath::::casa	Exception caught was: Stokes V is required for mode tpoli but was not found
+2025-09-16 16:11:47	SEVERE	immath::::casa	Task immath raised an exception of class Exception with the following message: Stokes V is required for mode tpoli but was not found

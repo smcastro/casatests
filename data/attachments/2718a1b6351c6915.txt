@@ -1,0 +1,14 @@
+2025-09-16 18:12:06	WARN	SynthesisImagerVi2::dryGridding (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisImagerVi2.cc, line 3148)	Making a "blank" CFCache
+2025-09-16 18:12:06	WARN	AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]	Setting up for weights accumulation during gridding to compute sensitivity pattern.
+2025-09-16 18:12:06	WARN	AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]+	Consequently, the first gridding cycle will be slower than the subsequent ones.
+2025-09-16 18:12:07	WARN	SynthesisImagerVi2::fillCFCache (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisImagerVi2.cc, line 3232)	Re-loading the "blank" CFCache for filling
+2025-09-16 18:12:07	WARN	crustaceans::makeConvFunction2[R&D]	Filling CFs for baseline type 0, PA slot 0
+2025-09-16 18:13:02	WARN	task_tclean::AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]	Setting up for weights accumulation during gridding to compute sensitivity pattern.
+2025-09-16 18:13:02	WARN	task_tclean::AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]+	Consequently, the first gridding cycle will be slower than the subsequent ones.
+2025-09-16 18:13:03	WARN	task_tclean::AWProjectFT::finalizeToSky	time to massage data 0.32
+2025-09-16 18:13:03	WARN	task_tclean::AWProjectFT::finalizeToSky	time gridding 0.21
+2025-09-16 18:13:04	WARN	task_tclean::AWProjectFT::finalizeToSky	time to massage data 0.27
+2025-09-16 18:13:04	WARN	task_tclean::AWProjectFT::finalizeToSky	time gridding 0.06
+2025-09-16 18:13:06	WARN	task_tclean::AWProjectFT::finalizeToVis	Time degrid 0.04
+2025-09-16 18:13:06	WARN	task_tclean::AWProjectFT::finalizeToSky	time to massage data 0.15
+2025-09-16 18:13:06	WARN	task_tclean::AWProjectFT::finalizeToSky	time gridding 0.06

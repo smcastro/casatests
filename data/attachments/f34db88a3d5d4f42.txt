@@ -1,0 +1,20 @@
+2025-09-16 14:56:51	INFO	ImageFactory::createImage	Created Paged image 'ia.fromshape.image' of shape [10, 20] with float valued pixels.
+2025-09-16 14:56:51	SEVERE	image::hanning	Exception Reported: Exception: The axis number along which the smoothing is to occur must be less than the number of axes in the image which is 2.
+2025-09-16 14:56:51	SEVERE	image::hanning+	... thrown by void casa::Image1DSmoother<T>::setAxis(casacore::uInt) [with T = float; casacore::uInt = unsigned int] at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/Image1DSmoother.tcc, line: 22
+2025-09-16 14:56:51	INFO	HanningSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/ia.fromshape.image size => [10, 20]
+2025-09-16 14:56:51	INFO	HanningSmoother::smooth	New hanning.image size => [10, 20]
+2025-09-16 14:56:51	INFO	SubImageFactory::createImage	Creating image 'hanning.image' of shape [10, 20]
+2025-09-16 14:56:51	INFO		deleted table /scratch/scastro/casa/Tests/reports/hanning.image
+2025-09-16 14:56:51	INFO	HanningSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/ia.fromshape.image size => [10, 20]
+2025-09-16 14:56:51	INFO	HanningSmoother::smooth	New hanning.image size => [4, 20]
+2025-09-16 14:56:51	INFO	SubImageFactory::createImage	Creating image 'hanning.image' of shape [4, 20]
+2025-09-16 14:56:51	INFO		deleted table /scratch/scastro/casa/Tests/reports/hanning.image
+2025-09-16 14:56:51	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:51	INFO	HanningSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/ia.fromshape.image size => [10, 20]
+2025-09-16 14:56:51	INFO	HanningSmoother::smooth	New hanning.image size => [10, 20]
+2025-09-16 14:56:51	INFO	SubImageFactory::createImage	Creating image 'hanning.image' of shape [10, 20]
+2025-09-16 14:56:51	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:51	INFO	name::	No table opened.
+2025-09-16 14:56:51	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:56:51	INFO	name::	No table opened.
+2025-09-16 14:56:51	INFO	name::	No table opened.

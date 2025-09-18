@@ -1,0 +1,18 @@
+2025-09-16 14:57:37	INFO	test
+::VisSet::addCalSet	Adding MODEL_DATA and CORRECTED_DATA columns
+2025-09-16 14:57:37	INFO	test
+::VisSet::VisSet	Initializing MODEL_DATA (to unity) and CORRECTED_DATA (to DATA)
+2025-09-16 14:57:37	INFO	test
+::VisSet::VisSet	Initialized 22653 rows.
+2025-09-16 14:57:37	INFO	test
+::MSContinuumSubtractor::setSolutionInterval	Fitting continuum on 0-second (per scan) timescale.
+2025-09-16 14:57:37	INFO	test
+::MSContinuumSubtractor::subtract2	parameters:
+2025-09-16 14:57:37	INFO	test
+::MSContinuumSubtractor::subtract2	   ddIds=[0], fieldIds=[1], order=0, mode=subtract
+2025-09-16 14:57:37	INFO	test
+::MSContinuumSubtractor::subtract2	Processing 4 slots for ddId 0
+2025-09-16 14:57:38	INFO	test
+::SubMS::parseColumnNames()	Using CORRECTED_DATA column.
+2025-09-16 14:57:38	INFO	test
+::SubMS::makeSelection()	4509 out of 22653 rows are going to be considered due to the selection criteria.

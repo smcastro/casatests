@@ -1,0 +1,4 @@
+
+Create a new local copy of the MS...
+
+Running setjy with a non-existant vis

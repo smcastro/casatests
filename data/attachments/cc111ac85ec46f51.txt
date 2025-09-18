@@ -1,0 +1,1 @@
+2025-09-16 16:37:51	SEVERE	phaseshift::::casa	Task phaseshift raised an exception of class RuntimeError with the following message: MSSelectionNullSelection : The selected table has zero rows.

@@ -1,0 +1,2 @@
+2025-09-16 16:29:32	WARN	MSTransformManager::combineCubeOfData	Detected combination of SPWs with different EXPOSURE 
+2025-09-16 16:29:32	WARN	MSTransformManager::combineCubeOfData+	Will use WEIGHT_SPECTRUM to combine them 

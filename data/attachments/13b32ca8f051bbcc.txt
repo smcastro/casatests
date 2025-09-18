@@ -1,0 +1,18 @@
+2025-09-16 14:57:07	INFO	ImageFactory::createImage	Created Paged image 'maskim' of shape [200, 200, 1, 1] with float valued pixels.
+2025-09-16 14:57:07	INFO	ImageFactory::createImage	Created Temp image  of shape [200, 200, 1, 20] with float valued pixels.
+2025-09-16 14:57:07	SEVERE	image::regrid	Exception Reported: The input image shape ([200, 200, 1, 20]) and mask shape ([200, 200, 1, 1]) are different, and it was specified that the mask should not be extended, so the mask cannot be applied to the (sub)image. Specifying that the mask should be extended may resolve the issue at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/SubImageFactory.tcc, line: 306
+2025-09-16 14:57:07	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:07	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:57:07	INFO	ImageMaskAttacher::makeMask	Created and initialized mask `mask0'
+2025-09-16 14:57:07	WARN	ImageRegridder::_doImagesOverlap	At least one of the images exceeds one degree on at one side, not checking for direction plane overlap.
+2025-09-16 14:57:07	INFO	ImageRegrid::_checkAxes 	The Stokes axis cannot be regridded - removing from list
+2025-09-16 14:57:07	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:57:07	SEVERE	image::regrid	Exception Reported: The input image shape ([200, 200, 1, 20]) and mask shape ([200, 200, 1, 1]) are different, and it was specified that the mask should not be extended, so the mask cannot be applied to the (sub)image. Specifying that the mask should be extended may resolve the issue at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/SubImageFactory.tcc, line: 306
+2025-09-16 14:57:07	INFO	ImageMaskAttacher::makeMask	Created and initialized mask `mask0'
+2025-09-16 14:57:07	WARN	ImageRegridder::_doImagesOverlap	At least one of the images exceeds one degree on at one side, not checking for direction plane overlap.
+2025-09-16 14:57:07	INFO	ImageRegrid::_checkAxes 	The Stokes axis cannot be regridded - removing from list
+2025-09-16 14:57:07	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:57:07	INFO	name::	No table opened.
+2025-09-16 14:57:07	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:57:07	INFO	name::	No table opened.
+2025-09-16 14:57:07	INFO	showcache::	The Table Cache is empty.

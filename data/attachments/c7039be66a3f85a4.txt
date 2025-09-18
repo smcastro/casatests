@@ -1,0 +1,27 @@
+2025-09-17 12:45:21	WARN	tclean::task_tclean::casa	Please consider using specmode=mvc with mosaic gridder as this gridder does not implement conjbeams 
+2025-09-17 12:45:21	WARN	tclean::task_tclean::casa+	 thus it needs a few major cycles to converge towards the correct answer
+2025-09-17 12:45:21	WARN	SynthesisParamsImage::fromRecord (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisUtilMethods.cc, line 2470)	imsize with 420 pixels is not an efficient imagesize. Try 432 instead.
+
+0%....10....20....30....40....50....60....70....80....90....100%
+
+0%....10....20....30....40....50....60....70....80....90....100%
+2025-09-17 12:48:27	WARN	tclean::task_tclean::casa	For specmode='mfs' and deconvolver='mtmfs', the option of pbcor=True divides each restored Taylor coefficient image by the pb.tt0 image. This correction ignores the frequency-dependence of the primary beam and does not correct for PB spectral index. It is scientifically valid only for small fractional bandwidths. For more accurate wideband primary beam correction (if needed), please use one of the following options : (1) specmode='mvc' with gridder='standard' or 'mosaic' with pbcor=True,  (2) conjbeams=True and wbawp=True with gridder='awproject' and pbcor=True.
+2025-09-17 12:48:27	WARN	tclean::task_tclean::casa	Please consider using specmode=mvc with mosaic gridder as this gridder does not implement conjbeams 
+2025-09-17 12:48:27	WARN	tclean::task_tclean::casa+	 thus it needs a few major cycles to converge towards the correct answer
+2025-09-17 12:48:27	WARN	SynthesisParamsImage::fromRecord (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisUtilMethods.cc, line 2470)	imsize with 420 pixels is not an efficient imagesize. Try 432 instead.
+2025-09-17 12:48:32	WARN	SDMaskHandler::autoMaskByMultiThreshold (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SDMaskHandler.cc, line 3069)	No regions found by automasking
+2025-09-17 12:48:32	WARN	SDMaskHandler::autoMaskByMultiThreshold (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SDMaskHandler.cc, line 3069)	Used noise threshold to mask, but no emission was found.Try decreasing your noisethreshold parameter if you want to capture emission in these channels.
+2025-09-17 12:48:32	WARN	SIImageStore::restore (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SIImageStore.cc, line 2345)	Restoring with an empty model image. Only residuals will be processed to form the output restored image.
+2025-09-17 12:48:32	WARN	SIImageStore::restore (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SIImageStore.cc, line 2345)	Restoring with an empty model image. Only residuals will be processed to form the output restored image.
+2025-09-17 12:48:39	WARN	image::commonbeam (file src/tools/image/image_cmpt.cc, line 824)	This image only has one beam, so just returning that
+2025-09-17 12:48:39	WARN	ImageFitter::_finishConstruction	Unrecognized intensity unit . Will assume Jy/pixel
+2025-09-17 12:48:39	WARN	ImageFitter::clearNoiseFWHM	noiseFWHM not specified and image has no beam, using uncorrelated noise expressions to calculate uncertainties
+2025-09-17 12:48:40	WARN	SkyCompRep::convertToJy	Cannot convert units of brightness to Jy - will assume Jy
+2025-09-17 12:48:40	WARN	SkyCompRep::peakToIntegralFlux()	There are no image brightness units, assuming Jy/pixel
+2025-09-17 12:48:40	WARN	SkyCompRep::integralToPeakFlux()	There are no image brightness units, assuming Jy/pixel
+2025-09-17 12:48:40	WARN	ImageFitter::_finishConstruction	Unrecognized intensity unit . Will assume Jy/pixel
+2025-09-17 12:48:40	WARN	SkyCompRep::convertToJy	Cannot convert units of brightness to Jy - will assume Jy
+2025-09-17 12:48:40	WARN	SkyCompRep::peakToIntegralFlux()	There are no image brightness units, assuming Jy/pixel
+2025-09-17 12:48:40	WARN	SkyCompRep::integralToPeakFlux()	There are no image brightness units, assuming Jy/pixel
+2025-09-17 12:48:41	WARN	image::commonbeam (file src/tools/image/image_cmpt.cc, line 824)	This image only has one beam, so just returning that
+2025-09-17 12:48:42	WARN	image::commonbeam (file src/tools/image/image_cmpt.cc, line 824)	This image only has one beam, so just returning that

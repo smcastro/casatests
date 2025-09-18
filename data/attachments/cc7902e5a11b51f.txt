@@ -1,0 +1,762 @@
+2025-09-16 14:56:58	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:58	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:58	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:56:58	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 81
+2025-09-16 14:56:58	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 80
+2025-09-16 14:56:58	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 80
+2025-09-16 14:56:58	INFO	ImageProfileFitterResults::logSummary	Number converged         = 77
+2025-09-16 14:56:58	INFO	ImageProfileFitterResults::logSummary	Number valid             = 77
+2025-09-16 14:56:58	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:56:58	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:56:58	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:58	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:58	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:56:58	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:58	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:58	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:56:58	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:58	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:56:58	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:58	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:58	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:56:58	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:58	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:56:58	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:58	WARN	ImageProfileFitter::_setFitterElements	Only able to estimate parameters for 1 Gaussian singlets. If you really want 2 Gaussian singlets to be fit, you should specify initial parameter estimates for all of them.
+2025-09-16 14:56:58	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 1
+2025-09-16 14:56:58	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 1
+2025-09-16 14:56:58	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 1
+2025-09-16 14:56:58	INFO	ImageProfileFitterResults::logSummary	Number converged         = 1
+2025-09-16 14:56:58	INFO	ImageProfileFitterResults::logSummary	Number valid             = 1
+2025-09-16 14:56:58	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:56:58	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:56:58	INFO	ImageFactory::createImage	Created Paged image 'sigma.im' of shape [9, 9, 100, 1] with float valued pixels.
+2025-09-16 14:56:58	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:58	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:58	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:56:58	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 81
+2025-09-16 14:56:58	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 80
+2025-09-16 14:56:58	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 80
+2025-09-16 14:56:58	INFO	ImageProfileFitterResults::logSummary	Number converged         = 77
+2025-09-16 14:56:58	INFO	ImageProfileFitterResults::logSummary	Number valid             = 77
+2025-09-16 14:56:58	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:56:58	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:56:58	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:58	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:58	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:56:58	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:58	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:58	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:56:58	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:58	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:56:58	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:58	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:58	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:56:58	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:58	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:56:58	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:58	WARN	ImageProfileFitter::_setFitterElements	Only able to estimate parameters for 1 Gaussian singlets. If you really want 2 Gaussian singlets to be fit, you should specify initial parameter estimates for all of them.
+2025-09-16 14:56:58	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 1
+2025-09-16 14:56:58	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 1
+2025-09-16 14:56:58	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 1
+2025-09-16 14:56:58	INFO	ImageProfileFitterResults::logSummary	Number converged         = 1
+2025-09-16 14:56:58	INFO	ImageProfileFitterResults::logSummary	Number valid             = 1
+2025-09-16 14:56:58	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:56:58	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:56:58	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:58	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:58	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 81
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 80
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 80
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number converged         = 80
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number valid             = 80
+2025-09-16 14:56:59	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:56:59	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:56:59	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:59	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:56:59	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:59	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:56:59	WARN	ImageProfileFitter::_setFitterElements	Only able to estimate parameters for 1 Gaussian singlets. If you really want 2 Gaussian singlets to be fit, you should specify initial parameter estimates for all of them.
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 1
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 1
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 1
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number converged         = 1
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number valid             = 1
+2025-09-16 14:56:59	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:56:59	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:56:59	INFO	ImageFactory::createImage	Created Paged image 'sigma.im' of shape [9, 9, 100, 1] with float valued pixels.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 81
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 80
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 80
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number converged         = 80
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number valid             = 80
+2025-09-16 14:56:59	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:56:59	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:56:59	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:59	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:56:59	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:59	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:56:59	WARN	ImageProfileFitter::_setFitterElements	Only able to estimate parameters for 1 Gaussian singlets. If you really want 2 Gaussian singlets to be fit, you should specify initial parameter estimates for all of them.
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 1
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 1
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 1
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number converged         = 1
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number valid             = 1
+2025-09-16 14:56:59	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:56:59	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 81
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 80
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 80
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number converged         = 80
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number valid             = 80
+2025-09-16 14:56:59	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:56:59	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:56:59	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:59	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:56:59	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:59	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:56:59	WARN	ImageProfileFitter::_setFitterElements	Only able to estimate parameters for 1 Gaussian singlets. If you really want 2 Gaussian singlets to be fit, you should specify initial parameter estimates for all of them.
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 1
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 1
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 1
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number converged         = 1
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number valid             = 1
+2025-09-16 14:56:59	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:56:59	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:56:59	INFO	ImageFactory::createImage	Created Paged image 'sigma.im' of shape [9, 9, 100, 1] with float valued pixels.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 81
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 80
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 80
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number converged         = 80
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number valid             = 80
+2025-09-16 14:56:59	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:56:59	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:56:59	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:59	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:56:59	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:59	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:56:59	WARN	ImageProfileFitter::_setFitterElements	Only able to estimate parameters for 1 Gaussian singlets. If you really want 2 Gaussian singlets to be fit, you should specify initial parameter estimates for all of them.
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 1
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 1
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 1
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number converged         = 1
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number valid             = 1
+2025-09-16 14:56:59	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:56:59	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 81
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 80
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 79
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number converged         = 75
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number valid             = 75
+2025-09-16 14:56:59	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:56:59	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:56:59	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:59	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:56:59	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:59	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:56:59	WARN	ImageProfileFitter::_setFitterElements	Only able to estimate parameters for 1 Gaussian singlets. If you really want 2 Gaussian singlets to be fit, you should specify initial parameter estimates for all of them.
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 1
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 1
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 1
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number converged         = 1
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number valid             = 1
+2025-09-16 14:56:59	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:56:59	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:56:59	INFO	ImageFactory::createImage	Created Paged image 'sigma.im' of shape [9, 9, 100, 1] with float valued pixels.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 81
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 80
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 79
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number converged         = 75
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number valid             = 75
+2025-09-16 14:56:59	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:56:59	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:56:59	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:59	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:56:59	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:59	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:56:59	WARN	ImageProfileFitter::_setFitterElements	Only able to estimate parameters for 1 Gaussian singlets. If you really want 2 Gaussian singlets to be fit, you should specify initial parameter estimates for all of them.
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 1
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 1
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 1
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number converged         = 1
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number valid             = 1
+2025-09-16 14:56:59	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:56:59	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 81
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 80
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 80
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number converged         = 77
+2025-09-16 14:56:59	INFO	ImageProfileFitterResults::logSummary	Number valid             = 77
+2025-09-16 14:56:59	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:56:59	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:56:59	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:59	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:59	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:56:59	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:59	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:57:00	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:57:00	WARN	ImageProfileFitter::_setFitterElements	Only able to estimate parameters for 1 Gaussian singlets. If you really want 2 Gaussian singlets to be fit, you should specify initial parameter estimates for all of them.
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 1
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 1
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 1
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number converged         = 1
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number valid             = 1
+2025-09-16 14:57:00	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:57:00	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:57:00	INFO	ImageFactory::createImage	Created Paged image 'sigma.im' of shape [1, 1, 100, 1] with float valued pixels.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 81
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 80
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 80
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number converged         = 77
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number valid             = 77
+2025-09-16 14:57:00	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:57:00	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:57:00	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:00	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:57:00	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:00	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:57:00	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:57:00	WARN	ImageProfileFitter::_setFitterElements	Only able to estimate parameters for 1 Gaussian singlets. If you really want 2 Gaussian singlets to be fit, you should specify initial parameter estimates for all of them.
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 1
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 1
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 1
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number converged         = 1
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number valid             = 1
+2025-09-16 14:57:00	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:57:00	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 81
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 80
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 80
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number converged         = 80
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number valid             = 80
+2025-09-16 14:57:00	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:57:00	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:57:00	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:00	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:57:00	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:00	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:57:00	WARN	ImageProfileFitter::_setFitterElements	Only able to estimate parameters for 1 Gaussian singlets. If you really want 2 Gaussian singlets to be fit, you should specify initial parameter estimates for all of them.
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 1
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 1
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 1
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number converged         = 1
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number valid             = 1
+2025-09-16 14:57:00	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:57:00	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:57:00	INFO	ImageFactory::createImage	Created Paged image 'sigma.im' of shape [1, 1, 100, 1] with float valued pixels.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 81
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 80
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 80
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number converged         = 80
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number valid             = 80
+2025-09-16 14:57:00	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:57:00	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:57:00	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:00	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:57:00	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:00	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:57:00	WARN	ImageProfileFitter::_setFitterElements	Only able to estimate parameters for 1 Gaussian singlets. If you really want 2 Gaussian singlets to be fit, you should specify initial parameter estimates for all of them.
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 1
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 1
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 1
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number converged         = 1
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number valid             = 1
+2025-09-16 14:57:00	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:57:00	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 81
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 80
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 80
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number converged         = 80
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number valid             = 80
+2025-09-16 14:57:00	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:57:00	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:57:00	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:00	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:57:00	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:00	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:57:00	WARN	ImageProfileFitter::_setFitterElements	Only able to estimate parameters for 1 Gaussian singlets. If you really want 2 Gaussian singlets to be fit, you should specify initial parameter estimates for all of them.
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 1
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 1
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 1
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number converged         = 1
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number valid             = 1
+2025-09-16 14:57:00	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:57:00	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:57:00	INFO	ImageFactory::createImage	Created Paged image 'sigma.im' of shape [1, 1, 100, 1] with float valued pixels.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 81
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 80
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 80
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number converged         = 80
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number valid             = 80
+2025-09-16 14:57:00	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:57:00	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:57:00	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:00	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:57:00	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:00	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:57:00	WARN	ImageProfileFitter::_setFitterElements	Only able to estimate parameters for 1 Gaussian singlets. If you really want 2 Gaussian singlets to be fit, you should specify initial parameter estimates for all of them.
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 1
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 1
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 1
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number converged         = 1
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number valid             = 1
+2025-09-16 14:57:00	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:57:00	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 81
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 80
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 79
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number converged         = 75
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number valid             = 75
+2025-09-16 14:57:00	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:57:00	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:57:00	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:00	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:00	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:57:00	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:00	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:57:00	WARN	ImageProfileFitter::_setFitterElements	Only able to estimate parameters for 1 Gaussian singlets. If you really want 2 Gaussian singlets to be fit, you should specify initial parameter estimates for all of them.
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 1
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 1
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 1
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number converged         = 1
+2025-09-16 14:57:00	INFO	ImageProfileFitterResults::logSummary	Number valid             = 1
+2025-09-16 14:57:00	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:57:00	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:57:00	INFO	ImageFactory::createImage	Created Paged image 'sigma.im' of shape [1, 1, 100, 1] with float valued pixels.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 81
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 80
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 79
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number converged         = 75
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number valid             = 75
+2025-09-16 14:57:01	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:57:01	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:57:01	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:01	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:57:01	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:01	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:57:01	WARN	ImageProfileFitter::_setFitterElements	Only able to estimate parameters for 1 Gaussian singlets. If you really want 2 Gaussian singlets to be fit, you should specify initial parameter estimates for all of them.
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 1
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 1
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 1
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number converged         = 1
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number valid             = 1
+2025-09-16 14:57:01	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:57:01	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 81
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 80
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 80
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number converged         = 77
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number valid             = 77
+2025-09-16 14:57:01	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:57:01	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:57:01	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:01	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:57:01	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:01	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:57:01	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:57:01	WARN	ImageProfileFitter::_setFitterElements	Only able to estimate parameters for 1 Gaussian singlets. If you really want 2 Gaussian singlets to be fit, you should specify initial parameter estimates for all of them.
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 1
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 1
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 1
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number converged         = 1
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number valid             = 1
+2025-09-16 14:57:01	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:57:01	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:57:01	INFO	ImageFactory::createImage	Created Paged image 'sigma.im' of shape [100] with float valued pixels.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 81
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 80
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 80
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number converged         = 77
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number valid             = 77
+2025-09-16 14:57:01	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:57:01	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:57:01	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:01	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:57:01	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:01	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:57:01	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:57:01	WARN	ImageProfileFitter::_setFitterElements	Only able to estimate parameters for 1 Gaussian singlets. If you really want 2 Gaussian singlets to be fit, you should specify initial parameter estimates for all of them.
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 1
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 1
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 1
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number converged         = 1
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number valid             = 1
+2025-09-16 14:57:01	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:57:01	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 81
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 80
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 80
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number converged         = 80
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number valid             = 80
+2025-09-16 14:57:01	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:57:01	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:57:01	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:01	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:57:01	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:01	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:57:01	WARN	ImageProfileFitter::_setFitterElements	Only able to estimate parameters for 1 Gaussian singlets. If you really want 2 Gaussian singlets to be fit, you should specify initial parameter estimates for all of them.
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 1
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 1
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 1
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number converged         = 1
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number valid             = 1
+2025-09-16 14:57:01	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:57:01	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:57:01	INFO	ImageFactory::createImage	Created Paged image 'sigma.im' of shape [100] with float valued pixels.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 81
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 80
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 80
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number converged         = 80
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number valid             = 80
+2025-09-16 14:57:01	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:57:01	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:57:01	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:01	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:57:01	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:01	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:57:01	WARN	ImageProfileFitter::_setFitterElements	Only able to estimate parameters for 1 Gaussian singlets. If you really want 2 Gaussian singlets to be fit, you should specify initial parameter estimates for all of them.
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 1
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 1
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 1
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number converged         = 1
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number valid             = 1
+2025-09-16 14:57:01	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:57:01	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:01	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 81
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 80
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 80
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number converged         = 80
+2025-09-16 14:57:01	INFO	ImageProfileFitterResults::logSummary	Number valid             = 80
+2025-09-16 14:57:01	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:57:02	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:57:02	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:02	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:57:02	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:02	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:57:02	WARN	ImageProfileFitter::_setFitterElements	Only able to estimate parameters for 1 Gaussian singlets. If you really want 2 Gaussian singlets to be fit, you should specify initial parameter estimates for all of them.
+2025-09-16 14:57:02	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 1
+2025-09-16 14:57:02	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 1
+2025-09-16 14:57:02	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 1
+2025-09-16 14:57:02	INFO	ImageProfileFitterResults::logSummary	Number converged         = 1
+2025-09-16 14:57:02	INFO	ImageProfileFitterResults::logSummary	Number valid             = 1
+2025-09-16 14:57:02	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:57:02	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:57:02	INFO	ImageFactory::createImage	Created Paged image 'sigma.im' of shape [100] with float valued pixels.
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:57:02	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 81
+2025-09-16 14:57:02	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 80
+2025-09-16 14:57:02	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 80
+2025-09-16 14:57:02	INFO	ImageProfileFitterResults::logSummary	Number converged         = 80
+2025-09-16 14:57:02	INFO	ImageProfileFitterResults::logSummary	Number valid             = 80
+2025-09-16 14:57:02	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:57:02	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:57:02	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:02	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:57:02	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:02	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:57:02	WARN	ImageProfileFitter::_setFitterElements	Only able to estimate parameters for 1 Gaussian singlets. If you really want 2 Gaussian singlets to be fit, you should specify initial parameter estimates for all of them.
+2025-09-16 14:57:02	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 1
+2025-09-16 14:57:02	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 1
+2025-09-16 14:57:02	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 1
+2025-09-16 14:57:02	INFO	ImageProfileFitterResults::logSummary	Number converged         = 1
+2025-09-16 14:57:02	INFO	ImageProfileFitterResults::logSummary	Number valid             = 1
+2025-09-16 14:57:02	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:57:02	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:57:02	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 81
+2025-09-16 14:57:02	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 80
+2025-09-16 14:57:02	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 79
+2025-09-16 14:57:02	INFO	ImageProfileFitterResults::logSummary	Number converged         = 75
+2025-09-16 14:57:02	INFO	ImageProfileFitterResults::logSummary	Number valid             = 75
+2025-09-16 14:57:02	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:57:02	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:57:02	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:02	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:57:02	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:02	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:57:02	WARN	ImageProfileFitter::_setFitterElements	Only able to estimate parameters for 1 Gaussian singlets. If you really want 2 Gaussian singlets to be fit, you should specify initial parameter estimates for all of them.
+2025-09-16 14:57:02	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 1
+2025-09-16 14:57:02	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 1
+2025-09-16 14:57:02	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 1
+2025-09-16 14:57:02	INFO	ImageProfileFitterResults::logSummary	Number converged         = 1
+2025-09-16 14:57:02	INFO	ImageProfileFitterResults::logSummary	Number valid             = 1
+2025-09-16 14:57:02	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:57:02	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:57:02	INFO	ImageFactory::createImage	Created Paged image 'sigma.im' of shape [100] with float valued pixels.
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:57:02	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 81
+2025-09-16 14:57:02	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 80
+2025-09-16 14:57:02	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 79
+2025-09-16 14:57:02	INFO	ImageProfileFitterResults::logSummary	Number converged         = 75
+2025-09-16 14:57:02	INFO	ImageProfileFitterResults::logSummary	Number valid             = 75
+2025-09-16 14:57:02	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:57:02	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:57:02	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:02	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:02	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:57:02	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:02	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:57:02	WARN	ImageProfileFitter::_setFitterElements	Only able to estimate parameters for 1 Gaussian singlets. If you really want 2 Gaussian singlets to be fit, you should specify initial parameter estimates for all of them.
+2025-09-16 14:57:02	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 1
+2025-09-16 14:57:02	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 1
+2025-09-16 14:57:02	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 1
+2025-09-16 14:57:02	INFO	ImageProfileFitterResults::logSummary	Number converged         = 1
+2025-09-16 14:57:02	INFO	ImageProfileFitterResults::logSummary	Number valid             = 1
+2025-09-16 14:57:02	INFO	SubImageFactory::createImage	Creating image 'outsigma.im' of shape [9, 9, 100, 1]
+2025-09-16 14:57:02	INFO		deleted table /scratch/scastro/casa/Tests/reports/outsigma.im

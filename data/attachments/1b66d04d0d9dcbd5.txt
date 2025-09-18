@@ -1,0 +1,4 @@
+2025-09-16 14:56:53	INFO	ImageFactory::createImage	Created Paged image 'CAS5688_1.im' of shape [20, 20, 1, 10] with float valued pixels.
+2025-09-16 14:56:53	INFO	ComponentListImage::_computePointSourcePixelValues	Found 1 of 1 point sources located within the image and cached their pixel coordinates.
+2025-09-16 14:56:53	INFO	ImageFactory::createImage	Created Paged image 'CAS5688_2.im' of shape [20, 20, 1, 10] with float valued pixels.
+2025-09-16 14:56:53	INFO	ComponentListImage::_computePointSourcePixelValues	Found 1 of 1 point sources located within the image and cached their pixel coordinates.

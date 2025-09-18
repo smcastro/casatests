@@ -1,0 +1,85 @@
+2025-09-16 14:56:53	INFO	ImageFactory::createImage	Created Paged image 'source.im' of shape [5, 5, 10, 4] with float valued pixels.
+2025-09-16 14:56:53	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:53	INFO	BeamManipulator::set	This image currently has no beams of any kind. Since channel and/or polarization were specified, a set of per plane beams, each equal to the specified beam, will be created.
+2025-09-16 14:56:53	INFO	BeamManipulator::set	Beam parameters:  Major          : 4 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Minor          : 2 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Position Angle : 0 deg
+2025-09-16 14:56:53	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:53	INFO	BeamManipulator::set	Beam parameters:  Major          : 8 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Minor          : 4 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Position Angle : 0 deg
+2025-09-16 14:56:53	INFO	ImageFactory::createImage	Created Temp image  of shape [10, 10, 10, 4] with float valued pixels.
+2025-09-16 14:56:53	INFO	image::_setrestoringbeam 	Will copy beams from another image to this image
+2025-09-16 14:56:53	INFO	BeamManipulator::set	Set image beam set
+2025-09-16 14:56:53	INFO	image::_setrestoringbeam 	Will copy beams from another image to this image
+2025-09-16 14:56:53	INFO	BeamManipulator::set	Set image beam set
+2025-09-16 14:56:53	INFO	ImageFactory::createImage	Created Temp image  of shape [10, 10, 4, 10] with float valued pixels.
+2025-09-16 14:56:53	INFO	image::_setrestoringbeam 	Will copy beams from another image to this image
+2025-09-16 14:56:53	INFO	BeamManipulator::set	Set image beam set
+2025-09-16 14:56:53	INFO	ImageFactory::createImage	Created Paged image 'source.im' of shape [5, 5, 9, 3] with float valued pixels.
+2025-09-16 14:56:53	SEVERE	image::setrestoringbeam (file src/tools/image/image_cmpt.cc, line 5809)	Exception Reported: Exception: Image source.im has no beam.
+2025-09-16 14:56:53	SEVERE	image::setrestoringbeam (file src/tools/image/image_cmpt.cc, line 5809)+	... thrown by bool casac::image::setrestoringbeam(const casac::variant&, const casac::variant&, const casac::variant&, const casac::record&, bool, bool, long int, long int, const string&) at File: src/tools/image/image_cmpt.cc, line: 5834
+2025-09-16 14:56:53	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:53	INFO	BeamManipulator::set	This image currently has no beams of any kind. Since channel and/or polarization were specified, a set of per plane beams, each equal to the specified beam, will be created.
+2025-09-16 14:56:53	INFO	BeamManipulator::set	Beam parameters:  Major          : 4 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Minor          : 2 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Position Angle : 0 deg
+2025-09-16 14:56:53	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:53	INFO	BeamManipulator::set	Beam parameters:  Major          : 8 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Minor          : 8 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Position Angle : 0 deg
+2025-09-16 14:56:53	INFO	image::_setrestoringbeam 	Will copy beams from another image to this image
+2025-09-16 14:56:53	SEVERE	image::_setrestoringbeam (file src/tools/image/image_cmpt.cc, line 5903)	Exception Reported: Exception: Number of channels is not consistent.
+2025-09-16 14:56:53	SEVERE	image::_setrestoringbeam (file src/tools/image/image_cmpt.cc, line 5903)+	... thrown by void casacore::ImageInfo::checkBeamSet(const casacore::CoordinateSystem&, const casacore::IPosition&, const casacore::String&) const at File: /source/casa6/casatools/casacore/images/Images/ImageInfo.cc, line: 637
+2025-09-16 14:56:53	INFO	ImageFactory::createImage	Created Paged image 'source.im' of shape [5, 5, 4] with float valued pixels.
+2025-09-16 14:56:53	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:53	INFO	BeamManipulator::set	This image currently has no beams of any kind. Since channel and/or polarization were specified, a set of per plane beams, each equal to the specified beam, will be created.
+2025-09-16 14:56:53	INFO	BeamManipulator::set	Beam parameters:  Major          : 4 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Minor          : 2 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Position Angle : 0 deg
+2025-09-16 14:56:53	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:53	INFO	BeamManipulator::set	Beam parameters:  Major          : 8 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Minor          : 4 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Position Angle : 0 deg
+2025-09-16 14:56:53	INFO	image::_setrestoringbeam 	Will copy beams from another image to this image
+2025-09-16 14:56:53	INFO	BeamManipulator::set	Set image beam set
+2025-09-16 14:56:53	SEVERE	CoordinateSystem::getWorldAxesOrder (file /source/casa6/casatools/casacore/coordinates/Coordinates/CoordinateSystem.cc, line 4665)	No axis matches requested axis spectral. Image axis names are [right ascension, declination, stokes]
+2025-09-16 14:56:53	SEVERE	coordsys::findaxisbyname	Error: 2025-09-16 14:56:53	SEVERE	CoordinateSystem::getWorldAxesOrder (file /source/casa6/casatools/casacore/coordinates/Coordinates/CoordinateSystem.cc, line 4665)	No axis matches requested axis spectral. Image axis names are [right ascension, declination, stokes]
+2025-09-16 14:56:53	INFO	ImageFactory::createImage	Created Paged image 'source.im' of shape [5, 5, 4, 1] with float valued pixels.
+2025-09-16 14:56:53	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:53	INFO	BeamManipulator::set	This image currently has no beams of any kind. Since channel and/or polarization were specified, a set of per plane beams, each equal to the specified beam, will be created.
+2025-09-16 14:56:53	INFO	BeamManipulator::set	Beam parameters:  Major          : 4 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Minor          : 2 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Position Angle : 0 deg
+2025-09-16 14:56:53	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:53	INFO	BeamManipulator::set	Beam parameters:  Major          : 8 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Minor          : 4 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Position Angle : 0 deg
+2025-09-16 14:56:53	INFO	image::_setrestoringbeam 	Will copy beams from another image to this image
+2025-09-16 14:56:53	INFO	BeamManipulator::set	Set image beam set
+2025-09-16 14:56:53	INFO	ImageFactory::createImage	Created Paged image 'source.im' of shape [5, 5, 10] with float valued pixels.
+2025-09-16 14:56:53	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:53	INFO	BeamManipulator::set	This image currently has no beams of any kind. Since channel and/or polarization were specified, a set of per plane beams, each equal to the specified beam, will be created.
+2025-09-16 14:56:53	INFO	BeamManipulator::set	Beam parameters:  Major          : 4 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Minor          : 2 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Position Angle : 0 deg
+2025-09-16 14:56:53	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:53	INFO	BeamManipulator::set	Beam parameters:  Major          : 8 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Minor          : 4 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Position Angle : 0 deg
+2025-09-16 14:56:53	INFO	image::_setrestoringbeam 	Will copy beams from another image to this image
+2025-09-16 14:56:53	INFO	BeamManipulator::set	Set image beam set
+2025-09-16 14:56:53	SEVERE	CoordinateSystem::getWorldAxesOrder (file /source/casa6/casatools/casacore/coordinates/Coordinates/CoordinateSystem.cc, line 4665)	No axis matches requested axis stokes. Image axis names are [right ascension, declination, frequency]
+2025-09-16 14:56:53	SEVERE	coordsys::findaxisbyname	Error: 2025-09-16 14:56:53	SEVERE	CoordinateSystem::getWorldAxesOrder (file /source/casa6/casatools/casacore/coordinates/Coordinates/CoordinateSystem.cc, line 4665)	No axis matches requested axis stokes. Image axis names are [right ascension, declination, frequency]
+2025-09-16 14:56:53	INFO	ImageFactory::createImage	Created Paged image 'source.im' of shape [5, 5, 10, 1] with float valued pixels.
+2025-09-16 14:56:53	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:53	INFO	BeamManipulator::set	This image currently has no beams of any kind. Since channel and/or polarization were specified, a set of per plane beams, each equal to the specified beam, will be created.
+2025-09-16 14:56:53	INFO	BeamManipulator::set	Beam parameters:  Major          : 4 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Minor          : 2 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Position Angle : 0 deg
+2025-09-16 14:56:53	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:53	INFO	BeamManipulator::set	Beam parameters:  Major          : 8 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Minor          : 4 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Position Angle : 0 deg
+2025-09-16 14:56:53	INFO	image::_setrestoringbeam 	Will copy beams from another image to this image
+2025-09-16 14:56:53	INFO	BeamManipulator::set	Set image beam set

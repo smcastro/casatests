@@ -1,0 +1,2 @@
+[check_tfmask]  T/F mask name for tst_pcorr0_uspF.image is : ['T'] (Pass : should be ['T']) 
+

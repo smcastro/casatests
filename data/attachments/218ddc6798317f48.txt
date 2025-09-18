@@ -1,0 +1,4 @@
+
+Comparing image statistics of 'simobserve_sky/simobserve_sky.aca.tp.skymodel' with reference 'ref_sky.aca.tp.skymodel'
+Comparing 144 pointings in 'simobserve_sky/simobserve_sky.aca.tp.ptg.txt' with 'ref_sky.aca.tp.ptg.txt'
+Comparing MS statistics of 'simobserve_sky/simobserve_sky.aca.tp.sd.ms' with reference 'ref_sky.aca.tp.sd.ms'

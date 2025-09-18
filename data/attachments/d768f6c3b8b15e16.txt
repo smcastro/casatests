@@ -1,0 +1,21 @@
+2025-09-16 17:27:43	SEVERE	sdtimeaverage::::	Error in QuantumHolder::fromString with input string "Alles": Illegal input units or format
+2025-09-16 17:27:43	SEVERE	sdtimeaverage::::+	 in converting quantity 
+2025-09-16 17:27:43	SEVERE	sdtimeaverage::::	Exception Reported: Error in QuantumHolder::fromString with input string "Alles": Illegal input units or format
+2025-09-16 17:27:43	SEVERE	sdtimeaverage::::+	 in converting quantity
+2025-09-16 17:27:43	SEVERE	sdtimeaverage::::casa	Traceback (most recent call last):
+2025-09-16 17:27:43	SEVERE	sdtimeaverage::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:27:43	SEVERE	sdtimeaverage::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdtimeaverage.py", line 53, in sdtimeaverage
+2025-09-16 17:27:43	SEVERE	sdtimeaverage::::casa+	    tbin = qa.convert(qa.quantity(timebin), 's')['value']
+2025-09-16 17:27:43	SEVERE	sdtimeaverage::::casa+	                      ^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:27:43	SEVERE	sdtimeaverage::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/quanta.py", line 54, in quantity
+2025-09-16 17:27:43	SEVERE	sdtimeaverage::::casa+	    return self._swigobj.quantity(v, unitname, keepshape)
+2025-09-16 17:27:43	SEVERE	sdtimeaverage::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:27:43	SEVERE	sdtimeaverage::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/__casac__/quanta.py", line 255, in quantity
+2025-09-16 17:27:43	SEVERE	sdtimeaverage::::casa+	    return _quanta.quanta_quantity(self, *args, **kwargs)
+2025-09-16 17:27:43	SEVERE	sdtimeaverage::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:27:43	SEVERE	sdtimeaverage::::casa+	RuntimeError: Error in QuantumHolder::fromString with input string "Alles": Illegal input units or format
+2025-09-16 17:27:43	SEVERE	sdtimeaverage::::casa+	 in converting quantity
+2025-09-16 17:27:43	SEVERE	sdtimeaverage::::casa	Error in QuantumHolder::fromString with input string "Alles": Illegal input units or format
+2025-09-16 17:27:43	SEVERE	sdtimeaverage::::casa+	 in converting quantity
+2025-09-16 17:27:43	SEVERE	sdtimeaverage::::casa	Task sdtimeaverage raised an exception of class RuntimeError with the following message: Error in QuantumHolder::fromString with input string "Alles": Illegal input units or format
+2025-09-16 17:27:43	SEVERE	sdtimeaverage::::casa+	 in converting quantity

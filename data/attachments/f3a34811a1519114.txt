@@ -1,0 +1,20 @@
+2025-09-16 14:57:05	INFO	ImageFactory::createImage	Created Paged image 'zz.im' of shape [30, 30, 30] with float valued pixels.
+2025-09-16 14:57:05	INFO	PVGenerator::setEndpoints 	Setting pixel end points [10.0503, 19.9497], [19.9497, 10.0503]
+2025-09-16 14:57:05	INFO	PVGenerator::generate 	Rotating image by 45 degrees about direction coordinate pixel (15, 15) to align specified slice with the x axis
+2025-09-16 14:57:05	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:05	INFO	ImageRegion::fromRecord+	    [0, 0, 0] to [29, 29, 29]  (00:01:00.001, -00.15.00.003, 1.41498e+09Hz to 23:59:03.999, +00.14.00.002, 1.41501e+09Hz)
+2025-09-16 14:57:05	INFO	ImageRegion::fromRecord	Rotating DirectionCoordinate holding axes [0, 1]
+2025-09-16 14:57:05	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:05	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:05	INFO	ImageMaskAttacher::makeMask	Created and initialized mask `mask0'
+2025-09-16 14:57:05	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:57:05	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:05	INFO	ImageRegion::fromRecord+	    [8, 15, 0] to [22, 15, 29]  (00:00:19.799, +00.04.56.985, 1.41498e+09Hz to 23:59:40.201, -00.04.56.985, 1.41501e+09Hz)
+2025-09-16 14:57:05	INFO	ImageCollapser::_doDegenerateAxesCase	All subimage axes to be collapsed are degenerate, using algorithm optimized for that case.
+2025-09-16 14:57:05	INFO	::::ImageFactory::createImage	Created Paged image 'zz.im' of shape [30, 30, 30] with float valued pixels.
+2025-09-16 14:57:05	INFO	::::image::fromshape	Ran ia.fromshape
+2025-09-16 14:57:05	INFO	::::image::fromshape	ia.fromshape(outfile="zz.im", shape=[30,30,30], csys={...}, linear=false, overwrite=false, log=true, type="f")
+2025-09-16 14:57:05	INFO	::::image::pv	Ran ia.pv
+2025-09-16 14:57:05	INFO	::::image::pv	ia.pv(outfile="", start=[], end=[], center=[15,15], length="14arcmin", pa="45deg", width=1, unit="arcsec", overwrite=false, region={...}, chans="", stokes="", mask="", stretch=false, wantreturn=true)
+2025-09-16 14:57:05	INFO	name::	No table opened.
+2025-09-16 14:57:05	INFO	showcache::	The Table Cache is empty.

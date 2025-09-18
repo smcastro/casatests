@@ -1,0 +1,70 @@
+
+check intent on rms
+4.304297370622183
+check intent off rms
+4.304297370622183
+
+check intent on max
+19.147367477416992
+check intent off max
+19.147367477416992
+
+check intent on min
+-15.199692726135254
+check intent off min
+-15.199692726135254
+
+check intent on sum
+35087.679596841335
+check intent off sum
+35087.679596841335
+
+check intent on median
+4.278878211975098
+check intent off median
+4.278878211975098
+
+check intent on stddev
+0.42603291690877887
+check intent off stddev
+0.42603291690877887
+
+check intent on mean
+4.283164013286287
+check intent off mean
+4.283164013286287
+
+check intent on rms
+3.9222649429916068
+check intent off rms
+3.9222649429916068
+
+check intent on max
+5.5116047859191895
+check intent off max
+5.5116047859191895
+
+check intent on min
+2.200864553451538
+check intent off min
+2.200864553451538
+
+check intent on sum
+32089.27730822563
+check intent off sum
+32089.27730822563
+
+check intent on median
+3.910185933113098
+check intent off median
+3.910185933113098
+
+check intent on stddev
+0.2002944658536293
+check intent off stddev
+0.2002944658536293
+
+check intent on mean
+3.91714810891426
+check intent off mean
+3.91714810891426

@@ -1,0 +1,20 @@
+2025-09-16 14:56:52	INFO	ImageFactory::createImage	Created Paged image 'c0_f.im' of shape [4, 4, 5] with float valued pixels.
+2025-09-16 14:56:52	INFO	ImageFactory::createImage	Created Paged image 'c1_f.im' of shape [4, 4, 5] with float valued pixels.
+2025-09-16 14:56:52	INFO	ImageConcatenator::ImageConcatenator 	Number of images to concatenate = 2
+2025-09-16 14:56:52	WARN	ImageConcat::setImage (file /source/casainstall/include/casacore/images/Images/ImageConcat.tcc, line 288)	Images are not contiguous along the concatenation axis For this axis, a non-regular Spectral coordinate will be made
+2025-09-16 14:56:52	WARN	ImageConcat::setCoordinates (file /source/casainstall/include/casacore/images/Images/ImageConcat.tcc, line 680)	Could not create Coordinate because TabularCoordinate - pixel and world values must increase or decrease monotonically CoordinateSystem set to that of first image instead
+2025-09-16 14:56:52	INFO	ImageFactory::createImage	Created Paged image 'c0_c.im' of shape [4, 4, 5] with Complex valued pixels.
+2025-09-16 14:56:52	INFO	ImageFactory::createImage	Created Paged image 'c1_c.im' of shape [4, 4, 5] with Complex valued pixels.
+2025-09-16 14:56:52	INFO	ImageConcatenator::ImageConcatenator 	Number of images to concatenate = 2
+2025-09-16 14:56:52	WARN	ImageConcat::setImage (file /source/casainstall/include/casacore/images/Images/ImageConcat.tcc, line 288)	Images are not contiguous along the concatenation axis For this axis, a non-regular Spectral coordinate will be made
+2025-09-16 14:56:52	WARN	ImageConcat::setCoordinates (file /source/casainstall/include/casacore/images/Images/ImageConcat.tcc, line 680)	Could not create Coordinate because TabularCoordinate - pixel and world values must increase or decrease monotonically CoordinateSystem set to that of first image instead
+2025-09-16 14:56:52	INFO	ImageFactory::createImage	Created Paged image 'c0_d.im' of shape [4, 4, 5] with double valued pixels.
+2025-09-16 14:56:52	INFO	ImageFactory::createImage	Created Paged image 'c1_d.im' of shape [4, 4, 5] with double valued pixels.
+2025-09-16 14:56:52	INFO	ImageConcatenator::ImageConcatenator 	Number of images to concatenate = 2
+2025-09-16 14:56:52	WARN	ImageConcat::setImage (file /source/casainstall/include/casacore/images/Images/ImageConcat.tcc, line 288)	Images are not contiguous along the concatenation axis For this axis, a non-regular Spectral coordinate will be made
+2025-09-16 14:56:52	WARN	ImageConcat::setCoordinates (file /source/casainstall/include/casacore/images/Images/ImageConcat.tcc, line 680)	Could not create Coordinate because TabularCoordinate - pixel and world values must increase or decrease monotonically CoordinateSystem set to that of first image instead
+2025-09-16 14:56:52	INFO	ImageFactory::createImage	Created Paged image 'c0_cd.im' of shape [4, 4, 5] with DComplex valued pixels.
+2025-09-16 14:56:52	INFO	ImageFactory::createImage	Created Paged image 'c1_cd.im' of shape [4, 4, 5] with DComplex valued pixels.
+2025-09-16 14:56:52	INFO	ImageConcatenator::ImageConcatenator 	Number of images to concatenate = 2
+2025-09-16 14:56:52	WARN	ImageConcat::setImage (file /source/casainstall/include/casacore/images/Images/ImageConcat.tcc, line 288)	Images are not contiguous along the concatenation axis For this axis, a non-regular Spectral coordinate will be made
+2025-09-16 14:56:52	WARN	ImageConcat::setCoordinates (file /source/casainstall/include/casacore/images/Images/ImageConcat.tcc, line 680)	Could not create Coordinate because TabularCoordinate - pixel and world values must increase or decrease monotonically CoordinateSystem set to that of first image instead

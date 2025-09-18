@@ -1,0 +1,96 @@
+2025-09-17 15:16:15	WARN	sdcal::calibrater::setvi(bool,bool)	Already using OLD VisibilityIterator.
+2025-09-17 15:17:17	WARN	sdcal::calibrater::setvi(bool,bool)	Already using OLD VisibilityIterator.
+2025-09-17 15:17:49	WARN	sdcal::calibrater::setvi(bool,bool)	Already using OLD VisibilityIterator.
+2025-09-17 15:18:59	WARN	sdcal::CTPatchedInterp::interpolate	In caltable __sdcal_composite_mode_ps_058.tab (SDSKY_PS):
+2025-09-17 15:18:59	WARN	sdcal::CTPatchedInterp::interpolate+	 Insufficient solution channel sampling (nchan=1) for frequency-dependent LINEAR interpolation 
+2025-09-17 15:18:59	WARN	sdcal::CTPatchedInterp::interpolate+	 of calibration for MS spw=4; using NEAREST instead.
+2025-09-17 15:18:59	WARN	sdcal::CTPatchedInterp::interpolate	In caltable __sdcal_composite_mode_tsys_017.tab (B TSYS):
+2025-09-17 15:18:59	WARN	sdcal::CTPatchedInterp::interpolate+	 Insufficient solution channel sampling (nchan=1) for frequency-dependent LINEAR interpolation 
+2025-09-17 15:18:59	WARN	sdcal::CTPatchedInterp::interpolate+	 of calibration for MS spw=4; using NEAREST instead.
+2025-09-17 15:19:01	WARN	sdcal::CTPatchedInterp::interpolate	In caltable __sdcal_composite_mode_ps_058.tab (SDSKY_PS):
+2025-09-17 15:19:01	WARN	sdcal::CTPatchedInterp::interpolate+	 Insufficient solution channel sampling (nchan=1) for frequency-dependent LINEAR interpolation 
+2025-09-17 15:19:01	WARN	sdcal::CTPatchedInterp::interpolate+	 of calibration for MS spw=5; using NEAREST instead.
+2025-09-17 15:19:01	WARN	sdcal::CTPatchedInterp::interpolate	In caltable __sdcal_composite_mode_tsys_017.tab (B TSYS):
+2025-09-17 15:19:01	WARN	sdcal::CTPatchedInterp::interpolate+	 Insufficient solution channel sampling (nchan=1) for frequency-dependent LINEAR interpolation 
+2025-09-17 15:19:01	WARN	sdcal::CTPatchedInterp::interpolate+	 of calibration for MS spw=5; using NEAREST instead.
+2025-09-17 15:19:03	WARN	sdcal::CTPatchedInterp::interpolate	In caltable __sdcal_composite_mode_ps_058.tab (SDSKY_PS):
+2025-09-17 15:19:03	WARN	sdcal::CTPatchedInterp::interpolate+	 Insufficient solution channel sampling (nchan=1) for frequency-dependent LINEAR interpolation 
+2025-09-17 15:19:03	WARN	sdcal::CTPatchedInterp::interpolate+	 of calibration for MS spw=6; using NEAREST instead.
+2025-09-17 15:19:03	WARN	sdcal::CTPatchedInterp::interpolate	In caltable __sdcal_composite_mode_tsys_017.tab (B TSYS):
+2025-09-17 15:19:03	WARN	sdcal::CTPatchedInterp::interpolate+	 Insufficient solution channel sampling (nchan=1) for frequency-dependent LINEAR interpolation 
+2025-09-17 15:19:03	WARN	sdcal::CTPatchedInterp::interpolate+	 of calibration for MS spw=6; using NEAREST instead.
+2025-09-17 15:19:05	WARN	sdcal::CTPatchedInterp::interpolate	In caltable __sdcal_composite_mode_ps_058.tab (SDSKY_PS):
+2025-09-17 15:19:05	WARN	sdcal::CTPatchedInterp::interpolate+	 Insufficient solution channel sampling (nchan=1) for frequency-dependent LINEAR interpolation 
+2025-09-17 15:19:05	WARN	sdcal::CTPatchedInterp::interpolate+	 of calibration for MS spw=7; using NEAREST instead.
+2025-09-17 15:19:05	WARN	sdcal::CTPatchedInterp::interpolate	In caltable __sdcal_composite_mode_tsys_017.tab (B TSYS):
+2025-09-17 15:19:05	WARN	sdcal::CTPatchedInterp::interpolate+	 Insufficient solution channel sampling (nchan=1) for frequency-dependent LINEAR interpolation 
+2025-09-17 15:19:05	WARN	sdcal::CTPatchedInterp::interpolate+	 of calibration for MS spw=7; using NEAREST instead.
+2025-09-17 15:49:01	WARN	tsdimaging::SynthesisParamsImage::buildCoordinateSystem (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisUtilMethods.cc, line 2849)	No rest frequency info, using the center of the selected spw(s):9.49165e+10 Hz. Velocity labelling may not be correct.
+
+0%....10....20....30....40....50....60....70....80....90....100%
+2025-09-17 15:51:33	WARN	tsdimaging::set_beam_size::casa	Invalid sampling=0.0 arcsec. Using the value of orthogonal direction=2.5863890306453525 arcsec
+2025-09-17 15:51:34	WARN	tsdimaging::_handle_image_params::casa	imsize is not integers. force converting to integer pixel numbers.
+2025-09-17 15:51:54	WARN	tsdimaging::SynthesisParamsImage::buildCoordinateSystem (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisUtilMethods.cc, line 2849)	No rest frequency info, using the center of the selected spw(s):9.49165e+10 Hz. Velocity labelling may not be correct.
+
+0%....10....20....30....40....50....60....70....80....90....100%
+2025-09-17 15:52:38	WARN	tsdimaging::set_beam_size::casa	Invalid sampling=0.0 arcsec. Using the value of orthogonal direction=1.4286019423662644 arcsec
+2025-09-17 15:52:39	WARN	tsdimaging::_handle_image_params::casa	imsize is not integers. force converting to integer pixel numbers.
+2025-09-17 15:52:59	WARN	tsdimaging::SynthesisParamsImage::buildCoordinateSystem (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisUtilMethods.cc, line 2849)	No rest frequency info, using the center of the selected spw(s):9.49165e+10 Hz. Velocity labelling may not be correct.
+
+0%....10....20....30....40....50....60....70....80....90....100%
+2025-09-17 15:53:43	WARN	tsdimaging::set_beam_size::casa	Invalid sampling=0.0 arcsec. Using the value of orthogonal direction=1.428298566449477 arcsec
+2025-09-17 15:53:44	WARN	tsdimaging::_handle_image_params::casa	imsize is not integers. force converting to integer pixel numbers.
+2025-09-17 15:54:06	WARN	tsdimaging::SynthesisParamsImage::buildCoordinateSystem (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisUtilMethods.cc, line 2849)	No rest frequency info, using the center of the selected spw(s):9.49165e+10 Hz. Velocity labelling may not be correct.
+
+0%....10....20....30....40....50....60....70....80....90....100%
+2025-09-17 15:54:51	WARN	tsdimaging::set_beam_size::casa	Invalid sampling=0.0 arcsec. Using the value of orthogonal direction=1.4287759445335875 arcsec
+2025-09-17 15:54:51	WARN	tsdimaging::_handle_image_params::casa	imsize is not integers. force converting to integer pixel numbers.
+2025-09-17 15:55:13	WARN	tsdimaging::SynthesisParamsImage::buildCoordinateSystem (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisUtilMethods.cc, line 2849)	No rest frequency info, using the center of the selected spw(s):9.49165e+10 Hz. Velocity labelling may not be correct.
+
+0%....10....20....30....40....50....60....70....80....90....100%
+2025-09-17 15:55:57	WARN	tsdimaging::set_beam_size::casa	Invalid sampling=0.0 arcsec. Using the value of orthogonal direction=1.4277506389073722 arcsec
+2025-09-17 15:55:57	WARN	tsdimaging::_handle_image_params::casa	imsize is not integers. force converting to integer pixel numbers.
+2025-09-17 15:56:18	WARN	tsdimaging::SynthesisParamsImage::buildCoordinateSystem (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisUtilMethods.cc, line 2849)	No rest frequency info, using the center of the selected spw(s):9.49165e+10 Hz. Velocity labelling may not be correct.
+
+0%....10....20....30....40....50....60....70....80....90....100%
+2025-09-17 15:57:03	WARN	tsdimaging::set_beam_size::casa	Invalid sampling=0.0 arcsec. Using the value of orthogonal direction=1.4281530269145088 arcsec
+2025-09-17 15:57:04	WARN	tsdimaging::_handle_image_params::casa	imsize is not integers. force converting to integer pixel numbers.
+2025-09-17 15:57:25	WARN	tsdimaging::SynthesisParamsImage::buildCoordinateSystem (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisUtilMethods.cc, line 2849)	No rest frequency info, using the center of the selected spw(s):9.49165e+10 Hz. Velocity labelling may not be correct.
+
+0%....10....20....30....40....50....60....70....80....90....100%
+2025-09-17 15:58:09	WARN	tsdimaging::set_beam_size::casa	Invalid sampling=0.0 arcsec. Using the value of orthogonal direction=1.4287074391688301 arcsec
+2025-09-17 15:58:15	WARN	tsdimaging::_handle_image_params::casa	imsize is not integers. force converting to integer pixel numbers.
+2025-09-17 15:58:35	WARN	tsdimaging::SynthesisParamsImage::buildCoordinateSystem (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisUtilMethods.cc, line 2849)	No rest frequency info, using the center of the selected spw(s):9.49165e+10 Hz. Velocity labelling may not be correct.
+
+0%....10....20....30....40....50....60....70....80....90....100%
+2025-09-17 15:59:19	WARN	tsdimaging::set_beam_size::casa	Invalid sampling=0.0 arcsec. Using the value of orthogonal direction=1.4287339640337122 arcsec
+2025-09-17 15:59:20	WARN	tsdimaging::_handle_image_params::casa	imsize is not integers. force converting to integer pixel numbers.
+2025-09-17 15:59:40	WARN	tsdimaging::SynthesisParamsImage::buildCoordinateSystem (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisUtilMethods.cc, line 2849)	No rest frequency info, using the center of the selected spw(s):9.49165e+10 Hz. Velocity labelling may not be correct.
+
+0%....10....20....30....40....50....60....70....80....90....100%
+2025-09-17 16:00:24	WARN	tsdimaging::set_beam_size::casa	Invalid sampling=0.0 arcsec. Using the value of orthogonal direction=1.4289973065806825 arcsec
+2025-09-17 16:00:25	WARN	tsdimaging::_handle_image_params::casa	imsize is not integers. force converting to integer pixel numbers.
+2025-09-17 16:00:45	WARN	tsdimaging::SynthesisParamsImage::buildCoordinateSystem (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisUtilMethods.cc, line 2849)	No rest frequency info, using the center of the selected spw(s):9.49165e+10 Hz. Velocity labelling may not be correct.
+
+0%....10....20....30....40....50....60....70....80....90....100%
+2025-09-17 16:01:29	WARN	tsdimaging::set_beam_size::casa	Invalid sampling=0.0 arcsec. Using the value of orthogonal direction=1.4288347498669463 arcsec
+2025-09-17 16:01:35	WARN	tsdimaging::_handle_image_params::casa	imsize is not integers. force converting to integer pixel numbers.
+2025-09-17 16:01:55	WARN	tsdimaging::SynthesisParamsImage::buildCoordinateSystem (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisUtilMethods.cc, line 2849)	No rest frequency info, using the center of the selected spw(s):9.49165e+10 Hz. Velocity labelling may not be correct.
+
+0%....10....20....30....40....50....60....70....80....90....100%
+2025-09-17 16:02:40	WARN	tsdimaging::set_beam_size::casa	Invalid sampling=0.0 arcsec. Using the value of orthogonal direction=1.4281674135409892 arcsec
+2025-09-17 16:02:46	WARN	tsdimaging::_handle_image_params::casa	imsize is not integers. force converting to integer pixel numbers.
+2025-09-17 16:03:06	WARN	tsdimaging::SynthesisParamsImage::buildCoordinateSystem (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisUtilMethods.cc, line 2849)	No rest frequency info, using the center of the selected spw(s):9.49165e+10 Hz. Velocity labelling may not be correct.
+
+0%....10....20....30....40....50....60....70....80....90....100%
+2025-09-17 16:03:50	WARN	tsdimaging::set_beam_size::casa	Invalid sampling=0.0 arcsec. Using the value of orthogonal direction=1.427626602186876 arcsec
+2025-09-17 16:04:48	WARN	tsdimaging::_handle_image_params::casa	imsize is not integers. force converting to integer pixel numbers.
+2025-09-17 16:05:08	WARN	tsdimaging::SynthesisParamsImage::buildCoordinateSystem (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisUtilMethods.cc, line 2849)	No rest frequency info, using the center of the selected spw(s):9.49165e+10 Hz. Velocity labelling may not be correct.
+
+0%....10....20....30....40....50....60....70....80....90....100%
+2025-09-17 16:05:52	WARN	tsdimaging::set_beam_size::casa	Invalid sampling=0.0 arcsec. Using the value of orthogonal direction=1.4283512149958555 arcsec
+2025-09-17 16:06:02	WARN	tsdimaging::_handle_image_params::casa	imsize is not integers. force converting to integer pixel numbers.
+2025-09-17 16:06:21	WARN	tsdimaging::SynthesisParamsImage::buildCoordinateSystem (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisUtilMethods.cc, line 2849)	No rest frequency info, using the center of the selected spw(s):9.49165e+10 Hz. Velocity labelling may not be correct.
+
+0%....10....20....30....40....50....60....70....80....90....100%
+2025-09-17 16:07:03	WARN	tsdimaging::set_beam_size::casa	Invalid sampling=0.0 arcsec. Using the value of orthogonal direction=1.4283313708728893 arcsec

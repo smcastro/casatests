@@ -1,0 +1,5 @@
+MS is already around, no need to copy it.
+*** Check that MODEL_DATA is not present in MS first
+*** Expected exception. "Table ngc4826.ms/MODEL_DATA does not exist"
+Check the SOURCE_MODEL columns....
+*** Expected exception. "Table ngc4826.mms/MODEL_DATA does not exist"

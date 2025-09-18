@@ -1,0 +1,2 @@
+line blfunc:cspline dirkernel:gaussian spkernel:boxcar, chans:chanB, 3.5762786865234375e-07, -4.76837158203125e-07, -1.581720425747335e-08, 0.0
+cont blfunc:cspline dirkernel:gaussian spkernel:boxcar, chans:chanB, 2.000000476837158, 0.0, 1.3000000158172043, 2.0

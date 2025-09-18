@@ -1,0 +1,25 @@
+2025-09-16 14:55:39	INFO	calibrater::open	****Using NEW VI2-driven calibrater tool****
+2025-09-16 14:55:39	INFO	calibrater::open	Opening MS: gaincaltest2.ms for calibration.
+2025-09-16 14:55:39	INFO		Clearing all model records in MS header.
+2025-09-16 14:55:39	INFO	VisSetUtil::addScrCols	Adding MODEL_DATA and CORRECTED_DATA column(s).
+2025-09-16 14:55:40	INFO	VisSetUtil::initScrCols	Initializing MODEL_DATA to (unity).
+2025-09-16 14:55:41	INFO	VisSetUtil::initScrCols	Initialized 328860 rows.
+2025-09-16 14:55:41	INFO	Calibrater::	Initializing nominal selection to the whole MS.
+2025-09-16 14:55:41	INFO	calibrater::setapply	Beginning setapply--(MSSelection version)-------
+2025-09-16 14:55:41	INFO	Calibrater::setapply(type, applypar)	Arranging to APPLY:
+2025-09-16 14:55:41	INFO	Calibrater::setapply(type, applypar)	.   G Jones: table=gaincaltest2.ms.G0 select= interp=linear spwmap=[-1] calWt=false
+2025-09-16 14:55:41	INFO	calibrater::setsolve	Beginning setsolve--(MSSelection version)-------
+2025-09-16 14:55:41	INFO	Calibrater::setsolve	Arranging to SOLVE:
+2025-09-16 14:55:41	INFO	Calibrater::setsolve	.   Mf Mueller: table=gaincaltest2.ms.G0 append=false solint=inf,none refantmode='flex' refant='none' minsnr=0 apmode=AP solnorm=false
+2025-09-16 14:55:41	INFO	calibrater::reset	Reseting solve/apply state
+2025-09-16 14:55:41	INFO	calibrater::solve	Beginning solve-----------------------------
+2025-09-16 14:55:41	SEVERE	Calibrater::solve	Caught exception: Please run setsolve before attempting to solve.
+2025-09-16 14:55:41	INFO	Calibrater::solve	Reseting entire solve/apply state.
+2025-09-16 14:55:41	SEVERE		Exception Reported: Error in Calibrater::solve.
+2025-09-16 14:55:41	INFO	calibrater::correct	Beginning correct---------------------------
+2025-09-16 14:55:41	INFO	Calibrater::correct2 (VI2/VB2)	The following calibration terms are arranged for apply:
+2025-09-16 14:55:41	INFO	Calibrater::correct2 (VI2/VB2)	.   (None)
+2025-09-16 14:55:41	SEVERE	Calibrater::correct2 (VI2/VB2)	Caught exception: Nothing to Apply
+2025-09-16 14:55:41	INFO	Calibrater::correct2 (VI2/VB2)	Resetting all calibration application settings.
+2025-09-16 14:55:41	SEVERE		Exception Reported: Error in Calibrater::correct.
+2025-09-16 14:55:41	WARN	calibrater::setvi(bool,bool)	Already using NEW VisibilityIterator.

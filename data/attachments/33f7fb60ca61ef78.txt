@@ -1,0 +1,3 @@
+ :  frequency, start(quanity)={'unit': 'GHz', 'value': 1.2}, default width, veltype=radio LSRK
+/casadata/repository/casatestdata/unittest/deconvolve/
+refim_point

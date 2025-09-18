@@ -1,0 +1,5 @@
+importfitsidi-unit-test : Success! Now checking output ...
+importfitsidi-unit-test : Incorrect MEASINFO
+importfitsidi-unit-test : Incorrect MEASINFO
+importfitsidi-unit-test : Incorrect MEASINFO
+importfitsidi-unit-test : Incorrect RADESYS

@@ -1,0 +1,3 @@
+ :  velocity, default start, width(quantity)={'unit': 'km/s', 'value': 11991.7}
+/casadata/repository/casatestdata/unittest/deconvolve/
+refim_point

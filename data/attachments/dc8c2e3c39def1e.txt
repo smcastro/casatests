@@ -1,0 +1,16 @@
+2025-09-16 14:56:37	INFO	ImageFactory::createImage	Created Paged image 'maskim' of shape [200, 200, 1, 1] with float valued pixels.
+2025-09-16 14:56:37	INFO	ImageFactory::createImage	Created Temp image  of shape [200, 200, 1, 20] with float valued pixels.
+2025-09-16 14:56:37	SEVERE	image::boxcar	Exception Reported: The input image shape ([200, 200, 1, 20]) and mask shape ([200, 200, 1, 1]) are different, and it was specified that the mask should not be extended, so the mask cannot be applied to the (sub)image. Specifying that the mask should be extended may resolve the issue at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/SubImageFactory.tcc, line: 306
+2025-09-16 14:56:37	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:37	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:37	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:56:37	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:37	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:37	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:56:37	INFO	ImageBoxcarSmoother::smooth	Original Temporary_Image size => [200, 200, 1, 20]
+2025-09-16 14:56:37	INFO	ImageBoxcarSmoother::smooth	New  size => [200, 200, 1, 10]
+2025-09-16 14:56:37	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:37	INFO	name::	No table opened.
+2025-09-16 14:56:37	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:56:37	INFO	name::	No table opened.
+2025-09-16 14:56:37	INFO	name::	No table opened.

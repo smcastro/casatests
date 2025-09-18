@@ -1,0 +1,82 @@
+2025-09-16 16:34:24	WARN	ParallelDataHelper::getPartitionMap::casa	Number of subMSs (8) is greater than available scan,ddi pairs (7), setting nsubms to 7
+2025-09-16 16:34:26	SEVERE	Calibrater::	Caltable mstransform_reference/ngc5921.bcal is missing the following fields: scan scanmap 
+2025-09-16 16:34:26	SEVERE	Calibrater::	Caltable mstransform_reference/ngc5921.fluxscale is missing the following fields: scan scanmap 
+2025-09-16 16:34:26	SEVERE	Calibrater::	Caltable mstransform_reference/ngc5921.gcal is missing the following fields: scan scanmap 
+2025-09-16 16:34:26	SEVERE	Calibrater::	Caltable mstransform_reference/ngc5921.gcal is missing the following fields: scan scanmap 
+2025-09-16 16:34:26	WARN		.   The following callib entry matches no data
+2025-09-16 16:34:26	WARN	+	.   in the selected MS (ngc5921.mms.0000.ms) and will be ignored:
+2025-09-16 16:34:26	WARN	+	.   0:
+2025-09-16 16:34:26	WARN	+	     MS: obs= scan= fld=0 intent= spw=
+2025-09-16 16:34:26	WARN	+	     CT: tinterp=nearest finterp=
+2025-09-16 16:34:26	WARN	+	         obsmap=[]         scanmap=[]         fldmap=[0]
+2025-09-16 16:34:26	WARN	+	         spwmap=[]         antmap=[]
+2025-09-16 16:34:27	SEVERE	Calibrater::	Caltable mstransform_reference/ngc5921.bcal is missing the following fields: scan scanmap 
+2025-09-16 16:34:27	SEVERE	Calibrater::	Caltable mstransform_reference/ngc5921.fluxscale is missing the following fields: scan scanmap 
+2025-09-16 16:34:27	SEVERE	Calibrater::	Caltable mstransform_reference/ngc5921.gcal is missing the following fields: scan scanmap 
+2025-09-16 16:34:27	SEVERE	Calibrater::	Caltable mstransform_reference/ngc5921.gcal is missing the following fields: scan scanmap 
+2025-09-16 16:34:27	WARN		.   The following callib entry matches no data
+2025-09-16 16:34:27	WARN	+	.   in the selected MS (ngc5921.mms.0001.ms) and will be ignored:
+2025-09-16 16:34:27	WARN	+	.   0:
+2025-09-16 16:34:27	WARN	+	     MS: obs= scan= fld=0 intent= spw=
+2025-09-16 16:34:27	WARN	+	     CT: tinterp=nearest finterp=
+2025-09-16 16:34:27	WARN	+	         obsmap=[]         scanmap=[]         fldmap=[0]
+2025-09-16 16:34:27	WARN	+	         spwmap=[]         antmap=[]
+2025-09-16 16:34:27	SEVERE	Calibrater::	Caltable mstransform_reference/ngc5921.bcal is missing the following fields: scan scanmap 
+2025-09-16 16:34:27	SEVERE	Calibrater::	Caltable mstransform_reference/ngc5921.fluxscale is missing the following fields: scan scanmap 
+2025-09-16 16:34:27	SEVERE	Calibrater::	Caltable mstransform_reference/ngc5921.gcal is missing the following fields: scan scanmap 
+2025-09-16 16:34:27	SEVERE	Calibrater::	Caltable mstransform_reference/ngc5921.gcal is missing the following fields: scan scanmap 
+2025-09-16 16:34:27	WARN		.   The following callib entry matches no data
+2025-09-16 16:34:27	WARN	+	.   in the selected MS (ngc5921.mms.0002.ms) and will be ignored:
+2025-09-16 16:34:27	WARN	+	.   1:
+2025-09-16 16:34:27	WARN	+	     MS: obs= scan= fld=1,2 intent= spw=
+2025-09-16 16:34:27	WARN	+	     CT: tinterp=linear finterp=
+2025-09-16 16:34:27	WARN	+	         obsmap=[]         scanmap=[]         fldmap=[1, 1, 1]
+2025-09-16 16:34:27	WARN	+	         spwmap=[]         antmap=[]
+2025-09-16 16:34:27	SEVERE	Calibrater::	Caltable mstransform_reference/ngc5921.bcal is missing the following fields: scan scanmap 
+2025-09-16 16:34:27	SEVERE	Calibrater::	Caltable mstransform_reference/ngc5921.fluxscale is missing the following fields: scan scanmap 
+2025-09-16 16:34:27	SEVERE	Calibrater::	Caltable mstransform_reference/ngc5921.gcal is missing the following fields: scan scanmap 
+2025-09-16 16:34:27	SEVERE	Calibrater::	Caltable mstransform_reference/ngc5921.gcal is missing the following fields: scan scanmap 
+2025-09-16 16:34:28	WARN		.   The following callib entry matches no data
+2025-09-16 16:34:28	WARN	+	.   in the selected MS (ngc5921.mms.0003.ms) and will be ignored:
+2025-09-16 16:34:28	WARN	+	.   0:
+2025-09-16 16:34:28	WARN	+	     MS: obs= scan= fld=0 intent= spw=
+2025-09-16 16:34:28	WARN	+	     CT: tinterp=nearest finterp=
+2025-09-16 16:34:28	WARN	+	         obsmap=[]         scanmap=[]         fldmap=[0]
+2025-09-16 16:34:28	WARN	+	         spwmap=[]         antmap=[]
+2025-09-16 16:34:28	SEVERE	Calibrater::	Caltable mstransform_reference/ngc5921.bcal is missing the following fields: scan scanmap 
+2025-09-16 16:34:28	SEVERE	Calibrater::	Caltable mstransform_reference/ngc5921.fluxscale is missing the following fields: scan scanmap 
+2025-09-16 16:34:28	SEVERE	Calibrater::	Caltable mstransform_reference/ngc5921.gcal is missing the following fields: scan scanmap 
+2025-09-16 16:34:28	SEVERE	Calibrater::	Caltable mstransform_reference/ngc5921.gcal is missing the following fields: scan scanmap 
+2025-09-16 16:34:28	WARN		.   The following callib entry matches no data
+2025-09-16 16:34:28	WARN	+	.   in the selected MS (ngc5921.mms.0004.ms) and will be ignored:
+2025-09-16 16:34:28	WARN	+	.   0:
+2025-09-16 16:34:28	WARN	+	     MS: obs= scan= fld=0 intent= spw=
+2025-09-16 16:34:28	WARN	+	     CT: tinterp=nearest finterp=
+2025-09-16 16:34:28	WARN	+	         obsmap=[]         scanmap=[]         fldmap=[0]
+2025-09-16 16:34:28	WARN	+	         spwmap=[]         antmap=[]
+2025-09-16 16:34:28	SEVERE	Calibrater::	Caltable mstransform_reference/ngc5921.bcal is missing the following fields: scan scanmap 
+2025-09-16 16:34:28	SEVERE	Calibrater::	Caltable mstransform_reference/ngc5921.fluxscale is missing the following fields: scan scanmap 
+2025-09-16 16:34:28	SEVERE	Calibrater::	Caltable mstransform_reference/ngc5921.gcal is missing the following fields: scan scanmap 
+2025-09-16 16:34:28	SEVERE	Calibrater::	Caltable mstransform_reference/ngc5921.gcal is missing the following fields: scan scanmap 
+2025-09-16 16:34:28	WARN		.   The following callib entry matches no data
+2025-09-16 16:34:28	WARN	+	.   in the selected MS (ngc5921.mms.0005.ms) and will be ignored:
+2025-09-16 16:34:28	WARN	+	.   0:
+2025-09-16 16:34:28	WARN	+	     MS: obs= scan= fld=0 intent= spw=
+2025-09-16 16:34:28	WARN	+	     CT: tinterp=nearest finterp=
+2025-09-16 16:34:28	WARN	+	         obsmap=[]         scanmap=[]         fldmap=[0]
+2025-09-16 16:34:28	WARN	+	         spwmap=[]         antmap=[]
+2025-09-16 16:34:28	SEVERE	Calibrater::	Caltable mstransform_reference/ngc5921.bcal is missing the following fields: scan scanmap 
+2025-09-16 16:34:28	SEVERE	Calibrater::	Caltable mstransform_reference/ngc5921.fluxscale is missing the following fields: scan scanmap 
+2025-09-16 16:34:28	SEVERE	Calibrater::	Caltable mstransform_reference/ngc5921.gcal is missing the following fields: scan scanmap 
+2025-09-16 16:34:28	SEVERE	Calibrater::	Caltable mstransform_reference/ngc5921.gcal is missing the following fields: scan scanmap 
+2025-09-16 16:34:28	WARN		.   The following callib entry matches no data
+2025-09-16 16:34:28	WARN	+	.   in the selected MS (ngc5921.mms.0006.ms) and will be ignored:
+2025-09-16 16:34:28	WARN	+	.   0:
+2025-09-16 16:34:28	WARN	+	     MS: obs= scan= fld=0 intent= spw=
+2025-09-16 16:34:28	WARN	+	     CT: tinterp=nearest finterp=
+2025-09-16 16:34:28	WARN	+	         obsmap=[]         scanmap=[]         fldmap=[0]
+2025-09-16 16:34:28	WARN	+	         spwmap=[]         antmap=[]
+2025-09-16 16:34:29	SEVERE	Calibrater::	Caltable mstransform_reference/ngc5921.bcal is missing the following fields: scan scanmap 
+2025-09-16 16:34:29	SEVERE	Calibrater::	Caltable mstransform_reference/ngc5921.fluxscale is missing the following fields: scan scanmap 
+2025-09-16 16:34:29	SEVERE	Calibrater::	Caltable mstransform_reference/ngc5921.gcal is missing the following fields: scan scanmap 
+2025-09-16 16:34:29	SEVERE	Calibrater::	Caltable mstransform_reference/ngc5921.gcal is missing the following fields: scan scanmap 

@@ -1,0 +1,11 @@
+2025-09-17 12:53:15	WARN	sdcal::calibrater::setvi(bool,bool)	Forcing use of OLD VisibilityIterator.
+2025-09-17 12:57:37	WARN	sdbaseline::SingleDishMS::subtractBaseline (file /source/casa6/casatools/src/code/singledish/SingleDish/SingleDishMS.cc, line 1887)	Too few valid channels to fit. Skipping Antenna 0, Beam 0, SPW 17, Pol 1, Time 2016/11/20/16:12:26.64
+2025-09-17 13:02:15	WARN	sdcal::calibrater::setvi(bool,bool)	Already using OLD VisibilityIterator.
+
+0%....10....20....30....40....50....60....70....80....90....100%
+
+0%....10....20....30....40....50....60....70....80....90....100%
+
+0%....10....20....30....40....50....60....70....80....90....100%
+
+0%....10....20....30....40....50....60....70....80....90....100%

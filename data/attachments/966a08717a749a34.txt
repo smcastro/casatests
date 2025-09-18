@@ -1,0 +1,15 @@
+Editing weight
+    irow = 0
+    weight (before) [1. 1.]
+    weight (after) [1. 2.]
+    irow = 1
+    weight (before) [1. 1.]
+    weight (after) [1. 2.]
+    irow = 2
+    weight (before) [1. 1.]
+    weight (after) [1. 2.]
+    irow = 3
+    weight (before) [1. 1.]
+    weight (after) [1. 2.]
+mode=''
+result='{'cent': [[[3999.98803711, 0.15421987]], [[4999.96337891, 0.07064788]]], 'peak': [[[9.98891068, 0.00627893]], [[9.99998951, 0.01441397]]], 'fwhm': [[[500.51101685, 0.3639091]], [[99.96884918, 0.16648979]]], 'nfit': [1, 1]}'

@@ -1,0 +1,10 @@
+2025-09-16 14:56:50	INFO	ImageFactory::createImage	Created Paged image 'maskim' of shape [20, 20, 1, 1] with float valued pixels.
+2025-09-16 14:56:50	INFO	ImageFactory::createImage	Created Temp image  of shape [20, 20, 1, 5] with float valued pixels.
+2025-09-16 14:56:50	SEVERE	image::fft	Exception Reported: The input image shape ([20, 20, 1, 5]) and mask shape ([20, 20, 1, 1]) are different, and it was specified that the mask should not be extended, so the mask cannot be applied to the (sub)image. Specifying that the mask should be extended may resolve the issue at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/SubImageFactory.tcc, line: 306
+2025-09-16 14:56:50	INFO	ImageFFTer::fft	FFT the direction coordinate
+2025-09-16 14:56:50	INFO	ImageFFTer::fft	Creating image 'real2.im'
+2025-09-16 14:56:50	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:50	INFO	name::	No table opened.
+2025-09-16 14:56:50	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:56:50	INFO	name::	No table opened.
+2025-09-16 14:56:50	INFO	name::	No table opened.

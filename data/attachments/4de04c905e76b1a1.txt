@@ -1,0 +1,2 @@
+2025-09-16 16:26:59	SEVERE	imval::regionmanager::frombcs	Exception Reported: garbage.rgn is neither a valid binary region file, nor a valid region text file. at File: /source/casa6/casatools/src/code/imageanalysis/Regions/CasacRegionManager.cc, line: 428
+2025-09-16 16:26:59	SEVERE	imval::::casa	Task imval raised an exception of class RuntimeError with the following message: garbage.rgn is neither a valid binary region file, nor a valid region text file. at File: /source/casa6/casatools/src/code/imageanalysis/Regions/CasacRegionManager.cc, line: 428

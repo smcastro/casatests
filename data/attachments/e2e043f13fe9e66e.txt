@@ -1,0 +1,50 @@
+2025-09-16 14:57:33	INFO	test
+::ms::summary	================================================================================
+2025-09-16 14:57:33	INFO	test
+::ms::summary+	           MeasurementSet Name:  /scratch/scastro/casa/Tests/reports/ngc5921.ms      MS Version 2
+2025-09-16 14:57:33	INFO	test
+::ms::summary+	================================================================================
+2025-09-16 14:57:33	INFO	test
+::ms::summary+	   Observer: TEST     Project:   
+2025-09-16 14:57:33	INFO	test
+::ms::summary+	Observation: VLA(29 antennas)
+2025-09-16 14:57:33	INFO	test
+::MSMetaData::_computeScanAndSubScanProperties 	Computing scan and subscan properties...
+2025-09-16 14:57:33	INFO	test
+::ms::summary	Data records: 22653       Total elapsed time = 5310 seconds
+2025-09-16 14:57:33	INFO	test
+::ms::summary+	   Observed from   13-Apr-1995/09:18:45.0   to   13-Apr-1995/10:47:15.0 (TAI)
+2025-09-16 14:57:33	INFO	test
+::ms::summary	
+2025-09-16 14:57:33	INFO	test
+::ms::summary	Fields: 3
+2025-09-16 14:57:33	INFO	test
+::ms::summary+	  ID   Code Name                RA               Decl           Epoch   SrcId      nRows
+2025-09-16 14:57:33	INFO	test
+::ms::summary+	  0    C    1331+30500002_0     13:31:08.287300 +30.30.32.95900 J2000   0           4509
+2025-09-16 14:57:33	INFO	test
+::ms::summary+	  1    A    1445+09900002_0     14:45:16.465600 +09.58.36.07300 J2000   1           5292
+2025-09-16 14:57:33	INFO	test
+::ms::summary+	  2         N5921_2             15:22:00.000000 +05.04.00.00000 J2000   2          12852
+2025-09-16 14:57:33	INFO	test
+::ms::summary	Spectral Windows:  (1 unique spectral windows and 1 unique polarization setups)
+2025-09-16 14:57:33	INFO	test
+::ms::summary+	  SpwID  Name   #Chans   Frame   Ch0(MHz)  ChanWid(kHz)  TotBW(kHz) CtrFreq(MHz)  Corrs  
+2025-09-16 14:57:33	INFO	test
+::ms::summary+	  0      none      63   LSRK    1412.665        24.414      1550.2   1413.4219   RR  LL
+2025-09-16 14:57:33	INFO	test
+::ms::summary	Antennas: 27 'name'='station' 
+2025-09-16 14:57:33	INFO	test
+::ms::summary+	   ID=   0-3: '1'='VLA:N7', '2'='VLA:W1', '3'='VLA:W2', '4'='VLA:E1', 
+2025-09-16 14:57:33	INFO	test
+::ms::summary+	   ID=   4-7: '5'='VLA:E3', '6'='VLA:E9', '7'='VLA:E6', '8'='VLA:W8', 
+2025-09-16 14:57:33	INFO	test
+::ms::summary+	   ID=  8-11: '9'='VLA:N5', '10'='VLA:W3', '11'='VLA:N4', '12'='VLA:W5', 
+2025-09-16 14:57:33	INFO	test
+::ms::summary+	   ID= 12-15: '13'='VLA:N3', '14'='VLA:N1', '15'='VLA:N2', '16'='VLA:E7', 
+2025-09-16 14:57:33	INFO	test
+::ms::summary+	   ID= 16-19: '17'='VLA:E8', '18'='VLA:W4', '19'='VLA:E5', '20'='VLA:W9', 
+2025-09-16 14:57:33	INFO	test
+::ms::summary+	   ID= 20-24: '21'='VLA:W6', '22'='VLA:E4', '24'='VLA:E2', '25'='VLA:N6', 
+2025-09-16 14:57:33	INFO	test
+::ms::summary+	   ID= 25-27: '26'='VLA:N9', '27'='VLA:N8', '28'='VLA:W7'

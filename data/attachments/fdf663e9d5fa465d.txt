@@ -1,0 +1,17 @@
+2025-09-16 17:01:26	SEVERE	sdbaseline::singledishms::subtract_baseline_sinusoid (file src/tools/singledishms/singledishms_cmpt.cc, line 239)	Exception Reported1: addwn must contain at least one element.
+2025-09-16 17:01:26	SEVERE	sdbaseline::::casa	Traceback (most recent call last):
+2025-09-16 17:01:26	SEVERE	sdbaseline::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:01:26	SEVERE	sdbaseline::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdbaseline.py", line 54, in sdbaseline
+2025-09-16 17:01:26	SEVERE	sdbaseline::::casa+	    temp_outfile = _do_fit(infile, datacolumn, antenna, field, spw, timerange, scan,
+2025-09-16 17:01:26	SEVERE	sdbaseline::::casa+	                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:01:26	SEVERE	sdbaseline::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdbaseline.py", line 546, in _do_fit
+2025-09-16 17:01:26	SEVERE	sdbaseline::::casa+	    func(**params)
+2025-09-16 17:01:26	SEVERE	sdbaseline::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/singledishms.py", line 72, in subtract_baseline_sinusoid
+2025-09-16 17:01:26	SEVERE	sdbaseline::::casa+	    return self._swigobj.subtract_baseline_sinusoid(datacolumn, outfile, bloutput, dosubtract, spw, updateweight, sigmavalue, addwn, rejwn, applyfft, fftmethod, fftthresh, clip_threshold_sigma, num_fitting_max, linefinding, threshold, avg_limit, minwidth, edge)
+2025-09-16 17:01:26	SEVERE	sdbaseline::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:01:26	SEVERE	sdbaseline::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/__casac__/singledishms.py", line 357, in subtract_baseline_sinusoid
+2025-09-16 17:01:26	SEVERE	sdbaseline::::casa+	    return _singledishms.singledishms_subtract_baseline_sinusoid(self, *args, **kwargs)
+2025-09-16 17:01:26	SEVERE	sdbaseline::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:01:26	SEVERE	sdbaseline::::casa+	RuntimeError: addwn must contain at least one element.
+2025-09-16 17:01:26	SEVERE	sdbaseline::::casa	addwn must contain at least one element.
+2025-09-16 17:01:26	SEVERE	sdbaseline::::casa	Task sdbaseline raised an exception of class RuntimeError with the following message: addwn must contain at least one element.

@@ -1,0 +1,28 @@
+There are 24500 - 3 = 24497 degrees of freedom.
+ iter=0:   reduced chi2=0.504128120336:  I=1.000000000000,  dir=[0.000000000000, 0.000000000000] arcsec
+ iter=1:   reduced chi2=0.001327364596:  I=-0.001734213320,  dir=[-0.000110601191, 0.000049103519] arcsec
+ iter=2:   reduced chi2=0.001326660872:  I=-0.002735330284,  dir=[0.063672630419, -0.028279042826] arcsec
+ iter=3:   reduced chi2=0.001326469906:  I=-0.002809667843,  dir=[0.114289673895, -0.046478672901] arcsec
+ iter=4:   reduced chi2=0.001326213283:  I=-0.002876653249,  dir=[0.172625047867, -0.064485899146] arcsec
+ iter=5:   reduced chi2=0.001325857467:  I=-0.002965074016,  dir=[0.240405502889, -0.082450293318] arcsec
+If data weights are arbitrarily scaled, the following formal errors
+ will be underestimated by at least a factor sqrt(reduced chi2). If 
+ the fit is systematically poor, the errors are much worse.
+I = -0.002965074016 +/- 0.009035079029
+x = 0.240405502889 +/- 1.107418963860 arcsec
+y = -0.082450293318 +/- 0.969817514112 arcsec
+Writing componentlist to file: /scratch/scastro/casa/Tests/reports/test1.cl
+There are 24500 - 3 = 24497 degrees of freedom.
+ iter=0:   reduced chi2=0.501727637394:  I=1.000000000000,  dir=[0.000000000000, 0.000000000000] arcsec
+ iter=1:   reduced chi2=0.002176657343:  I=0.001508312613,  dir=[0.000014078791, 0.000009957734] arcsec
+ iter=2:   reduced chi2=0.002176157948:  I=0.000510322396,  dir=[0.009354015313, 0.006614269494] arcsec
+ iter=3:   reduced chi2=0.002176155267:  I=0.000511475578,  dir=[0.039221225498, 0.024369831334] arcsec
+ iter=4:   reduced chi2=0.002176151699:  I=0.000516714135,  dir=[0.076672325968, 0.037258028581] arcsec
+ iter=5:   reduced chi2=0.002176146228:  I=0.000523593730,  dir=[0.124001542744, 0.046682201708] arcsec
+If data weights are arbitrarily scaled, the following formal errors
+ will be underestimated by at least a factor sqrt(reduced chi2). If 
+ the fit is systematically poor, the errors are much worse.
+I = 0.000523593730 +/- 0.009035079029
+x = 0.124001542744 +/- 6.279636083813 arcsec
+y = 0.046682201708 +/- 5.491917817237 arcsec
+Writing componentlist to file: /scratch/scastro/casa/Tests/reports/test2.cl

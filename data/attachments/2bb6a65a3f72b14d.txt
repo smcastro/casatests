@@ -1,0 +1,7 @@
+2025-09-16 17:01:14	SEVERE	sdbaseline::::casa	Traceback (most recent call last):
+2025-09-16 17:01:14	SEVERE	sdbaseline::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:01:14	SEVERE	sdbaseline::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdbaseline.py", line 49, in sdbaseline
+2025-09-16 17:01:14	SEVERE	sdbaseline::::casa+	    raise ValueError("outfile='%s' exists, and cannot overwrite it." % (outfile))
+2025-09-16 17:01:14	SEVERE	sdbaseline::::casa+	ValueError: outfile='Dummy_Empty.ms' exists, and cannot overwrite it.
+2025-09-16 17:01:14	SEVERE	sdbaseline::::casa	outfile='Dummy_Empty.ms' exists, and cannot overwrite it.
+2025-09-16 17:01:14	SEVERE	sdbaseline::::casa	Task sdbaseline raised an exception of class ValueError with the following message: outfile='Dummy_Empty.ms' exists, and cannot overwrite it.

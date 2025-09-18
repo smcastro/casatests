@@ -1,0 +1,4 @@
+2025-09-16 16:58:40	WARN	polfromgain::::casa	Found no good polarization solutions for Fld=J2354-3600 Spw=1
+2025-09-16 16:58:40	WARN	polfromgain::::casa	Found no good polarization solutions for Fld=J2354-3600 Spw=2
+2025-09-16 16:58:40	WARN	polfromgain::::casa	Found no good polarization solutions for Fld=J2354-3600 Spw=3
+2025-09-16 16:58:40	WARN	polfromgain::::casa	Found no good polarization solutions for Fld=J2354-3600 in any spw.

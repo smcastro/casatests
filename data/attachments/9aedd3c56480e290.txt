@@ -1,0 +1,18 @@
+2025-09-16 17:34:15	WARN	MSTransformManager::initDataSelectionParams	Number of selected channels 1 for SPW 2 is smaller than specified chanbin 3
+2025-09-16 17:34:15	WARN	MSTransformManager::initDataSelectionParams+	Setting chanbin to 1 for SPW 2
+2025-09-16 17:34:15	WARN	MSTransformManager::initDataSelectionParams	Number of selected channels 1 for SPW 4 is smaller than specified chanbin 3
+2025-09-16 17:34:15	WARN	MSTransformManager::initDataSelectionParams+	Setting chanbin to 1 for SPW 4
+2025-09-16 17:34:15	WARN	MSTransformManager::initDataSelectionParams	Number of selected channels 1 for SPW 6 is smaller than specified chanbin 3
+2025-09-16 17:34:15	WARN	MSTransformManager::initDataSelectionParams+	Setting chanbin to 1 for SPW 6
+2025-09-16 17:34:15	WARN	MSTransformManager::initDataSelectionParams	Number of selected channels 1 for SPW 8 is smaller than specified chanbin 3
+2025-09-16 17:34:15	WARN	MSTransformManager::initDataSelectionParams+	Setting chanbin to 1 for SPW 8
+2025-09-16 17:34:16	WARN	MSTransformManager::dropNonUniformWidthChannels	Not enough input channels to populate output channel n# 1 from SPW 0.
+2025-09-16 17:34:16	WARN	MSTransformManager::dropNonUniformWidthChannels+	The channel will be dropped in order to have an uniform grid.
+2025-09-16 17:34:16	WARN	MSTransformManager::dropNonUniformWidthChannels	Not enough input channels to populate output channel n# 42 from SPW 1.
+2025-09-16 17:34:16	WARN	MSTransformManager::dropNonUniformWidthChannels+	The channel will be dropped in order to have an uniform grid.
+2025-09-16 17:34:16	WARN	MSTransformManager::dropNonUniformWidthChannels	Not enough input channels to populate output channel n# 42 from SPW 3.
+2025-09-16 17:34:16	WARN	MSTransformManager::dropNonUniformWidthChannels+	The channel will be dropped in order to have an uniform grid.
+2025-09-16 17:34:16	WARN	MSTransformManager::dropNonUniformWidthChannels	Not enough input channels to populate output channel n# 42 from SPW 5.
+2025-09-16 17:34:16	WARN	MSTransformManager::dropNonUniformWidthChannels+	The channel will be dropped in order to have an uniform grid.
+2025-09-16 17:34:16	WARN	MSTransformManager::dropNonUniformWidthChannels	Not enough input channels to populate output channel n# 42 from SPW 7.
+2025-09-16 17:34:16	WARN	MSTransformManager::dropNonUniformWidthChannels+	The channel will be dropped in order to have an uniform grid.

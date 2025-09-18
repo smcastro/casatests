@@ -1,0 +1,41 @@
+2025-09-16 14:56:49	INFO	ImageFactory::createImage	Created Temp image  of shape [20, 20] with float valued pixels.
+2025-09-16 14:56:49	INFO	ImageFFTer::fft	FFT the direction coordinate
+2025-09-16 14:56:49	INFO	ImageFFTer::fft	Creating image 'myreal.im'
+2025-09-16 14:56:49	INFO	ImageFFTer::fft	Creating image 'myimag.im'
+2025-09-16 14:56:49	INFO	ImageFFTer::fft	Creating image 'myamp.im'
+2025-09-16 14:56:49	INFO	ImageFFTer::fft	Creating image 'myphase.im'
+2025-09-16 14:56:49	INFO	ImageFFTer::fft	Creating image 'mycomplex.im'
+2025-09-16 14:56:49	INFO	::::ImageFactory::createImage	Created Temp image  of shape [20, 20] with float valued pixels.
+2025-09-16 14:56:49	INFO	::::image::fromshape	Ran ia.fromshape
+2025-09-16 14:56:49	INFO	::::image::fromshape	ia.fromshape(outfile="", shape=[20,20], csys={...}, linear=false, overwrite=false, log=true, type="f")
+2025-09-16 14:56:49	INFO	::::image::_fft	Ran ia.fft
+2025-09-16 14:56:49	INFO	::::image::_fft	ia.fft(real="myreal.im", imag="myimag.im", amp="myamp.im", phase="myphase.im", axes=[-1], region={...}, mask="", stretch=false, complex="mycomplex.im")
+2025-09-16 14:56:49	INFO		deleted table /scratch/scastro/casa/Tests/reports/myreal.im
+2025-09-16 14:56:49	INFO	::::ImageFactory::createImage	Created Temp image  of shape [20, 20] with float valued pixels.
+2025-09-16 14:56:49	INFO	::::image::fromshape	Ran ia.fromshape
+2025-09-16 14:56:49	INFO	::::image::fromshape	ia.fromshape(outfile="", shape=[20,20], csys={...}, linear=false, overwrite=false, log=true, type="f")
+2025-09-16 14:56:49	INFO	::::image::_fft	Ran ia.fft
+2025-09-16 14:56:49	INFO	::::image::_fft	ia.fft(real="myreal.im", imag="myimag.im", amp="myamp.im", phase="myphase.im", axes=[-1], region={...}, mask="", stretch=false, complex="mycomplex.im")
+2025-09-16 14:56:49	INFO		deleted table /scratch/scastro/casa/Tests/reports/myimag.im
+2025-09-16 14:56:49	INFO	::::ImageFactory::createImage	Created Temp image  of shape [20, 20] with float valued pixels.
+2025-09-16 14:56:49	INFO	::::image::fromshape	Ran ia.fromshape
+2025-09-16 14:56:49	INFO	::::image::fromshape	ia.fromshape(outfile="", shape=[20,20], csys={...}, linear=false, overwrite=false, log=true, type="f")
+2025-09-16 14:56:49	INFO	::::image::_fft	Ran ia.fft
+2025-09-16 14:56:49	INFO	::::image::_fft	ia.fft(real="myreal.im", imag="myimag.im", amp="myamp.im", phase="myphase.im", axes=[-1], region={...}, mask="", stretch=false, complex="mycomplex.im")
+2025-09-16 14:56:49	INFO		deleted table /scratch/scastro/casa/Tests/reports/myamp.im
+2025-09-16 14:56:49	INFO	::::ImageFactory::createImage	Created Temp image  of shape [20, 20] with float valued pixels.
+2025-09-16 14:56:49	INFO	::::image::fromshape	Ran ia.fromshape
+2025-09-16 14:56:49	INFO	::::image::fromshape	ia.fromshape(outfile="", shape=[20,20], csys={...}, linear=false, overwrite=false, log=true, type="f")
+2025-09-16 14:56:49	INFO	::::image::_fft	Ran ia.fft
+2025-09-16 14:56:49	INFO	::::image::_fft	ia.fft(real="myreal.im", imag="myimag.im", amp="myamp.im", phase="myphase.im", axes=[-1], region={...}, mask="", stretch=false, complex="mycomplex.im")
+2025-09-16 14:56:49	INFO		deleted table /scratch/scastro/casa/Tests/reports/myphase.im
+2025-09-16 14:56:49	INFO	::::ImageFactory::createImage	Created Temp image  of shape [20, 20] with float valued pixels.
+2025-09-16 14:56:49	INFO	::::image::fromshape	Ran ia.fromshape
+2025-09-16 14:56:49	INFO	::::image::fromshape	ia.fromshape(outfile="", shape=[20,20], csys={...}, linear=false, overwrite=false, log=true, type="f")
+2025-09-16 14:56:49	INFO	::::image::_fft	Ran ia.fft
+2025-09-16 14:56:49	INFO	::::image::_fft	ia.fft(real="myreal.im", imag="myimag.im", amp="myamp.im", phase="myphase.im", axes=[-1], region={...}, mask="", stretch=false, complex="mycomplex.im")
+2025-09-16 14:56:49	INFO		deleted table /scratch/scastro/casa/Tests/reports/mycomplex.im
+2025-09-16 14:56:49	INFO	name::	No table opened.
+2025-09-16 14:56:49	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:56:49	INFO	name::	No table opened.
+2025-09-16 14:56:49	INFO	name::	No table opened.

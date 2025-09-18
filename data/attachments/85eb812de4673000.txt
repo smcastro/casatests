@@ -1,0 +1,2 @@
+The following MS spws have no corresponding cal spws in __sdcal_composite_mode_otf_095.tab: 0 1 2 3 
+The following MS spws have no corresponding cal spws in __sdcal_composite_mode_tsys_017.tab: 0 1 2 3 

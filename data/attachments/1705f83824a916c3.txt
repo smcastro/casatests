@@ -1,0 +1,1 @@
+Expected error: Cannot create MMS using separationaxis=auto with some of the requested transformations.

@@ -1,0 +1,1 @@
+2025-09-16 15:54:46	SEVERE	gencal::::casa	Task gencal raised an exception of class ValueError with the following message: Antenna NON_EXISTENT could not be found in input MS

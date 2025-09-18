@@ -1,0 +1,2 @@
+2025-09-16 15:55:17	SEVERE	open::evn_copy.ms/EARTH_ORIENTATION	Exception Reported: Table evn_copy.ms/EARTH_ORIENTATION does not exist
+2025-09-16 15:55:17	SEVERE	gencal::::casa	No EOPS found in evn_copy.ms

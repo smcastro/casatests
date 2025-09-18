@@ -1,0 +1,20 @@
+2025-09-16 14:57:04	INFO	ImageFactory::createImage	Created Temp image  of shape [30, 30, 30] with float valued pixels.
+2025-09-16 14:57:04	INFO	PVGenerator::setEndpoints 	Setting pixel end points [8.5, 15.5], [22.5, 15.5]
+2025-09-16 14:57:04	INFO	PVGenerator::generate 	Rotation angle (very nearly) 0 degrees, no rotation required
+2025-09-16 14:57:04	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:04	INFO	ImageRegion::fromRecord+	    [9, 15, 0] to [22, 15, 29]  (00:00:24.000, +00.00.00.000, 1.41498e+09Hz to 23:59:32.000, +00.00.00.000, 1.41501e+09Hz)
+2025-09-16 14:57:04	INFO	ImageCollapser::_doDegenerateAxesCase	All subimage axes to be collapsed are degenerate, using algorithm optimized for that case.
+2025-09-16 14:57:04	INFO	PVGenerator::setEndpoints 	Setting pixel end points [22.5, 15.5], [8.5, 15.5]
+2025-09-16 14:57:04	INFO	PVGenerator::generate 	Rotating image by -180 degrees about direction coordinate pixel (15.5, 15.5) to align specified slice with the x axis
+2025-09-16 14:57:04	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:04	INFO	ImageRegion::fromRecord+	    [0, 0, 0] to [29, 29, 29]  (00:01:00.001, -00.15.00.003, 1.41498e+09Hz to 23:59:03.999, +00.14.00.002, 1.41501e+09Hz)
+2025-09-16 14:57:04	INFO	ImageRegion::fromRecord	Rotating DirectionCoordinate holding axes [0, 1]
+2025-09-16 14:57:04	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:04	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:04	INFO	ImageMaskAttacher::makeMask	Created and initialized mask `mask0'
+2025-09-16 14:57:04	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:57:04	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:04	INFO	ImageRegion::fromRecord+	    [9, 15, 0] to [22, 15, 29]  (23:59:32.000, +00.01.00.000, 1.41498e+09Hz to 00:00:24.000, +00.01.00.000, 1.41501e+09Hz)
+2025-09-16 14:57:04	INFO	ImageCollapser::_doDegenerateAxesCase	All subimage axes to be collapsed are degenerate, using algorithm optimized for that case.
+2025-09-16 14:57:04	INFO	name::	No table opened.
+2025-09-16 14:57:04	INFO	showcache::	The Table Cache is empty.

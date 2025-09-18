@@ -1,0 +1,14 @@
+Test name  : test_vlass_1p1_row_pcorr0
+Doc : 
+        ---------------------------------------------------------------------------------------------------------------------------------------------
+        VLASS 1.1 : No Pointing Corrections. MS field phasecenter is treated as the pointing center for all antennas. 
+                           Image each OTF field separately (to make a scan plot)
+                           Use mtmfs with conjbeams True and test pb-corrected intensity and spectral index.
+
+        Test that the intensity and spectral index are wrong (pick known wrong values). 
+        The plot should show a slope in intensity and spectral index arising from the average pointing offset
+        in the majority of the antennas (ie. 20 old ACU ants) between the true pointing and the recorded phase center.
+
+        This is the state of CASA 5.6 for usepointing=False
+        ---------------------------------------------------------------------------------------------------------------------------------------------
+        

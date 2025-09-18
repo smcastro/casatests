@@ -1,0 +1,175 @@
+test21
+{'Name': ['DA41', 'DA42', 'DA47', 'DA48', 'DA50', 'DA51', 'DA55', 'DA56', 'DA57', 'DA60', 'DA62', 'DA63', 'DA64', 'DA65', 'DV04', 'DV05', 'DV06', 'DV07', 'DV08', 'DV09', 'DV10', 'DV11', 'DV12', 'DV14', 'DV15', 'DV17', 'DV19', 'DV22', 'DV25'], 'WVR': [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True], 'Flag': [True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False], 'Frac_unflagged': [np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0)], 'RMS_um': [0.0, 649.0, 664.0, 719.0, 756.0, 639.0, 622.0, 700.0, 638.0, 696.0, 717.0, 664.0, 804.0, 653.0, 696.0, 665.0, 670.0, 645.0, 716.0, 628.0, 662.0, 0.0, 674.0, 769.0, 673.0, 694.0, 697.0, 646.0, 679.0], 'Disc_um': [0.0, 264.0, 351.0, 341.0, 486.0, 290.0, 320.0, 224.0, 335.0, 245.0, 315.0, 348.0, 333.0, 232.0, 348.0, 335.0, 377.0, 296.0, 376.0, 343.0, 305.0, 0.0, 411.0, 287.0, 317.0, 165.0, 282.0, 309.0, 352.0], 'rval': 0, 'success': True}
+{'Name': ['DA41', 'DA42', 'DA47', 'DA48', 'DA50', 'DA51', 'DA55', 'DA56', 'DA57', 'DA60', 'DA62', 'DA63', 'DA64', 'DA65', 'DV04', 'DV05', 'DV06', 'DV07', 'DV08', 'DV09', 'DV10', 'DV11', 'DV12', 'DV14', 'DV15', 'DV17', 'DV19', 'DV22', 'DV25'], 'WVR': [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True], 'Flag': [True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False], 'Frac_unflagged': [np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0)], 'RMS_um': [0.0, 649.0, 664.0, 719.0, 756.0, 639.0, 622.0, 700.0, 638.0, 696.0, 717.0, 664.0, 804.0, 653.0, 696.0, 665.0, 670.0, 645.0, 716.0, 628.0, 662.0, 0.0, 674.0, 769.0, 673.0, 694.0, 697.0, 646.0, 679.0], 'Disc_um': [0.0, 264.0, 351.0, 341.0, 486.0, 290.0, 320.0, 224.0, 335.0, 245.0, 315.0, 348.0, 333.0, 232.0, 348.0, 335.0, 377.0, 296.0, 376.0, 343.0, 305.0, 0.0, 411.0, 287.0, 317.0, 165.0, 282.0, 309.0, 352.0], 'rval': 0, 'success': True}
+
+Testing column TIME
+Column TIME PASSED
+
+Testing column FIELD_ID
+Column FIELD_ID PASSED
+
+Testing column SPECTRAL_WINDOW_ID
+Column SPECTRAL_WINDOW_ID PASSED
+
+Testing column ANTENNA1
+Column ANTENNA1 PASSED
+
+Testing column ANTENNA2
+Column ANTENNA2 PASSED
+
+Testing column INTERVAL
+Column INTERVAL PASSED
+
+Testing column SCAN_NUMBER
+Column SCAN_NUMBER PASSED
+
+Testing column OBSERVATION_ID
+Column OBSERVATION_ID PASSED
+
+Testing column PARAMERR
+Column PARAMERR PASSED
+
+Testing column FLAG
+Column FLAG PASSED
+
+Testing column SNR
+Column SNR PASSED
+FIELD averages ant 0:  {}
+Ant 0: no diff values.
+Found field  0
+Found field  1
+FIELD averages ant 1:  {np.int64(0): np.float64(0.0), np.int64(1): np.float64(0.0), np.int64(1000): np.float64(0.0), np.int64(1001): np.float64(0.0), np.int64(2000): np.float64(0.0), np.int64(2001): np.float64(0.0), np.int64(3000): np.float64(0.0), np.int64(3001): np.float64(0.0), np.int64(4000): np.float64(0.0), np.int64(4001): np.float64(0.0), np.int64(5000): np.float64(0.0), np.int64(5001): np.float64(0.0), np.int64(6000): np.float64(0.0), np.int64(6001): np.float64(0.0), np.int64(7000): np.float64(0.0), np.int64(7001): np.float64(0.0)}
+Ant 1 Max diff (deg) 0.0
+Ant 1 Min diff (deg) 0.0
+Found field  0
+Found field  1
+FIELD averages ant 2:  {np.int64(0): np.float64(0.0), np.int64(1): np.float64(0.0), np.int64(1000): np.float64(0.0), np.int64(1001): np.float64(0.0), np.int64(2000): np.float64(0.0), np.int64(2001): np.float64(0.0), np.int64(3000): np.float64(0.0), np.int64(3001): np.float64(0.0), np.int64(4000): np.float64(0.0), np.int64(4001): np.float64(0.0), np.int64(5000): np.float64(0.0), np.int64(5001): np.float64(0.0), np.int64(6000): np.float64(0.0), np.int64(6001): np.float64(0.0), np.int64(7000): np.float64(0.0), np.int64(7001): np.float64(0.0)}
+Ant 2 Max diff (deg) 0.0
+Ant 2 Min diff (deg) 0.0
+Found field  0
+Found field  1
+FIELD averages ant 3:  {np.int64(0): np.float64(0.0), np.int64(1): np.float64(0.0), np.int64(1000): np.float64(0.0), np.int64(1001): np.float64(0.0), np.int64(2000): np.float64(0.0), np.int64(2001): np.float64(0.0), np.int64(3000): np.float64(0.0), np.int64(3001): np.float64(0.0), np.int64(4000): np.float64(0.0), np.int64(4001): np.float64(0.0), np.int64(5000): np.float64(0.0), np.int64(5001): np.float64(0.0), np.int64(6000): np.float64(0.0), np.int64(6001): np.float64(0.0), np.int64(7000): np.float64(0.0), np.int64(7001): np.float64(0.0)}
+Ant 3 Max diff (deg) 0.0
+Ant 3 Min diff (deg) 0.0
+Found field  0
+Found field  1
+FIELD averages ant 4:  {np.int64(0): np.float64(0.0), np.int64(1): np.float64(0.0), np.int64(1000): np.float64(0.0), np.int64(1001): np.float64(0.0), np.int64(2000): np.float64(0.0), np.int64(2001): np.float64(0.0), np.int64(3000): np.float64(0.0), np.int64(3001): np.float64(0.0), np.int64(4000): np.float64(0.0), np.int64(4001): np.float64(0.0), np.int64(5000): np.float64(0.0), np.int64(5001): np.float64(0.0), np.int64(6000): np.float64(0.0), np.int64(6001): np.float64(0.0), np.int64(7000): np.float64(0.0), np.int64(7001): np.float64(0.0)}
+Ant 4 Max diff (deg) 0.0
+Ant 4 Min diff (deg) 0.0
+Found field  0
+Found field  1
+FIELD averages ant 5:  {np.int64(0): np.float64(0.0), np.int64(1): np.float64(0.0), np.int64(1000): np.float64(0.0), np.int64(1001): np.float64(0.0), np.int64(2000): np.float64(0.0), np.int64(2001): np.float64(0.0), np.int64(3000): np.float64(0.0), np.int64(3001): np.float64(0.0), np.int64(4000): np.float64(0.0), np.int64(4001): np.float64(0.0), np.int64(5000): np.float64(0.0), np.int64(5001): np.float64(0.0), np.int64(6000): np.float64(0.0), np.int64(6001): np.float64(0.0), np.int64(7000): np.float64(0.0), np.int64(7001): np.float64(0.0)}
+Ant 5 Max diff (deg) 0.0
+Ant 5 Min diff (deg) 0.0
+Found field  0
+Found field  1
+FIELD averages ant 6:  {np.int64(0): np.float64(0.0), np.int64(1): np.float64(0.0), np.int64(1000): np.float64(0.0), np.int64(1001): np.float64(0.0), np.int64(2000): np.float64(0.0), np.int64(2001): np.float64(0.0), np.int64(3000): np.float64(0.0), np.int64(3001): np.float64(0.0), np.int64(4000): np.float64(0.0), np.int64(4001): np.float64(0.0), np.int64(5000): np.float64(0.0), np.int64(5001): np.float64(0.0), np.int64(6000): np.float64(0.0), np.int64(6001): np.float64(0.0), np.int64(7000): np.float64(0.0), np.int64(7001): np.float64(0.0)}
+Ant 6 Max diff (deg) 0.0
+Ant 6 Min diff (deg) 0.0
+Found field  0
+Found field  1
+FIELD averages ant 7:  {np.int64(0): np.float64(0.0), np.int64(1): np.float64(0.0), np.int64(1000): np.float64(0.0), np.int64(1001): np.float64(0.0), np.int64(2000): np.float64(0.0), np.int64(2001): np.float64(0.0), np.int64(3000): np.float64(0.0), np.int64(3001): np.float64(0.0), np.int64(4000): np.float64(0.0), np.int64(4001): np.float64(0.0), np.int64(5000): np.float64(0.0), np.int64(5001): np.float64(0.0), np.int64(6000): np.float64(0.0), np.int64(6001): np.float64(0.0), np.int64(7000): np.float64(0.0), np.int64(7001): np.float64(0.0)}
+Ant 7 Max diff (deg) 0.0
+Ant 7 Min diff (deg) 0.0
+Found field  0
+Found field  1
+FIELD averages ant 8:  {np.int64(0): np.float64(0.0), np.int64(1): np.float64(0.0), np.int64(1000): np.float64(0.0), np.int64(1001): np.float64(0.0), np.int64(2000): np.float64(0.0), np.int64(2001): np.float64(0.0), np.int64(3000): np.float64(0.0), np.int64(3001): np.float64(0.0), np.int64(4000): np.float64(0.0), np.int64(4001): np.float64(0.0), np.int64(5000): np.float64(0.0), np.int64(5001): np.float64(0.0), np.int64(6000): np.float64(0.0), np.int64(6001): np.float64(0.0), np.int64(7000): np.float64(0.0), np.int64(7001): np.float64(0.0)}
+Ant 8 Max diff (deg) 0.0
+Ant 8 Min diff (deg) 0.0
+Found field  0
+Found field  1
+FIELD averages ant 9:  {np.int64(0): np.float64(0.0), np.int64(1): np.float64(0.0), np.int64(1000): np.float64(0.0), np.int64(1001): np.float64(0.0), np.int64(2000): np.float64(0.0), np.int64(2001): np.float64(0.0), np.int64(3000): np.float64(0.0), np.int64(3001): np.float64(0.0), np.int64(4000): np.float64(0.0), np.int64(4001): np.float64(0.0), np.int64(5000): np.float64(0.0), np.int64(5001): np.float64(0.0), np.int64(6000): np.float64(0.0), np.int64(6001): np.float64(0.0), np.int64(7000): np.float64(0.0), np.int64(7001): np.float64(0.0)}
+Ant 9 Max diff (deg) 0.0
+Ant 9 Min diff (deg) 0.0
+Found field  0
+Found field  1
+FIELD averages ant 10:  {np.int64(0): np.float64(0.0), np.int64(1): np.float64(0.0), np.int64(1000): np.float64(0.0), np.int64(1001): np.float64(0.0), np.int64(2000): np.float64(0.0), np.int64(2001): np.float64(0.0), np.int64(3000): np.float64(0.0), np.int64(3001): np.float64(0.0), np.int64(4000): np.float64(0.0), np.int64(4001): np.float64(0.0), np.int64(5000): np.float64(0.0), np.int64(5001): np.float64(0.0), np.int64(6000): np.float64(0.0), np.int64(6001): np.float64(0.0), np.int64(7000): np.float64(0.0), np.int64(7001): np.float64(0.0)}
+Ant 10 Max diff (deg) 0.0
+Ant 10 Min diff (deg) 0.0
+Found field  0
+Found field  1
+FIELD averages ant 11:  {np.int64(0): np.float64(0.0), np.int64(1): np.float64(0.0), np.int64(1000): np.float64(0.0), np.int64(1001): np.float64(0.0), np.int64(2000): np.float64(0.0), np.int64(2001): np.float64(0.0), np.int64(3000): np.float64(0.0), np.int64(3001): np.float64(0.0), np.int64(4000): np.float64(0.0), np.int64(4001): np.float64(0.0), np.int64(5000): np.float64(0.0), np.int64(5001): np.float64(0.0), np.int64(6000): np.float64(0.0), np.int64(6001): np.float64(0.0), np.int64(7000): np.float64(0.0), np.int64(7001): np.float64(0.0)}
+Ant 11 Max diff (deg) 0.0
+Ant 11 Min diff (deg) 0.0
+Found field  0
+Found field  1
+FIELD averages ant 12:  {np.int64(0): np.float64(0.0), np.int64(1): np.float64(0.0), np.int64(1000): np.float64(0.0), np.int64(1001): np.float64(0.0), np.int64(2000): np.float64(0.0), np.int64(2001): np.float64(0.0), np.int64(3000): np.float64(0.0), np.int64(3001): np.float64(0.0), np.int64(4000): np.float64(0.0), np.int64(4001): np.float64(0.0), np.int64(5000): np.float64(0.0), np.int64(5001): np.float64(0.0), np.int64(6000): np.float64(0.0), np.int64(6001): np.float64(0.0), np.int64(7000): np.float64(0.0), np.int64(7001): np.float64(0.0)}
+Ant 12 Max diff (deg) 0.0
+Ant 12 Min diff (deg) 0.0
+Found field  0
+Found field  1
+FIELD averages ant 13:  {np.int64(0): np.float64(0.0), np.int64(1): np.float64(0.0), np.int64(1000): np.float64(0.0), np.int64(1001): np.float64(0.0), np.int64(2000): np.float64(0.0), np.int64(2001): np.float64(0.0), np.int64(3000): np.float64(0.0), np.int64(3001): np.float64(0.0), np.int64(4000): np.float64(0.0), np.int64(4001): np.float64(0.0), np.int64(5000): np.float64(0.0), np.int64(5001): np.float64(0.0), np.int64(6000): np.float64(0.0), np.int64(6001): np.float64(0.0), np.int64(7000): np.float64(0.0), np.int64(7001): np.float64(0.0)}
+Ant 13 Max diff (deg) 0.0
+Ant 13 Min diff (deg) 0.0
+Found field  0
+Found field  1
+FIELD averages ant 14:  {np.int64(0): np.float64(0.0), np.int64(1): np.float64(0.0), np.int64(1000): np.float64(0.0), np.int64(1001): np.float64(0.0), np.int64(2000): np.float64(0.0), np.int64(2001): np.float64(0.0), np.int64(3000): np.float64(0.0), np.int64(3001): np.float64(0.0), np.int64(4000): np.float64(0.0), np.int64(4001): np.float64(0.0), np.int64(5000): np.float64(0.0), np.int64(5001): np.float64(0.0), np.int64(6000): np.float64(0.0), np.int64(6001): np.float64(0.0), np.int64(7000): np.float64(0.0), np.int64(7001): np.float64(0.0)}
+Ant 14 Max diff (deg) 0.0
+Ant 14 Min diff (deg) 0.0
+Found field  0
+Found field  1
+FIELD averages ant 15:  {np.int64(0): np.float64(0.0), np.int64(1): np.float64(0.0), np.int64(1000): np.float64(0.0), np.int64(1001): np.float64(0.0), np.int64(2000): np.float64(0.0), np.int64(2001): np.float64(0.0), np.int64(3000): np.float64(0.0), np.int64(3001): np.float64(0.0), np.int64(4000): np.float64(0.0), np.int64(4001): np.float64(0.0), np.int64(5000): np.float64(0.0), np.int64(5001): np.float64(0.0), np.int64(6000): np.float64(0.0), np.int64(6001): np.float64(0.0), np.int64(7000): np.float64(0.0), np.int64(7001): np.float64(0.0)}
+Ant 15 Max diff (deg) 0.0
+Ant 15 Min diff (deg) 0.0
+Found field  0
+Found field  1
+FIELD averages ant 16:  {np.int64(0): np.float64(0.0), np.int64(1): np.float64(0.0), np.int64(1000): np.float64(0.0), np.int64(1001): np.float64(0.0), np.int64(2000): np.float64(0.0), np.int64(2001): np.float64(0.0), np.int64(3000): np.float64(0.0), np.int64(3001): np.float64(0.0), np.int64(4000): np.float64(0.0), np.int64(4001): np.float64(0.0), np.int64(5000): np.float64(0.0), np.int64(5001): np.float64(0.0), np.int64(6000): np.float64(0.0), np.int64(6001): np.float64(0.0), np.int64(7000): np.float64(0.0), np.int64(7001): np.float64(0.0)}
+Ant 16 Max diff (deg) 0.0
+Ant 16 Min diff (deg) 0.0
+Found field  0
+Found field  1
+FIELD averages ant 17:  {np.int64(0): np.float64(0.0), np.int64(1): np.float64(0.0), np.int64(1000): np.float64(0.0), np.int64(1001): np.float64(0.0), np.int64(2000): np.float64(0.0), np.int64(2001): np.float64(0.0), np.int64(3000): np.float64(0.0), np.int64(3001): np.float64(0.0), np.int64(4000): np.float64(0.0), np.int64(4001): np.float64(0.0), np.int64(5000): np.float64(0.0), np.int64(5001): np.float64(0.0), np.int64(6000): np.float64(0.0), np.int64(6001): np.float64(0.0), np.int64(7000): np.float64(0.0), np.int64(7001): np.float64(0.0)}
+Ant 17 Max diff (deg) 0.0
+Ant 17 Min diff (deg) 0.0
+Found field  0
+Found field  1
+FIELD averages ant 18:  {np.int64(0): np.float64(0.0), np.int64(1): np.float64(0.0), np.int64(1000): np.float64(0.0), np.int64(1001): np.float64(0.0), np.int64(2000): np.float64(0.0), np.int64(2001): np.float64(0.0), np.int64(3000): np.float64(0.0), np.int64(3001): np.float64(0.0), np.int64(4000): np.float64(0.0), np.int64(4001): np.float64(0.0), np.int64(5000): np.float64(0.0), np.int64(5001): np.float64(0.0), np.int64(6000): np.float64(0.0), np.int64(6001): np.float64(0.0), np.int64(7000): np.float64(0.0), np.int64(7001): np.float64(0.0)}
+Ant 18 Max diff (deg) 0.0
+Ant 18 Min diff (deg) 0.0
+Found field  0
+Found field  1
+FIELD averages ant 19:  {np.int64(0): np.float64(0.0), np.int64(1): np.float64(0.0), np.int64(1000): np.float64(0.0), np.int64(1001): np.float64(0.0), np.int64(2000): np.float64(0.0), np.int64(2001): np.float64(0.0), np.int64(3000): np.float64(0.0), np.int64(3001): np.float64(0.0), np.int64(4000): np.float64(0.0), np.int64(4001): np.float64(0.0), np.int64(5000): np.float64(0.0), np.int64(5001): np.float64(0.0), np.int64(6000): np.float64(0.0), np.int64(6001): np.float64(0.0), np.int64(7000): np.float64(0.0), np.int64(7001): np.float64(0.0)}
+Ant 19 Max diff (deg) 0.0
+Ant 19 Min diff (deg) 0.0
+Found field  0
+Found field  1
+FIELD averages ant 20:  {np.int64(0): np.float64(0.0), np.int64(1): np.float64(0.0), np.int64(1000): np.float64(0.0), np.int64(1001): np.float64(0.0), np.int64(2000): np.float64(0.0), np.int64(2001): np.float64(0.0), np.int64(3000): np.float64(0.0), np.int64(3001): np.float64(0.0), np.int64(4000): np.float64(0.0), np.int64(4001): np.float64(0.0), np.int64(5000): np.float64(0.0), np.int64(5001): np.float64(0.0), np.int64(6000): np.float64(0.0), np.int64(6001): np.float64(0.0), np.int64(7000): np.float64(0.0), np.int64(7001): np.float64(0.0)}
+Ant 20 Max diff (deg) 0.0
+Ant 20 Min diff (deg) 0.0
+FIELD averages ant 21:  {}
+Ant 21: no diff values.
+Found field  0
+Found field  1
+FIELD averages ant 22:  {np.int64(0): np.float64(0.0), np.int64(1): np.float64(0.0), np.int64(1000): np.float64(0.0), np.int64(1001): np.float64(0.0), np.int64(2000): np.float64(0.0), np.int64(2001): np.float64(0.0), np.int64(3000): np.float64(0.0), np.int64(3001): np.float64(0.0), np.int64(4000): np.float64(0.0), np.int64(4001): np.float64(0.0), np.int64(5000): np.float64(0.0), np.int64(5001): np.float64(0.0), np.int64(6000): np.float64(0.0), np.int64(6001): np.float64(0.0), np.int64(7000): np.float64(0.0), np.int64(7001): np.float64(0.0)}
+Ant 22 Max diff (deg) 0.0
+Ant 22 Min diff (deg) 0.0
+Found field  0
+Found field  1
+FIELD averages ant 23:  {np.int64(0): np.float64(0.0), np.int64(1): np.float64(0.0), np.int64(1000): np.float64(0.0), np.int64(1001): np.float64(0.0), np.int64(2000): np.float64(0.0), np.int64(2001): np.float64(0.0), np.int64(3000): np.float64(0.0), np.int64(3001): np.float64(0.0), np.int64(4000): np.float64(0.0), np.int64(4001): np.float64(0.0), np.int64(5000): np.float64(0.0), np.int64(5001): np.float64(0.0), np.int64(6000): np.float64(0.0), np.int64(6001): np.float64(0.0), np.int64(7000): np.float64(0.0), np.int64(7001): np.float64(0.0)}
+Ant 23 Max diff (deg) 0.0
+Ant 23 Min diff (deg) 0.0
+Found field  0
+Found field  1
+FIELD averages ant 24:  {np.int64(0): np.float64(0.0), np.int64(1): np.float64(0.0), np.int64(1000): np.float64(0.0), np.int64(1001): np.float64(0.0), np.int64(2000): np.float64(0.0), np.int64(2001): np.float64(0.0), np.int64(3000): np.float64(0.0), np.int64(3001): np.float64(0.0), np.int64(4000): np.float64(0.0), np.int64(4001): np.float64(0.0), np.int64(5000): np.float64(0.0), np.int64(5001): np.float64(0.0), np.int64(6000): np.float64(0.0), np.int64(6001): np.float64(0.0), np.int64(7000): np.float64(0.0), np.int64(7001): np.float64(0.0)}
+Ant 24 Max diff (deg) 0.0
+Ant 24 Min diff (deg) 0.0
+Found field  0
+Found field  1
+FIELD averages ant 25:  {np.int64(0): np.float64(0.0), np.int64(1): np.float64(0.0), np.int64(1000): np.float64(0.0), np.int64(1001): np.float64(0.0), np.int64(2000): np.float64(0.0), np.int64(2001): np.float64(0.0), np.int64(3000): np.float64(0.0), np.int64(3001): np.float64(0.0), np.int64(4000): np.float64(0.0), np.int64(4001): np.float64(0.0), np.int64(5000): np.float64(0.0), np.int64(5001): np.float64(0.0), np.int64(6000): np.float64(0.0), np.int64(6001): np.float64(0.0), np.int64(7000): np.float64(0.0), np.int64(7001): np.float64(0.0)}
+Ant 25 Max diff (deg) 0.0
+Ant 25 Min diff (deg) 0.0
+Found field  0
+Found field  1
+FIELD averages ant 26:  {np.int64(0): np.float64(0.0), np.int64(1): np.float64(0.0), np.int64(1000): np.float64(0.0), np.int64(1001): np.float64(0.0), np.int64(2000): np.float64(0.0), np.int64(2001): np.float64(0.0), np.int64(3000): np.float64(0.0), np.int64(3001): np.float64(0.0), np.int64(4000): np.float64(0.0), np.int64(4001): np.float64(0.0), np.int64(5000): np.float64(0.0), np.int64(5001): np.float64(0.0), np.int64(6000): np.float64(0.0), np.int64(6001): np.float64(0.0), np.int64(7000): np.float64(0.0), np.int64(7001): np.float64(0.0)}
+Ant 26 Max diff (deg) 0.0
+Ant 26 Min diff (deg) 0.0
+Found field  0
+Found field  1
+FIELD averages ant 27:  {np.int64(0): np.float64(0.0), np.int64(1): np.float64(0.0), np.int64(1000): np.float64(0.0), np.int64(1001): np.float64(0.0), np.int64(2000): np.float64(0.0), np.int64(2001): np.float64(0.0), np.int64(3000): np.float64(0.0), np.int64(3001): np.float64(0.0), np.int64(4000): np.float64(0.0), np.int64(4001): np.float64(0.0), np.int64(5000): np.float64(0.0), np.int64(5001): np.float64(0.0), np.int64(6000): np.float64(0.0), np.int64(6001): np.float64(0.0), np.int64(7000): np.float64(0.0), np.int64(7001): np.float64(0.0)}
+Ant 27 Max diff (deg) 0.0
+Ant 27 Min diff (deg) 0.0
+Found field  0
+Found field  1
+FIELD averages ant 28:  {np.int64(0): np.float64(0.0), np.int64(1): np.float64(0.0), np.int64(1000): np.float64(0.0), np.int64(1001): np.float64(0.0), np.int64(2000): np.float64(0.0), np.int64(2001): np.float64(0.0), np.int64(3000): np.float64(0.0), np.int64(3001): np.float64(0.0), np.int64(4000): np.float64(0.0), np.int64(4001): np.float64(0.0), np.int64(5000): np.float64(0.0), np.int64(5001): np.float64(0.0), np.int64(6000): np.float64(0.0), np.int64(6001): np.float64(0.0), np.int64(7000): np.float64(0.0), np.int64(7001): np.float64(0.0)}
+Ant 28 Max diff (deg) 0.0
+Ant 28 Min diff (deg) 0.0

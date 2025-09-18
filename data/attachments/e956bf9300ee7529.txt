@@ -1,0 +1,69 @@
+test_concat : Now checking output ...
+test_concat :  table.f8 present.
+test_concat :  FIELD/table.dat present.
+test_concat :  table.f7 present.
+test_concat :  POINTING/table.f0 present.
+test_concat :  POLARIZATION/table.f0 present.
+test_concat :  SPECTRAL_WINDOW/table.f0 present.
+test_concat :  STATE/table.f0 present.
+test_concat :  table.f4 present.
+test_concat :  POINTING/table.dat present.
+test_concat :  FLAG_CMD/table.dat present.
+test_concat :  POLARIZATION/table.dat present.
+test_concat :  table.f6 present.
+test_concat :  table.f1 present.
+test_concat :  FLAG_CMD/table.f0 present.
+test_concat :  ANTENNA/table.f0 present.
+test_concat :  HISTORY/table.dat present.
+test_concat :  ANTENNA/table.dat present.
+test_concat :  FIELD/table.f0 present.
+test_concat :  OBSERVATION/table.dat present.
+test_concat :  OBSERVATION/table.f0 present.
+test_concat :  SOURCE/table.f0 present.
+test_concat :  table.f5 present.
+test_concat :  table.dat present.
+test_concat :  SPECTRAL_WINDOW/table.dat present.
+test_concat :  STATE/table.dat present.
+test_concat :  PROCESSOR/table.dat present.
+test_concat :  FEED/table.f0 present.
+test_concat :  HISTORY/table.f0 present.
+test_concat :  table.f3 present.
+test_concat :  SOURCE/table.dat present.
+test_concat :  table.f2 present.
+test_concat :  DATA_DESCRIPTION/table.dat present.
+test_concat :  PROCESSOR/table.f0 present.
+test_concat :  DATA_DESCRIPTION/table.f0 present.
+test_concat :  FEED/table.dat present.
+test_concat : MS exists. All tables present. Try opening as MS ...
+test_concat : OK. Checking tables in detail ...
+test_concat : comparing  ['FLAG_ROW', 0, False, 0]
+test_concat : comparing  ['FLAG_ROW', 1, False, 0]
+test_concat : comparing  ['FLAG_ROW', 2, False, 0]
+test_concat : comparing  ['FLAG_ROW', 3, False, 0]
+test_concat : comparing  ['FLAG_ROW', 4, False, 0]
+test_concat : comparing  ['FLAG_ROW', 5, False, 0]
+test_concat : comparing  ['MODE_ID', 0, 3, 0]
+test_concat : comparing  ['MODE_ID', 1, 0, 0]
+test_concat : comparing  ['MODE_ID', 2, 1, 0]
+test_concat : comparing  ['MODE_ID', 3, 0, 0]
+test_concat : comparing  ['MODE_ID', 4, 0, 0]
+test_concat : comparing  ['MODE_ID', 5, 1, 0]
+test_concat : comparing  ['TYPE', 0, 'RADIOMETER', 0]
+test_concat : comparing  ['TYPE', 1, 'CORRELATOR', 0]
+test_concat : comparing  ['TYPE', 2, 'CORRELATOR', 0]
+test_concat : comparing  ['TYPE', 3, 'CORRELATOR', 0]
+test_concat : comparing  ['TYPE', 4, 'RADIOMETER', 0]
+test_concat : comparing  ['TYPE', 5, 'CORRELATOR', 0]
+test_concat : comparing  ['TYPE_ID', 0, -1, 0]
+test_concat : comparing  ['TYPE_ID', 1, -1, 0]
+test_concat : comparing  ['TYPE_ID', 2, -1, 0]
+test_concat : comparing  ['TYPE_ID', 3, -1, 0]
+test_concat : comparing  ['TYPE_ID', 4, -1, 0]
+test_concat : comparing  ['TYPE_ID', 5, -1, 0]
+test_concat : comparing  ['SUB_TYPE', 0, 'SQUARE_LAW_DETECTOR', 0]
+test_concat : comparing  ['SUB_TYPE', 1, 'ALMA_ACA', 0]
+test_concat : comparing  ['SUB_TYPE', 2, 'ALMA_ACA', 0]
+test_concat : comparing  ['SUB_TYPE', 3, 'ALMA_BASELINE', 0]
+test_concat : comparing  ['SUB_TYPE', 4, 'ALMA_RADIOMETER', 0]
+test_concat : comparing  ['SUB_TYPE', 5, 'ALMA_BASELINE', 0]
+test_concat : table  PROCESSOR  as expected.

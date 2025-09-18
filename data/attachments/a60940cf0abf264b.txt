@@ -1,0 +1,2 @@
+
+Comparing 36 pointings in 'simobserve_comp/simobserve_comp.aca.tp.ptg.txt' with 'square.aca.tp.ptg.txt'

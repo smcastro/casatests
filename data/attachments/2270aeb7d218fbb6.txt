@@ -1,0 +1,10 @@
+test17-1
+{'Name': ['CM01', 'CM02', 'DA41', 'DA42', 'DV02', 'DV03', 'DV04', 'DV05', 'DV06', 'DV08', 'DV09', 'DV11', 'DV12', 'DV13', 'DV14', 'PM02', 'PM03', 'PM04'], 'WVR': [False, False, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True], 'Flag': [True, True, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False], 'Frac_unflagged': [0.0, 0.0, np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0)], 'RMS_um': [41.7, 41.7, 41.2, 49.5, 314.0, 38.7, 44.6, 40.4, 42.4, 40.8, 40.5, 39.6, 40.4, 40.3, 37.5, 42.9, 41.3, 41.8], 'Disc_um': [62.7, 63.7, 73.8, 80.1, 34.1, 75.9, 69.9, 84.0, 65.0, 66.8, 96.9, 86.7, 64.2, 80.9, 89.9, 91.4, 79.3, 59.0], 'rval': 0, 'success': True}
+test17-2
+{'Name': ['CM01', 'CM02', 'DA41', 'DA42', 'DV02', 'DV03', 'DV04', 'DV05', 'DV06', 'DV08', 'DV09', 'DV11', 'DV12', 'DV13', 'DV14', 'PM02', 'PM03', 'PM04'], 'WVR': [False, False, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True], 'Flag': [True, True, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False], 'Frac_unflagged': [0.0, 0.0, 0.0, np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0)], 'RMS_um': [41.7, 41.7, 41.2, 49.5, 314.0, 38.7, 44.6, 40.4, 42.4, 40.8, 40.5, 39.6, 40.4, 40.3, 37.5, 42.9, 41.3, 41.8], 'Disc_um': [62.7, 63.7, 73.8, 80.1, 34.1, 75.9, 69.9, 84.0, 65.0, 66.8, 96.9, 86.7, 64.2, 80.9, 89.9, 91.4, 79.3, 59.0], 'rval': 0, 'success': True}
+73.8 73.8
+41.2 41.2
+Name True
+WVR True
+RMS_um True
+Disc_um True

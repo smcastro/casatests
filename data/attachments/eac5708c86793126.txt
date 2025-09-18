@@ -1,0 +1,70 @@
+2025-09-16 14:57:15	INFO	ImageFactory::createImage	Created Paged image 'rm_input.im' of shape [20, 20, 4, 20] with float valued pixels.
+2025-09-16 14:57:15	INFO	ImagePol::rotationMeasure	Creating image 'rm.im' of shape [20, 20]
+2025-09-16 14:57:15	INFO	ImagePol::rotationMeasure	Creating image 'pa0.im' of shape [20, 20, 1]
+2025-09-16 14:57:15	INFO	image::statistics 	Determining stats for image rm.im
+2025-09-16 14:57:15	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:15	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:15	INFO	ImageRegion::fromRecord+	    [0, 0] to [19, 19]  (00:00:40.000, -00.10.00.001 to 23:59:24.000, +00.09.00.001)
+2025-09-16 14:57:15	INFO	ImageStatsCalculator::_logStartup	Statistics calculated using Classic algorithm
+2025-09-16 14:57:15	INFO	ImageStatsCalculator::_logStartup	Regions --- 
+2025-09-16 14:57:15	INFO	ImageStatsCalculator::_logStartup	         -- bottom-left corner (pixel) [blc]:  [0, 0]
+2025-09-16 14:57:15	INFO	ImageStatsCalculator::_logStartup	         -- top-right corner (pixel) [trc]:    [19, 19]
+2025-09-16 14:57:15	INFO	ImageStatsCalculator::_logStartup	         -- bottom-left corner (world) [blcf]: 00:00:40.000, -00.10.00.001
+2025-09-16 14:57:15	INFO	ImageStatsCalculator::_logStartup	         -- top-right corner (world) [trcf]:   23:59:24.000, +00.09.00.001
+2025-09-16 14:57:15	INFO		Values --- 
+2025-09-16 14:57:15	INFO		         -- number of points [npts]:                400
+2025-09-16 14:57:15	INFO		         -- maximum value [max]:                    9.60001 rad/m/m
+2025-09-16 14:57:15	INFO		         -- minimum value [min]:                    9.59997 rad/m/m
+2025-09-16 14:57:15	INFO		         -- position of max value (pixel) [maxpos]: [3, 0]
+2025-09-16 14:57:15	INFO		         -- position of min value (pixel) [minpos]: [1, 0]
+2025-09-16 14:57:15	INFO		         -- position of max value (world) [maxposf]: 00:00:28.000, -00.10.00.001
+2025-09-16 14:57:15	INFO		         -- position of min value (world) [minposf]: 00:00:36.000, -00.10.00.001
+2025-09-16 14:57:15	INFO		         -- Sum of pixel values [sum]:               3839.99 rad/m/m
+2025-09-16 14:57:15	INFO		         -- Sum of squared pixel values [sumsq]:     36863.9 rad/m/m.rad/m/m
+2025-09-16 14:57:15	INFO		Statistics --- 
+2025-09-16 14:57:15	INFO		        -- Mean of the pixel values [mean]:         9.59998 rad/m/m
+2025-09-16 14:57:15	INFO		        -- Variance of the pixel values :           9.48741e-11 rad/m/m
+2025-09-16 14:57:15	INFO		        -- Standard deviation of the Mean [sigma]:  9.74033e-06 rad/m/m
+2025-09-16 14:57:15	INFO		        -- Root mean square [rms]:                  9.59998 rad/m/m
+2025-09-16 14:57:15	INFO	ImageStatsCalculator::statistics	Sum column unit = rad/m/m
+2025-09-16 14:57:15	INFO	ImageStatsCalculator::statistics+	Mean column unit = rad/m/m
+2025-09-16 14:57:15	INFO	ImageStatsCalculator::statistics+	Std_dev column unit = rad/m/m
+2025-09-16 14:57:15	INFO	ImageStatsCalculator::statistics+	Minimum column unit = rad/m/m
+2025-09-16 14:57:15	INFO	ImageStatsCalculator::statistics+	Maximum column unit = rad/m/m
+2025-09-16 14:57:15	INFO	ImageStatsCalculator::statistics	Npts          Sum           Mean          Rms           Std_dev       Minimum       Maximum     
+2025-09-16 14:57:15	INFO	ImageStatsCalculator::statistics	 4.000000e+02  3.839993e+03  9.599982e+00  9.599982e+00  9.740334e-06  9.599969e+00  9.600007e+00
+2025-09-16 14:57:15	INFO		deleted table /scratch/scastro/casa/Tests/reports/rm.im
+2025-09-16 14:57:15	INFO	image::statistics 	Determining stats for image pa0.im
+2025-09-16 14:57:15	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:15	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:57:15	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:15	INFO	ImageRegion::fromRecord+	    [0, 0, 0] to [19, 19, 0]  (00:00:40.000, -00.10.00.001, Pangle to 23:59:24.000, +00.09.00.001, Pangle)
+2025-09-16 14:57:15	INFO	ImageStatsCalculator::_logStartup	Statistics calculated using Classic algorithm
+2025-09-16 14:57:15	INFO	ImageStatsCalculator::_logStartup	Regions --- 
+2025-09-16 14:57:15	INFO	ImageStatsCalculator::_logStartup	         -- bottom-left corner (pixel) [blc]:  [0, 0, 0]
+2025-09-16 14:57:15	INFO	ImageStatsCalculator::_logStartup	         -- top-right corner (pixel) [trc]:    [19, 19, 0]
+2025-09-16 14:57:15	INFO	ImageStatsCalculator::_logStartup	         -- bottom-left corner (world) [blcf]: 00:00:40.000, -00.10.00.001, Pangle
+2025-09-16 14:57:15	INFO	ImageStatsCalculator::_logStartup	         -- top-right corner (world) [trcf]:   23:59:24.000, +00.09.00.001, Pangle
+2025-09-16 14:57:15	INFO		Values --- 
+2025-09-16 14:57:15	INFO		         -- number of points [npts]:                400
+2025-09-16 14:57:15	INFO		         -- maximum value [max]:                    22.5001 deg
+2025-09-16 14:57:15	INFO		         -- minimum value [min]:                    22.5 deg
+2025-09-16 14:57:15	INFO		         -- position of max value (pixel) [maxpos]: [1, 0, 0]
+2025-09-16 14:57:15	INFO		         -- position of min value (pixel) [minpos]: [3, 0, 0]
+2025-09-16 14:57:15	INFO		         -- position of max value (world) [maxposf]: 00:00:36.000, -00.10.00.001, Pangle
+2025-09-16 14:57:15	INFO		         -- position of min value (world) [minposf]: 00:00:28.000, -00.10.00.001, Pangle
+2025-09-16 14:57:15	INFO		         -- Sum of pixel values [sum]:               9000.02 deg
+2025-09-16 14:57:15	INFO		         -- Sum of squared pixel values [sumsq]:     202501 deg.deg
+2025-09-16 14:57:15	INFO		Statistics --- 
+2025-09-16 14:57:15	INFO		        -- Mean of the pixel values [mean]:         22.5 deg
+2025-09-16 14:57:15	INFO		        -- Variance of the pixel values :           6.26899e-10 deg
+2025-09-16 14:57:15	INFO		        -- Standard deviation of the Mean [sigma]:  2.5038e-05 deg
+2025-09-16 14:57:15	INFO		        -- Root mean square [rms]:                  22.5 deg
+2025-09-16 14:57:15	INFO	ImageStatsCalculator::statistics	Sum column unit = deg
+2025-09-16 14:57:15	INFO	ImageStatsCalculator::statistics+	Mean column unit = deg
+2025-09-16 14:57:15	INFO	ImageStatsCalculator::statistics+	Std_dev column unit = deg
+2025-09-16 14:57:15	INFO	ImageStatsCalculator::statistics+	Minimum column unit = deg
+2025-09-16 14:57:15	INFO	ImageStatsCalculator::statistics+	Maximum column unit = deg
+2025-09-16 14:57:15	INFO	ImageStatsCalculator::statistics	Npts          Sum           Mean          Rms           Std_dev       Minimum       Maximum     
+2025-09-16 14:57:15	INFO	ImageStatsCalculator::statistics	 4.000000e+02  9.000018e+03  2.250005e+01  2.250005e+01  2.503796e-05  2.249998e+01  2.250008e+01
+2025-09-16 14:57:15	INFO		deleted table /scratch/scastro/casa/Tests/reports/pa0.im

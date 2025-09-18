@@ -1,0 +1,3 @@
+ :  frequency, default start, width='23983.4km/s', TOPO
+/casadata/repository/casatestdata/unittest/deconvolve/
+refim_point
