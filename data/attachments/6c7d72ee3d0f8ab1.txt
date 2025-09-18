@@ -1,0 +1,2 @@
+sh: pdftk: command not found
+sh: gs: command not found

@@ -1,0 +1,2 @@
+ :  frequency, start={'m0': {'unit': 'Hz', 'value': 1199989000.0}, 'refer': 'LSRK', 'type': 'frequency'}, default width, veltype=radio LSRK
+[check_spec_frame] tstCubetest_stmfreqdefwd.image: Spec frame is LSRK with crval 1199990000.0 (Pass : should be LSRK with expected crval 1199989000.0 )

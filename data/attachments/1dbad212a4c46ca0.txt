@@ -1,0 +1,3 @@
+2025-09-16 15:17:12	SEVERE	getcell::TIME	Exception Reported: TableProxy::getCell: no such row
+2025-09-16 15:17:12	SEVERE	getcell::TIME	Exception Reported: TableProxy::getCell: no such row
+2025-09-16 15:17:12	WARN	MSConcat::concatenate (file /source/casa6/casatools/casacore/ms/MSOper/MSConcat.cc, line 1000)	Zero or negative scan numbers in MS. May lead to duplicate scan numbers in concatenated MS.

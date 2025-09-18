@@ -1,0 +1,4 @@
+The MS is already around, just unflag
+Channel 51 had more than 50% and got extended. PASS
+Channel 52 had less than 50% and did not get extended. PASS
+Channel 51 in RL had less than 50% but got completely flagged because Channel 51 in LL got extended. PASS

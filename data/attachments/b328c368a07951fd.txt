@@ -1,0 +1,715 @@
+2025-09-16 14:56:50	INFO		Created ComponentListImage  of shape [30, 30, 4, 1].
+2025-09-16 14:56:50	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:50	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:50	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:56:50	INFO	ImageFitter::_finishConstruction	No estimates file specified, so will attempt to find and fit one gaussian.
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [29, 29, 0, 0]  (00:01:00.001, -00.15.00.003, I, 1.415e+09Hz to 23:59:03.999, +00.14.00.002, I, 1.415e+09Hz)
+2025-09-16 14:56:50	WARN	ImageFitter::clearNoiseFWHM	noiseFWHM not specified and image has no beam, using uncorrelated noise expressions to calculate uncertainties
+2025-09-16 14:56:50	INFO	ImageFitter::fit	noise FWHM not specified and image has no beam, so uncertainties will be computed assuming pixel noise is uncorrelated.
+2025-09-16 14:56:50	INFO	ImageFitter::fit	****** Fit performed at Tue Sep 16 14:56:50 2025******
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	Input parameters ---
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- imagename:           Temporary ComponentListImage
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- region:              
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- channel:             0
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- stokes:              I
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- mask:                
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- include pixel range: []
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- exclude pixel range: []
+2025-09-16 14:56:50	INFO	ImageFitter::_fitsky	Fitter was able to find a solution in 8 iterations.
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord+	    [13, 13] to [17, 17]  (00:00:08.000, -00.02.00.000 to 23:59:52.000, +00.02.00.000)
+2025-09-16 14:56:50	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop	*** Details of fit for channel number 0
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Number of pixels used in fit: 900
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Input and residual image statistics (to be used as a rough guide only as to goodness of fit)
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Standard deviation of input image: 0.00482767 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Standard deviation of residual image: 5.23265e-10 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- RMS of input image: 0.00495127 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- RMS of residual image: 5.34315e-10 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Fit on Temporary ComponentListImage component 0
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Position ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- ra:    00:00:00.000000000 +/- 0.000000035 s (0.000000518 arcsec along great circle)
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- dec: +000.00.00.000000000 +/- 0.000000648 arcsec
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- ra:  15.0000000000 +/- 0.0000000086 pixels
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- dec: 15.0000000000 +/- 0.0000000108 pixels
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Image component size ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- major axis FWHM:     4.999999184 +/- 0.000000025 arcmin
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- minor axis FWHM:     3.999999556 +/- 0.000000020 arcmin
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- position angle: -0.000000000 +/- 0.000000916 deg
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Flux ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Integrated:   999.9998212 +/- 0.0000051 mJy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Peak:         44.12712424 +/- 0.00000022 mJy/pixel
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Polarization: I
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Spectrum ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	      --- frequency:        1.415000 GHz (21.18675 cm)
+2025-09-16 14:56:50	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:50	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:50	INFO	CasacRegionManager::fromBCS	Using polarizations Q
+2025-09-16 14:56:50	INFO	ImageFitter::_finishConstruction	No estimates file specified, so will attempt to find and fit one gaussian.
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord+	    [0, 0, 1, 0] to [29, 29, 1, 0]  (00:01:00.001, -00.15.00.003, Q, 1.415e+09Hz to 23:59:03.999, +00.14.00.002, Q, 1.415e+09Hz)
+2025-09-16 14:56:50	WARN	ImageFitter::clearNoiseFWHM	noiseFWHM not specified and image has no beam, using uncorrelated noise expressions to calculate uncertainties
+2025-09-16 14:56:50	INFO	ImageFitter::fit	noise FWHM not specified and image has no beam, so uncertainties will be computed assuming pixel noise is uncorrelated.
+2025-09-16 14:56:50	INFO	ImageFitter::fit	****** Fit performed at Tue Sep 16 14:56:50 2025******
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	Input parameters ---
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- imagename:           Temporary ComponentListImage
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- region:              
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- channel:             0
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- stokes:              Q
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- mask:                
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- include pixel range: []
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- exclude pixel range: []
+2025-09-16 14:56:50	INFO	ImageFitter::_fitsky	Fitter was able to find a solution in 8 iterations.
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord+	    [13, 13] to [17, 17]  (00:00:08.000, -00.02.00.000 to 23:59:52.000, +00.02.00.000)
+2025-09-16 14:56:50	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop	*** Details of fit for channel number 0
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Number of pixels used in fit: 900
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Input and residual image statistics (to be used as a rough guide only as to goodness of fit)
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Standard deviation of input image: 0.00965534 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Standard deviation of residual image: 1.04653e-09 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- RMS of input image: 0.00990254 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- RMS of residual image: 1.06863e-09 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Fit on Temporary ComponentListImage component 0
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Position ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- ra:    00:00:00.000000000 +/- 0.000000035 s (0.000000518 arcsec along great circle)
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- dec: +000.00.00.000000000 +/- 0.000000648 arcsec
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- ra:  15.0000000000 +/- 0.0000000086 pixels
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- dec: 15.0000000000 +/- 0.0000000108 pixels
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Image component size ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- major axis FWHM:     4.999999184 +/- 0.000000025 arcmin
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- minor axis FWHM:     3.999999556 +/- 0.000000020 arcmin
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- position angle: -0.000000000 +/- 0.000000916 deg
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Flux ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Integrated:   1.999999642 +/- 0.000000010 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Peak:         88.25424848 +/- 0.00000045 mJy/pixel
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Polarization: Q
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Spectrum ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	      --- frequency:        1.415000 GHz (21.18675 cm)
+2025-09-16 14:56:50	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:50	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:50	INFO	CasacRegionManager::fromBCS	Using polarizations U
+2025-09-16 14:56:50	INFO	ImageFitter::_finishConstruction	No estimates file specified, so will attempt to find and fit one gaussian.
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord+	    [0, 0, 2, 0] to [29, 29, 2, 0]  (00:01:00.001, -00.15.00.003, U, 1.415e+09Hz to 23:59:03.999, +00.14.00.002, U, 1.415e+09Hz)
+2025-09-16 14:56:50	WARN	ImageFitter::clearNoiseFWHM	noiseFWHM not specified and image has no beam, using uncorrelated noise expressions to calculate uncertainties
+2025-09-16 14:56:50	INFO	ImageFitter::fit	noise FWHM not specified and image has no beam, so uncertainties will be computed assuming pixel noise is uncorrelated.
+2025-09-16 14:56:50	INFO	ImageFitter::fit	****** Fit performed at Tue Sep 16 14:56:50 2025******
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	Input parameters ---
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- imagename:           Temporary ComponentListImage
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- region:              
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- channel:             0
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- stokes:              U
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- mask:                
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- include pixel range: []
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- exclude pixel range: []
+2025-09-16 14:56:50	INFO	ImageFitter::_fitsky	Fitter was able to find a solution in 8 iterations.
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord+	    [13, 13] to [17, 17]  (00:00:08.000, -00.02.00.000 to 23:59:52.000, +00.02.00.000)
+2025-09-16 14:56:50	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop	*** Details of fit for channel number 0
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Number of pixels used in fit: 900
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Input and residual image statistics (to be used as a rough guide only as to goodness of fit)
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Standard deviation of input image: 0.014483 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Standard deviation of residual image: 1.51742e-09 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- RMS of input image: 0.0148538 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- RMS of residual image: 1.55997e-09 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Fit on Temporary ComponentListImage component 0
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Position ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- ra:    00:00:00.000000000 +/- 0.000000034 s (0.000000505 arcsec along great circle)
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- dec: +000.00.00.000000000 +/- 0.000000631 arcsec
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- ra:  15.0000000000 +/- 0.0000000084 pixels
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- dec: 15.0000000000 +/- 0.0000000105 pixels
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Image component size ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- major axis FWHM:     4.999999172 +/- 0.000000025 arcmin
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- minor axis FWHM:     3.999999514 +/- 0.000000020 arcmin
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- position angle: -0.000000000 +/- 0.000000891 deg
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Flux ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Integrated:   2.999999523 +/- 0.000000015 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Peak:         132.38137704 +/- 0.00000066 mJy/pixel
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Polarization: U
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Spectrum ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	      --- frequency:        1.415000 GHz (21.18675 cm)
+2025-09-16 14:56:50	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:50	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:50	INFO	CasacRegionManager::fromBCS	Using polarizations V
+2025-09-16 14:56:50	INFO	ImageFitter::_finishConstruction	No estimates file specified, so will attempt to find and fit one gaussian.
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord+	    [0, 0, 3, 0] to [29, 29, 3, 0]  (00:01:00.001, -00.15.00.003, V, 1.415e+09Hz to 23:59:03.999, +00.14.00.002, V, 1.415e+09Hz)
+2025-09-16 14:56:50	WARN	ImageFitter::clearNoiseFWHM	noiseFWHM not specified and image has no beam, using uncorrelated noise expressions to calculate uncertainties
+2025-09-16 14:56:50	INFO	ImageFitter::fit	noise FWHM not specified and image has no beam, so uncertainties will be computed assuming pixel noise is uncorrelated.
+2025-09-16 14:56:50	INFO	ImageFitter::fit	****** Fit performed at Tue Sep 16 14:56:50 2025******
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	Input parameters ---
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- imagename:           Temporary ComponentListImage
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- region:              
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- channel:             0
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- stokes:              V
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- mask:                
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- include pixel range: []
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- exclude pixel range: []
+2025-09-16 14:56:50	INFO	ImageFitter::_fitsky	Fitter was able to find a solution in 9 iterations.
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord+	    [13, 13] to [17, 17]  (00:00:08.000, -00.02.00.000 to 23:59:52.000, +00.02.00.000)
+2025-09-16 14:56:50	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop	*** Details of fit for channel number 0
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Number of pixels used in fit: 900
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Input and residual image statistics (to be used as a rough guide only as to goodness of fit)
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Standard deviation of input image: 0.0193107 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Standard deviation of residual image: 2.09306e-09 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- RMS of input image: 0.0198051 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- RMS of residual image: 2.13726e-09 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Fit on Temporary ComponentListImage component 0
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Position ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- ra:    00:00:00.000000000 +/- 0.000000035 s (0.000000518 arcsec along great circle)
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- dec: +000.00.00.000000000 +/- 0.000000648 arcsec
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- ra:  15.0000000000 +/- 0.0000000086 pixels
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- dec: 15.0000000000 +/- 0.0000000108 pixels
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Image component size ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- major axis FWHM:     4.999999184 +/- 0.000000025 arcmin
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- minor axis FWHM:     3.999999556 +/- 0.000000020 arcmin
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- position angle: -0.000000000 +/- 0.000000916 deg
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Flux ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Integrated:   3.999999285 +/- 0.000000020 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Peak:         176.50849696 +/- 0.00000090 mJy/pixel
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Polarization: V
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Spectrum ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	      --- frequency:        1.415000 GHz (21.18675 cm)
+2025-09-16 14:56:50	INFO		Created ComponentListImage  of shape [30, 30, 4, 1].
+2025-09-16 14:56:50	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:50	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:50	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:56:50	INFO	ImageFitter::_finishConstruction	No estimates file specified, so will attempt to find and fit one gaussian.
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [29, 29, 0, 0]  (00:01:00.001, -00.15.00.003, I, 1.415e+09Hz to 23:59:03.999, +00.14.00.002, I, 1.415e+09Hz)
+2025-09-16 14:56:50	WARN	ImageFitter::clearNoiseFWHM	noiseFWHM not specified and image has no beam, using uncorrelated noise expressions to calculate uncertainties
+2025-09-16 14:56:50	INFO	ImageFitter::fit	noise FWHM not specified and image has no beam, so uncertainties will be computed assuming pixel noise is uncorrelated.
+2025-09-16 14:56:50	INFO	ImageFitter::fit	****** Fit performed at Tue Sep 16 14:56:50 2025******
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	Input parameters ---
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- imagename:           Temporary ComponentListImage
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- region:              
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- channel:             0
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- stokes:              I
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- mask:                
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- include pixel range: []
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- exclude pixel range: []
+2025-09-16 14:56:50	INFO	ImageFitter::_fitsky	Fitter was able to find a solution in 8 iterations.
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord+	    [11, 9] to [14, 13]  (00:00:16.000, -00.06.00.000 to 00:00:04.000, -00.02.00.000)
+2025-09-16 14:56:50	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop	*** Details of fit for channel number 0
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Number of pixels used in fit: 900
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Input and residual image statistics (to be used as a rough guide only as to goodness of fit)
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Standard deviation of input image: 0.00482767 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Standard deviation of residual image: 2.10971e-09 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- RMS of input image: 0.00495127 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- RMS of residual image: 2.11148e-09 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Fit on Temporary ComponentListImage component 0
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Position ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- ra:    00:00:09.99999719 +/- 0.00000014 s (0.00000205 arcsec along great circle)
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- dec: -000.04.17.99991062 +/- 0.00000256 arcsec
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- ra:  12.500002879 +/- 0.000000034 pixels
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- dec: 10.700002611 +/- 0.000000043 pixels
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Image component size ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- major axis FWHM:     4.999996940 +/- 0.000000101 arcmin
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- minor axis FWHM:     4.000000388 +/- 0.000000080 arcmin
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- position angle: 0.0001081 +/- 0.0000036 deg
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Flux ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Integrated:   999.999583 +/- 0.000020 mJy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Peak:         44.12712435 +/- 0.00000089 mJy/pixel
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Polarization: I
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Spectrum ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	      --- frequency:        1.415000 GHz (21.18675 cm)
+2025-09-16 14:56:50	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:50	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:50	INFO	CasacRegionManager::fromBCS	Using polarizations Q
+2025-09-16 14:56:50	INFO	ImageFitter::_finishConstruction	No estimates file specified, so will attempt to find and fit one gaussian.
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord+	    [0, 0, 1, 0] to [29, 29, 1, 0]  (00:01:00.001, -00.15.00.003, Q, 1.415e+09Hz to 23:59:03.999, +00.14.00.002, Q, 1.415e+09Hz)
+2025-09-16 14:56:50	WARN	ImageFitter::clearNoiseFWHM	noiseFWHM not specified and image has no beam, using uncorrelated noise expressions to calculate uncertainties
+2025-09-16 14:56:50	INFO	ImageFitter::fit	noise FWHM not specified and image has no beam, so uncertainties will be computed assuming pixel noise is uncorrelated.
+2025-09-16 14:56:50	INFO	ImageFitter::fit	****** Fit performed at Tue Sep 16 14:56:50 2025******
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	Input parameters ---
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- imagename:           Temporary ComponentListImage
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- region:              
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- channel:             0
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- stokes:              Q
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- mask:                
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- include pixel range: []
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- exclude pixel range: []
+2025-09-16 14:56:50	INFO	ImageFitter::_fitsky	Fitter was able to find a solution in 8 iterations.
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord+	    [11, 9] to [14, 13]  (00:00:16.000, -00.06.00.000 to 00:00:04.000, -00.02.00.000)
+2025-09-16 14:56:50	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop	*** Details of fit for channel number 0
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Number of pixels used in fit: 900
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Input and residual image statistics (to be used as a rough guide only as to goodness of fit)
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Standard deviation of input image: 0.00965533 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Standard deviation of residual image: 4.21943e-09 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- RMS of input image: 0.00990253 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- RMS of residual image: 4.22297e-09 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Fit on Temporary ComponentListImage component 0
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Position ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- ra:    00:00:09.99999719 +/- 0.00000014 s (0.00000205 arcsec along great circle)
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- dec: -000.04.17.99991062 +/- 0.00000256 arcsec
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- ra:  12.500002879 +/- 0.000000034 pixels
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- dec: 10.700002611 +/- 0.000000043 pixels
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Image component size ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- major axis FWHM:     4.999996940 +/- 0.000000101 arcmin
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- minor axis FWHM:     4.000000388 +/- 0.000000080 arcmin
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- position angle: 0.0001081 +/- 0.0000036 deg
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Flux ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Integrated:   1.999999166 +/- 0.000000040 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Peak:         88.2542487 +/- 0.0000018 mJy/pixel
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Polarization: Q
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Spectrum ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	      --- frequency:        1.415000 GHz (21.18675 cm)
+2025-09-16 14:56:50	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:50	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:50	INFO	CasacRegionManager::fromBCS	Using polarizations U
+2025-09-16 14:56:50	INFO	ImageFitter::_finishConstruction	No estimates file specified, so will attempt to find and fit one gaussian.
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord+	    [0, 0, 2, 0] to [29, 29, 2, 0]  (00:01:00.001, -00.15.00.003, U, 1.415e+09Hz to 23:59:03.999, +00.14.00.002, U, 1.415e+09Hz)
+2025-09-16 14:56:50	WARN	ImageFitter::clearNoiseFWHM	noiseFWHM not specified and image has no beam, using uncorrelated noise expressions to calculate uncertainties
+2025-09-16 14:56:50	INFO	ImageFitter::fit	noise FWHM not specified and image has no beam, so uncertainties will be computed assuming pixel noise is uncorrelated.
+2025-09-16 14:56:50	INFO	ImageFitter::fit	****** Fit performed at Tue Sep 16 14:56:50 2025******
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	Input parameters ---
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- imagename:           Temporary ComponentListImage
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- region:              
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- channel:             0
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- stokes:              U
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- mask:                
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- include pixel range: []
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- exclude pixel range: []
+2025-09-16 14:56:50	INFO	ImageFitter::_fitsky	Fitter was able to find a solution in 8 iterations.
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord+	    [11, 9] to [14, 13]  (00:00:16.000, -00.06.00.000 to 00:00:04.000, -00.02.00.000)
+2025-09-16 14:56:50	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop	*** Details of fit for channel number 0
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Number of pixels used in fit: 900
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Input and residual image statistics (to be used as a rough guide only as to goodness of fit)
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Standard deviation of input image: 0.014483 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Standard deviation of residual image: 6.37553e-09 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- RMS of input image: 0.0148538 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- RMS of residual image: 6.38152e-09 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Fit on Temporary ComponentListImage component 0
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Position ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- ra:    00:00:09.99999723 +/- 0.00000014 s (0.00000206 arcsec along great circle)
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- dec: -000.04.17.99991048 +/- 0.00000258 arcsec
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- ra:  12.500002868 +/- 0.000000034 pixels
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- dec: 10.700002613 +/- 0.000000043 pixels
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Image component size ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- major axis FWHM:     4.999996976 +/- 0.000000101 arcmin
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- minor axis FWHM:     4.000000401 +/- 0.000000081 arcmin
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- position angle: 0.0001072 +/- 0.0000036 deg
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Flux ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Integrated:   2.999998808 +/- 0.000000061 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Peak:         132.3813743 +/- 0.0000027 mJy/pixel
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Polarization: U
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Spectrum ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	      --- frequency:        1.415000 GHz (21.18675 cm)
+2025-09-16 14:56:50	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:50	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:50	INFO	CasacRegionManager::fromBCS	Using polarizations V
+2025-09-16 14:56:50	INFO	ImageFitter::_finishConstruction	No estimates file specified, so will attempt to find and fit one gaussian.
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord+	    [0, 0, 3, 0] to [29, 29, 3, 0]  (00:01:00.001, -00.15.00.003, V, 1.415e+09Hz to 23:59:03.999, +00.14.00.002, V, 1.415e+09Hz)
+2025-09-16 14:56:50	WARN	ImageFitter::clearNoiseFWHM	noiseFWHM not specified and image has no beam, using uncorrelated noise expressions to calculate uncertainties
+2025-09-16 14:56:50	INFO	ImageFitter::fit	noise FWHM not specified and image has no beam, so uncertainties will be computed assuming pixel noise is uncorrelated.
+2025-09-16 14:56:50	INFO	ImageFitter::fit	****** Fit performed at Tue Sep 16 14:56:50 2025******
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	Input parameters ---
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- imagename:           Temporary ComponentListImage
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- region:              
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- channel:             0
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- stokes:              V
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- mask:                
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- include pixel range: []
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- exclude pixel range: []
+2025-09-16 14:56:50	INFO	ImageFitter::_fitsky	Fitter was able to find a solution in 8 iterations.
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord+	    [11, 9] to [14, 13]  (00:00:16.000, -00.06.00.000 to 00:00:04.000, -00.02.00.000)
+2025-09-16 14:56:50	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop	*** Details of fit for channel number 0
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Number of pixels used in fit: 900
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Input and residual image statistics (to be used as a rough guide only as to goodness of fit)
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Standard deviation of input image: 0.0193107 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Standard deviation of residual image: 8.43886e-09 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- RMS of input image: 0.0198051 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- RMS of residual image: 8.44594e-09 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Fit on Temporary ComponentListImage component 0
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Position ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- ra:    00:00:09.99999719 +/- 0.00000014 s (0.00000205 arcsec along great circle)
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- dec: -000.04.17.99991062 +/- 0.00000256 arcsec
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- ra:  12.500002879 +/- 0.000000034 pixels
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- dec: 10.700002611 +/- 0.000000043 pixels
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Image component size ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- major axis FWHM:     4.999996940 +/- 0.000000101 arcmin
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- minor axis FWHM:     4.000000388 +/- 0.000000080 arcmin
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- position angle: 0.0001081 +/- 0.0000036 deg
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Flux ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Integrated:   3.999998331 +/- 0.000000080 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Peak:         176.5084974 +/- 0.0000035 mJy/pixel
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Polarization: V
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Spectrum ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	      --- frequency:        1.415000 GHz (21.18675 cm)
+2025-09-16 14:56:50	INFO		Created ComponentListImage  of shape [30, 30, 4, 1].
+2025-09-16 14:56:50	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:50	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:50	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:56:50	INFO	ImageFitter::_finishConstruction	File /casadata/repository/casatestdata/unittest/image/2gauss_estimates.txt has 2 specified, so will attempt to fit that many gaussians 
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [29, 29, 0, 0]  (00:01:00.001, -00.15.00.003, I, 1.415e+09Hz to 23:59:03.999, +00.14.00.002, I, 1.415e+09Hz)
+2025-09-16 14:56:50	WARN	ImageFitter::clearNoiseFWHM	noiseFWHM not specified and image has no beam, using uncorrelated noise expressions to calculate uncertainties
+2025-09-16 14:56:50	INFO	ImageFitter::fit	noise FWHM not specified and image has no beam, so uncertainties will be computed assuming pixel noise is uncorrelated.
+2025-09-16 14:56:50	INFO	ImageFitter::fit	****** Fit performed at Tue Sep 16 14:56:50 2025******
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	Input parameters ---
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- imagename:           Temporary ComponentListImage
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- region:              
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- channel:             0
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- stokes:              I
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- mask:                
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- include pixel range: []
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- exclude pixel range: []
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- initial estimates:   Peak, X, Y, a, b, PA
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	                                0.1, 15, 15, 5arcmin, 4arcmin, 0deg
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	0.1, 12.5, 10.7, 5arcmin, 4arcmin, 0deg
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	 
+2025-09-16 14:56:50	INFO	ImageFitter::_fitsky	Fitter was able to find a solution in 5 iterations.
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord+	    [13, 13] to [17, 17]  (00:00:08.000, -00.02.00.000 to 23:59:52.000, +00.02.00.000)
+2025-09-16 14:56:50	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord+	    [11, 9] to [14, 13]  (00:00:16.000, -00.06.00.000 to 00:00:04.000, -00.02.00.000)
+2025-09-16 14:56:50	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop	*** Details of fit for channel number 0
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Number of pixels used in fit: 900
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Input and residual image statistics (to be used as a rough guide only as to goodness of fit)
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Standard deviation of input image: 0.00737463 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Standard deviation of residual image: 1.44541e-09 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- RMS of input image: 0.00769825 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- RMS of residual image: 1.47134e-09 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Fit on Temporary ComponentListImage component 0
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Position ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- ra:    00:00:00.000004523 +/- 0.000000095 s (0.000001428 arcsec along great circle)
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- dec: -000.00.00.000100626 +/- 0.000001785 arcsec
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- ra:  14.999998869 +/- 0.000000024 pixels
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- dec: 14.999998323 +/- 0.000000030 pixels
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Image component size ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- major axis FWHM:     5.000000796 +/- 0.000000070 arcmin
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- minor axis FWHM:     4.000000666 +/- 0.000000056 arcmin
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- position angle: 179.9999415 +/- 0.0000025 deg
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Flux ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Integrated:   1.000000954 +/- 0.000000014 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Peak:         44.12714775 +/- 0.00000062 mJy/pixel
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Polarization: I
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Spectrum ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	      --- frequency:        1.415000 GHz (21.18675 cm)
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Fit on Temporary ComponentListImage component 1
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Position ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- ra:    00:00:10.000000985 +/- 0.000000095 s (0.000001428 arcsec along great circle)
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- dec: -000.04.18.000016524 +/- 0.000001785 arcsec
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- ra:  12.500001930 +/- 0.000000024 pixels
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- dec: 10.700000846 +/- 0.000000030 pixels
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Image component size ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- major axis FWHM:     4.999994195 +/- 0.000000070 arcmin
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- minor axis FWHM:     3.999999350 +/- 0.000000056 arcmin
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- position angle: 0.0001899 +/- 0.0000025 deg
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Flux ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Integrated:   999.998569 +/- 0.000014 mJy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Peak:         44.12711531 +/- 0.00000062 mJy/pixel
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Polarization: I
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Spectrum ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	      --- frequency:        1.415000 GHz (21.18675 cm)
+2025-09-16 14:56:50	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:50	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:50	INFO	CasacRegionManager::fromBCS	Using polarizations Q
+2025-09-16 14:56:50	INFO	ImageFitter::_finishConstruction	File /casadata/repository/casatestdata/unittest/image/2gauss_estimates.txt has 2 specified, so will attempt to fit that many gaussians 
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord+	    [0, 0, 1, 0] to [29, 29, 1, 0]  (00:01:00.001, -00.15.00.003, Q, 1.415e+09Hz to 23:59:03.999, +00.14.00.002, Q, 1.415e+09Hz)
+2025-09-16 14:56:50	WARN	ImageFitter::clearNoiseFWHM	noiseFWHM not specified and image has no beam, using uncorrelated noise expressions to calculate uncertainties
+2025-09-16 14:56:50	INFO	ImageFitter::fit	noise FWHM not specified and image has no beam, so uncertainties will be computed assuming pixel noise is uncorrelated.
+2025-09-16 14:56:50	INFO	ImageFitter::fit	****** Fit performed at Tue Sep 16 14:56:50 2025******
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	Input parameters ---
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- imagename:           Temporary ComponentListImage
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- region:              
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- channel:             0
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- stokes:              Q
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- mask:                
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- include pixel range: []
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- exclude pixel range: []
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- initial estimates:   Peak, X, Y, a, b, PA
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	                                0.1, 15, 15, 5arcmin, 4arcmin, 0deg
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	0.1, 12.5, 10.7, 5arcmin, 4arcmin, 0deg
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	 
+2025-09-16 14:56:50	INFO	ImageFitter::_fitsky	Fitter was able to find a solution in 3 iterations.
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord+	    [13, 13] to [17, 17]  (00:00:08.000, -00.02.00.000 to 23:59:52.000, +00.02.00.000)
+2025-09-16 14:56:50	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord+	    [11, 9] to [14, 13]  (00:00:16.000, -00.06.00.000 to 00:00:04.000, -00.02.00.000)
+2025-09-16 14:56:50	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop	*** Details of fit for channel number 0
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Number of pixels used in fit: 900
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Input and residual image statistics (to be used as a rough guide only as to goodness of fit)
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Standard deviation of input image: 0.0147493 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Standard deviation of residual image: 2.89082e-09 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- RMS of input image: 0.0153965 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- RMS of residual image: 2.94269e-09 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Fit on Temporary ComponentListImage component 0
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Position ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- ra:    00:00:00.000004523 +/- 0.000000095 s (0.000001428 arcsec along great circle)
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- dec: -000.00.00.000100626 +/- 0.000001785 arcsec
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- ra:  14.999998869 +/- 0.000000024 pixels
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- dec: 14.999998323 +/- 0.000000030 pixels
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Image component size ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- major axis FWHM:     5.000000796 +/- 0.000000070 arcmin
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- minor axis FWHM:     4.000000666 +/- 0.000000056 arcmin
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- position angle: 179.9999415 +/- 0.0000025 deg
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Flux ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Integrated:   2.000001907 +/- 0.000000028 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Peak:         88.2542955 +/- 0.0000012 mJy/pixel
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Polarization: Q
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Spectrum ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	      --- frequency:        1.415000 GHz (21.18675 cm)
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Fit on Temporary ComponentListImage component 1
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Position ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- ra:    00:00:10.000000985 +/- 0.000000095 s (0.000001428 arcsec along great circle)
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- dec: -000.04.18.000016524 +/- 0.000001785 arcsec
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- ra:  12.500001930 +/- 0.000000024 pixels
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- dec: 10.700000846 +/- 0.000000030 pixels
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Image component size ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- major axis FWHM:     4.999994195 +/- 0.000000070 arcmin
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- minor axis FWHM:     3.999999350 +/- 0.000000056 arcmin
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- position angle: 0.0001899 +/- 0.0000025 deg
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Flux ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Integrated:   1.999997139 +/- 0.000000028 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Peak:         88.2542306 +/- 0.0000012 mJy/pixel
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Polarization: Q
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Spectrum ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	      --- frequency:        1.415000 GHz (21.18675 cm)
+2025-09-16 14:56:50	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:50	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:50	INFO	CasacRegionManager::fromBCS	Using polarizations U
+2025-09-16 14:56:50	INFO	ImageFitter::_finishConstruction	File /casadata/repository/casatestdata/unittest/image/2gauss_estimates.txt has 2 specified, so will attempt to fit that many gaussians 
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord+	    [0, 0, 2, 0] to [29, 29, 2, 0]  (00:01:00.001, -00.15.00.003, U, 1.415e+09Hz to 23:59:03.999, +00.14.00.002, U, 1.415e+09Hz)
+2025-09-16 14:56:50	WARN	ImageFitter::clearNoiseFWHM	noiseFWHM not specified and image has no beam, using uncorrelated noise expressions to calculate uncertainties
+2025-09-16 14:56:50	INFO	ImageFitter::fit	noise FWHM not specified and image has no beam, so uncertainties will be computed assuming pixel noise is uncorrelated.
+2025-09-16 14:56:50	INFO	ImageFitter::fit	****** Fit performed at Tue Sep 16 14:56:50 2025******
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	Input parameters ---
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- imagename:           Temporary ComponentListImage
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- region:              
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- channel:             0
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- stokes:              U
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- mask:                
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- include pixel range: []
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- exclude pixel range: []
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- initial estimates:   Peak, X, Y, a, b, PA
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	                                0.1, 15, 15, 5arcmin, 4arcmin, 0deg
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	0.1, 12.5, 10.7, 5arcmin, 4arcmin, 0deg
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	 
+2025-09-16 14:56:50	INFO	ImageFitter::_fitsky	Fitter was able to find a solution in 4 iterations.
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord+	    [13, 13] to [17, 17]  (00:00:08.000, -00.02.00.000 to 23:59:52.000, +00.02.00.000)
+2025-09-16 14:56:50	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord+	    [11, 9] to [14, 13]  (00:00:16.000, -00.06.00.000 to 00:00:04.000, -00.02.00.000)
+2025-09-16 14:56:50	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop	*** Details of fit for channel number 0
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Number of pixels used in fit: 900
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Input and residual image statistics (to be used as a rough guide only as to goodness of fit)
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Standard deviation of input image: 0.0221239 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Standard deviation of residual image: 4.33409e-09 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- RMS of input image: 0.0230947 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- RMS of residual image: 4.41404e-09 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Fit on Temporary ComponentListImage component 0
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Position ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- ra:    00:00:00.000004680 +/- 0.000000095 s (0.000001428 arcsec along great circle)
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- dec: -000.00.00.000107894 +/- 0.000001785 arcsec
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- ra:  14.999998830 +/- 0.000000024 pixels
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- dec: 14.999998202 +/- 0.000000030 pixels
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Image component size ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- major axis FWHM:     5.000000933 +/- 0.000000070 arcmin
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- minor axis FWHM:     4.000000683 +/- 0.000000056 arcmin
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- position angle: 179.9999396 +/- 0.0000025 deg
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Flux ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Integrated:   3.000002861 +/- 0.000000042 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Peak:         132.3814390 +/- 0.0000019 mJy/pixel
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Polarization: U
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Spectrum ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	      --- frequency:        1.415000 GHz (21.18675 cm)
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Fit on Temporary ComponentListImage component 1
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Position ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- ra:    00:00:10.000001319 +/- 0.000000095 s (0.000001428 arcsec along great circle)
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- dec: -000.04.18.000021637 +/- 0.000001785 arcsec
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- ra:  12.500001846 +/- 0.000000024 pixels
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- dec: 10.700000761 +/- 0.000000030 pixels
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Image component size ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- major axis FWHM:     4.999994144 +/- 0.000000070 arcmin
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- minor axis FWHM:     3.999999324 +/- 0.000000056 arcmin
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- position angle: 0.0001935 +/- 0.0000025 deg
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Flux ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Integrated:   2.999995470 +/- 0.000000042 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Peak:         132.3813376 +/- 0.0000019 mJy/pixel
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Polarization: U
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Spectrum ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	      --- frequency:        1.415000 GHz (21.18675 cm)
+2025-09-16 14:56:50	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:50	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:50	INFO	CasacRegionManager::fromBCS	Using polarizations V
+2025-09-16 14:56:50	INFO	ImageFitter::_finishConstruction	File /casadata/repository/casatestdata/unittest/image/2gauss_estimates.txt has 2 specified, so will attempt to fit that many gaussians 
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord+	    [0, 0, 3, 0] to [29, 29, 3, 0]  (00:01:00.001, -00.15.00.003, V, 1.415e+09Hz to 23:59:03.999, +00.14.00.002, V, 1.415e+09Hz)
+2025-09-16 14:56:50	WARN	ImageFitter::clearNoiseFWHM	noiseFWHM not specified and image has no beam, using uncorrelated noise expressions to calculate uncertainties
+2025-09-16 14:56:50	INFO	ImageFitter::fit	noise FWHM not specified and image has no beam, so uncertainties will be computed assuming pixel noise is uncorrelated.
+2025-09-16 14:56:50	INFO	ImageFitter::fit	****** Fit performed at Tue Sep 16 14:56:50 2025******
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	Input parameters ---
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- imagename:           Temporary ComponentListImage
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- region:              
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- channel:             0
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- stokes:              V
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- mask:                
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- include pixel range: []
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- exclude pixel range: []
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	       --- initial estimates:   Peak, X, Y, a, b, PA
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	                                0.1, 15, 15, 5arcmin, 4arcmin, 0deg
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	0.1, 12.5, 10.7, 5arcmin, 4arcmin, 0deg
+2025-09-16 14:56:50	INFO	ImageFitter::fit+	 
+2025-09-16 14:56:50	INFO	ImageFitter::_fitsky	Fitter was able to find a solution in 4 iterations.
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord+	    [13, 13] to [17, 17]  (00:00:08.000, -00.02.00.000 to 23:59:52.000, +00.02.00.000)
+2025-09-16 14:56:50	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:50	INFO	ImageRegion::fromRecord+	    [11, 9] to [14, 13]  (00:00:16.000, -00.06.00.000 to 00:00:04.000, -00.02.00.000)
+2025-09-16 14:56:50	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop	*** Details of fit for channel number 0
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Number of pixels used in fit: 900
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Input and residual image statistics (to be used as a rough guide only as to goodness of fit)
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Standard deviation of input image: 0.0294985 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Standard deviation of residual image: 5.78163e-09 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- RMS of input image: 0.030793 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- RMS of residual image: 5.88537e-09 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Fit on Temporary ComponentListImage component 0
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Position ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- ra:    00:00:00.000004523 +/- 0.000000095 s (0.000001428 arcsec along great circle)
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- dec: -000.00.00.000100626 +/- 0.000001785 arcsec
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- ra:  14.999998869 +/- 0.000000024 pixels
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- dec: 14.999998323 +/- 0.000000030 pixels
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Image component size ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- major axis FWHM:     5.000000796 +/- 0.000000070 arcmin
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- minor axis FWHM:     4.000000666 +/- 0.000000056 arcmin
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- position angle: 179.9999415 +/- 0.0000025 deg
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Flux ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Integrated:   4.000003815 +/- 0.000000056 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Peak:         176.5085910 +/- 0.0000025 mJy/pixel
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Polarization: V
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Spectrum ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	      --- frequency:        1.415000 GHz (21.18675 cm)
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Fit on Temporary ComponentListImage component 1
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Position ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- ra:    00:00:10.000000985 +/- 0.000000095 s (0.000001428 arcsec along great circle)
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- dec: -000.04.18.000016524 +/- 0.000001785 arcsec
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- ra:  12.500001930 +/- 0.000000024 pixels
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- dec: 10.700000846 +/- 0.000000030 pixels
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Image component size ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- major axis FWHM:     4.999994195 +/- 0.000000070 arcmin
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- minor axis FWHM:     3.999999350 +/- 0.000000056 arcmin
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- position angle: 0.0001899 +/- 0.0000025 deg
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Flux ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Integrated:   3.999994278 +/- 0.000000056 Jy
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Peak:         176.5084612 +/- 0.0000025 mJy/pixel
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	       --- Polarization: V
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	Spectrum ---
+2025-09-16 14:56:50	INFO	ImageFitter::_fitLoop+	      --- frequency:        1.415000 GHz (21.18675 cm)

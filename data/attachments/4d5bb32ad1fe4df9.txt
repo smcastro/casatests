@@ -1,0 +1,96 @@
+2025-09-16 14:58:33	INFO	test
+::StatWtColConfig::_determineFlags	Updating the WEIGHT/WEIGHT_SPECTRUM values. SIGMA/SIGMA_SPECTRUM values will not be recalculated as they are related to the values in the DATA column.
+2025-09-16 14:58:33	INFO	test
+::StatWtTVI::StatWtTVI	Using CORRECTED_DATA to compute weights
+2025-09-16 14:58:34	INFO	test
+::StatWtTVI::summarizeFlagging	Originally, 18.197% of the data were flagged. StatWtTVI flagged an additional 0%.
+2025-09-16 14:58:34	INFO	test
+::StatWtTVI::summarizeFlagging	TOTAL FLAGGED DATA AFTER RUNNING STATWT: 18.197%
+2025-09-16 14:58:34	INFO	test
+::StatWtTVI::summarizeFlagging	
+2025-09-16 14:58:34	INFO	test
+::StatWtTVI::summarizeFlagging	SPECTRAL_WINDOW SAMPLES_WITH_NON-ZERO_VARIANCE SAMPLES_WHERE_REAL_PART_VARIANCE_DIFFERS_BY_>50%_FROM_IMAGINARY_PART
+2025-09-16 14:58:34	INFO	test
+::StatWtTVI::summarizeFlagging	              0                           5399                                                                 3837
+2025-09-16 14:58:34	INFO	test
+::StatWtTVI::_logUsedChannels	Weights are being computed using SPW 0, channels 0~62
+2025-09-16 14:58:34	INFO	test
+::StatWtTVI::summarizeStats	The mean of the computed weights is 3.69122
+2025-09-16 14:58:34	INFO	test
+::StatWtTVI::summarizeStats	The variance of the computed weights is 6.86097
+2025-09-16 14:58:34	INFO	test
+::StatWtTVI::summarizeStats	Weights which had corresponding flags of True prior to running this application were not used to compute these stats.
+2025-09-16 14:58:34	INFO	test
+::StatWtColConfig::_determineFlags	Updating the WEIGHT/WEIGHT_SPECTRUM values. SIGMA/SIGMA_SPECTRUM values will not be recalculated as they are related to the values in the DATA column.
+2025-09-16 14:58:34	INFO	test
+::StatWtTVI::StatWtTVI	Using CORRECTED_DATA to compute weights
+2025-09-16 14:58:34	INFO	test
+::StatWtTVI::summarizeFlagging	Originally, 18.197% of the data were flagged. StatWtTVI flagged an additional 0%.
+2025-09-16 14:58:34	INFO	test
+::StatWtTVI::summarizeFlagging	TOTAL FLAGGED DATA AFTER RUNNING STATWT: 18.197%
+2025-09-16 14:58:34	INFO	test
+::StatWtTVI::summarizeFlagging	
+2025-09-16 14:58:34	INFO	test
+::StatWtTVI::summarizeFlagging	SPECTRAL_WINDOW SAMPLES_WITH_NON-ZERO_VARIANCE SAMPLES_WHERE_REAL_PART_VARIANCE_DIFFERS_BY_>50%_FROM_IMAGINARY_PART
+2025-09-16 14:58:34	INFO	test
+::StatWtTVI::summarizeFlagging	              0                           5399                                                                 2485
+2025-09-16 14:58:34	INFO	test
+::StatWtTVI::_logUsedChannels	Weights are being computed using SPW 0, channels 0~62
+2025-09-16 14:58:34	INFO	test
+::StatWtTVI::summarizeStats	The mean of the computed weights is 9.49987
+2025-09-16 14:58:34	INFO	test
+::StatWtTVI::summarizeStats	The variance of the computed weights is 19.7106
+2025-09-16 14:58:34	INFO	test
+::StatWtTVI::summarizeStats	Weights which had corresponding flags of True prior to running this application were not used to compute these stats.
+2025-09-16 14:58:34	INFO	test
+::StatWtColConfig::_determineFlags	Updating the WEIGHT/WEIGHT_SPECTRUM values. SIGMA/SIGMA_SPECTRUM values will not be recalculated as they are related to the values in the DATA column.
+2025-09-16 14:58:34	INFO	test
+::StatWtTVI::StatWtTVI	Using CORRECTED_DATA to compute weights
+2025-09-16 14:58:35	INFO	test
+::StatWtTVI::summarizeFlagging	Originally, 18.197% of the data were flagged. StatWtTVI flagged an additional 0%.
+2025-09-16 14:58:35	INFO	test
+::StatWtTVI::summarizeFlagging	TOTAL FLAGGED DATA AFTER RUNNING STATWT: 18.197%
+2025-09-16 14:58:35	INFO	test
+::StatWtTVI::summarizeFlagging	
+2025-09-16 14:58:35	INFO	test
+::StatWtTVI::summarizeFlagging	SPECTRAL_WINDOW SAMPLES_WITH_NON-ZERO_VARIANCE SAMPLES_WHERE_REAL_PART_VARIANCE_DIFFERS_BY_>50%_FROM_IMAGINARY_PART
+2025-09-16 14:58:35	INFO	test
+::StatWtTVI::summarizeFlagging	              0                           5399                                                                 2320
+2025-09-16 14:58:35	INFO	test
+::StatWtTVI::_logUsedChannels	Weights are being computed using SPW 0, channels 0~62
+2025-09-16 14:58:35	INFO	test
+::StatWtTVI::summarizeStats	The mean of the computed weights is 49.5864
+2025-09-16 14:58:35	INFO	test
+::StatWtTVI::summarizeStats	The variance of the computed weights is 418.744
+2025-09-16 14:58:35	INFO	test
+::StatWtTVI::summarizeStats	Weights which had corresponding flags of True prior to running this application were not used to compute these stats.
+2025-09-16 14:58:35	INFO	test
+::StatWtColConfig::_determineFlags	Updating the WEIGHT/WEIGHT_SPECTRUM values. SIGMA/SIGMA_SPECTRUM values will not be recalculated as they are related to the values in the DATA column.
+2025-09-16 14:58:35	INFO	test
+::StatWtTVI::StatWtTVI	Using CORRECTED_DATA to compute weights
+2025-09-16 14:58:35	INFO	test
+::StatWtTVI::summarizeFlagging	Originally, 18.197% of the data were flagged. StatWtTVI flagged an additional 0%.
+2025-09-16 14:58:35	INFO	test
+::StatWtTVI::summarizeFlagging	TOTAL FLAGGED DATA AFTER RUNNING STATWT: 18.197%
+2025-09-16 14:58:35	INFO	test
+::StatWtTVI::summarizeFlagging	
+2025-09-16 14:58:35	INFO	test
+::StatWtTVI::summarizeFlagging	SPECTRAL_WINDOW SAMPLES_WITH_NON-ZERO_VARIANCE SAMPLES_WHERE_REAL_PART_VARIANCE_DIFFERS_BY_>50%_FROM_IMAGINARY_PART
+2025-09-16 14:58:35	INFO	test
+::StatWtTVI::summarizeFlagging	              0                           5399                                                                 4066
+2025-09-16 14:58:35	INFO	test
+::StatWtTVI::_logUsedChannels	Weights are being computed using SPW 0, channels 0~62
+2025-09-16 14:58:35	INFO	test
+::StatWtTVI::summarizeStats	The mean of the computed weights is 5.55784
+2025-09-16 14:58:35	INFO	test
+::StatWtTVI::summarizeStats	The variance of the computed weights is 22.2368
+2025-09-16 14:58:35	INFO	test
+::StatWtTVI::summarizeStats	Weights which had corresponding flags of True prior to running this application were not used to compute these stats.
+2025-09-16 14:58:35	INFO	test
+::StatWtColConfig::_determineFlags	Updating the WEIGHT/WEIGHT_SPECTRUM values. SIGMA/SIGMA_SPECTRUM values will not be recalculated as they are related to the values in the DATA column.
+2025-09-16 14:58:35	SEVERE	test
+::ms::statwt	Exception Reported: Unsupported value for 'statalg' at File: /source/casa6/casatools/src/code/mstransform/TVI/StatWtTVI.cc, line: 406
+2025-09-16 14:58:35	INFO	test
+::name::	No table opened.
+2025-09-16 14:58:35	INFO	test
+::name::	No table opened.

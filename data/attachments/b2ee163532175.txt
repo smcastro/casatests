@@ -1,0 +1,4 @@
+2025-09-16 15:03:03	INFO	test
+::vp::createantresp	Found 0 response images in directory /scratch/scastro/casa/Tests/reports/mydir3
+2025-09-16 15:03:03	SEVERE	test
+::vp::createantresp	No images found in directory mydir3

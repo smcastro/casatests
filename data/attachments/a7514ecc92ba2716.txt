@@ -1,0 +1,7 @@
+2025-09-16 14:57:05	INFO	ImageFactory::createImage	Created Paged image 'kbesd.im' of shape [20, 20, 20] with float valued pixels.
+2025-09-16 14:57:05	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:05	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:05	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:05	INFO	ImageRegion::fromRecord+	    [0, 0, 0] to [19, 19, 0]  (00:00:40.000, -00.10.00.001, 1.415e+09Hz to 23:59:24.000, +00.09.00.001, 1.415e+09Hz)
+2025-09-16 14:57:05	INFO	name::	No table opened.
+2025-09-16 14:57:05	INFO	showcache::	The Table Cache is empty.

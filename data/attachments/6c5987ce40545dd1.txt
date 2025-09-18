@@ -1,0 +1,2 @@
+2025-09-16 17:27:59	WARN	MSTransformManager::parseTimeAvgParams	Operating with ALMA data, automatically adding state to timespan 
+2025-09-16 17:27:59	WARN	MSTransformManager::parseTimeAvgParams+	In order to remove sub-scan boundaries which limit time average to 30s 

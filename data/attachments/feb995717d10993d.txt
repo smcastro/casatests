@@ -1,0 +1,8 @@
+2025-09-16 16:27:23	SEVERE	listobs::ms::summary	Exception Reported: Exception: File: CAS-5203.log already exists; delete it, choose another name, or set overwrite=true..
+2025-09-16 16:27:23	SEVERE	listobs::ms::summary+	... thrown by casac::record* casac::ms::summary(bool, const string&, bool, double, bool, bool) at File: src/tools/ms/ms_cmpt.cc, line: 794
+2025-09-16 16:27:23	SEVERE	listobs::::casa	Task listobs raised an exception of class RuntimeError with the following message: Exception: File: CAS-5203.log already exists; delete it, choose another name, or set overwrite=true..
+2025-09-16 16:27:23	SEVERE	listobs::::casa+	... thrown by casac::record* casac::ms::summary(bool, const string&, bool, double, bool, bool) at File: src/tools/ms/ms_cmpt.cc, line: 794
+2025-09-16 16:27:23	SEVERE	listobs::ms::summary	Exception Reported: Exception: File: CAS-5203.log already exists; delete it, choose another name, or set overwrite=true..
+2025-09-16 16:27:23	SEVERE	listobs::ms::summary+	... thrown by casac::record* casac::ms::summary(bool, const string&, bool, double, bool, bool) at File: src/tools/ms/ms_cmpt.cc, line: 794
+2025-09-16 16:27:23	SEVERE	listobs::::casa	Task listobs raised an exception of class RuntimeError with the following message: Exception: File: CAS-5203.log already exists; delete it, choose another name, or set overwrite=true..
+2025-09-16 16:27:23	SEVERE	listobs::::casa+	... thrown by casac::record* casac::ms::summary(bool, const string&, bool, double, bool, bool) at File: src/tools/ms/ms_cmpt.cc, line: 794

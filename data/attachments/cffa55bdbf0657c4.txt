@@ -1,0 +1,10 @@
+2025-09-16 14:57:15	INFO	SubImageFactory::createImage	Creating image 'transpose_0' of shape [6, 7, 5]
+2025-09-16 14:57:15	INFO	SubImageFactory::createImage	Creating image 'transpose_1' of shape [6, 7, 5]
+2025-09-16 14:57:15	INFO	SubImageFactory::createImage	Creating image 'transpose_2' of shape [6, 7, 5]
+2025-09-16 14:57:15	INFO	ImageTransposer::transpose	Old to new axis mapping is [1, 2, 0]
+2025-09-16 14:57:15	INFO	ImageTransposer::transpose	Old to new axis mapping is [1, 2, 0]
+2025-09-16 14:57:15	INFO	SubImageFactory::createImage	Creating image 'transpose_3' of shape [6, 7, 5]
+2025-09-16 14:57:15	INFO	ImageTransposer::transpose	Old to new axis mapping is [1, 2, 0]
+2025-09-16 14:57:15	INFO	ImageTransposer::transpose	Old to new axis mapping is [1, 2, 0]
+2025-09-16 14:57:15	INFO	name::	No table opened.
+2025-09-16 14:57:15	INFO	showcache::	The Table Cache is empty.

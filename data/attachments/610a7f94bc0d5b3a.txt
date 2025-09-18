@@ -1,0 +1,8 @@
+2025-09-16 17:34:07	WARN	MSTransformDataHandler::filterOptSubtable	At least one row of /casadata/repository/casatestdata/unittest/split/bogusCDSP.ms/CALDEVICE has an antenna or spw mismatch.
+2025-09-16 17:34:07	WARN	MSTransformDataHandler::filterOptSubtable+	(Presumably from an older split, sorry.)
+2025-09-16 17:34:07	WARN	MSTransformDataHandler::filterOptSubtable+	If CALDEVICE is important, it should be fixed with tb or browsetable,
+2025-09-16 17:34:07	WARN	MSTransformDataHandler::filterOptSubtable+	or by redoing the split that made /casadata/repository/casatestdata/unittest/split/bogusCDSP.ms (check its history).
+2025-09-16 17:34:08	WARN	MSTransformDataHandler::filterOptSubtable	At least one row of /casadata/repository/casatestdata/unittest/split/bogusCDSP.ms/SYSPOWER has an antenna or spw mismatch.
+2025-09-16 17:34:08	WARN	MSTransformDataHandler::filterOptSubtable+	(Presumably from an older split, sorry.)
+2025-09-16 17:34:08	WARN	MSTransformDataHandler::filterOptSubtable+	If SYSPOWER is important, it should be fixed with tb or browsetable,
+2025-09-16 17:34:08	WARN	MSTransformDataHandler::filterOptSubtable+	or by redoing the split that made /casadata/repository/casatestdata/unittest/split/bogusCDSP.ms (check its history).

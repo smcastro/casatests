@@ -1,0 +1,5 @@
+2025-09-16 15:19:27	WARN	SubMS::combineSpws()	Incomplete coverage of combined SPW starting at timestamp 16-Jul-2010/03:18:31.5, baseline ( 0, 1 )
+2025-09-16 15:19:27	WARN	SubMS::combineSpws()+	In this and further affected rows, the data arrays will be padded with zeros and corresponding channels flagged.
+2025-09-16 15:19:29	WARN	SubMS::combineSpws()	Averaging failed for the following channel/correllation pairs from output row 0 up to 8459. Corresponding visibilities will be flagged: 
+2025-09-16 15:19:29	WARN	SubMS::combineSpws()+	(4, 0) (4, 1) 
+2025-09-16 15:19:30	WARN	SubMS::combineSpws()	Incomplete coverage of combined SPW in 16920 of 16920 output rows.

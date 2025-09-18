@@ -1,0 +1,8 @@
+2025-09-16 14:55:31	INFO	calibrater::open	****Using NEW VI2-driven calibrater tool****
+2025-09-16 14:55:31	INFO	calibrater::open	Opening MS: gaincaltest2.ms for calibration.
+2025-09-16 14:55:31	INFO		Clearing all model records in MS header.
+2025-09-16 14:55:31	INFO	VisSetUtil::addScrCols	Adding MODEL_DATA and CORRECTED_DATA column(s).
+2025-09-16 14:55:32	INFO	VisSetUtil::initScrCols	Initializing MODEL_DATA to (unity).
+2025-09-16 14:55:32	INFO	VisSetUtil::initScrCols	Initialized 328860 rows.
+2025-09-16 14:55:32	INFO	Calibrater::	Initializing nominal selection to the whole MS.
+2025-09-16 14:55:32	WARN	calibrater::setvi(bool,bool)	Already using NEW VisibilityIterator.

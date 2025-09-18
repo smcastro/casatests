@@ -1,0 +1,384 @@
+test_importasdm : Success! Now checking output ...
+test_importasdm :  FIELD/table.dat present.
+test_importasdm :  POINTING/table.f0 present.
+test_importasdm :  POLARIZATION/table.f0 present.
+test_importasdm :  SPECTRAL_WINDOW/table.f0 present.
+test_importasdm :  STATE/table.f0 present.
+test_importasdm :  POINTING/table.dat present.
+test_importasdm :  FLAG_CMD/table.dat present.
+test_importasdm :  SYSCAL/table.dat present.
+test_importasdm :  POLARIZATION/table.dat present.
+test_importasdm :  FLAG_CMD/table.f0 present.
+test_importasdm :  ANTENNA/table.f0 present.
+test_importasdm :  HISTORY/table.dat present.
+test_importasdm :  ANTENNA/table.dat present.
+test_importasdm :  FIELD/table.f0 present.
+test_importasdm :  OBSERVATION/table.dat present.
+test_importasdm :  OBSERVATION/table.f0 present.
+test_importasdm :  SOURCE/table.f0 present.
+test_importasdm :  SPECTRAL_WINDOW/table.dat present.
+test_importasdm :  STATE/table.dat present.
+test_importasdm :  SYSCAL/table.f0 present.
+test_importasdm :  PROCESSOR/table.dat present.
+test_importasdm :  FEED/table.f0 present.
+test_importasdm :  HISTORY/table.f0 present.
+test_importasdm :  SOURCE/table.dat present.
+test_importasdm :  DATA_DESCRIPTION/table.dat present.
+test_importasdm :  PROCESSOR/table.f0 present.
+test_importasdm :  DATA_DESCRIPTION/table.f0 present.
+test_importasdm :  FEED/table.dat present.
+test_importasdm : MS exists. All tables present. Try opening as MS ...
+test_importasdm : OK. Checking tables in detail ...
+Found  0  rows in selection.
+DATA columns agree.
+Found  28314  rows in selection.
+FLAG columns do not agree as expected.
+
+*** Subtable  ANTENNA
+
+Testing column OFFSET
+Column OFFSET PASSED
+
+Testing column POSITION
+Column POSITION PASSED
+
+Testing column TYPE
+Column TYPE PASSED
+
+Testing column DISH_DIAMETER
+Column DISH_DIAMETER PASSED
+
+Testing column FLAG_ROW
+Column FLAG_ROW PASSED
+
+Testing column MOUNT
+Column MOUNT PASSED
+
+Testing column NAME
+Column NAME PASSED
+
+Testing column STATION
+Column STATION PASSED
+
+*** Subtable  DATA_DESCRIPTION
+
+Testing column FLAG_ROW
+Column FLAG_ROW PASSED
+
+Testing column POLARIZATION_ID
+Column POLARIZATION_ID PASSED
+
+Testing column SPECTRAL_WINDOW_ID
+Column SPECTRAL_WINDOW_ID PASSED
+
+*** Subtable  FEED
+
+Testing column POSITION
+Column POSITION PASSED
+
+Testing column BEAM_OFFSET
+Column BEAM_OFFSET PASSED
+
+Testing column POLARIZATION_TYPE
+Column POLARIZATION_TYPE PASSED
+
+Testing column POL_RESPONSE
+Column POL_RESPONSE PASSED
+
+Testing column RECEPTOR_ANGLE
+Column RECEPTOR_ANGLE PASSED
+
+Testing column ANTENNA_ID
+Column ANTENNA_ID PASSED
+
+Testing column BEAM_ID
+Column BEAM_ID PASSED
+
+Testing column FEED_ID
+Column FEED_ID PASSED
+
+Testing column INTERVAL
+Column INTERVAL PASSED
+
+Testing column NUM_RECEPTORS
+Column NUM_RECEPTORS PASSED
+
+Testing column SPECTRAL_WINDOW_ID
+Column SPECTRAL_WINDOW_ID PASSED
+
+Testing column TIME
+Column TIME PASSED
+
+*** Subtable  FIELD
+
+Testing column DELAY_DIR
+Column DELAY_DIR PASSED
+
+Testing column PHASE_DIR
+Column PHASE_DIR PASSED
+
+Testing column REFERENCE_DIR
+Column REFERENCE_DIR PASSED
+
+Testing column CODE
+Column CODE PASSED
+
+Testing column FLAG_ROW
+Column FLAG_ROW PASSED
+
+Testing column NAME
+Column NAME PASSED
+
+Testing column NUM_POLY
+Column NUM_POLY PASSED
+
+Testing column SOURCE_ID
+Column SOURCE_ID PASSED
+
+Testing column TIME
+Column TIME PASSED
+
+Testing column EPHEMERIS_ID
+Column EPHEMERIS_ID PASSED
+
+Testing column PhaseDir_Ref
+Column PhaseDir_Ref PASSED
+
+Testing column DelayDir_Ref
+Column DelayDir_Ref PASSED
+
+Testing column RefDir_Ref
+Column RefDir_Ref PASSED
+
+*** Subtable  FLAG_CMD
+
+Testing column APPLIED
+Column APPLIED PASSED
+
+Testing column COMMAND
+Column COMMAND PASSED
+
+Testing column INTERVAL
+Column INTERVAL PASSED
+
+Testing column LEVEL
+Column LEVEL PASSED
+
+Testing column REASON
+Column REASON PASSED
+
+Testing column SEVERITY
+Column SEVERITY PASSED
+
+Testing column TIME
+Column TIME PASSED
+
+Testing column TYPE
+Column TYPE PASSED
+
+*** Subtable  OBSERVATION
+
+Testing column TIME_RANGE
+Column TIME_RANGE PASSED
+
+Testing column LOG
+Column LOG PASSED
+
+Testing column SCHEDULE
+Column SCHEDULE PASSED
+
+Testing column FLAG_ROW
+Column FLAG_ROW PASSED
+
+Testing column OBSERVER
+Column OBSERVER PASSED
+
+Testing column PROJECT
+Column PROJECT PASSED
+
+Testing column RELEASE_DATE
+Column RELEASE_DATE PASSED
+
+Testing column SCHEDULE_TYPE
+Column SCHEDULE_TYPE PASSED
+
+Testing column TELESCOPE_NAME
+Column TELESCOPE_NAME PASSED
+
+*** Subtable  POLARIZATION
+Column CORR_TYPE of reference.ms/POLARIZATION and uid___A002_X71e4ae_X317_short.ms/POLARIZATION agree
+Column CORR_PRODUCT of reference.ms/POLARIZATION and uid___A002_X71e4ae_X317_short.ms/POLARIZATION agree
+
+Testing column FLAG_ROW
+Column FLAG_ROW PASSED
+
+Testing column NUM_CORR
+Column NUM_CORR PASSED
+
+*** Subtable  PROCESSOR
+
+Testing column FLAG_ROW
+Column FLAG_ROW PASSED
+
+Testing column MODE_ID
+Column MODE_ID PASSED
+
+Testing column TYPE
+Column TYPE PASSED
+
+Testing column TYPE_ID
+Column TYPE_ID PASSED
+
+Testing column SUB_TYPE
+Column SUB_TYPE PASSED
+
+*** Subtable  SOURCE
+
+Testing column DIRECTION
+Column DIRECTION PASSED
+
+Testing column PROPER_MOTION
+Column PROPER_MOTION PASSED
+
+Testing column CALIBRATION_GROUP
+Column CALIBRATION_GROUP PASSED
+
+Testing column CODE
+Column CODE PASSED
+
+Testing column INTERVAL
+Column INTERVAL PASSED
+
+Testing column NAME
+Column NAME PASSED
+
+Testing column NUM_LINES
+Column NUM_LINES PASSED
+
+Testing column SOURCE_ID
+Column SOURCE_ID PASSED
+
+Testing column SPECTRAL_WINDOW_ID
+Column SPECTRAL_WINDOW_ID PASSED
+
+Testing column TIME
+Column TIME PASSED
+
+*** Subtable  SPECTRAL_WINDOW
+Column CHAN_FREQ of reference.ms/SPECTRAL_WINDOW and uid___A002_X71e4ae_X317_short.ms/SPECTRAL_WINDOW agree
+Column CHAN_WIDTH of reference.ms/SPECTRAL_WINDOW and uid___A002_X71e4ae_X317_short.ms/SPECTRAL_WINDOW agree
+Column EFFECTIVE_BW of reference.ms/SPECTRAL_WINDOW and uid___A002_X71e4ae_X317_short.ms/SPECTRAL_WINDOW agree
+Column RESOLUTION of reference.ms/SPECTRAL_WINDOW and uid___A002_X71e4ae_X317_short.ms/SPECTRAL_WINDOW agree
+Column ASSOC_SPW_ID of reference.ms/SPECTRAL_WINDOW and uid___A002_X71e4ae_X317_short.ms/SPECTRAL_WINDOW agree
+
+Testing column MEAS_FREQ_REF
+Column MEAS_FREQ_REF PASSED
+
+Testing column REF_FREQUENCY
+Column REF_FREQUENCY PASSED
+
+Testing column FLAG_ROW
+Column FLAG_ROW PASSED
+
+Testing column FREQ_GROUP
+Column FREQ_GROUP PASSED
+
+Testing column FREQ_GROUP_NAME
+Column FREQ_GROUP_NAME PASSED
+
+Testing column IF_CONV_CHAIN
+Column IF_CONV_CHAIN PASSED
+
+Testing column NAME
+Column NAME PASSED
+
+Testing column NET_SIDEBAND
+Column NET_SIDEBAND PASSED
+
+Testing column NUM_CHAN
+Column NUM_CHAN PASSED
+
+Testing column TOTAL_BANDWIDTH
+Column TOTAL_BANDWIDTH PASSED
+
+Testing column BBC_NO
+Column BBC_NO PASSED
+
+Testing column SDM_WINDOW_FUNCTION
+Column SDM_WINDOW_FUNCTION PASSED
+
+Testing column SDM_NUM_BIN
+Column SDM_NUM_BIN PASSED
+
+Testing column SDM_CORR_BIT
+Column SDM_CORR_BIT PASSED
+
+*** Subtable  STATE
+
+Testing column CAL
+Column CAL PASSED
+
+Testing column FLAG_ROW
+Column FLAG_ROW PASSED
+
+Testing column LOAD
+Column LOAD PASSED
+
+Testing column OBS_MODE
+Column OBS_MODE PASSED
+
+Testing column REF
+Column REF PASSED
+
+Testing column SIG
+Column SIG PASSED
+
+Testing column SUB_SCAN
+Column SUB_SCAN PASSED
+
+*** Subtable  SYSCAL
+
+Testing column ANTENNA_ID
+Column ANTENNA_ID PASSED
+
+Testing column FEED_ID
+Column FEED_ID PASSED
+
+Testing column INTERVAL
+Column INTERVAL PASSED
+
+Testing column SPECTRAL_WINDOW_ID
+Column SPECTRAL_WINDOW_ID PASSED
+
+Testing column TIME
+Column TIME PASSED
+
+Testing column TCAL_SPECTRUM
+Column TCAL_SPECTRUM PASSED
+
+Testing column TRX_SPECTRUM
+Column TRX_SPECTRUM PASSED
+
+Testing column TSKY_SPECTRUM
+Column TSKY_SPECTRUM PASSED
+
+Testing column TSYS_SPECTRUM
+Column TSYS_SPECTRUM PASSED
+
+Testing column TCAL_FLAG
+Column TCAL_FLAG PASSED
+
+Testing column TRX_FLAG
+Column TRX_FLAG PASSED
+
+Testing column TSKY_FLAG
+Column TSKY_FLAG PASSED
+
+Testing column TSYS_FLAG
+Column TSYS_FLAG PASSED
+
+Testing column TANT_FLAG
+Column TANT_FLAG PASSED
+
+Testing column TANT_TSYS_FLAG
+Column TANT_TSYS_FLAG PASSED

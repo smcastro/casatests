@@ -1,0 +1,2 @@
+2025-09-16 15:34:39	SEVERE	deconvolve::deconvolve::casa	Exception from deconvolve : Need PB/Sensitivity/Weight image before a PB-based mask can be made for tst
+2025-09-16 15:34:39	SEVERE	deconvolve::::casa	Task deconvolve raised an exception of class RuntimeError with the following message: Exception from deconvolve : Need PB/Sensitivity/Weight image before a PB-based mask can be made for tst

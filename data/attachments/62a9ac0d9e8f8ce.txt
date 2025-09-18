@@ -1,0 +1,2 @@
+line blfunc:sinusoid dirkernel:none spkernel:gaussian, chans:chanB, 0.008320927619934082, 0.0, 0.0054086029529571535, 0.008320927619934082
+cont blfunc:sinusoid dirkernel:none spkernel:gaussian, chans:chanB, 1.991679072380066, 0.0, 1.2945913970470428, 1.991679072380066

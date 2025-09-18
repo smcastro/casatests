@@ -1,0 +1,6 @@
+2025-09-16 14:56:54	INFO	ImageFactory::createImage	Created Temp image  of shape [64, 64, 128] with float valued pixels.
+2025-09-16 14:56:54	WARN	ImageFactory::_makeCoordinateSystem	Direction coordinate has at least one axis that has been removed, skipping cylindrical fix which is normally only important for imported image formats such as FITS
+2025-09-16 14:56:54	INFO	ImageFactory::createImage	Created Temp image  of shape [64, 128] with float valued pixels.
+2025-09-16 14:56:54	INFO	ImageFactory::createImage	Created Temp image  of shape [64, 64, 128] with float valued pixels.
+2025-09-16 14:56:54	INFO	ImageFactory::createImage	Created Temp image  of shape [64, 128] with float valued pixels.
+2025-09-16 14:56:54	WARN	ImageMetaDataRW::_makeCoordinateSystem	

@@ -1,0 +1,28 @@
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::	Exception Reported: Image separated.image.signalband already exists.
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa	Traceback (most recent call last):
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdsidebandsplit.py", line 27, in sdsidebandsplit
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa+	    separator.separate(outfile, overwrite)
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/sidebandseparator.py", line 69, in separate
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa+	    return self._swigobj.separate(outfile, overwrite)
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/__casac__/sidebandseparator.py", line 300, in separate
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa+	    return _sidebandseparator.sidebandseparator_separate(self, *args, **kwargs)
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa+	RuntimeError: Image separated.image.signalband already exists.
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa	Image separated.image.signalband already exists.
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa	Task sdsidebandsplit raised an exception of class RuntimeError with the following message: Image separated.image.signalband already exists.
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::	Exception Reported: Image separated.image.imageband already exists.
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa	Traceback (most recent call last):
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdsidebandsplit.py", line 27, in sdsidebandsplit
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa+	    separator.separate(outfile, overwrite)
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/sidebandseparator.py", line 69, in separate
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa+	    return self._swigobj.separate(outfile, overwrite)
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/__casac__/sidebandseparator.py", line 300, in separate
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa+	    return _sidebandseparator.sidebandseparator_separate(self, *args, **kwargs)
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa+	RuntimeError: Image separated.image.imageband already exists.
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa	Image separated.image.imageband already exists.
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa	Task sdsidebandsplit raised an exception of class RuntimeError with the following message: Image separated.image.imageband already exists.

@@ -1,0 +1,21 @@
+
+0%....10....20....30....40....50....60....70....80....90....100%
+2025-09-17 12:42:22	WARN	image::commonbeam (file src/tools/image/image_cmpt.cc, line 824)	This image only has one beam, so just returning that
+2025-09-17 12:42:23	WARN	ImageFitter::_finishConstruction	Unrecognized intensity unit . Will assume Jy/pixel
+2025-09-17 12:42:23	WARN	ImageFitter::clearNoiseFWHM	noiseFWHM not specified and image has no beam, using uncorrelated noise expressions to calculate uncertainties
+2025-09-17 12:42:23	WARN	SkyCompRep::convertToJy	Cannot convert units of brightness to Jy - will assume Jy
+2025-09-17 12:42:23	WARN	SkyCompRep::peakToIntegralFlux()	There are no image brightness units, assuming Jy/pixel
+2025-09-17 12:42:23	WARN	SkyCompRep::integralToPeakFlux()	There are no image brightness units, assuming Jy/pixel
+2025-09-17 12:42:23	WARN	ImageFitter::_finishConstruction	Unrecognized intensity unit . Will assume Jy/pixel
+2025-09-17 12:42:23	WARN	SkyCompRep::convertToJy	Cannot convert units of brightness to Jy - will assume Jy
+2025-09-17 12:42:23	WARN	SkyCompRep::peakToIntegralFlux()	There are no image brightness units, assuming Jy/pixel
+2025-09-17 12:42:23	WARN	SkyCompRep::integralToPeakFlux()	There are no image brightness units, assuming Jy/pixel
+2025-09-17 12:42:23	WARN	ImageFitter::_finishConstruction	Unrecognized intensity unit . Will assume Jy/pixel
+2025-09-17 12:42:23	WARN	SkyCompRep::convertToJy	Cannot convert units of brightness to Jy - will assume Jy
+2025-09-17 12:42:23	WARN	SkyCompRep::peakToIntegralFlux()	There are no image brightness units, assuming Jy/pixel
+2025-09-17 12:42:23	WARN	SkyCompRep::integralToPeakFlux()	There are no image brightness units, assuming Jy/pixel
+2025-09-17 12:42:23	WARN	ImageFitter::_finishConstruction	Unrecognized intensity unit . Will assume Jy/pixel
+2025-09-17 12:42:23	WARN	SkyCompRep::convertToJy	Cannot convert units of brightness to Jy - will assume Jy
+2025-09-17 12:42:23	WARN	SkyCompRep::peakToIntegralFlux()	There are no image brightness units, assuming Jy/pixel
+2025-09-17 12:42:23	WARN	SkyCompRep::integralToPeakFlux()	There are no image brightness units, assuming Jy/pixel
+2025-09-17 12:42:24	WARN	image::commonbeam (file src/tools/image/image_cmpt.cc, line 824)	This image only has one beam, so just returning that

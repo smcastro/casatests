@@ -1,0 +1,2 @@
+2025-09-16 16:58:48	SEVERE	prom::imagepol::open	Exception Reported: This image has no Stokes Q, U, nor V.  This is not useful at File: /source/casa6/casatools/src/code/imageanalysis/ImageAnalysis/ImagePolarimetry.cc, line: 1145
+2025-09-16 16:58:48	SEVERE	prom::::casa	Task rmfit raised an exception of class RuntimeError with the following message: This image has no Stokes Q, U, nor V.  This is not useful at File: /source/casa6/casatools/src/code/imageanalysis/ImageAnalysis/ImagePolarimetry.cc, line: 1145

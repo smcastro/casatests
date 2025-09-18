@@ -1,0 +1,25 @@
+Copying  part2-mod2.ms
+/casadata/repository/casatestdata/unittest/virtualconcat/part2-mod2.ms
+Copying  part1.ms
+/casadata/repository/casatestdata/unittest/virtualconcat/part1.ms
+Copying  part3.ms
+/casadata/repository/casatestdata/unittest/virtualconcat/part3.ms
+test_task_virtualconcat : Now checking output ...
+test_task_virtualconcat : OK. Checking tables in detail ...
+test_task_virtualconcat : comparing  ['SOURCE_ID', 0, 0, 0]
+test_task_virtualconcat : comparing  ['SPECTRAL_WINDOW_ID', 0, 0, 0]
+test_task_virtualconcat : table  SOURCE  as expected.
+test_task_virtualconcat : comparing  ['SOURCE_ID', 7, 0, 0]
+test_task_virtualconcat : comparing  ['SPECTRAL_WINDOW_ID', 7, 7, 0]
+test_task_virtualconcat : table  SOURCE  as expected.
+test_task_virtualconcat : comparing  ['SOURCE_ID', 8, 1, 0]
+test_task_virtualconcat : comparing  ['SPECTRAL_WINDOW_ID', 8, 0, 0]
+test_task_virtualconcat : table  SOURCE  as expected.
+test_task_virtualconcat : comparing  ['SOURCE_ID', 15, 1, 0]
+test_task_virtualconcat : comparing  ['SPECTRAL_WINDOW_ID', 15, 7, 0]
+test_task_virtualconcat : table  SOURCE  as expected.
+The following should fail: SOURCE row 16 should not exist
+test_task_virtualconcat : comparing  ['SOURCE_ID', 16, 0, 100000]
+Expected error.
+test_task_virtualconcat : comparing  ['NUM_CHAN', 8, 4, 0]
+test_task_virtualconcat : table  SPECTRAL_WINDOW  as expected.

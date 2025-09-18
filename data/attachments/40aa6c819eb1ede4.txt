@@ -1,0 +1,12 @@
+2025-09-16 16:11:16	WARN	imfit::ImageFitter::_finishConstruction	Unrecognized intensity unit . Will assume Jy/pixel
+2025-09-16 16:11:16	WARN	imfit::SkyCompRep::convertToJy	Cannot convert units of brightness to Jy - will assume Jy
+2025-09-16 16:11:16	WARN	imfit::SkyCompRep::peakToIntegralFlux()	There are no image brightness units, assuming Jy/pixel
+2025-09-16 16:11:16	WARN	imfit::SkyCompRep::integralToPeakFlux()	There are no image brightness units, assuming Jy/pixel
+2025-09-16 16:11:16	WARN	imfit::ImageFitter::_finishConstruction	Unrecognized intensity unit . Will assume Jy/pixel
+2025-09-16 16:11:16	WARN	imfit::SkyCompRep::convertToJy	Cannot convert units of brightness to Jy - will assume Jy
+2025-09-16 16:11:16	WARN	imfit::SkyCompRep::peakToIntegralFlux()	There are no image brightness units, assuming Jy/pixel
+2025-09-16 16:11:16	WARN	imfit::SkyCompRep::integralToPeakFlux()	There are no image brightness units, assuming Jy/pixel
+2025-09-16 16:11:16	WARN	imfit::ImageFitter::_finishConstruction	Unrecognized intensity unit . Will assume Jy/pixel
+2025-09-16 16:11:16	WARN	imfit::SkyCompRep::convertToJy	Cannot convert units of brightness to Jy - will assume Jy
+2025-09-16 16:11:16	WARN	imfit::SkyCompRep::peakToIntegralFlux()	There are no image brightness units, assuming Jy/pixel
+2025-09-16 16:11:16	WARN	imfit::SkyCompRep::integralToPeakFlux()	There are no image brightness units, assuming Jy/pixel

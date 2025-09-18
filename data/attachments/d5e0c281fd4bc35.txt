@@ -1,0 +1,13 @@
+2025-09-16 17:06:00	WARN	sdcal::calibrater::setvi(bool,bool)	Already using OLD VisibilityIterator.
+2025-09-16 17:06:09	WARN	CTPatchedInterp::interpolate	In caltable doublecircletest_const.ms.sky (SDSKY_PS):
+2025-09-16 17:06:09	WARN	CTPatchedInterp::interpolate+	 Insufficient solution channel sampling (nchan=1) for frequency-dependent LINEAR interpolation 
+2025-09-16 17:06:09	WARN	CTPatchedInterp::interpolate+	 of calibration for MS spw=0; using NEAREST instead.
+2025-09-16 17:06:09	WARN	CTPatchedInterp::interpolate	In caltable doublecircletest_const.ms.tsys (B TSYS):
+2025-09-16 17:06:09	WARN	CTPatchedInterp::interpolate+	 Insufficient solution channel sampling (nchan=1) for frequency-dependent LINEAR interpolation 
+2025-09-16 17:06:09	WARN	CTPatchedInterp::interpolate+	 of calibration for MS spw=0 (mapped to CT spw=2); using NEAREST instead.
+2025-09-16 17:06:14	WARN	CTPatchedInterp::interpolate	In caltable doublecircletest_const.ms.sky (SDSKY_PS):
+2025-09-16 17:06:14	WARN	CTPatchedInterp::interpolate+	 Insufficient solution channel sampling (nchan=1) for frequency-dependent LINEAR interpolation 
+2025-09-16 17:06:14	WARN	CTPatchedInterp::interpolate+	 of calibration for MS spw=1; using NEAREST instead.
+2025-09-16 17:06:14	WARN	CTPatchedInterp::interpolate	In caltable doublecircletest_const.ms.tsys (B TSYS):
+2025-09-16 17:06:14	WARN	CTPatchedInterp::interpolate+	 Insufficient solution channel sampling (nchan=1) for frequency-dependent LINEAR interpolation 
+2025-09-16 17:06:14	WARN	CTPatchedInterp::interpolate+	 of calibration for MS spw=1 (mapped to CT spw=3); using NEAREST instead.

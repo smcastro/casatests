@@ -1,0 +1,3 @@
+ :  frequency, start={'m0': {'unit': 'Hz', 'value': 1199989000.0}, 'refer': 'LSRK', 'type': 'frequency'}, default width, veltype=radio LSRK
+/casadata/repository/casatestdata/unittest/deconvolve/
+refim_point

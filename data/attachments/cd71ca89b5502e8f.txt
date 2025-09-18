@@ -1,0 +1,6 @@
+2025-09-16 14:56:36	SEVERE	coordsys::stringToType	A coordinate of type lin does not exist
+2025-09-16 14:56:36	SEVERE	coordsys::increment	exceptions reported: 2025-09-16 14:56:36	SEVERE	coordsys::stringToType	A coordinate of type lin does not exist
+2025-09-16 14:56:36	INFO	name::	No table opened.
+2025-09-16 14:56:36	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:56:36	INFO	name::	No table opened.
+2025-09-16 14:56:36	INFO	name::	No table opened.

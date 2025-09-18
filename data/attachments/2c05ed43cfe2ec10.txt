@@ -1,0 +1,4 @@
+2025-09-16 16:11:45	SEVERE	image::close (file src/tools/image/image_cmpt.cc, line 693)	Exception Reported: ImageExprParse: 'i_like_doggies' is an unknown lattice or image or it is an unqualified region
+2025-09-16 16:11:45	SEVERE	image::close (file src/tools/image/image_cmpt.cc, line 693)+	Scanned so far: i_like_doggies
+2025-09-16 16:11:45	SEVERE	image::newimagefromshape (file src/tools/image/image_cmpt.cc, line 4176)	Exception Reported: LatticeExprNode - shapes of operands mismatch
+2025-09-16 16:11:45	SEVERE	image::newimagefromshape (file src/tools/image/image_cmpt.cc, line 4176)+	Scanned so far: ia.fromarray1.image+ia.fromshape2.image

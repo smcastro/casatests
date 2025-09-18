@@ -1,0 +1,14 @@
+2025-09-16 14:56:51	INFO	ImageFactory::createImage	Created Temp image  of shape [2, 3] with float valued pixels.
+2025-09-16 14:56:51	INFO	FITSCoordinateUtil::fromFITSHeader	passing empty or nonexistant spectral Coordinate axis
+2025-09-16 14:56:51	INFO	ImageFITSConverterImpl::FITSToImage 	Created (temp)image of shape [2, 3]
+2025-09-16 14:56:51	INFO	ImageFITSConverterImpl::FITSToImage 	Copy FITS file to 'Temporary_Image' All pixels fit in memory (6 pixels).
+2025-09-16 14:56:51	INFO	ImageFITSConverterImpl::FITSToImage 	No usable restoring beam information found.
+2025-09-16 14:56:51	INFO	::::ImageFactory::createImage	Created Temp image  of shape [2, 3] with float valued pixels.
+2025-09-16 14:56:51	INFO	::::image::fromarray	Ran ia.fromarray
+2025-09-16 14:56:51	INFO	::::image::fromarray	ia.fromarray(pixels=[0.000000,0.000000,0.000000,0.000000,0.000000,0.000000], csys={...}, linear=false, overwrite=false, log=true, type="f")
+2025-09-16 14:56:51	INFO	::::image::fromfits	Ran ia.fromfits
+2025-09-16 14:56:51	INFO	::::image::fromfits	ia.fromfits(outfile="", fitsfile="myim.fits", whichrep=0, whichhdu=0, zeroBlanks=false, overwrite=false)
+2025-09-16 14:56:51	INFO	name::	No table opened.
+2025-09-16 14:56:51	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:56:51	INFO	name::	No table opened.
+2025-09-16 14:56:51	INFO	name::	No table opened.

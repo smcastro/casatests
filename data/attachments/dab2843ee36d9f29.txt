@@ -1,0 +1,3 @@
+2025-09-16 17:08:24	WARN	sdimaging::::casa	The sdimaging task is deprecated and will be removed in future releases. Please use tsdimaging instead.
+2025-09-16 17:08:25	WARN	sdimaging::::casa	Beam size definition for 'BOX' kernel is experimental.
+2025-09-16 17:08:25	WARN	sdimaging::::casa	You may want to take careful look at the restoring beam in the image.

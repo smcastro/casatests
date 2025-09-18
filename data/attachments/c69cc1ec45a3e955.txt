@@ -1,0 +1,16 @@
+
+0%....10....20....30....40....50....60....70....80....90....100%
+
+0%....10....20....30....40....50....60....70....80....90....100%
+2025-09-16 18:13:25	WARN	task_tclean::AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]	Setting up for weights accumulation during gridding to compute sensitivity pattern.
+2025-09-16 18:13:25	WARN	task_tclean::AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]+	Consequently, the first gridding cycle will be slower than the subsequent ones.
+2025-09-16 18:13:25	WARN	task_tclean::AWProjectFT::finalizeToSky	time to massage data 18.7
+2025-09-16 18:13:25	WARN	task_tclean::AWProjectFT::finalizeToSky	time gridding 0.06
+2025-09-16 18:13:25	WARN	task_tclean::AWProjectFT::finalizeToSky	time to massage data 0.1
+2025-09-16 18:13:25	WARN	task_tclean::AWProjectFT::finalizeToSky	time gridding 0.04
+2025-09-16 18:13:26	WARN	task_tclean::AWProjectFT::finalizeToVis	Time degrid 0.02
+2025-09-16 18:13:26	WARN	task_tclean::AWProjectFT::finalizeToSky	time to massage data 0.06
+2025-09-16 18:13:26	WARN	task_tclean::AWProjectFT::finalizeToSky	time gridding 0.02
+2025-09-16 18:13:26	WARN	task_tclean::AWProjectFT::finalizeToVis	Time degrid 0.02
+2025-09-16 18:13:26	WARN	task_tclean::AWProjectFT::finalizeToSky	time to massage data 0.07
+2025-09-16 18:13:26	WARN	task_tclean::AWProjectFT::finalizeToSky	time gridding 0.01

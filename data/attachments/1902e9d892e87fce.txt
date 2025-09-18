@@ -1,0 +1,10 @@
+2025-09-16 14:56:37	INFO	ImageFactory::createImage	Created Paged image 'myfloatmask.im' of shape [2, 2] with float valued pixels.
+2025-09-16 14:56:37	INFO	ImageFactory::createImage	Created Paged image 'myfloat.im' of shape [2, 2] with float valued pixels.
+2025-09-16 14:56:37	INFO	ImageMaskHandler::_calcmask	Created mask `mask0'
+2025-09-16 14:56:37	INFO	ImageFactory::createImage	Created Paged image 'mycomplexmask.im' of shape [2, 2] with Complex valued pixels.
+2025-09-16 14:56:37	INFO	ImageFactory::createImage	Created Paged image 'mycomplex.im' of shape [2, 2] with Complex valued pixels.
+2025-09-16 14:56:37	INFO	ImageMaskHandler::_calcmask	Created mask `mask0'
+2025-09-16 14:56:37	INFO	name::	No table opened.
+2025-09-16 14:56:37	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:56:37	INFO	name::	No table opened.
+2025-09-16 14:56:37	INFO	name::	No table opened.

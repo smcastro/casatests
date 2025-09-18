@@ -1,0 +1,276 @@
+
+Testing column OFFSET
+Column OFFSET PASSED
+
+Testing column POSITION
+Column POSITION PASSED
+
+Testing column TYPE
+Column TYPE PASSED
+
+Testing column DISH_DIAMETER
+Column DISH_DIAMETER PASSED
+
+Testing column FLAG_ROW
+Column FLAG_ROW PASSED
+
+Testing column MOUNT
+Column MOUNT PASSED
+
+Testing column NAME
+Column NAME PASSED
+
+Testing column STATION
+Column STATION PASSED
+
+Testing column FLAG_ROW
+Column FLAG_ROW PASSED
+
+Testing column POLARIZATION_ID
+Column POLARIZATION_ID PASSED
+
+Testing column SPECTRAL_WINDOW_ID
+Column SPECTRAL_WINDOW_ID PASSED
+
+Testing column POSITION
+Column POSITION PASSED
+
+Testing column BEAM_OFFSET
+Column BEAM_OFFSET PASSED
+
+Testing column POLARIZATION_TYPE
+Column POLARIZATION_TYPE PASSED
+
+Testing column POL_RESPONSE
+Column POL_RESPONSE PASSED
+
+Testing column RECEPTOR_ANGLE
+Column RECEPTOR_ANGLE PASSED
+
+Testing column ANTENNA_ID
+Column ANTENNA_ID PASSED
+
+Testing column BEAM_ID
+Column BEAM_ID PASSED
+
+Testing column FEED_ID
+Column FEED_ID PASSED
+
+Testing column INTERVAL
+Column INTERVAL PASSED
+
+Testing column NUM_RECEPTORS
+Column NUM_RECEPTORS PASSED
+
+Testing column SPECTRAL_WINDOW_ID
+Column SPECTRAL_WINDOW_ID PASSED
+
+Testing column TIME
+Column TIME PASSED
+
+Testing column DELAY_DIR
+Column DELAY_DIR PASSED
+
+Testing column PHASE_DIR
+Column PHASE_DIR PASSED
+
+Testing column REFERENCE_DIR
+Column REFERENCE_DIR PASSED
+
+Testing column CODE
+Column CODE PASSED
+
+Testing column FLAG_ROW
+Column FLAG_ROW PASSED
+
+Testing column NAME
+Column NAME PASSED
+
+Testing column NUM_POLY
+Column NUM_POLY PASSED
+
+Testing column SOURCE_ID
+Column SOURCE_ID PASSED
+
+Testing column TIME
+Column TIME PASSED
+
+Testing column APPLIED
+Column APPLIED PASSED
+
+Testing column COMMAND
+Column COMMAND PASSED
+
+Testing column INTERVAL
+Column INTERVAL PASSED
+
+Testing column LEVEL
+Column LEVEL PASSED
+
+Testing column REASON
+Column REASON PASSED
+
+Testing column SEVERITY
+Column SEVERITY PASSED
+
+Testing column TIME
+Column TIME PASSED
+
+Testing column TYPE
+Column TYPE PASSED
+
+Testing column DIRECTION
+Column DIRECTION PASSED
+
+Testing column ANTENNA_ID
+Column ANTENNA_ID PASSED
+
+Testing column INTERVAL
+Column INTERVAL PASSED
+
+Testing column NAME
+Column NAME PASSED
+
+Testing column NUM_POLY
+Column NUM_POLY PASSED
+
+Testing column TARGET
+Column TARGET PASSED
+
+Testing column TIME
+Column TIME PASSED
+
+Testing column TIME_ORIGIN
+Column TIME_ORIGIN PASSED
+
+Testing column TRACKING
+Column TRACKING PASSED
+
+Testing column CORR_TYPE
+Column CORR_TYPE PASSED
+
+Testing column CORR_PRODUCT
+Column CORR_PRODUCT PASSED
+
+Testing column FLAG_ROW
+Column FLAG_ROW PASSED
+
+Testing column NUM_CORR
+Column NUM_CORR PASSED
+
+Testing column FLAG_ROW
+Column FLAG_ROW PASSED
+
+Testing column MODE_ID
+Column MODE_ID PASSED
+
+Testing column TYPE
+Column TYPE PASSED
+
+Testing column TYPE_ID
+Column TYPE_ID PASSED
+
+Testing column SUB_TYPE
+Column SUB_TYPE PASSED
+
+Testing column CAL
+Column CAL PASSED
+
+Testing column FLAG_ROW
+Column FLAG_ROW PASSED
+
+Testing column LOAD
+Column LOAD PASSED
+
+Testing column OBS_MODE
+Column OBS_MODE PASSED
+
+Testing column REF
+Column REF PASSED
+
+Testing column SIG
+Column SIG PASSED
+
+Testing column SUB_SCAN
+Column SUB_SCAN PASSED
+
+Testing column TIME_RANGE
+Column TIME_RANGE PASSED
+
+Testing column FLAG_ROW
+Column FLAG_ROW PASSED
+
+Testing column OBSERVER
+Column OBSERVER PASSED
+
+Testing column PROJECT
+Column PROJECT PASSED
+
+Testing column RELEASE_DATE
+Column RELEASE_DATE PASSED
+
+Testing column SCHEDULE_TYPE
+Column SCHEDULE_TYPE PASSED
+
+Testing column TELESCOPE_NAME
+Column TELESCOPE_NAME PASSED
+
+Testing column UVW
+Column UVW PASSED
+
+Testing column FLAG
+Column FLAG PASSED
+
+Testing column WEIGHT
+Column WEIGHT PASSED
+
+Testing column ANTENNA1
+Column ANTENNA1 PASSED
+
+Testing column ANTENNA2
+Column ANTENNA2 PASSED
+
+Testing column ARRAY_ID
+Column ARRAY_ID PASSED
+
+Testing column DATA_DESC_ID
+Column DATA_DESC_ID PASSED
+
+Testing column EXPOSURE
+Column EXPOSURE PASSED
+
+Testing column FEED1
+Column FEED1 PASSED
+
+Testing column FEED2
+Column FEED2 PASSED
+
+Testing column FIELD_ID
+Column FIELD_ID PASSED
+
+Testing column FLAG_ROW
+Column FLAG_ROW PASSED
+
+Testing column INTERVAL
+Column INTERVAL PASSED
+
+Testing column OBSERVATION_ID
+Column OBSERVATION_ID PASSED
+
+Testing column PROCESSOR_ID
+Column PROCESSOR_ID PASSED
+
+Testing column SCAN_NUMBER
+Column SCAN_NUMBER PASSED
+
+Testing column STATE_ID
+Column STATE_ID PASSED
+
+Testing column TIME
+Column TIME PASSED
+
+Testing column TIME_CENTROID
+Column TIME_CENTROID PASSED
+
+Testing column DATA
+Column DATA PASSED

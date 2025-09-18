@@ -1,0 +1,14 @@
+2025-09-16 14:58:55	INFO	test
+::ImageFactory::createImage	Created Temp image  of shape [4, 4, 20] with float valued pixels.
+2025-09-16 14:58:55	WARN	test
+::AsciiRegionFileParser::_parse	 line# 1: Error converting world region to lattice region which probably indicates the region lies outside of the image. This region will be ignored.The related message is: LCBox::LCBox - blc [0] must be <= trc [-99889]
+2025-09-16 14:58:55	INFO	test
+::AsciiRegionFileParser::_parse	Combined 0 image regions (which excludes any annotation regions)
+2025-09-16 14:58:55	SEVERE	test
+::regionmanager::selectedchannels	Exception Reported: Exception: The specified spectral range range=[1315MHz, 1315.1MHz] does not intersect the image spectral range..
+2025-09-16 14:58:55	SEVERE	test
+::regionmanager::selectedchannels+	... thrown by std::vector<unsigned int, std::allocator<unsigned int> > casa::CasacRegionManager::_spectralRangeFromRangeFormat(casacore::uInt&, const casacore::String&, const casacore::IPosition&) const at File: /source/casa6/casatools/src/code/imageanalysis/Regions/CasacRegionManager.cc, line: 1013
+2025-09-16 14:58:55	INFO	test
+::name::	No table opened.
+2025-09-16 14:58:55	INFO	test
+::name::	No table opened.

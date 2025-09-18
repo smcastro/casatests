@@ -1,0 +1,2 @@
+line blfunc:chebyshev dirkernel:gaussian spkernel:boxcar, chans:chanA, 3.5762786865234375e-07, -4.76837158203125e-07, 1.6767444321885704e-09, 0.0
+cont blfunc:chebyshev dirkernel:gaussian spkernel:boxcar, chans:chanA, 2.000000476837158, 0.0, 1.5999999983232556, 2.0

@@ -1,0 +1,4 @@
+
+Checking SPECTRAL_WINDOW's opt cols with width 1.
+
+Checking SPECTRAL_WINDOW's opt cols with width 3.

@@ -1,0 +1,36 @@
+
+Testing column POSITION
+Column POSITION PASSED
+
+Testing column BEAM_OFFSET
+Column BEAM_OFFSET PASSED
+
+Testing column POLARIZATION_TYPE
+Column POLARIZATION_TYPE PASSED
+
+Testing column POL_RESPONSE
+Column POL_RESPONSE PASSED
+
+Testing column RECEPTOR_ANGLE
+Column RECEPTOR_ANGLE PASSED
+
+Testing column ANTENNA_ID
+Column ANTENNA_ID PASSED
+
+Testing column BEAM_ID
+Column BEAM_ID PASSED
+
+Testing column FEED_ID
+Column FEED_ID PASSED
+
+Testing column INTERVAL
+Column INTERVAL PASSED
+
+Testing column NUM_RECEPTORS
+Column NUM_RECEPTORS PASSED
+
+Testing column SPECTRAL_WINDOW_ID
+Column SPECTRAL_WINDOW_ID PASSED
+
+Testing column TIME
+Column TIME PASSED

@@ -1,0 +1,18 @@
+2025-09-16 14:58:42	INFO	test
+::msmetadata_cmpt.cc::open	Performing internal consistency checks on /casadata/repository/casatestdata/unittest/msmetadata/MSMetaData.ms...
+2025-09-16 14:58:42	SEVERE	test
+::msmetadata_cmpt.cc::restfreqs	Exception Reported: Exception: sourceid cannot be negative.
+2025-09-16 14:58:42	SEVERE	test
+::msmetadata_cmpt.cc::restfreqs+	... thrown by casac::variant* casac::msmetadata::restfreqs(long int, long int) at File: src/tools/msmetadata/msmetadata_cmpt.cc, line: 1519
+2025-09-16 14:58:42	SEVERE	test
+::msmetadata_cmpt.cc::restfreqs	Exception Reported: Exception: Spectral window ID -1 out of range, must be nonnegative and less than or equal to 39.
+2025-09-16 14:58:42	SEVERE	test
+::msmetadata_cmpt.cc::restfreqs+	... thrown by void casac::msmetadata::_checkSpwId(int, bool) const at File: src/tools/msmetadata/msmetadata_cmpt.cc, line: 2443
+2025-09-16 14:58:42	SEVERE	test
+::msmetadata_cmpt.cc::restfreqs	Exception Reported: Exception: SOURCE table does not contain a row with SOURCE_ID=50 and SPECTRAL_WINDOW_ID=0.
+2025-09-16 14:58:42	SEVERE	test
+::msmetadata_cmpt.cc::restfreqs+	... thrown by casac::variant* casac::msmetadata::restfreqs(long int, long int) at File: src/tools/msmetadata/msmetadata_cmpt.cc, line: 1526
+2025-09-16 14:58:42	SEVERE	test
+::msmetadata_cmpt.cc::restfreqs	Exception Reported: Exception: Spectral window ID 50 out of range, must be nonnegative and less than or equal to 39.
+2025-09-16 14:58:42	SEVERE	test
+::msmetadata_cmpt.cc::restfreqs+	... thrown by void casac::msmetadata::_checkSpwId(int, bool) const at File: src/tools/msmetadata/msmetadata_cmpt.cc, line: 2443

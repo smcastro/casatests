@@ -1,0 +1,40 @@
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	You are convolving the sky
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Scaling pixel values by inverse of area of convolution kernel in pixels (0.0110318) times the ratio of the beam areas (6.45084) = 0.0711642 for channel number 0
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Scaling pixel values by inverse of area of convolution kernel in pixels (0.0110318) times the ratio of the beam areas (4.39319) = 0.0484647 for channel number 1
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Scaling pixel values by inverse of area of convolution kernel in pixels (0.0110318) times the ratio of the beam areas (3.31687) = 0.036591 for channel number 2
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Scaling pixel values by inverse of area of convolution kernel in pixels (0.0110318) times the ratio of the beam areas (2.68257) = 0.0295936 for channel number 3
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Scaling pixel values by inverse of area of convolution kernel in pixels (0.0110318) times the ratio of the beam areas (2.27753) = 0.0251252 for channel number 4
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Original /scratch/scastro/casa/Tests/reports/test_image2dconvolver_multibeam.im has multiple beams. Min area beam: major: 5 arcmin, minor: 3 arcmin, pa: 40 deg. Max area beam: major: 9 arcmin, minor: 7 arcmin, pa: 60 deg. Median area beam major: 7 arcmin, minor: 5 arcmin, pa: 50 deg
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Output  has multiple beams. Min area beam: major: 657.072 arcsec, minor: 530.148 arcsec, pa: 68.9432 deg. Max area beam: major: 802.649 arcsec, minor: 643.549 arcsec, pa: 70.6133 deg. Median area beam major: 722.878 arcsec, minor: 578.142 arcsec, pa: 68.2934 deg
+2025-09-16 14:56:47	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:47	INFO	ImageRegion::fromRecord+	    [0, 0, 0] to [50, 50, 0]  (00:03:20.028, -00.50.00.106, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	You are convolving the sky
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Scaling pixel values by inverse of area of convolution kernel in pixels (0.0110318) times the ratio of the beam areas (6.45084) = 0.0711642
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Original Temporary_Image resolution major: 5 arcmin, minor: 3 arcmin, pa: 40 deg
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Output  resolution major: 657.072 arcsec, minor: 530.148 arcsec, pa: 68.9432 deg
+2025-09-16 14:56:47	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:47	INFO	ImageRegion::fromRecord+	    [0, 0, 1] to [50, 50, 1]  (00:03:20.028, -00.50.00.106, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	You are convolving the sky
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Scaling pixel values by inverse of area of convolution kernel in pixels (0.0110318) times the ratio of the beam areas (4.39319) = 0.0484647
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Original Temporary_Image resolution major: 6 arcmin, minor: 4 arcmin, pa: 45 deg
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Output  resolution major: 687.755 arcsec, minor: 551.9 arcsec, pa: 68.1566 deg
+2025-09-16 14:56:47	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:47	INFO	ImageRegion::fromRecord+	    [0, 0, 2] to [50, 50, 2]  (00:03:20.028, -00.50.00.106, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	You are convolving the sky
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Scaling pixel values by inverse of area of convolution kernel in pixels (0.0110318) times the ratio of the beam areas (3.31687) = 0.036591
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Original Temporary_Image resolution major: 7 arcmin, minor: 5 arcmin, pa: 50 deg
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Output  resolution major: 722.878 arcsec, minor: 578.142 arcsec, pa: 68.2934 deg
+2025-09-16 14:56:47	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:47	INFO	ImageRegion::fromRecord+	    [0, 0, 3] to [50, 50, 3]  (00:03:20.028, -00.50.00.106, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	You are convolving the sky
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Scaling pixel values by inverse of area of convolution kernel in pixels (0.0110318) times the ratio of the beam areas (2.68257) = 0.0295936
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Original Temporary_Image resolution major: 8 arcmin, minor: 6 arcmin, pa: 55 deg
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Output  resolution major: 761.436 arcsec, minor: 608.783 arcsec, pa: 69.168 deg
+2025-09-16 14:56:47	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:47	INFO	ImageRegion::fromRecord+	    [0, 0, 4] to [50, 50, 4]  (00:03:20.028, -00.50.00.106, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	You are convolving the sky
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Scaling pixel values by inverse of area of convolution kernel in pixels (0.0110318) times the ratio of the beam areas (2.27753) = 0.0251252
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Original Temporary_Image resolution major: 9 arcmin, minor: 7 arcmin, pa: 60 deg
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Output  resolution major: 802.649 arcsec, minor: 643.549 arcsec, pa: 70.6133 deg
+2025-09-16 14:56:47	INFO	name::	No table opened.
+2025-09-16 14:56:47	INFO	showcache::	The Table Cache is empty.

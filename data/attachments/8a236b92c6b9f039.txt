@@ -1,0 +1,3 @@
+ :  velocity(measure), start={'m0': {'unit': 'm/s', 'value': 11977600.0}, 'refer': 'BARY', 'type': 'radialvelocity'}, default width(outframe=TOPO will be overridden)
+/casadata/repository/casatestdata/unittest/deconvolve/
+refim_point

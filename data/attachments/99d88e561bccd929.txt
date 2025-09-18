@@ -1,0 +1,1 @@
+[check_spec_frame] tst.image: Spec frame is LSRK with crval 999988750.6275749 with cdelt 49999438.0 (Pass : should be LSRK with expected crval 999989000.0 with expected cdelt 49999438.0 )

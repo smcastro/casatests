@@ -1,0 +1,14 @@
+2025-09-16 17:06:40	WARN	sdimaging::::casa	The sdimaging task is deprecated and will be removed in future releases. Please use tsdimaging instead.
+2025-09-16 17:06:40	SEVERE	sdimaging::::casa	Traceback (most recent call last):
+2025-09-16 17:06:40	SEVERE	sdimaging::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:06:40	SEVERE	sdimaging::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdimaging.py", line 31, in sdimaging
+2025-09-16 17:06:40	SEVERE	sdimaging::::casa+	    worker.initialize()
+2025-09-16 17:06:40	SEVERE	sdimaging::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/sdutil.py", line 350, in initialize
+2025-09-16 17:06:40	SEVERE	sdimaging::::casa+	    self.parameter_check()
+2025-09-16 17:06:40	SEVERE	sdimaging::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdimaging.py", line 469, in parameter_check
+2025-09-16 17:06:40	SEVERE	sdimaging::::casa+	    sdutil.assert_outfile_canoverwrite_or_nonexistent(self.outfile,
+2025-09-16 17:06:40	SEVERE	sdimaging::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/sdutil.py", line 397, in assert_outfile_canoverwrite_or_nonexistent
+2025-09-16 17:06:40	SEVERE	sdimaging::::casa+	    raise Exception(mesg)
+2025-09-16 17:06:40	SEVERE	sdimaging::::casa+	Exception: Output file 'sdimagingTest0.im' exists.
+2025-09-16 17:06:40	SEVERE	sdimaging::::casa	Output file 'sdimagingTest0.im' exists.
+2025-09-16 17:06:40	SEVERE	sdimaging::::casa	Task sdimaging raised an exception of class Exception with the following message: Output file 'sdimagingTest0.im' exists.

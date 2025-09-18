@@ -1,0 +1,10 @@
+2025-09-16 14:56:57	INFO	ImageFactory::createImage	Created Temp image  of shape [20, 20] with float valued pixels.
+2025-09-16 14:56:57	INFO	StatImageCreator::_computeStat	Using rectangular region of specified dimensions 4 pix x 4 pix (because of centering and rounding to use whole pixels, actual dimensions of bounding box are 5 pix x 5 pix) to choose pixels for computing STDDEV using the classical algorithm around each of 25 grid points in 1 planes.
+2025-09-16 14:56:57	INFO	StatImageCreator::_doInterpolation	Interpolate using CUBIC algorithm.
+2025-09-16 14:56:57	INFO	StatImageCreator::useReferencePixelAsAnchor	Anchor being set at pixel [10,10], at/near image reference pixel.
+2025-09-16 14:56:57	INFO	StatImageCreator::_computeStat	Using rectangular region of specified dimensions 4 pix x 4 pix (because of centering and rounding to use whole pixels, actual dimensions of bounding box are 5 pix x 5 pix) to choose pixels for computing STDDEV using the classical algorithm around each of 25 grid points in 1 planes.
+2025-09-16 14:56:57	INFO	StatImageCreator::_doInterpolation	Interpolate using CUBIC algorithm.
+2025-09-16 14:56:57	INFO	name::	No table opened.
+2025-09-16 14:56:57	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:56:57	INFO	name::	No table opened.
+2025-09-16 14:56:57	INFO	name::	No table opened.

@@ -1,0 +1,6 @@
+cp: cannot create directory 'uid___A002_X997a62_X8c-short/uid___A002_X997a62_X8c-short': Permission denied
+2025-09-16 16:33:01	WARN	importasdm::::casa	Ephemeris is in ICRS instead of J2000 frame.
+2025-09-16 16:33:01	WARN	importasdm::::casa+	Entry in SOURCE table will be converted to J2000
+2025-09-16 16:33:01	WARN	importasdm::::casa	Ephemeris is in ICRS instead of J2000 frame.
+2025-09-16 16:33:01	WARN	importasdm::::casa+	Entry in SOURCE table will be converted to J2000
+cp: cannot create directory 'uid___A002_X997a62_X8c-short/uid___A002_X997a62_X8c-short': Permission denied

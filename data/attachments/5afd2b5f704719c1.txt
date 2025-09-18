@@ -1,0 +1,14 @@
+2025-09-16 14:57:05	INFO	ImageFactory::createImage	Created Temp image  of shape [50, 50, 1000] with float valued pixels.
+2025-09-16 14:57:05	INFO	PVGenerator::generate 	Rotating image by -45 degrees about direction coordinate pixel (7.5, 7.5) to align specified slice with the x axis
+2025-09-16 14:57:05	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:05	INFO	ImageRegion::fromRecord+	    [0, 0, 0] to [49, 49, 999]  (03:01:57.530, -35.32.49.013, 1.4145e+09Hz to 02:57:58.673, -34.43.38.701, 1.4155e+09Hz)
+2025-09-16 14:57:05	INFO	ImageRegion::fromRecord	Rotating DirectionCoordinate holding axes [0, 1]
+2025-09-16 14:57:05	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:05	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:05	INFO	ImageMaskAttacher::makeMask	Created and initialized mask `mask0'
+2025-09-16 14:57:05	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:57:05	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:05	INFO	ImageRegion::fromRecord+	    [4, 7, 0] to [11, 7, 999]  (03:01:31.077, -35.28.09.040, 1.4145e+09Hz to 03:01:06.781, -35.23.12.033, 1.4155e+09Hz)
+2025-09-16 14:57:05	INFO	ImageCollapser::_doDegenerateAxesCase	All subimage axes to be collapsed are degenerate, using algorithm optimized for that case.
+2025-09-16 14:57:05	INFO	name::	No table opened.
+2025-09-16 14:57:05	INFO	showcache::	The Table Cache is empty.

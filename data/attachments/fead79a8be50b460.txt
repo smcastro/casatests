@@ -1,0 +1,7 @@
+2025-09-16 16:27:25	WARN	listobs::ms::msselect	MSSelection time error: Parse error at or near token 'a'
+2025-09-16 16:27:25	WARN	listobs::ms::msselect+	(near char. 1 in string "abc")
+2025-09-16 16:27:25	WARN	listobs::ms::msselect	RecordRep::get_pointer - incorrect data type String   used for field time with type unknown 
+2025-09-16 16:27:25	WARN	listobs::ms::msselect	MSSelection time error: Parse error at or near token '-'
+2025-09-16 16:27:25	WARN	listobs::ms::msselect+	(near char. 9 in string "03:00:00-04:00:00")
+2025-09-16 16:27:25	WARN	listobs::ms::msselect+	[TIP: Did you know we use "~" as the range operator (for a good reason)?]
+2025-09-16 16:27:25	WARN	listobs::ms::msselect	MSSelectionNullSelection : The selected table has zero rows.

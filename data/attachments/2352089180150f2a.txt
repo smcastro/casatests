@@ -1,0 +1,4 @@
+2025-09-16 15:42:03	SEVERE	fixplanets::::casa	Task fixplanets raised an exception of class RuntimeError with the following message: *** Error when interpreting parameter 'direction':
+2025-09-16 15:42:03	SEVERE	fixplanets::::casa+	 string is neither a direction nor a table.
+2025-09-16 15:42:03	SEVERE	fixplanets::::casa	Task fixplanets raised an exception of class RuntimeError with the following message: *** Error when interpreting parameter 'direction':
+2025-09-16 15:42:03	SEVERE	fixplanets::::casa+	  A file is given. Use of the JPL-Horizons MIME format file is deprecated.

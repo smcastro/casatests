@@ -1,0 +1,1 @@
+{'major': {'unit': 'arcsec', 'value': 4.0}, 'minor': {'unit': 'arcsec', 'value': 2.0}, 'pa': {'unit': 'deg', 'value': 0.0}}

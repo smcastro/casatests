@@ -1,0 +1,17 @@
+caltable = casa-rockylinux8-amd64-perf07:/scratch/scastro/casa/Tests/reports/uid___A002_Xa2ce2e_X54b.ms.tsys
+Median difference between solution times = 255.743001 sec
+spws to plot (sorted) =  [9]
+basebands = [1], spwsToPlot=[9]
+Skip DA58 (Ant13: DA58,  spw 9,  field 0: J2253+1608) for time0=09:10:00 all data flagged
+Skip DA58 (Ant13: DA58,  spw 9,  field 2: Ceres) for time1=09:18:51 all data flagged
+Skip DA58 (Ant13: DA58,  spw 9,  field 0: J2253+1608) for time2=09:25:15 all data flagged
+Skip DA58 (Ant13: DA58,  spw 9,  field 3: J2232+1143) for time3=09:27:08 all data flagged
+Skip DA58 (Ant13: DA58,  spw 9,  field 4: WISE_2300+0212) for time4=09:28:46 all data flagged
+Skip DA58 (Ant13: DA58,  spw 9,  field 0: J2253+1608) for time5=09:33:01 all data flagged
+Skip DA58 (Ant13: DA58,  spw 9,  field 0: J2253+1608) for time6=09:40:16 all data flagged
+Skip DA58 (Ant13: DA58,  spw 9,  field 3: J2232+1143) for time7=09:41:55 all data flagged
+Skip DA58 (Ant13: DA58,  spw 9,  field 4: WISE_2300+0212) for time8=09:43:33 all data flagged
+Skip DA58 (Ant13: DA58,  spw 9,  field 0: J2253+1608) for time9=09:47:49 all data flagged
+Skip DV04 (Ant21: DV04,  spw 9,  field 0: J2253+1608) for time6=09:40:16 all data flagged
+Skip DV04 (Ant21: DV04,  spw 9,  field 0: J2253+1608) for time9=09:47:49 all data flagged
+Both pdftk and ghostscript are missing, so no PDF built.

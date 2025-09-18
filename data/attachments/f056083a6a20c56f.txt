@@ -1,0 +1,2 @@
+ARG
+immath( imagename=n1333_both.image, expr='IM0', region=n1333_both.image.rgn, outfile='input_test12' )

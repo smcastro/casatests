@@ -1,0 +1,104 @@
+2025-09-16 14:59:15	INFO	test
+::MS2ASDM::writeASDM()	Converting /scratch/scastro/casa/Tests/reports/myinput.ms to ASDM exportasdm-output.asdm
+2025-09-16 14:59:15	INFO	test
+::MS2ASDM::writeASDM()+	UID base is uid://S002/X1/X, ASDM UID is uid://S002/X1/X1
+2025-09-16 14:59:15	INFO	test
+::MS2ASDM::writeStation()	Filled Station table uid://S002/X1/X2 with 16 rows ...
+2025-09-16 14:59:15	INFO	test
+::MS2ASDM::writeAntenna()	Filled Antenna table uid://S002/X1/X3 with 16 rows ...
+2025-09-16 14:59:15	INFO	test
+::MS2ASDM::writeSpectralWindow()	Filled SpectralWindow table uid://S002/X1/X4 with 1 rows ...
+2025-09-16 14:59:15	INFO	test
+::MS2ASDM::writeSource()	Filled Source table uid://S002/X1/X5 with 1 rows ...
+2025-09-16 14:59:15	INFO	test
+::MS2ASDM::writePolarization()	Filled Polarization table uid://S002/X1/X6 with 1 rows ...
+2025-09-16 14:59:15	WARN	test
+::MS2ASDM::writeProcessor()	MS Processor table is empty. Will try to proceed assuming a standard ALMA Correlator.
+2025-09-16 14:59:15	INFO	test
+::MS2ASDM::writeCorrelatorMode()	Filled CorrelatorMode table uid://S002/X1/X7 with 1 rows ...
+2025-09-16 14:59:15	INFO	test
+::MS2ASDM::writeProcessor()	Filled Processor table uid://S002/X1/X8 with 1 rows ...
+2025-09-16 14:59:15	INFO	test
+::MS2ASDM::writeField()	Filled Field table uid://S002/X1/X9 with 1 rows ...
+2025-09-16 14:59:15	INFO	test
+::MS2ASDM::writeReceiver()	Taking validity time interval for all ASDM Receiver table entries from row 0 of MS Feed table.
+2025-09-16 14:59:15	INFO	test
+::MS2ASDM::writeReceiver()	Filled Receiver table uid://S002/X1/Xa with 1 rows ...
+2025-09-16 14:59:15	WARN	test
+::MS2ASDM::writeFeed()	MS Feed table contains reference to a Beam table row 0 but a Beam table is not implemented in CASA. Ignoring.
+2025-09-16 14:59:15	WARN	test
+::MS2ASDM::writeFeed()	MS Feed table contains reference to a Beam table row 0 but a Beam table is not implemented in CASA. Ignoring.
+2025-09-16 14:59:15	WARN	test
+::MS2ASDM::writeFeed()	MS Feed table contains reference to a Beam table row 0 but a Beam table is not implemented in CASA. Ignoring.
+2025-09-16 14:59:15	WARN	test
+::MS2ASDM::writeFeed()	MS Feed table contains reference to a Beam table row 0 but a Beam table is not implemented in CASA. Ignoring.
+2025-09-16 14:59:15	WARN	test
+::MS2ASDM::writeFeed()	MS Feed table contains reference to a Beam table row 0 but a Beam table is not implemented in CASA. Ignoring.
+2025-09-16 14:59:15	WARN	test
+::MS2ASDM::writeFeed()	MS Feed table contains reference to a Beam table row 0 but a Beam table is not implemented in CASA. Ignoring.
+2025-09-16 14:59:15	WARN	test
+::MS2ASDM::writeFeed()	MS Feed table contains reference to a Beam table row 0 but a Beam table is not implemented in CASA. Ignoring.
+2025-09-16 14:59:15	WARN	test
+::MS2ASDM::writeFeed()	MS Feed table contains reference to a Beam table row 0 but a Beam table is not implemented in CASA. Ignoring.
+2025-09-16 14:59:15	WARN	test
+::MS2ASDM::writeFeed()	MS Feed table contains reference to a Beam table row 0 but a Beam table is not implemented in CASA. Ignoring.
+2025-09-16 14:59:15	WARN	test
+::MS2ASDM::writeFeed()	MS Feed table contains reference to a Beam table row 0 but a Beam table is not implemented in CASA. Ignoring.
+2025-09-16 14:59:15	WARN	test
+::MS2ASDM::writeFeed()	MS Feed table contains reference to a Beam table row 0 but a Beam table is not implemented in CASA. Ignoring.
+2025-09-16 14:59:15	WARN	test
+::MS2ASDM::writeFeed()	MS Feed table contains reference to a Beam table row 0 but a Beam table is not implemented in CASA. Ignoring.
+2025-09-16 14:59:15	WARN	test
+::MS2ASDM::writeFeed()	MS Feed table contains reference to a Beam table row 0 but a Beam table is not implemented in CASA. Ignoring.
+2025-09-16 14:59:15	WARN	test
+::MS2ASDM::writeFeed()	MS Feed table contains reference to a Beam table row 0 but a Beam table is not implemented in CASA. Ignoring.
+2025-09-16 14:59:15	WARN	test
+::MS2ASDM::writeFeed()	MS Feed table contains reference to a Beam table row 0 but a Beam table is not implemented in CASA. Ignoring.
+2025-09-16 14:59:15	WARN	test
+::MS2ASDM::writeFeed()	MS Feed table contains reference to a Beam table row 0 but a Beam table is not implemented in CASA. Ignoring.
+2025-09-16 14:59:15	INFO	test
+::MS2ASDM::writeFeed()	Filled Feed table uid://S002/X1/Xb with 16 rows ...
+2025-09-16 14:59:15	INFO	test
+::MS2ASDM::writeDataDescription()	Filled DataDescription table uid://S002/X1/Xc with 1 rows ...
+2025-09-16 14:59:15	INFO	test
+::MS2ASDM::writeSwitchCycle()	PHASE_ID column doesn't exist in MS Main table.
+2025-09-16 14:59:15	INFO	test
+::MS2ASDM::writeSwitchCycle()+	 Filled ASDM SwitchCycle table uid://S002/X1/Xd with one dummy entry.
+2025-09-16 14:59:15	WARN	test
+::MS2ASDM::writeState()	MS State table is empty. Creating ASDM State table with one on-source entry.
+2025-09-16 14:59:15	INFO	test
+::MS2ASDM::writeState()	Filled State table uid://S002/X1/Xe with 1 rows ...
+2025-09-16 14:59:15	WARN	test
+::MS2ASDM::writeSysCal()	MS SysCal table doesn't exist or is empty. Creating ASDM SysCal table with default entries.
+2025-09-16 14:59:15	INFO	test
+::MS2ASDM::writeSysCal()	Filled SysCal table uid://S002/X1/Xf with 16 rows ...
+2025-09-16 14:59:15	WARN	test
+::MS2ASDM::writeConfigDesc()	MS Processor table is empty. Will assume processor type is CORRELATOR.
+2025-09-16 14:59:15	WARN	test
+::MS2ASDM::writeConfigDesc()	   Still, the MS Main table seems to refer to an existing processor id 0. Will try to proceed ...
+2025-09-16 14:59:15	INFO	test
+::MS2ASDM::writeConfigDesc()	Processor Id: 0
+2025-09-16 14:59:15	INFO	test
+::MS2ASDM::writeConfigDesc()	Filled ConfigDescription table uid://S002/X1/X10 with 1 rows ... 
+2025-09-16 14:59:15	INFO	test
+::MS2ASDM::writeSBSummaryAndExecBlockStubs()	Using tabulated observatory position for ALMA:
+2025-09-16 14:59:15	INFO	test
+::MS2ASDM::writeSBSummaryAndExecBlockStubs()	   Position: [1761.87, -4307.63, -1977.71] (WGS84)
+2025-09-16 14:59:15	INFO	test
+::MS2ASDM::writeSBSummaryAndExecBlockStubs()	Filled SBSummary table uid://S002/X1/X35 with 36 rows ...
+2025-09-16 14:59:15	INFO	test
+::MS2ASDM::writeSBSummaryAndExecBlockStubs()	Filled ExecBlock table uid://S002/X1/X36 with 36 rows ...
+2025-09-16 14:59:15	INFO	test
+::MS2ASDM::writeMainAndScanAndSubScan()	Using column DATA.
+2025-09-16 14:59:15	INFO	test
+::MS2ASDM::writeMainAndScanAndSubScan()	Filled Main table uid://S002/X1/X5b with 36 rows ...
+2025-09-16 14:59:15	INFO	test
+::MS2ASDM::writeMainAndScanAndSubScan()	Filled Scan table uid://S002/X1/X5c with 36 rows ...
+2025-09-16 14:59:15	INFO	test
+::MS2ASDM::writeMainAndScanAndSubScan()	Filled SubScan table uid://S002/X1/X5d with 36 rows ...
+2025-09-16 14:59:15	INFO	test
+::MS2ASDM::writePointingModel()	Filled PointingModel table uid://S002/X1/X5e with 32 rows ...
+2025-09-16 14:59:15	WARN	test
+::MS2ASDM::writePointing()	No ENCODER column in MS Pointing table. Will use DIRECTION instead.
+2025-09-16 14:59:15	INFO	test
+::MS2ASDM::writePointing()	Filled Pointing table uid://S002/X1/X5f with 16 rows ...

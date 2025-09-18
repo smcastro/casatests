@@ -1,0 +1,6 @@
+2025-09-16 18:39:48	WARN	tclean::task_tclean::casa	Please consider using specmode=mvc with mosaic gridder as this gridder does not implement conjbeams 
+2025-09-16 18:39:48	WARN	tclean::task_tclean::casa+	 thus it needs a few major cycles to converge towards the correct answer
+2025-09-16 18:39:51	WARN	task_tclean::SIImageStore::restore (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SIImageStore.cc, line 2345)	Restoring with an empty model image. Only residuals will be processed to form the output restored image.
+2025-09-16 18:39:51	WARN	task_tclean::SIImageStore::restore (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SIImageStore.cc, line 2345)	Restoring with an empty model image. Only residuals will be processed to form the output restored image.
+2025-09-16 18:39:51	WARN	tclean::task_tclean::casa	Please consider using specmode=mvc with mosaic gridder as this gridder does not implement conjbeams 
+2025-09-16 18:39:51	WARN	tclean::task_tclean::casa+	 thus it needs a few major cycles to converge towards the correct answer

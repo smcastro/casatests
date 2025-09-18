@@ -1,0 +1,7 @@
+caltable = casa-rockylinux8-amd64-perf07:/scratch/scastro/casa/Tests/reports/uid___A002_Xb0dfe8_Xcc8.orion_sio.skycal.tbl
+Median difference between solution times = 40.704001 sec
+Measurement set not found.
+spws to plot (sorted) =  [23, 25, 27, 29]
+Using telescope name (ALMA) to set the polarization type.
+No ASDM_CALWVR, ASDM_CALATMOSPHERE, or CalWVR.xml table found.  Using PWV 1.0mm.
+Both pdftk and ghostscript are missing, so no PDF built.

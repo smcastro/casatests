@@ -1,0 +1,1 @@
+2025-09-16 18:47:57	WARN	UVContSubTVI::spwInputChecks	SPW 0 is used in fitspec but is not included in the SPW selection ('1'), please double-check the spw and fitspec parameters.

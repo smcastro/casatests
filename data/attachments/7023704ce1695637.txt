@@ -1,0 +1,8 @@
+2025-09-16 14:58:47	INFO	test
+::FITSCoordinateUtil::fromFITSHeader	Neither SPECSYS nor VELREF keyword given, spectral reference frame not defined ...
+2025-09-16 14:58:47	INFO	test
+::CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:58:47	INFO	test
+::CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:58:47	INFO	test
+::CasacRegionManager::fromBCS	Using polarizations ALL

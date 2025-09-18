@@ -1,0 +1,2 @@
+
+Comparing 256 pointings in 'simobserve_sky/simobserve_sky.aca.tp.ptg.txt' with 'square.aca.tp.ptg.txt'

@@ -1,0 +1,5 @@
+2025-09-16 16:58:40	SEVERE	FluxCalc_SS_JPL_Butler::setObjNum	Sorry, no flux density model for Moon
+2025-09-16 16:58:40	SEVERE	FluxCalc_SS_JPL_Butler::setObjNum+	 (not even a rudimentary one).
+2025-09-16 16:58:40	SEVERE	FluxCalc_SS_JPL_Butler::readEphem	Found an ephemeris for Moon, but not at Epoch: 0::00:00:00.0000
+2025-09-16 16:58:40	SEVERE	imager::setjy()	Exception Reported: Unknown is not a supported component type.
+2025-09-16 16:58:40	SEVERE	predictcomp::::casa	Task predictcomp raised an exception of class RuntimeError with the following message: Unknown is not a supported component type.

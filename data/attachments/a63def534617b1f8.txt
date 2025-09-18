@@ -1,0 +1,5 @@
+
+The shape of the MS/SYSCAL/TSYS_SPECTRUM (2, 128, 32)
+The shape of the FPARAM extracted with sdcal (2, 128, 32)
+Both tables are identical.
+ALL FLAGs are set to zero.

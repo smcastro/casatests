@@ -1,0 +1,11 @@
+2025-09-16 17:03:49	SEVERE	sdfixscan::::casa	Traceback (most recent call last):
+2025-09-16 17:03:49	SEVERE	sdfixscan::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:03:49	SEVERE	sdfixscan::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdfixscan.py", line 46, in sdfixscan
+2025-09-16 17:03:49	SEVERE	sdfixscan::::casa+	    worker.initialize()
+2025-09-16 17:03:49	SEVERE	sdfixscan::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdfixscan.py", line 62, in initialize
+2025-09-16 17:03:49	SEVERE	sdfixscan::::casa+	    self.parameter_check()
+2025-09-16 17:03:49	SEVERE	sdfixscan::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdfixscan.py", line 114, in parameter_check
+2025-09-16 17:03:49	SEVERE	sdfixscan::::casa+	    raise Exception("infiles allows only one input file for pressed-out method.")
+2025-09-16 17:03:49	SEVERE	sdfixscan::::casa+	Exception: infiles allows only one input file for pressed-out method.
+2025-09-16 17:03:49	SEVERE	sdfixscan::::casa	infiles allows only one input file for pressed-out method.
+2025-09-16 17:03:49	SEVERE	sdfixscan::::casa	Task sdfixscan raised an exception of class Exception with the following message: infiles allows only one input file for pressed-out method.

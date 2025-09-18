@@ -1,0 +1,9 @@
+2025-09-16 18:37:23	SEVERE	tclean::::casa	[ checkall ] 
+2025-09-16 18:37:23	SEVERE	tclean::::casa+	[ check_ims ] Image made : ['tst.psf.tt0', 'tst.residual.tt0', 'tst.image.tt0', 'tst.image.tt1', 'tst.alpha'] =  [True, True, True, True, True] ( Pass : should all be True )
+2025-09-16 18:37:23	SEVERE	tclean::::casa+	All expected keywords in imageinfo, miscinfo, and coords found. (check_keywords)
+2025-09-16 18:37:23	SEVERE	tclean::::casa+	[check_history] All expected history entries found. (Pass)
+2025-09-16 18:37:23	SEVERE	tclean::::casa+	[ check_pix_val ] tst.psf.tt0 : Value is 1.0 at [256, 256, 0, 0] ( Pass : should be 1.0 , Epsilon: 0.05)
+2025-09-16 18:37:23	SEVERE	tclean::::casa+	[ check_pix_val ] tst.image.tt0 : Value is 0.49899500608444214 at [256, 256, 0, 0] ( Pass : should be 0.5 , Epsilon: 0.05)
+2025-09-16 18:37:23	SEVERE	tclean::::casa+	[ check_pix_val ] tst.alpha : Value is -0.5221409201622009 at [256, 256, 0, 0] ( Pass : should be -0.5 , Epsilon: 0.05)
+2025-09-16 18:37:23	SEVERE	tclean::::casa+	[ check_pix_val ] tst.image.tt0.pbcor : Value is 0.9987931251525879 at [256, 256, 0, 0] ( Pass : should be 1.0 , Epsilon: 0.05)
+2025-09-16 18:37:23	SEVERE	tclean::::casa+	[check_tabcache] Fail: Found open tables after run 

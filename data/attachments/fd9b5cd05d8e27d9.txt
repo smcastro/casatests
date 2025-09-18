@@ -1,0 +1,83 @@
+2025-09-16 14:57:05	INFO	ImageFactory::createImage	Created Paged image 'zxye.im' of shape [10, 10, 10] with float valued pixels.
+2025-09-16 14:57:05	INFO	name::	No table opened.
+2025-09-16 14:57:05	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:57:05	INFO	PVGenerator::generate 	Rotation angle (very nearly) 0 degrees, no rotation required
+2025-09-16 14:57:05	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:05	INFO	ImageRegion::fromRecord+	    [2, 5, 0] to [7, 5, 9]  (00:00:12.000, +00.00.00.000, 1.415e+09Hz to 23:59:52.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:57:05	INFO	ImageCollapser::_doDegenerateAxesCase	All subimage axes to be collapsed are degenerate, using algorithm optimized for that case.
+2025-09-16 14:57:05	INFO	SubImageFactory::createImage	Creating image 'test_pv_0' of shape [6, 10]
+2025-09-16 14:57:05	INFO	name::	No table opened.
+2025-09-16 14:57:05	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:57:05	INFO	PVGenerator::setEndpoints 	Setting pixel end points [2, 5], [7, 5]
+2025-09-16 14:57:05	INFO	PVGenerator::generate 	Rotation angle (very nearly) 0 degrees, no rotation required
+2025-09-16 14:57:05	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:05	INFO	ImageRegion::fromRecord+	    [2, 5, 0] to [7, 5, 9]  (00:00:12.000, +00.00.00.000, 1.415e+09Hz to 23:59:52.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:57:05	INFO	ImageCollapser::_doDegenerateAxesCase	All subimage axes to be collapsed are degenerate, using algorithm optimized for that case.
+2025-09-16 14:57:05	INFO	SubImageFactory::createImage	Creating image 'test_pv_1' of shape [6, 10]
+2025-09-16 14:57:05	INFO	name::	No table opened.
+2025-09-16 14:57:05	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:57:05	INFO	PVGenerator::setEndpoints 	Setting pixel end points [2, 5], [7, 5]
+2025-09-16 14:57:05	INFO	PVGenerator::generate 	Rotation angle (very nearly) 0 degrees, no rotation required
+2025-09-16 14:57:05	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:05	INFO	ImageRegion::fromRecord+	    [2, 5, 0] to [7, 5, 9]  (00:00:12.000, +00.00.00.000, 1.415e+09Hz to 23:59:52.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:57:05	INFO	ImageCollapser::_doDegenerateAxesCase	All subimage axes to be collapsed are degenerate, using algorithm optimized for that case.
+2025-09-16 14:57:05	INFO	SubImageFactory::createImage	Creating image 'test_pv_2' of shape [6, 10]
+2025-09-16 14:57:05	INFO	name::	No table opened.
+2025-09-16 14:57:05	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:57:05	INFO	PVGenerator::setEndpoints 	Setting pixel end points [2, 5], [7, 5]
+2025-09-16 14:57:05	INFO	PVGenerator::generate 	Rotation angle (very nearly) 0 degrees, no rotation required
+2025-09-16 14:57:05	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:05	INFO	ImageRegion::fromRecord+	    [2, 5, 0] to [7, 5, 9]  (00:00:12.000, +00.00.00.000, 1.415e+09Hz to 23:59:52.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:57:05	INFO	ImageCollapser::_doDegenerateAxesCase	All subimage axes to be collapsed are degenerate, using algorithm optimized for that case.
+2025-09-16 14:57:05	INFO	SubImageFactory::createImage	Creating image 'test_pv_3' of shape [6, 10]
+2025-09-16 14:57:05	INFO	name::	No table opened.
+2025-09-16 14:57:05	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:57:05	INFO	PVGenerator::setEndpoints 	Setting pixel end points [2, 5], [7, 5]
+2025-09-16 14:57:05	INFO	PVGenerator::generate 	Rotation angle (very nearly) 0 degrees, no rotation required
+2025-09-16 14:57:05	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:05	INFO	ImageRegion::fromRecord+	    [2, 5, 0] to [7, 5, 9]  (00:00:12.000, +00.00.00.000, 1.415e+09Hz to 23:59:52.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:57:05	INFO	ImageCollapser::_doDegenerateAxesCase	All subimage axes to be collapsed are degenerate, using algorithm optimized for that case.
+2025-09-16 14:57:05	INFO	SubImageFactory::createImage	Creating image 'test_pv_4' of shape [6, 10]
+2025-09-16 14:57:05	INFO	name::	No table opened.
+2025-09-16 14:57:05	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:57:05	INFO	PVGenerator::setEndpoints 	Setting pixel end points [2, 5], [7, 5]
+2025-09-16 14:57:05	INFO	PVGenerator::generate 	Rotation angle (very nearly) 0 degrees, no rotation required
+2025-09-16 14:57:05	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:05	INFO	ImageRegion::fromRecord+	    [2, 5, 0] to [7, 5, 9]  (00:00:12.000, +00.00.00.000, 1.415e+09Hz to 23:59:52.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:57:05	INFO	ImageCollapser::_doDegenerateAxesCase	All subimage axes to be collapsed are degenerate, using algorithm optimized for that case.
+2025-09-16 14:57:05	INFO	SubImageFactory::createImage	Creating image 'test_pv_5' of shape [6, 10]
+2025-09-16 14:57:05	INFO	name::	No table opened.
+2025-09-16 14:57:05	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:57:05	INFO	PVGenerator::setEndpoints 	Setting pixel end points [2, 5], [7, 5]
+2025-09-16 14:57:05	INFO	PVGenerator::generate 	Rotation angle (very nearly) 0 degrees, no rotation required
+2025-09-16 14:57:05	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:05	INFO	ImageRegion::fromRecord+	    [2, 5, 0] to [7, 5, 9]  (00:00:12.000, +00.00.00.000, 1.415e+09Hz to 23:59:52.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:57:05	INFO	ImageCollapser::_doDegenerateAxesCase	All subimage axes to be collapsed are degenerate, using algorithm optimized for that case.
+2025-09-16 14:57:05	INFO	SubImageFactory::createImage	Creating image 'test_pv_6' of shape [6, 10]
+2025-09-16 14:57:05	INFO	name::	No table opened.
+2025-09-16 14:57:05	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:57:05	INFO	PVGenerator::generate 	Rotation angle (very nearly) 0 degrees, no rotation required
+2025-09-16 14:57:05	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:05	INFO	ImageRegion::fromRecord+	    [2, 4, 0] to [7, 6, 9]  (00:00:12.000, -00.01.00.000, 1.415e+09Hz to 23:59:52.000, +00.01.00.000, 1.415e+09Hz)
+2025-09-16 14:57:05	INFO	SubImageFactory::createImage	Creating image 'test_pv_1_0' of shape [6, 10]
+2025-09-16 14:57:05	INFO	PVGenerator::generate 	Rotation angle (very nearly) 0 degrees, no rotation required
+2025-09-16 14:57:05	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:05	INFO	ImageRegion::fromRecord+	    [2, 4, 0] to [7, 6, 9]  (00:00:12.000, -00.01.00.000, 1.415e+09Hz to 23:59:52.000, +00.01.00.000, 1.415e+09Hz)
+2025-09-16 14:57:05	INFO	SubImageFactory::createImage	Creating image 'test_pv_1_1' of shape [6, 10]
+2025-09-16 14:57:05	INFO	PVGenerator::setWidth 	Rounding width up to next odd number of pixels (3), or 3arcmin
+2025-09-16 14:57:05	INFO	PVGenerator::generate 	Rotation angle (very nearly) 0 degrees, no rotation required
+2025-09-16 14:57:05	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:05	INFO	ImageRegion::fromRecord+	    [2, 4, 0] to [7, 6, 9]  (00:00:12.000, -00.01.00.000, 1.415e+09Hz to 23:59:52.000, +00.01.00.000, 1.415e+09Hz)
+2025-09-16 14:57:05	INFO	SubImageFactory::createImage	Creating image 'test_pv_1_2' of shape [6, 10]
+2025-09-16 14:57:05	INFO	PVGenerator::setWidth 	Rounding width up to next odd number of pixels (3), or 3arcmin
+2025-09-16 14:57:05	INFO	PVGenerator::generate 	Rotation angle (very nearly) 0 degrees, no rotation required
+2025-09-16 14:57:05	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:05	INFO	ImageRegion::fromRecord+	    [2, 4, 0] to [7, 6, 9]  (00:00:12.000, -00.01.00.000, 1.415e+09Hz to 23:59:52.000, +00.01.00.000, 1.415e+09Hz)
+2025-09-16 14:57:05	INFO	SubImageFactory::createImage	Creating image 'test_pv_1_3' of shape [6, 10]
+2025-09-16 14:57:05	INFO	PVGenerator::setWidth 	Rounding width up to next odd number of pixels (3), or 180000marcsec
+2025-09-16 14:57:05	INFO	PVGenerator::generate 	Rotation angle (very nearly) 0 degrees, no rotation required
+2025-09-16 14:57:05	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:05	INFO	ImageRegion::fromRecord+	    [2, 4, 0] to [7, 6, 9]  (00:00:12.000, -00.01.00.000, 1.415e+09Hz to 23:59:52.000, +00.01.00.000, 1.415e+09Hz)
+2025-09-16 14:57:05	INFO	SubImageFactory::createImage	Creating image 'test_pv_1_4' of shape [6, 10]
+2025-09-16 14:57:05	INFO	name::	No table opened.
+2025-09-16 14:57:05	INFO	showcache::	The Table Cache is empty.

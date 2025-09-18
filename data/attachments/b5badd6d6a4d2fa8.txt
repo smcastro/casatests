@@ -1,0 +1,8 @@
+Run with cube - hogbom - False
+Run with cube - hogbom - usestartmodel = False - imaging in parallel
+[check_chanvals] Chan 19  is (0.5040750624302417+0j) (Pass : should be <0.9)
+
+Run with cube - hogbom - True
+Run with cube - hogbom - usestartmodel = True - imaging in parallel
+[check_chanvals] Chan 19  is (0.5040750624302417+0j) (Pass : should be <0.9)
+

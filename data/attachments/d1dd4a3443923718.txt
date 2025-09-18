@@ -1,0 +1,24 @@
+caltable = casa-rockylinux8-amd64-perf07:/scratch/scastro/casa/Tests/reports/uid___A002_X99c183_X25b6.ms.split.bandpass
+Median difference between solution times = nan sec
+Measurement set not found.
+spws to plot (sorted) =  [np.int64(0), np.int64(1), np.int64(2), np.int64(3), np.int64(4), np.int64(5)]
+Using telescope name (ALMA) to set the polarization type.
+Skip DA45 spw0 (Ant 4: DA45,  spw all,  field 0: J1107-4449,  scan4  07:06:20) all data flagged
+Skip DA45 spw1 (Ant 4: DA45,  spw all,  field 0: J1107-4449,  scan4  07:06:20) all data flagged
+Skip DA45 spw2 (Ant 4: DA45,  spw all,  field 0: J1107-4449,  scan4  07:06:20) all data flagged
+Skip DA45 spw3 (Ant 4: DA45,  spw all,  field 0: J1107-4449,  scan4  07:06:20) all data flagged
+Skip DA45 spw4 (Ant 4: DA45,  spw all,  field 0: J1107-4449,  scan4  07:06:20) all data flagged
+Skip DA45 spw5 (Ant 4: DA45,  spw all,  field 0: J1107-4449,  scan4  07:06:20) all data flagged
+Skip DA63 spw0 (Ant17: DA63,  spw all,  field 0: J1107-4449,  scan4  07:06:20) all data flagged
+Skip DA63 spw1 (Ant17: DA63,  spw all,  field 0: J1107-4449,  scan4  07:06:20) all data flagged
+Skip DA63 spw2 (Ant17: DA63,  spw all,  field 0: J1107-4449,  scan4  07:06:20) all data flagged
+Skip DA63 spw3 (Ant17: DA63,  spw all,  field 0: J1107-4449,  scan4  07:06:20) all data flagged
+Skip DA63 spw4 (Ant17: DA63,  spw all,  field 0: J1107-4449,  scan4  07:06:20) all data flagged
+Skip DA63 spw5 (Ant17: DA63,  spw all,  field 0: J1107-4449,  scan4  07:06:20) all data flagged
+Skip DV06 spw0 (Ant21: DV06,  spw all,  field 0: J1107-4449,  scan4  07:06:20) all data flagged
+Skip DV06 spw1 (Ant21: DV06,  spw all,  field 0: J1107-4449,  scan4  07:06:20) all data flagged
+Skip DV06 spw2 (Ant21: DV06,  spw all,  field 0: J1107-4449,  scan4  07:06:20) all data flagged
+Skip DV06 spw3 (Ant21: DV06,  spw all,  field 0: J1107-4449,  scan4  07:06:20) all data flagged
+Skip DV06 spw4 (Ant21: DV06,  spw all,  field 0: J1107-4449,  scan4  07:06:20) all data flagged
+Skip DV06 spw5 (Ant21: DV06,  spw all,  field 0: J1107-4449,  scan4  07:06:20) all data flagged
+Both pdftk and ghostscript are missing, so no PDF built.

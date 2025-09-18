@@ -1,0 +1,1 @@
+2025-09-16 16:27:02	WARN	initweights::Calibrater::selectvis	Initializing SIGMA and WEIGHT according to channel bandwidth, integration time, and Tsys. NOTE this is an expert mode.

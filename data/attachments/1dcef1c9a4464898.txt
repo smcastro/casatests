@@ -1,0 +1,2 @@
+2025-09-16 16:28:34	WARN	MSTransformManager::checkDataColumnsToFill	CORRECTED_DATA column requested but not available in input MS 
+2025-09-16 16:28:34	SEVERE	mstransform::::casa	Task mstransform raised an exception of class RuntimeError with the following message: Currently the option 'combinespws' is only supported when the number of channels is the same for all the spw's selected. One of the SPWs selected has 128 channels, but another selected SPW has 3840 channels.

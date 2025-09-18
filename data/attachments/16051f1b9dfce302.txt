@@ -1,0 +1,2 @@
+sed -n "/Begin Task/,/End Task/p" testlog.log > newlisth.log 
+wc -l newlisth.log

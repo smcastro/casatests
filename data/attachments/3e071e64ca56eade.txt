@@ -1,0 +1,14 @@
+2025-09-16 16:11:24	WARN	ImageFitter::_finishConstruction	Unrecognized intensity unit erg. Will assume Jy/pixel
+2025-09-16 16:11:24	WARN	ImageFitter::clearNoiseFWHM	noiseFWHM not specified and image has no beam, using uncorrelated noise expressions to calculate uncertainties
+2025-09-16 16:11:24	WARN	SkyCompRep::convertToJy	Cannot convert units of brightness to Jy - will assume Jy
+2025-09-16 16:11:24	WARN	SkyCompRep::peakToIntegralFlux()	The image units 'erg' are not consistent 
+2025-09-16 16:11:24	WARN	SkyCompRep::peakToIntegralFlux()+	with Jy when integrated over the sky.  Assuming Jy/pixel
+2025-09-16 16:11:24	WARN	SkyCompRep::integralToPeakFlux()	The image units 'erg' are not consistent 
+2025-09-16 16:11:24	WARN	SkyCompRep::integralToPeakFlux()+	with Jy when integrated over the sky.  Assuming Jy/pixel
+2025-09-16 16:11:24	WARN	imfit::ImageFitter::_finishConstruction	Unrecognized intensity unit erg. Will assume Jy/pixel
+2025-09-16 16:11:24	WARN	imfit::ImageFitter::clearNoiseFWHM	noiseFWHM not specified and image has no beam, using uncorrelated noise expressions to calculate uncertainties
+2025-09-16 16:11:24	WARN	imfit::SkyCompRep::convertToJy	Cannot convert units of brightness to Jy - will assume Jy
+2025-09-16 16:11:24	WARN	imfit::SkyCompRep::peakToIntegralFlux()	The image units 'erg' are not consistent 
+2025-09-16 16:11:24	WARN	imfit::SkyCompRep::peakToIntegralFlux()+	with Jy when integrated over the sky.  Assuming Jy/pixel
+2025-09-16 16:11:24	WARN	imfit::SkyCompRep::integralToPeakFlux()	The image units 'erg' are not consistent 
+2025-09-16 16:11:24	WARN	imfit::SkyCompRep::integralToPeakFlux()+	with Jy when integrated over the sky.  Assuming Jy/pixel

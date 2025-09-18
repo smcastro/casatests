@@ -1,0 +1,11 @@
+The following MS spws have no corresponding cal spws in out.cal: 0 2 4 6 8 9 10 11 12 13 14 15 16 17 18 19 20 
+fparam_average_r1_0 50.16530442237854
+fparam_average_r1_1 50.1364648938179
+SIGMA00  0.00036514835665002465
+SIGMA10  0.00036514835665002465
+WEIGHT00  3068.419677734375
+WEIGHT10  2948.35986328125
+pol0: 1/SIGMA**2 X 1/(FPARAM_ave)**2 2980.2616546329778
+pol1: 1/SIGMA**2 X 1/(FPARAM_ave)**2 2983.691256668374
+difference between fparam_r1_0 and weight00 2.873075796674931 %
+difference between fparam_r1_1 and weight10 -1.1983406037756712 %

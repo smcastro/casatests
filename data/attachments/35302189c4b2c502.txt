@@ -1,0 +1,4 @@
+2025-09-16 15:42:17	SEVERE	fixplanets::::casa	GIVEN TIME 2012/07/11/08:41:32 == 4848712892.0 is not within the observation time (4808345056.368s - 4808345340.144s)
+2025-09-16 15:42:17	SEVERE	fixplanets::::casa	Task fixplanets raised an exception of class TypeError with the following message: 
+2025-09-16 15:42:17	SEVERE	fixplanets::::casa	GIVEN TIME 2012/07/11/08:41:32 == 4848712892.0 is not within the observation time (4808345137.536s - 4808345114.783999s)
+2025-09-16 15:42:17	SEVERE	fixplanets::::casa	Task fixplanets raised an exception of class TypeError with the following message: 

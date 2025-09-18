@@ -1,0 +1,20 @@
+2025-09-16 18:51:42	WARN		Antenna 0 has bad or no WVR and only 0 near antennas (500 m max. distance) to interpolate from. Required are 2.
+2025-09-16 18:51:42	WARN		Antenna 21 has bad or no WVR and only 0 near antennas (500 m max. distance) to interpolate from. Required are 2.
+Calculating the coefficients now ... 
+WARNING: Bayesian evidence was zero for antenna 22
+         TObs was 255.716 196.929 122.811 93.9806 K, elevation 11.5287 deg
+WARNING: Bayesian evidence was zero for antenna 22
+         TObs was 255.878 197.425 123.198 94.2713 K, elevation 11.5578 deg
+done!
+2025-09-16 18:51:45	WARN	wvrgcal::::casa	Solution for flagged antenna DA41 could not be interpolated due to insufficient number of near antennas. Was set to unity.
+2025-09-16 18:51:45	WARN	wvrgcal::::casa	Solution for flagged antenna DV11 could not be interpolated due to insufficient number of near antennas. Was set to unity.
+2025-09-16 18:51:46	WARN		Antenna 0 has bad or no WVR and only 0 near antennas (500 m max. distance) to interpolate from. Required are 2.
+2025-09-16 18:51:46	WARN		Antenna 21 has bad or no WVR and only 0 near antennas (500 m max. distance) to interpolate from. Required are 2.
+Calculating the coefficients now ... 
+WARNING: Bayesian evidence was zero for antenna 22
+         TObs was 255.716 196.929 122.811 93.9806 K, elevation 11.5287 deg
+WARNING: Bayesian evidence was zero for antenna 22
+         TObs was 255.878 197.425 123.198 94.2713 K, elevation 11.5578 deg
+done!
+2025-09-16 18:51:49	WARN	wvrgcal::::casa	Solution for flagged antenna DA41 could not be interpolated due to insufficient number of near antennas. Was set to unity.
+2025-09-16 18:51:49	WARN	wvrgcal::::casa	Solution for flagged antenna DV11 could not be interpolated due to insufficient number of near antennas. Was set to unity.

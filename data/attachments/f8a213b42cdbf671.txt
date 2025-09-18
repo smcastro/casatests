@@ -1,0 +1,4 @@
+
+Remapping CALDEVICE and SYSPOWER of cas-3307.ms
+
+Remapping CALDEVICE and SYSPOWER of bogusCDSP.ms

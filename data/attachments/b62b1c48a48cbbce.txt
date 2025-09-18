@@ -1,0 +1,10 @@
+Test: FLOAT_DATA
+- reindex=True
+task param: {'spw': '>6:0~39;41~127', 'infile': 'analytic_type1.bl.ms', 'outfile': 'baselined.ms', 'maskmode': 'list', 'blmode': 'fit', 'dosubtract': True, 'blfunc': 'poly', 'order': 1}
+- reindex=False
+task param: {'spw': '>6:0~39;41~127', 'infile': 'analytic_type1.bl.ms', 'outfile': 'baselined.ms', 'maskmode': 'list', 'blmode': 'fit', 'dosubtract': True, 'blfunc': 'poly', 'order': 1}
+Test: CORRECTED
+- reindex=True
+task param: {'spw': '>6:0~79;81~127', 'infile': 'analytic_type1.bl.ms', 'outfile': 'baselined.ms', 'maskmode': 'list', 'blmode': 'fit', 'dosubtract': True, 'blfunc': 'poly', 'order': 1}
+- reindex=False
+task param: {'spw': '>6:0~79;81~127', 'infile': 'analytic_type1.bl.ms', 'outfile': 'baselined.ms', 'maskmode': 'list', 'blmode': 'fit', 'dosubtract': True, 'blfunc': 'poly', 'order': 1}

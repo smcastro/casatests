@@ -1,0 +1,176 @@
+2025-09-16 14:59:01	INFO	test
+::MS2ASDM::writeASDM()	Converting /scratch/scastro/casa/Tests/reports/xosro2ref.ms to ASDM xosro2asdm
+2025-09-16 14:59:01	INFO	test
+::MS2ASDM::writeASDM()+	UID base is uid://S0/X1/X, ASDM UID is uid://S0/X1/X1
+2025-09-16 14:59:01	INFO	test
+::MS2ASDM::writeStation()	Filled Station table uid://S0/X1/X2 with 24 rows ...
+2025-09-16 14:59:01	INFO	test
+::MS2ASDM::writeAntenna()	Filled Antenna table uid://S0/X1/X3 with 24 rows ...
+2025-09-16 14:59:01	INFO	test
+::MS2ASDM::writeSpectralWindow()	Filled SpectralWindow table uid://S0/X1/X4 with 2 rows ...
+2025-09-16 14:59:01	INFO	test
+::MS2ASDM::writeSource()	Filled Source table uid://S0/X1/X5 with 2 rows ...
+2025-09-16 14:59:01	INFO	test
+::MS2ASDM::writePolarization()	Filled Polarization table uid://S0/X1/X6 with 1 rows ...
+2025-09-16 14:59:01	WARN	test
+::MS2ASDM::writeProcessor()	Unsupported processor subType for type CORRELATOR NRAO_WIDAR assuming ALMA_CORRELATOR
+2025-09-16 14:59:01	INFO	test
+::MS2ASDM::writeCorrelatorMode()	Filled CorrelatorMode table uid://S0/X1/X7 with 1 rows ...
+2025-09-16 14:59:01	INFO	test
+::MS2ASDM::writeProcessor()	Filled Processor table uid://S0/X1/X8 with 1 rows ...
+2025-09-16 14:59:01	INFO	test
+::MS2ASDM::writeField()	Filled Field table uid://S0/X1/X9 with 1 rows ...
+2025-09-16 14:59:01	INFO	test
+::MS2ASDM::writeReceiver()	Taking validity time interval for all ASDM Receiver table entries from row 0 of MS Feed table.
+2025-09-16 14:59:01	INFO	test
+::MS2ASDM::writeReceiver()	Filled Receiver table uid://S0/X1/Xa with 2 rows ...
+2025-09-16 14:59:01	WARN	test
+::MS2ASDM::writeFeed()	Setting receiver ID to zero (ALMA convention).
+2025-09-16 14:59:01	WARN	test
+::MS2ASDM::writeFeed()	Assuming single-feed receivers. Setting FeedNum to 1 (as for ALMA).
+2025-09-16 14:59:01	INFO	test
+::MS2ASDM::writeFeed()	Filled Feed table uid://S0/X1/Xb with 48 rows ...
+2025-09-16 14:59:01	INFO	test
+::MS2ASDM::writeDataDescription()	Filled DataDescription table uid://S0/X1/Xc with 2 rows ...
+2025-09-16 14:59:01	INFO	test
+::MS2ASDM::writeSwitchCycle()	PHASE_ID column doesn't exist in MS Main table.
+2025-09-16 14:59:01	INFO	test
+::MS2ASDM::writeSwitchCycle()+	 Filled ASDM SwitchCycle table uid://S0/X1/Xd with one dummy entry.
+2025-09-16 14:59:01	INFO	test
+::MS2ASDM::writeState()	Filled State table uid://S0/X1/Xe with 1 rows ...
+2025-09-16 14:59:01	WARN	test
+::MS2ASDM::writeSysCal()	MS SysCal table doesn't exist or is empty. Creating ASDM SysCal table with default entries.
+2025-09-16 14:59:01	INFO	test
+::MS2ASDM::writeSysCal()	Filled SysCal table uid://S0/X1/Xf with 48 rows ...
+2025-09-16 14:59:01	INFO	test
+::MS2ASDM::writeConfigDesc()	Processor Id: 0
+2025-09-16 14:59:01	INFO	test
+::MS2ASDM::writeConfigDesc()	Filled ConfigDescription table uid://S0/X1/X10 with 2 rows ... 
+2025-09-16 14:59:01	INFO	test
+::MS2ASDM::writeSBSummaryAndExecBlockStubs()	Using tabulated observatory position for EVLA:
+2025-09-16 14:59:01	INFO	test
+::MS2ASDM::writeSBSummaryAndExecBlockStubs()	   Position: [-531.118, -1672.47, 1187.13] (WGS84)
+2025-09-16 14:59:01	INFO	test
+::MS2ASDM::writeSBSummaryAndExecBlockStubs()	Filled SBSummary table uid://S0/X1/X12 with 1 rows ...
+2025-09-16 14:59:01	INFO	test
+::MS2ASDM::writeSBSummaryAndExecBlockStubs()	Filled ExecBlock table uid://S0/X1/X13 with 1 rows ...
+2025-09-16 14:59:01	INFO	test
+::MS2ASDM::writeMainAndScanAndSubScan()	Using column DATA.
+2025-09-16 14:59:01	INFO	test
+::MS2ASDM::writeMainAndScanAndSubScan()	Filled Main table uid://S0/X1/X16 with 2 rows ...
+2025-09-16 14:59:01	INFO	test
+::MS2ASDM::writeMainAndScanAndSubScan()	Filled Scan table uid://S0/X1/X17 with 1 rows ...
+2025-09-16 14:59:01	INFO	test
+::MS2ASDM::writeMainAndScanAndSubScan()	Filled SubScan table uid://S0/X1/X18 with 2 rows ...
+2025-09-16 14:59:01	INFO	test
+::MS2ASDM::writePointingModel()	Filled PointingModel table uid://S0/X1/X19 with 48 rows ...
+2025-09-16 14:59:01	WARN	test
+::MS2ASDM::writePointing()	MS Pointing table doesn't exist or is empty.
+2025-09-16 14:59:01	INFO	test
+::::sdm 	the BDF slice size is set to 500 megabytes.
+2025-09-16 14:59:01	INFO	test
+::::sdm 	the MS Ephemeris tables(s) will be produced by simple copies of the values found in the ASDM Ephemeris table with just units conversion.
+2025-09-16 14:59:01	INFO	test
+::::sdm 	Row uniqueness constraint will be ignored.
+2025-09-16 14:59:01	INFO	test
+::::sdm 	Input ASDM dataset : xosro2asdm
+2025-09-16 14:59:01	INFO	test
+::::sdm 	Time spent parsing the ASDM medata : 0.019248 s.
+2025-09-16 14:59:01	INFO	test
+::::sdm 	Correlation modes requested : CROSS_ONLY
+2025-09-16 14:59:01	INFO	test
+::::sdm +	Spectral resolution types requested : CHANNEL_AVERAGE BASEBAND_WIDE FULL_RESOLUTION
+2025-09-16 14:59:01	INFO	test
+::::sdm +	Time sampling requested : SUBINTEGRATION INTEGRATION
+2025-09-16 14:59:01	INFO	test
+::::sdm +	WVR uncorrected and|or corrected data requested : AP_UNCORRECTED
+2025-09-16 14:59:01	INFO	test
+::::sdm +	All scans of all exec blocks will be processed 
+2025-09-16 14:59:01	INFO	test
+::::sdm 	The correction (encoder - pointingDirection) will be applied
+2025-09-16 14:59:01	INFO	test
+::::sdm +	For each data description auto correlations for a sequence of timestamps followed by cross correlations for the same sequence will be written in the Main table
+2025-09-16 14:59:01	INFO	test
+::::sdm 	About to create a filler for the measurement set './xosro2ref-reimp.ms'
+2025-09-16 14:59:01	INFO	test
+::::sdm 	The dataset has 24 antenna(s)...
+2025-09-16 14:59:01	INFO	test
+::::sdm 	converted in 24 antenna(s)  in the measurement set(s).
+2025-09-16 14:59:01	INFO	test
+::::sdm 	The dataset has 2 spectral window(s)...
+2025-09-16 14:59:01	INFO	test
+::::sdm 	converted in 2 spectral window(s) in the measurement set(s).
+2025-09-16 14:59:01	INFO	test
+::::sdm 	The dataset has 1 polarization(s)...
+2025-09-16 14:59:01	INFO	test
+::::sdm 	converted in 1 polarization(s).
+2025-09-16 14:59:01	INFO	test
+::::sdm 	The dataset has 2 data description(s)...
+2025-09-16 14:59:01	INFO	test
+::::sdm 	converted in 2 data description(s)  in the measurement set(s).
+2025-09-16 14:59:01	INFO	test
+::::sdm 	The dataset has 1 execBlock(s) ...1 of them in the selected exec blocks / scans ... 
+2025-09-16 14:59:01	INFO	test
+::::sdm 	Telescope Name:EVLA, process as EVLA data.
+2025-09-16 14:59:01	INFO	test
+::::sdm 	converted in 1 observation(s) in the measurement set(s).
+2025-09-16 14:59:01	INFO	test
+::::sdm 	The dataset has 48 feed(s)...48 of them in the exec blocks / selected scans ... 
+2025-09-16 14:59:01	INFO	test
+::::sdm 	converted in 48 feed(s) in the measurement set.
+2025-09-16 14:59:01	INFO	test
+::::sdm 	The dataset has 0 ephemeris row(s)...
+2025-09-16 14:59:01	INFO	test
+::::sdm 	The dataset has 1 field(s)...
+2025-09-16 14:59:01	INFO	test
+::::sdm 	converted in 1  field(s) in the measurement set(s).
+2025-09-16 14:59:01	INFO	test
+::::sdm 	The dataset has 0 FlagCmd(s)...0 of them in the exec blocks / selected scans ... 
+2025-09-16 14:59:01	INFO	test
+::::sdm 	The dataset has 0 history(s)...0 of them in the selected exec blocks / scans ... 
+2025-09-16 14:59:01	INFO	test
+::::sdm 	The dataset has 0 pointing(s)...0 of them in the selected exec blocks / scans ... 
+2025-09-16 14:59:01	INFO	test
+::::sdm 	The dataset has 1 processor(s)...
+2025-09-16 14:59:01	INFO	test
+::::sdm 	converted in 1 processor(s) in the measurement set.
+2025-09-16 14:59:01	INFO	test
+::::sdm 	The dataset has 2 sources(s)...2 of them in the selected scans ... 
+2025-09-16 14:59:01	INFO	test
+::::sdm 	converted in 2 source(s) in the measurement set(s).
+2025-09-16 14:59:01	INFO	test
+::::sdm 	The dataset has 48 sysCal(s)...48 of them in the selected scans ... 
+2025-09-16 14:59:01	INFO	test
+::::sdm 	converted in 48 sysCal(s) in the measurement set(s).
+2025-09-16 14:59:01	INFO	test
+::::sdm 	The dataset has 0 syspower(s).
+2025-09-16 14:59:01	INFO	test
+::::sdm 	The dataset has 0 weather(s)...0 of them in the selected scans ... 
+2025-09-16 14:59:01	INFO	test
+::::sdm 	The dataset has 0 weather(s)...
+2025-09-16 14:59:01	INFO	test
+::::sdm 	The dataset has 2 main(s)...2 of them in the selected exec blocks / scans.
+2025-09-16 14:59:01	INFO	test
+::::sdm 	ASDM Main row #0 contains data produced by a 'CORRELATOR'.
+2025-09-16 14:59:01	INFO	test
+::::sdm 	ASDM Main row #0 (scan #1, subscan #1, ConfigDescription_0) - BDF file '/scratch/scastro/casa/Tests/reports/xosro2asdm/ASDMBinary/uid___S0_X1_X14' - Size is 16957440 bytes for 20 integrations.
+2025-09-16 14:59:01	INFO	test
+::::sdm 	ASDM Main row #0 - 0 integrations done so far - the next 20 integrations produced 5520 MS Main rows.
+2025-09-16 14:59:01	INFO	test
+::::sdm 	ASDM Main row #0 produced a total of 5520 MS Main rows.
+2025-09-16 14:59:01	INFO	test
+::::sdm 	ASDM Main row #1 contains data produced by a 'CORRELATOR'.
+2025-09-16 14:59:01	INFO	test
+::::sdm 	ASDM Main row #1 (scan #1, subscan #2, ConfigDescription_1) - BDF file '/scratch/scastro/casa/Tests/reports/xosro2asdm/ASDMBinary/uid___S0_X1_X15' - Size is 16957440 bytes for 20 integrations.
+2025-09-16 14:59:01	INFO	test
+::::sdm 	ASDM Main row #1 - 0 integrations done so far - the next 20 integrations produced 5520 MS Main rows.
+2025-09-16 14:59:01	INFO	test
+::::sdm 	ASDM Main row #1 produced a total of 5520 MS Main rows.
+2025-09-16 14:59:01	INFO	test
+::::sdm 	The dataset has 1 state(s)...
+2025-09-16 14:59:01	INFO	test
+::::sdm 	converted in 2 state(s) in the measurement set.
+2025-09-16 14:59:01	INFO	test
+::::sdm 	The dataset has 2 main(s)...
+2025-09-16 14:59:01	INFO	test
+::::sdm 	converted in 11040 main(s) rows in the measurement set containing the wvr uncorrected data.

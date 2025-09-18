@@ -1,0 +1,4 @@
+2025-09-16 14:55:19	WARN	CalAnalysis::getGroup() (file /source/casa6/casatools/src/code/calanalysis/CalAnalysis/CalAnalysis.cc, line 2718)	No matching rows selected
+2025-09-16 14:55:19	WARN	CalAnalysis::stats<T>() (file /source/casainstall/include/casacpp/calanalysis/CalAnalysis/CalAnalysis.h, line 686)	Cannot parse group(s)
+2025-09-16 14:55:19	WARN	CalAnalysis::getGroup() (file /source/casa6/casatools/src/code/calanalysis/CalAnalysis/CalAnalysis.cc, line 2718)	No matching rows selected
+2025-09-16 14:55:19	WARN	CalAnalysis::stats<T>() (file /source/casainstall/include/casacpp/calanalysis/CalAnalysis/CalAnalysis.h, line 686)	Cannot parse group(s)

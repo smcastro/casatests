@@ -1,0 +1,16 @@
+2025-09-16 14:58:55	INFO	test
+::RegionTextParser::_determineVersion	RegionTextParser::_determineVersion: Found spec version 0
+2025-09-16 14:58:55	INFO	test
+::AsciiRegionFileParser::_parse	/casadata/repository/casatestdata/unittest/rgtool/testEllipse90deg.crtf line# 2: global found
+2025-09-16 14:58:55	INFO	test
+::AsciiRegionFileParser::_parse	Combined 1 image regions (which excludes any annotation regions)
+2025-09-16 14:58:55	INFO	test
+::AsciiRegionFileParser::_parse	The specified region will select all pixels that are included in the region. Full pixels will be included even when they are only partially covered by the region(s).
+2025-09-16 14:58:55	INFO	test
+::ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:58:55	INFO	test
+::ImageRegion::fromRecord+	    [86, 260, 0, 0] to [332, 505, 0, 0]  (286.980670deg, 42.444398deg, I, 3.43915e+11Hz to 286.968632deg, 42.453245deg, I, 3.43915e+11Hz)
+2025-09-16 14:58:55	INFO	test
+::ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:58:55	WARN	test
+::image::open (file src/tools/image/image_cmpt.cc, line 4208)	Another image is already open, closing first

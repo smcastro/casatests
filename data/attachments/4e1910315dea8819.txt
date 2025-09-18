@@ -1,0 +1,2 @@
+Illegal decimation factor for X; setting to unity
+Illegal decimation factor for Y; setting to unity

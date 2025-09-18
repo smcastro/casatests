@@ -1,0 +1,6 @@
+2025-09-16 17:03:14	WARN	sdcal::calibrater::setvi(bool,bool)	Already using OLD VisibilityIterator.
+2025-09-16 17:03:14	WARN	sdcal::calibrater::setvi(bool,bool)	Already using OLD VisibilityIterator.
+2025-09-16 17:03:14	WARN	sdcal::CTPatchedInterp::interpolate	In caltable __sdcal_composite_mode_otf_089.tab (SDSKY_OTF):
+2025-09-16 17:03:14	WARN	sdcal::CTPatchedInterp::interpolate+	 Insufficient solution channel sampling (nchan=1) for frequency-dependent LINEAR interpolation 
+2025-09-16 17:03:14	WARN	sdcal::CTPatchedInterp::interpolate+	 of calibration for MS spw=0; using NEAREST instead.
+2025-09-16 17:03:14	WARN	sdcal::::	MS obs=0,spw=0,ant=1 is selected for processing, but has no available calibration in __sdcal_composite_mode_otf_089.tab as mapped, and will be flagged.

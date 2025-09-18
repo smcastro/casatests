@@ -1,0 +1,3 @@
+_run_task::starts
+Exception running sdtimeaverage: MSSelectionNullSelection : The selected table has zero rows.
+tearDown::deleting MSs.

@@ -1,0 +1,9 @@
+2025-09-16 15:56:03	WARN	sdbaseline::::casa	created working directory: /scratch/scastro/casa/Tests/reports/4f80cf97-21be-4b69-8d07-9d5b27d490c8
+2025-09-16 15:56:03	SEVERE	imbaseline::::casa	Traceback (most recent call last):
+2025-09-16 15:56:03	SEVERE	imbaseline::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 15:56:03	SEVERE	imbaseline::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_imbaseline.py", line 316, in imbaseline
+2025-09-16 15:56:03	SEVERE	imbaseline::::casa+	    _validate_imagename(imagename)
+2025-09-16 15:56:03	SEVERE	imbaseline::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_imbaseline.py", line 350, in _validate_imagename
+2025-09-16 15:56:03	SEVERE	imbaseline::::casa+	    raise ValueError(f'Error: file {imagename} is not found.', 'SEVERE')
+2025-09-16 15:56:03	SEVERE	imbaseline::::casa+	ValueError: ('Error: file  is not found.', 'SEVERE')
+2025-09-16 15:56:03	SEVERE	imbaseline::::casa	('Error: file  is not found.', 'SEVERE')

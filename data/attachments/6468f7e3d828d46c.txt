@@ -1,0 +1,9 @@
+2025-09-16 14:57:06	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:06	INFO	ImageMaskAttacher::makeMask	Created and initialized mask `mask0'
+2025-09-16 14:57:06	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:57:06	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:06	INFO	ImageMaskAttacher::makeMask	Created and initialized mask `mask0'
+2025-09-16 14:57:06	INFO	SubImageFactory::createImage	Creating image 'junk' of shape [20, 20, 100]
+2025-09-16 14:57:06	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:57:06	INFO	name::	No table opened.
+2025-09-16 14:57:06	INFO	showcache::	The Table Cache is empty.

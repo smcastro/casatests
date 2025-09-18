@@ -1,0 +1,18 @@
+2025-09-16 15:02:40	INFO	test
+::image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 15:02:40	INFO	test
+::BeamManipulator::set	Setting (global) restoring beam.
+2025-09-16 15:02:40	INFO	test
+::BeamManipulator::set	Beam parameters:  Major          : 1 arcsec
+2025-09-16 15:02:40	INFO	test
+::BeamManipulator::set+	  Minor          : 1 arcsec
+2025-09-16 15:02:40	INFO	test
+::BeamManipulator::set+	  Position Angle : 0 deg
+2025-09-16 15:02:40	INFO	test
+::SIImageStore::Open existing Images 	SumWt does not exist. Proceeding only with PSF
+2025-09-16 15:02:40	INFO	test
+::SynthesisUtilMethods::fitPsfBeam	Fitting PSF beam for Imagestore : su_fitpsfbeam_test_mfs
+2025-09-16 15:02:40	INFO	test
+::SIImageStore::getPSFGaussian 	Time to fit Gaussian to PSF 0.006997
+2025-09-16 15:02:40	INFO	test
+::SIImageStore::printBeamSet 	Beam : 52.9301 arcsec, 49.1474 arcsec, -87.3942 deg

@@ -1,0 +1,1 @@
+2025-09-16 15:43:35	WARN	Manual_0::sanitizeCorrExpression (file /source/casa6/casatools/src/code/flagging/Flagging/FlagAgentBase.cc, line 966)	Correlation product [XX] not available 

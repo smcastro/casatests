@@ -1,0 +1,14 @@
+2025-09-16 14:56:17	INFO	calibrater::open	****Using NEW VI2-driven calibrater tool****
+2025-09-16 14:56:17	INFO	calibrater::open	Opening MS: ngc5921.ms for calibration.
+2025-09-16 14:56:17	INFO		Clearing all model records in MS header.
+2025-09-16 14:56:17	INFO	VisSetUtil::addScrCols	Adding MODEL_DATA and CORRECTED_DATA column(s).
+2025-09-16 14:56:18	INFO	VisSetUtil::initScrCols	Initializing MODEL_DATA to (unity).
+2025-09-16 14:56:18	INFO	VisSetUtil::initScrCols	Initialized 22653 rows.
+2025-09-16 14:56:18	INFO	Calibrater::	Initializing nominal selection to the whole MS.
+2025-09-16 14:56:18	INFO	calibrater::smooth	Beginning smooth--(MSSelection version)-------
+2025-09-16 14:56:18	INFO	Calibrater::smooth	Beginning smoothing/interpolating method.
+2025-09-16 14:56:18	WARN		Found pre-v4.1 caltable (/scratch/scastro/casa/Tests/reports/ngc5921.gcal); attempting to update...
+2025-09-16 14:56:18	WARN	+	SUCCEEDED: trivial OBSERVATION/OBSERVATION_ID have been added.
+2025-09-16 14:56:18	INFO	Calibrater::smooth	Storing result in testcalout.cal
+2025-09-16 14:56:18	INFO		Writing solutions to table: testcalout.cal
+2025-09-16 14:56:18	WARN	calibrater::setvi(bool,bool)	Already using NEW VisibilityIterator.

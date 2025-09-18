@@ -1,0 +1,4 @@
+2025-09-16 14:57:34	INFO	test
+::ChannelAverageTVI::parseConfiguration	Channel bin is [5]
+2025-09-16 14:57:35	SEVERE	test
+::ms::selectchannel	Illegal channel selection

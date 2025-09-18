@@ -1,0 +1,4 @@
+2025-09-16 15:11:52	WARN		     Found no calibration for MS ant Id=0 (CT ant Id=0) in MS spw Id=0 (CT spw Id=0) (temptcal.T0)
+2025-09-16 15:11:52	WARN		     Found no calibration for MS ant Id=0 (CT ant Id=0) in MS spw Id=1 (CT spw Id=1) (temptcal.T0)
+2025-09-16 15:11:52	WARN		     Found no calibration for MS ant Id=0 (CT ant Id=0) in MS spw Id=2 (CT spw Id=2) (temptcal.T0)
+2025-09-16 15:11:52	WARN		     Found no calibration for MS ant Id=0 (CT ant Id=0) in MS spw Id=3 (CT spw Id=3) (temptcal.T0)

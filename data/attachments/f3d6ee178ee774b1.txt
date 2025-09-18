@@ -1,0 +1,2 @@
+ :  velocity(measure), start={'m0': {'unit': 'm/s', 'value': 11977600.0}, 'refer': 'BARY', 'type': 'radialvelocity'}, default width(outframe=TOPO will be overridden)
+[check_spec_frame] tstCubetest_stmveldefwd.image: Spec frame is BARY with crval 1200058783.6669326 (Pass : should be BARY with expected crval 1200058783.0 )
