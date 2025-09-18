@@ -1,0 +1,29 @@
+
+************* Test 1 (vishead( 'n4826_16apr98.ms', 'list', [])) start *************
+Original header =
+{'cal_grp': (array([0, 0, 0, 0, 0]), {}), 'field': (array(['3C273-F0', '1310+323-F0', 'NGC4826-F0', 'NGC4826-F1',
+       'NGC4826-F2', 'NGC4826-F3', 'NGC4826-F4', 'NGC4826-F5',
+       'NGC4826-F6'], dtype='<U11'), {}), 'fld_code': (array(['', '', '', '', '', '', '', '', ''], dtype='<U5'), {}), 'freq_group_name': (array(['SIDEBAND-AVG', 'SIDEBAND-AVG', 'MULTI-CHANNEL-DATA',
+       'MULTI-CHANNEL-DATA', 'MULTI-CHANNEL-DATA', 'MULTI-CHANNEL-DATA'],
+      dtype='<U18'), {}), 'log': ({'r1': array([['See HISTORY for BIMA observing log']], dtype='<U34'), 'r2': array([['See HISTORY for BIMA observing log']], dtype='<U34'), 'r3': array([['See HISTORY for BIMA observing log']], dtype='<U34'), 'r4': array([['See HISTORY for BIMA observing log']], dtype='<U34'), 'r5': array([['See HISTORY for BIMA observing log']], dtype='<U34')}, {}), 'observer': (array(['', '', '', '', ''], dtype='<U5'), {}), 'project': (array(['t108c115.n48', 't108c115.n48', 't108c115.n48', 't108c115.n48',
+       't108c115.n48'], dtype='<U12'), {}), 'ptcs': ({'r1': array([[[-3.01456907]],
+
+       [[ 0.03582093]]]), 'r2': array([[[-2.83407554]],
+
+       [[ 0.56453539]]]), 'r3': array([[[-2.89402933]],
+
+       [[ 0.37847028]]]), 'r4': array([[[-2.89425879]],
+
+       [[ 0.37847028]]]), 'r5': array([[[-2.89414422]],
+
+       [[ 0.378655  ]]]), 'r6': array([[[-2.89391445]],
+
+       [[ 0.378655  ]]]), 'r7': array([[[-2.89379988]],
+
+       [[ 0.37847028]]]), 'r8': array([[[-2.89391445]],
+
+       [[ 0.37828557]]]), 'r9': array([[[-2.89414422]],
+
+       [[ 0.37828557]]])}, {'MEASINFO': {'Ref': 'J2000', 'type': 'direction'}, 'QuantumUnits': array(['rad', 'rad'], dtype='<U3')}), 'release_date': (array([4.44762648e+09, 4.44765409e+09, 4.44765349e+09, 4.44765409e+09,
+       4.44765349e+09]), {'MEASINFO': {'Ref': 'UTC', 'type': 'epoch'}, 'QuantumUnits': array(['s'], dtype='<U1')}), 'schedule': ({'r1': False, 'r2': array([], shape=(0, 1), dtype='<U5'), 'r3': array([], shape=(0, 1), dtype='<U5'), 'r4': array([], shape=(0, 1), dtype='<U5'), 'r5': array([], shape=(0, 1), dtype='<U5')}, {}), 'schedule_type': (array(['', '', '', '', ''], dtype='<U5'), {}), 'source_name': (array(['3C273', '1310+323', 'NGC4826', '1310+323', 'NGC4826'], dtype='<U8'), {}), 'spw_name': (array(['', '', '', '', '', ''], dtype='<U5'), {}), 'telescope': (array(['BIMA', 'BIMA', 'BIMA', 'BIMA', 'BIMA'], dtype='<U4'), {})}
+************* Test vishead( 'n4826_16apr98.ms', 'list', []) OK *************

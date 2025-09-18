@@ -1,0 +1,6 @@
+Copying  part2-mod2.ms
+/casadata/repository/casatestdata/unittest/virtualconcat/part2-mod2.ms
+Copying  part3.ms
+/casadata/repository/casatestdata/unittest/virtualconcat/part3.ms
+duration using concat (s) =  1.1850099563598633
+duration using virtualconcat (s) = 0.5424458980560303

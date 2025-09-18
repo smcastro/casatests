@@ -1,0 +1,1 @@
+2025-09-16 16:33:57	WARN	MSTransformManager::setup	There is only one selected SPW, no need to combine 

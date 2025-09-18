@@ -1,0 +1,7 @@
+2025-09-16 17:30:26	WARN	simobserve::simutil::casa	Not all pointings in the mosaic will be observed - check mosaic setup and exposure time parameters!
+2025-09-16 17:30:26	WARN	sdimaging::::casa	The sdimaging task is deprecated and will be removed in future releases. Please use tsdimaging instead.
+2025-09-16 17:30:26	WARN	sdimaging::::casa	Invalid sampling=0.0 arcsec. Using the value of orthogonal direction=1724.2047343355027 arcsec
+2025-09-16 17:30:27	WARN	imregrid::ImageRegridder::_doImagesOverlap	At least one of the images exceeds one degree on at one side, not checking for direction plane overlap.
+2025-09-16 17:30:27	WARN	simutil::ImageRegridder::_doImagesOverlap	At least one of the images exceeds one degree on at one side, not checking for direction plane overlap.
+2025-09-16 17:30:27	WARN	simutil::ImageRegrid::regrid	You are regridding an image whose beam is not well sampled by the pixel size.  Total flux can be lost when regridding such images, especially when the new pixel size is larger than the old pixel size. It is recommended to check the total flux of your input and output image, and if necessary rebin the input to have smaller pixels.
+2025-09-16 17:30:28	WARN	simanalyze::simutil::casa	No image is generated in this run. Default MS, 'sim_single_dish/sim_single_dish.ms', does not exist -- uv and psf will not be plotted

@@ -1,0 +1,29 @@
+Editing weight
+    irow = 0
+    weight (before) [1. 1.]
+    weight (after) [1. 2.]
+    irow = 1
+    weight (before) [1. 1.]
+    weight (after) [1. 2.]
+    irow = 2
+    weight (before) [1. 1.]
+    weight (after) [1. 2.]
+    irow = 3
+    weight (before) [1. 1.]
+    weight (after) [1. 2.]
+mode='stokes'
+result='{'nfit': [2], 'cent': [[[3999.96899414, 0.21372241], [4999.83251953, 0.10374781]]], 'fwhm': [[[499.88922119, 0.50524592], [99.83950806, 0.24461892]]], 'peak': [[[4.99722147, 0.00435965], [5.00837851, 0.01061607]]]}'
+cent (result)=[3999.96899414 4999.83251953]
+cent (expected)=[4000. 5000.]
+fwhm (result)=[499.88922119  99.83950806]
+fwhm (expected)=[500. 100.]
+peak (result)=[4.99722147 5.00837851]
+peak (expected)=[5. 5.]
+mode='stokes'
+result='{'nfit': [2], 'cent': [[[1999.99987793, 0.01948669], [2999.95776367, 0.0461983]]], 'fwhm': [[[4.05494213, 0.04588789], [20.13728714, 0.1088557]]], 'peak': [[[5.0189209, 0.04918727], [4.98285151, 0.02331541]]]}'
+cent (result)=[1999.99987793 2999.95776367]
+cent (expected)=[2000. 3000.]
+fwhm (result)=[ 4.05494213 20.13728714]
+fwhm (expected)=[ 4. 20.]
+peak (result)=[5.0189209  4.98285151]
+peak (expected)=[5. 5.]

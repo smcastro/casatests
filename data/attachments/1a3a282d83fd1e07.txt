@@ -1,0 +1,20 @@
+HERE
+total 193288
+drwxr-xr-x  2 scastro SG-Unix-dmd df     28672 Sep 16 15:20 allure-results
+-rw-r--r--  1 scastro SG-Unix-dmd df       446 Sep 16 14:57 casa-20250916-145446.log
+-rw-r--r--  1 scastro SG-Unix-dmd df   2551553 Sep 16 15:20 casa-20250916-150837.log
+drwxr-xr-x  5 scastro SG-Unix-dmd df      4096 Sep 16 07:59 casa-6.7.2-15-py3.12.el8
+-rw-r--r--  1 scastro SG-Unix-dmd df       574 Sep 16 15:08 casa.synthesis.imager.memprofile.597558.casa-rockylinux8-amd64-perf07.20250916_150858.txt
+drwxr-xr-x  3 scastro SG-Unix-dmd df      4096 Sep 16 11:56 casatasks
+drwxr-xr-x  3 scastro SG-Unix-dmd df      4096 Sep 16 11:56 casatools
+-rw-r--r--  1 scastro SG-Unix-dmd df 195275520 Sep 16 15:08 EVLAUV.UVFITS
+drwxr-xr-x 16 scastro SG-Unix-dmd df      4096 Sep 16 15:20 g19_d2usb_targets_line-shortened-thinned.ms
+drwxr-xr-x  3 scastro SG-Unix-dmd df      4096 Sep 16 15:08 genmms.mms
+drwxr-xr-x  3 scastro SG-Unix-dmd df      4096 Sep 16 15:08 genmms.mms.flagversions
+drwxr-xr-x  3 scastro SG-Unix-dmd df      4096 Sep 16 15:08 gentimeavgmms.mms
+drwxr-xr-x 17 scastro SG-Unix-dmd df      4096 Sep 16 15:08 gentimeavgms.ms
+drwxr-xr-x 15 scastro SG-Unix-dmd df      4096 Sep 16 15:20 jupiter6cm.demo-thinned.ms
+drwxr-xr-x 15 scastro SG-Unix-dmd df      4096 Sep 16 15:20 ngc4826.ms
+drwxr-xr-x  5 scastro SG-Unix-dmd df      4096 Sep 16 15:13 ngc5921.ms.flagversions
+-rw-r--r--  1 scastro SG-Unix-dmd df       267 Sep 16 07:49 README
+drwxr-xr-x  3 scastro SG-Unix-dmd df      4096 Sep 16 14:49 stakeholders

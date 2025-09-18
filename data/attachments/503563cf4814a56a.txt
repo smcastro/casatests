@@ -1,0 +1,2 @@
+Expected Error: MSSelectionNullSelection : The selected table has zero rows.
+Expected Error!

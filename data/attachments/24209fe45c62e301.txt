@@ -1,0 +1,2 @@
+2025-09-16 14:57:14	INFO	name::	No table opened.
+2025-09-16 14:57:14	INFO	showcache::	The Table Cache is empty.

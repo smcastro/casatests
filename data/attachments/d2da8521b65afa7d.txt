@@ -1,0 +1,1 @@
+ :  velocity, start='-41347.5km/s', default width , veltype=optical LSRK

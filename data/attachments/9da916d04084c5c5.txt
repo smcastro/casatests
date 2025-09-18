@@ -1,0 +1,8 @@
+2025-09-16 16:23:45	WARN		Duplicate keyword name : RDATE most recent occurrance takes precedence
+2025-09-16 16:23:45	WARN	FitsIDItoMS::fillAntennaTable	ARRAY_GEOMETRY input table does not contain dish DIAMETER column.
+2025-09-16 16:23:45	WARN	FitsIDItoMS::fillAntennaTable+	 Will assume default diameter for TELESCOPE VLBA which is 0 m.
+2025-09-16 16:23:45	WARN	FitsIDItoMS()::readFitsFile	FITS-IDI table CALIBRATION not yet supported. Will ignore it.
+2025-09-16 16:23:45	WARN		Duplicate keyword name : RDATE most recent occurrance takes precedence
+2025-09-16 16:23:45	WARN	FitsIDItoMS()::fillCorrelatorModelTable	not yet implemented
+2025-09-16 16:23:45	SEVERE	FitsIDItoMS()::handleModelComps	Data needs FFT artifact corrections; this is not yet implemented.
+2025-09-16 16:23:45	SEVERE	FitsIDItoMS()::handleModelComps	Data was correlated with HANNING taper; support for this taper is not yet implemented.

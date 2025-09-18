@@ -1,0 +1,12 @@
+2025-09-16 15:16:26	SEVERE	getcell::SIGMA_SPECTRUM	Exception Reported: Table DataManager error: Invalid operation: TSM: no array in row 0 of column SIGMA_SPECTRUM in /scratch/scastro/casa/Tests/reports/nep2-shrunk.ms/table.f20
+2025-09-16 15:16:26	WARN	concat::::casa	Column SIGMA_SPECTRUM in table nep2-shrunk.ms has no data. Accessing it will cause errors.
+2025-09-16 15:16:26	SEVERE	getcell::WEIGHT_SPECTRUM	Exception Reported: Table DataManager error: Invalid operation: TSM: no array in row 0 of column WEIGHT_SPECTRUM in /scratch/scastro/casa/Tests/reports/nep2-shrunk.ms/table.f19
+2025-09-16 15:16:26	WARN	concat::::casa	Column WEIGHT_SPECTRUM in table nep2-shrunk.ms has no data. Accessing it will cause errors.
+2025-09-16 15:16:26	SEVERE	getcell::SIGMA_SPECTRUM	Exception Reported: Table DataManager error: Invalid operation: TSM: no array in row 0 of column SIGMA_SPECTRUM in /scratch/scastro/casa/Tests/reports/nep1-shrunk.ms/table.f20
+2025-09-16 15:16:26	WARN	concat::::casa	Column SIGMA_SPECTRUM in table nep1-shrunk.ms has no data. Accessing it will cause errors.
+2025-09-16 15:16:26	SEVERE	getcell::WEIGHT_SPECTRUM	Exception Reported: Table DataManager error: Invalid operation: TSM: no array in row 0 of column WEIGHT_SPECTRUM in /scratch/scastro/casa/Tests/reports/nep1-shrunk.ms/table.f19
+2025-09-16 15:16:26	WARN	concat::::casa	Column WEIGHT_SPECTRUM in table nep1-shrunk.ms has no data. Accessing it will cause errors.
+2025-09-16 15:16:26	SEVERE	getcell::SIGMA_SPECTRUM	Exception Reported: Table DataManager error: Invalid operation: TSM: no array in row 0 of column SIGMA_SPECTRUM in /scratch/scastro/casa/Tests/reports/nep3-shrunk.ms/table.f20
+2025-09-16 15:16:26	WARN	concat::::casa	Column SIGMA_SPECTRUM in table nep3-shrunk.ms has no data. Accessing it will cause errors.
+2025-09-16 15:16:26	SEVERE	getcell::WEIGHT_SPECTRUM	Exception Reported: Table DataManager error: Invalid operation: TSM: no array in row 0 of column WEIGHT_SPECTRUM in /scratch/scastro/casa/Tests/reports/nep3-shrunk.ms/table.f19
+2025-09-16 15:16:26	WARN	concat::::casa	Column WEIGHT_SPECTRUM in table nep3-shrunk.ms has no data. Accessing it will cause errors.

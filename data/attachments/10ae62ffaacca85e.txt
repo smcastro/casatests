@@ -1,0 +1,34 @@
+2025-09-16 17:00:35	WARN	SingleDishMS::setSelection (file /source/casa6/casatools/src/code/singledish/SingleDish/SingleDishMS.cc, line 212)	No valid selection parameter is set.
+2025-09-16 17:00:35	WARN	MSTransformManager::checkDataColumnsToFill	CORRECTED_DATA column requested but not available in input MS 
+2025-09-16 17:00:35	SEVERE	singledishms::atmcor (file src/tools/singledishms/singledishms_cmpt.cc, line 481)	Exception Reported: Desired column (CORRECTED_DATA) not found in the input MS (/scratch/scastro/casa/Tests/reports/X320b_sel2.ms).
+2025-09-16 17:00:35	SEVERE	sdatmcor::::casa	Desired column (CORRECTED_DATA) not found in the input MS (/scratch/scastro/casa/Tests/reports/X320b_sel2.ms).
+2025-09-16 17:00:35	SEVERE	sdatmcor::::casa	Traceback (most recent call last):
+2025-09-16 17:00:35	SEVERE	sdatmcor::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:00:35	SEVERE	sdatmcor::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdatmcor.py", line 693, in sdatmcor
+2025-09-16 17:00:35	SEVERE	sdatmcor::::casa+	    sdms.atmcor(config=config, datacolumn=datacolumn, outfile=outfile)
+2025-09-16 17:00:35	SEVERE	sdatmcor::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/singledishms.py", line 110, in atmcor
+2025-09-16 17:00:35	SEVERE	sdatmcor::::casa+	    return self._swigobj.atmcor(config, datacolumn, outfile)
+2025-09-16 17:00:35	SEVERE	sdatmcor::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:00:35	SEVERE	sdatmcor::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/__casac__/singledishms.py", line 569, in atmcor
+2025-09-16 17:00:35	SEVERE	sdatmcor::::casa+	    return _singledishms.singledishms_atmcor(self, *args, **kwargs)
+2025-09-16 17:00:35	SEVERE	sdatmcor::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:00:35	SEVERE	sdatmcor::::casa+	RuntimeError: Desired column (CORRECTED_DATA) not found in the input MS (/scratch/scastro/casa/Tests/reports/X320b_sel2.ms).
+2025-09-16 17:00:35	SEVERE	sdatmcor::::casa	Desired column (CORRECTED_DATA) not found in the input MS (/scratch/scastro/casa/Tests/reports/X320b_sel2.ms).
+2025-09-16 17:00:35	SEVERE	sdatmcor::::casa	Task sdatmcor raised an exception of class RuntimeError with the following message: Desired column (CORRECTED_DATA) not found in the input MS (/scratch/scastro/casa/Tests/reports/X320b_sel2.ms).
+2025-09-16 17:00:35	WARN	SingleDishMS::setSelection (file /source/casa6/casatools/src/code/singledish/SingleDish/SingleDishMS.cc, line 212)	No valid selection parameter is set.
+2025-09-16 17:00:35	WARN	MSTransformManager::checkDataColumnsToFill	FLOAT_DATA column requested but not available in input MS 
+2025-09-16 17:00:35	SEVERE	singledishms::atmcor (file src/tools/singledishms/singledishms_cmpt.cc, line 481)	Exception Reported: Desired column (FLOAT_DATA) not found in the input MS (/scratch/scastro/casa/Tests/reports/X320b_sel2.ms).
+2025-09-16 17:00:35	SEVERE	sdatmcor::::casa	Desired column (FLOAT_DATA) not found in the input MS (/scratch/scastro/casa/Tests/reports/X320b_sel2.ms).
+2025-09-16 17:00:35	SEVERE	sdatmcor::::casa	Traceback (most recent call last):
+2025-09-16 17:00:35	SEVERE	sdatmcor::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:00:35	SEVERE	sdatmcor::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdatmcor.py", line 693, in sdatmcor
+2025-09-16 17:00:35	SEVERE	sdatmcor::::casa+	    sdms.atmcor(config=config, datacolumn=datacolumn, outfile=outfile)
+2025-09-16 17:00:35	SEVERE	sdatmcor::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/singledishms.py", line 110, in atmcor
+2025-09-16 17:00:35	SEVERE	sdatmcor::::casa+	    return self._swigobj.atmcor(config, datacolumn, outfile)
+2025-09-16 17:00:35	SEVERE	sdatmcor::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:00:35	SEVERE	sdatmcor::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/__casac__/singledishms.py", line 569, in atmcor
+2025-09-16 17:00:35	SEVERE	sdatmcor::::casa+	    return _singledishms.singledishms_atmcor(self, *args, **kwargs)
+2025-09-16 17:00:35	SEVERE	sdatmcor::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:00:35	SEVERE	sdatmcor::::casa+	RuntimeError: Desired column (FLOAT_DATA) not found in the input MS (/scratch/scastro/casa/Tests/reports/X320b_sel2.ms).
+2025-09-16 17:00:35	SEVERE	sdatmcor::::casa	Desired column (FLOAT_DATA) not found in the input MS (/scratch/scastro/casa/Tests/reports/X320b_sel2.ms).
+2025-09-16 17:00:35	SEVERE	sdatmcor::::casa	Task sdatmcor raised an exception of class RuntimeError with the following message: Desired column (FLOAT_DATA) not found in the input MS (/scratch/scastro/casa/Tests/reports/X320b_sel2.ms).

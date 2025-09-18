@@ -1,0 +1,6 @@
+2025-09-16 15:11:20	WARN	calibrater::setvi(bool,bool)	Forcing use of OLD VisibilityIterator.
+2025-09-16 15:11:21	WARN	clearcal::calibrater::setvi(bool,bool)	Forcing use of OLD VisibilityIterator.
+2025-09-16 15:11:23	WARN	clearcal::calibrater::setvi(bool,bool)	Forcing use of OLD VisibilityIterator.
+2025-09-16 15:11:24	SEVERE	applycal::Calibrater::correct2 (VI2/VB2)	Caught exception: No calibration arranged for obs=0 scan=2 fld=0 intent=* spw=1 ant=* in callib for caltable=cl_dupl_intents.ms.B0
+2025-09-16 15:11:24	SEVERE	applycal::::	Exception Reported: Error in Calibrater::correct.
+2025-09-16 15:11:24	SEVERE	applycal::::casa	Task applycal raised an exception of class RuntimeError with the following message: Error in Calibrater::correct.

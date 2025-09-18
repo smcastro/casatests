@@ -1,0 +1,1 @@
+2025-09-16 16:08:07	SEVERE	image::collapse (file src/tools/image/image_cmpt.cc, line 712)	Exception Reported: Unable to calculate flux density: [] at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/ImageCollapser.tcc, line: 433

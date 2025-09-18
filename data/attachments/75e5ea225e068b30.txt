@@ -1,0 +1,2 @@
+line blfunc:chebyshev dirkernel:none spkernel:gaussian, chans:chanB, 0.008518099784851074, 0.0, 0.005408382415771485, 0.008193910121917725
+cont blfunc:chebyshev dirkernel:none spkernel:gaussian, chans:chanB, 1.9918708801269531, 0.0, 1.2945916175842285, 1.9915467500686646

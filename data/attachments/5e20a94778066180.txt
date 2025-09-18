@@ -1,0 +1,24 @@
+2025-09-16 15:03:03	INFO	test
+::BeamCalc::setBeamCalcGeometries()	Initialisation of geometries for observatory ALMA, antenna type DV
+2025-09-16 15:03:03	INFO	test
+::BeamCalc::setBeamCalcGeometries()	from file /home/scastro/.casa/data/alma/responses/ALMA_0_DV__0_0_360_0_45_90_31_506_950_GHz_beamcalc_INTERNAL.txt
+2025-09-16 15:03:03	INFO	test
+::BeamCalc::setBeamCalcGeometries()+	... successful.
+2025-09-16 15:03:04	INFO	test
+::BeamCalc::setBeamCalcGeometries()	Initialisation of geometries for observatory ALMA, antenna type DA
+2025-09-16 15:03:04	INFO	test
+::BeamCalc::setBeamCalcGeometries()	from file /home/scastro/.casa/data/alma/responses/ALMA_0_DA__0_0_360_0_45_90_31_506_950_GHz_beamcalc_INTERNAL.txt
+2025-09-16 15:03:04	INFO	test
+::BeamCalc::setBeamCalcGeometries()+	... successful.
+2025-09-16 15:03:04	INFO	test
+::BeamCalc::setBeamCalcGeometries()	Initialisation of geometries for observatory ALMA, antenna type PM
+2025-09-16 15:03:04	INFO	test
+::BeamCalc::setBeamCalcGeometries()	from file /home/scastro/.casa/data/alma/responses/ALMA_0_PM__0_0_360_0_45_90_31_506_950_GHz_beamcalc_INTERNAL.txt
+2025-09-16 15:03:04	INFO	test
+::BeamCalc::setBeamCalcGeometries()+	... successful.
+2025-09-16 15:03:04	INFO	test
+::BeamCalc::setBeamCalcGeometries()	Initialisation of geometries for observatory ALMA, antenna type CM
+2025-09-16 15:03:04	INFO	test
+::BeamCalc::setBeamCalcGeometries()	from file /home/scastro/.casa/data/alma/responses/ALMA_0_CM__0_0_360_0_45_90_31_506_950_GHz_beamcalc_INTERNAL.txt
+2025-09-16 15:03:04	INFO	test
+::BeamCalc::setBeamCalcGeometries()+	... successful.

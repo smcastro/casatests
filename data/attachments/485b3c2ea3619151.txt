@@ -1,0 +1,67 @@
+Created MeasurementSet 1934.ms
+importmiriad-unit-test : Success! Now checking output ...
+importmiriad-unit-test :  FIELD/table.dat present.
+importmiriad-unit-test :  POINTING/table.f0 present.
+importmiriad-unit-test :  POLARIZATION/table.f0 present.
+importmiriad-unit-test :  SPECTRAL_WINDOW/table.f0 present.
+importmiriad-unit-test :  STATE/table.f0 present.
+importmiriad-unit-test :  SYSCAL/table.f0i present.
+importmiriad-unit-test :  POINTING/table.dat present.
+importmiriad-unit-test :  FLAG_CMD/table.dat present.
+importmiriad-unit-test :  SYSCAL/table.dat present.
+importmiriad-unit-test :  POLARIZATION/table.dat present.
+importmiriad-unit-test :  table.f1 present.
+importmiriad-unit-test :  FLAG_CMD/table.f0 present.
+importmiriad-unit-test :  ANTENNA/table.f0 present.
+importmiriad-unit-test :  HISTORY/table.dat present.
+importmiriad-unit-test :  ANTENNA/table.dat present.
+importmiriad-unit-test :  FIELD/table.f0 present.
+importmiriad-unit-test :  OBSERVATION/table.dat present.
+importmiriad-unit-test :  OBSERVATION/table.f0 present.
+importmiriad-unit-test :  SOURCE/table.f0 present.
+importmiriad-unit-test :  POINTING/table.f0i present.
+importmiriad-unit-test :  SOURCE/table.f0i present.
+importmiriad-unit-test :  DOPPLER/table.dat present.
+importmiriad-unit-test :  table.f1_TSM1 present.
+importmiriad-unit-test :  SPECTRAL_WINDOW/table.f0i present.
+importmiriad-unit-test :  table.dat present.
+importmiriad-unit-test :  table.f0i present.
+importmiriad-unit-test :  SPECTRAL_WINDOW/table.dat present.
+importmiriad-unit-test :  STATE/table.dat present.
+importmiriad-unit-test :  SYSCAL/table.f0 present.
+importmiriad-unit-test :  PROCESSOR/table.dat present.
+importmiriad-unit-test :  table.f0 present.
+importmiriad-unit-test :  FEED/table.f0 present.
+importmiriad-unit-test :  FIELD/table.f0i present.
+importmiriad-unit-test :  HISTORY/table.f0 present.
+importmiriad-unit-test :  table.f3 present.
+importmiriad-unit-test :  SOURCE/table.dat present.
+importmiriad-unit-test :  table.f2 present.
+importmiriad-unit-test :  table.f2_TSM1 present.
+importmiriad-unit-test :  table.f3_TSM0 present.
+importmiriad-unit-test :  DOPPLER/table.f0 present.
+importmiriad-unit-test :  DATA_DESCRIPTION/table.dat present.
+importmiriad-unit-test :  POLARIZATION/table.f0i present.
+importmiriad-unit-test :  PROCESSOR/table.f0 present.
+importmiriad-unit-test :  DATA_DESCRIPTION/table.f0 present.
+importmiriad-unit-test :  FEED/table.dat present.
+importmiriad-unit-test :  FEED/table.f0i present.
+importmiriad-unit-test : MS exists. All tables present. Try opening as MS ...
+importmiriad-unit-test : OK. Checking tables in detail ...
+importmiriad-unit-test : comparing  ['UVW', 0, [167.85437179, 11.69765597, 6.01248136], 1e-08]
+importmiriad-unit-test : comparing  ['EXPOSURE', 0, 9.856, 0.0001]
+importmiriad-unit-test : comparing  ['DATA', 0, [[(40.19867706-8.43087101j)], [(-0.65212655+0.32635808j)], [(0.7769264-0.51819152j)], [(47.81456757+12.74779224j)]], 1e-08]
+importmiriad-unit-test : table  MAIN  as expected.
+importmiriad-unit-test : comparing  ['UVW', 209, [3725.85784932, 228.183798, 117.68756041], 1e-08]
+importmiriad-unit-test : comparing  ['EXPOSURE', 209, 9.856, 0.0001]
+importmiriad-unit-test : comparing  ['DATA', 209, [[(54.56027985-2.18005967j)], [(-0.06506564-0.72650862j)], [(0.65535468+0.22498345j)], [(45.48416138+1.93808842j)]], 1e-08]
+importmiriad-unit-test : table  MAIN  as expected.
+importmiriad-unit-test : comparing  ['OFFSET', 1, [0.0, 0.0, 0.0], 0]
+importmiriad-unit-test : comparing  ['POSITION', 1, [-4751589.52238021, 2791757.53976021, -3200482.25099623], 0.0001]
+importmiriad-unit-test : comparing  ['DISH_DIAMETER', 1, 22.0, 0.0]
+importmiriad-unit-test : table  ANTENNA  as expected.
+importmiriad-unit-test : comparing  ['NUM_CHAN', 0, 2049, 0]
+importmiriad-unit-test : comparing  ['TOTAL_BANDWIDTH', 0, 2049000000.0, 10000.0]
+importmiriad-unit-test : comparing  ['CHAN_WIDTH', 0, [-1000000.0, -1000000.0, -1000000.0], 0.1]
+importmiriad-unit-test : comparing  ['CHAN_FREQ', 0, [3124000000.0, 3123000000.0, 3122000000.0], 10000.0]
+importmiriad-unit-test : table  SPECTRAL_WINDOW  as expected.

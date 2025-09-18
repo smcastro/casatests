@@ -1,0 +1,2 @@
+2025-09-16 16:12:04	WARN	image::open (file src/tools/image/image_cmpt.cc, line 4208)	Another image is already open, closing first
+2025-09-16 16:12:04	WARN	image::open (file src/tools/image/image_cmpt.cc, line 4208)	Another image is already open, closing first

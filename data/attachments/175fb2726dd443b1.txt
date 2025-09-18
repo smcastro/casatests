@@ -1,0 +1,9 @@
+[ checkall ] 
+[ check_ims ] Image made : ['tst.awp2.image'] =  [True] ( Pass : should all be True )
+All expected keywords in imageinfo, miscinfo, and coords found. (check_keywords)
+[check_history] All expected history entries found. (Pass)
+[ check_pix_val ] tst.awp2.pb : Value is 0.6809056401252747 at [323, 858, 0, 0] ( Pass : should be 0.654 , Epsilon: 0.05)
+[ check_pix_val ] tst.awp2.image.pbcor : Value is 0.6786918044090271 at [323, 858, 0, 0] ( Pass : should be 0.7 , Epsilon: 0.05)
+[ check_pix_val ] tst.awp2.image.pbcor : Value is -0.009907497093081474 at [323, 858, 1, 0] ( Pass : should be -0.01 , Epsilon: 0.05)
+[check_tabcache] Fail: Found open tables after run 
+

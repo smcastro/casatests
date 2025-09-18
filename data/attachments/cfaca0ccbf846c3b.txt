@@ -1,0 +1,8 @@
+2025-09-16 17:03:20	WARN	sdcal::calibrater::setvi(bool,bool)	Already using OLD VisibilityIterator.
+2025-09-16 17:03:21	SEVERE	sdcal::::casa	Traceback (most recent call last):
+2025-09-16 17:03:21	SEVERE	sdcal::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:03:21	SEVERE	sdcal::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdcal.py", line 116, in sdcal
+2025-09-16 17:03:21	SEVERE	sdcal::::casa+	    raise RuntimeError('Applytable \'%s\' is not a caltable format' % (_table))
+2025-09-16 17:03:21	SEVERE	sdcal::::casa+	RuntimeError: Applytable 'uid___A002_X6218fb_X264.ms.sel' is not a caltable format
+2025-09-16 17:03:21	SEVERE	sdcal::::casa	Applytable 'uid___A002_X6218fb_X264.ms.sel' is not a caltable format
+2025-09-16 17:03:21	SEVERE	sdcal::::casa	Task sdcal raised an exception of class RuntimeError with the following message: Applytable 'uid___A002_X6218fb_X264.ms.sel' is not a caltable format

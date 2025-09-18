@@ -1,0 +1,2 @@
+2025-09-16 15:56:17	WARN	imbaseline::::casa	created working directory: /scratch/scastro/casa/Tests/reports/295ae8f1-fb04-463d-944d-e9927d13d56e
+2025-09-16 15:56:17	WARN	imbaseline::SingleDishMS::setSelection (file /source/casa6/casatools/src/code/singledish/SingleDish/SingleDishMS.cc, line 212)	No valid selection parameter is set.

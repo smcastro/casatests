@@ -1,0 +1,28 @@
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::	Exception Reported: Rejection limit should be > 0.0 and < 1.0
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa	Traceback (most recent call last):
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdsidebandsplit.py", line 17, in sdsidebandsplit
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	    separator.setlimit(threshold)
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/sidebandseparator.py", line 49, in setlimit
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	    return self._swigobj.setlimit(threshold)
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/__casac__/sidebandseparator.py", line 218, in setlimit
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	    return _sidebandseparator.sidebandseparator_setlimit(self, *args, **kwargs)
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	RuntimeError: Rejection limit should be > 0.0 and < 1.0
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa	Rejection limit should be > 0.0 and < 1.0
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa	Task sdsidebandsplit raised an exception of class RuntimeError with the following message: Rejection limit should be > 0.0 and < 1.0
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::	Exception Reported: Rejection limit should be > 0.0 and < 1.0
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa	Traceback (most recent call last):
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdsidebandsplit.py", line 17, in sdsidebandsplit
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	    separator.setlimit(threshold)
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/sidebandseparator.py", line 49, in setlimit
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	    return self._swigobj.setlimit(threshold)
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/__casac__/sidebandseparator.py", line 218, in setlimit
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	    return _sidebandseparator.sidebandseparator_setlimit(self, *args, **kwargs)
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	RuntimeError: Rejection limit should be > 0.0 and < 1.0
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa	Rejection limit should be > 0.0 and < 1.0
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa	Task sdsidebandsplit raised an exception of class RuntimeError with the following message: Rejection limit should be > 0.0 and < 1.0

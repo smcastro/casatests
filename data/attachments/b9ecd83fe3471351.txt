@@ -1,0 +1,2 @@
+2025-09-16 14:58:01	INFO	test
+::ms::timesort	Sorted main table of /scratch/scastro/casa/Tests/reports/ngc5921.ms by TIME and stored it in ngc5921_timesort.ms .

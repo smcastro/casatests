@@ -1,0 +1,1 @@
+test_unallowed_outframe: failed as expected

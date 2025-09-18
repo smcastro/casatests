@@ -1,0 +1,2 @@
+
+Splitting /casadata/repository/casatestdata/unittest/split/crazySourceTable.ms

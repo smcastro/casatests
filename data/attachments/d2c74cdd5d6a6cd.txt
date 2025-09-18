@@ -1,0 +1,7 @@
+2025-09-16 14:56:37	INFO	ImageFactory::createImage	Created Temp image  of shape [20, 20, 20] with float valued pixels.
+2025-09-16 14:56:37	INFO	ImageBoxcarSmoother::smooth	Original Temporary_Image size => [20, 20, 20]
+2025-09-16 14:56:37	INFO	ImageBoxcarSmoother::smooth	New  size => [20, 20, 18]
+2025-09-16 14:56:37	INFO	name::	No table opened.
+2025-09-16 14:56:37	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:56:37	INFO	name::	No table opened.
+2025-09-16 14:56:37	INFO	name::	No table opened.

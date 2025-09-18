@@ -1,0 +1,30 @@
+2025-09-16 14:56:48	INFO	ImageFactory::createImage	Created Paged image 'tres1.im' of shape [100, 100] with float valued pixels.
+2025-09-16 14:56:48	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:48	INFO	BeamManipulator::set	Setting (global) restoring beam.
+2025-09-16 14:56:48	INFO	BeamManipulator::set	Beam parameters:  Major          : 6 arcsec
+2025-09-16 14:56:48	INFO	BeamManipulator::set+	  Minor          : 3 arcsec
+2025-09-16 14:56:48	INFO	BeamManipulator::set+	  Position Angle : 0 deg
+2025-09-16 14:56:48	INFO	Image2DConvolver::_dealWithRestoringBeam	You are convolving the sky
+2025-09-16 14:56:48	INFO	Image2DConvolver::_dealWithRestoringBeam	Scaling pixel values by inverse of area of convolution kernel in pixels (0.0275795) times the ratio of the beam areas (2.77778) = 0.0766096
+2025-09-16 14:56:48	INFO	Image2DConvolver::_dealWithRestoringBeam	Original /scratch/scastro/casa/Tests/reports/tres1.im resolution major: 6 arcsec, minor: 3 arcsec, pa: 0 deg
+2025-09-16 14:56:48	INFO	Image2DConvolver::_dealWithRestoringBeam	Output tres1J resolution major: 10 arcsec, minor: 5 arcsec, pa: -0 deg
+2025-09-16 14:56:48	INFO	SubImageFactory::createImage	Creating image 'tres1J' of shape [100, 100]
+2025-09-16 14:56:49	INFO	Image2DConvolver<T>::_doSingleBeam	Convolving image that has a beam of major: 6 arcsec, minor: 3 arcsec, pa: 0 deg with a Gaussian of major: 8 arcsec, minor: 4 arcsec, pa: -0 deg to reach a target resolution of major: 10 arcsec, minor: 5 arcsec, pa: 0 deg
+2025-09-16 14:56:49	INFO	Image2DConvolver::_dealWithRestoringBeam	You are convolving the sky
+2025-09-16 14:56:49	INFO	Image2DConvolver::_dealWithRestoringBeam	Scaling pixel values by inverse of area of convolution kernel in pixels (0.0176508) times the ratio of the beam areas (2.77778) = 0.0766096
+2025-09-16 14:56:49	INFO	Image2DConvolver::_dealWithRestoringBeam	Original /scratch/scastro/casa/Tests/reports/tres1.im resolution major: 6 arcsec, minor: 3 arcsec, pa: 0 deg
+2025-09-16 14:56:49	INFO	Image2DConvolver::_dealWithRestoringBeam	Output tres2J resolution major: 10 arcsec, minor: 5 arcsec, pa: 0 deg
+2025-09-16 14:56:49	INFO	SubImageFactory::createImage	Creating image 'tres2J' of shape [100, 100]
+2025-09-16 14:56:49	INFO	Image2DConvolver::_dealWithRestoringBeam	You are convolving the sky
+2025-09-16 14:56:49	INFO	Image2DConvolver::_dealWithRestoringBeam	Scaling pixel values by 0.0275794
+2025-09-16 14:56:49	INFO	Image2DConvolver::_dealWithRestoringBeam	Original /scratch/scastro/casa/Tests/reports/tres1.im resolution major: 6 arcsec, minor: 3 arcsec, pa: 0 deg
+2025-09-16 14:56:49	INFO	Image2DConvolver::_dealWithRestoringBeam	Output tres1K resolution major: 10 arcsec, minor: 5 arcsec, pa: -0 deg
+2025-09-16 14:56:49	INFO	SubImageFactory::createImage	Creating image 'tres1K' of shape [100, 100]
+2025-09-16 14:56:49	INFO	Image2DConvolver<T>::_doSingleBeam	Convolving image that has a beam of major: 6 arcsec, minor: 3 arcsec, pa: 0 deg with a Gaussian of major: 8 arcsec, minor: 4 arcsec, pa: -0 deg to reach a target resolution of major: 10 arcsec, minor: 5 arcsec, pa: 0 deg
+2025-09-16 14:56:49	INFO	Image2DConvolver::_dealWithRestoringBeam	You are convolving the sky
+2025-09-16 14:56:49	INFO	Image2DConvolver::_dealWithRestoringBeam	Scaling pixel values by 0.0275794
+2025-09-16 14:56:49	INFO	Image2DConvolver::_dealWithRestoringBeam	Original /scratch/scastro/casa/Tests/reports/tres1.im resolution major: 6 arcsec, minor: 3 arcsec, pa: 0 deg
+2025-09-16 14:56:49	INFO	Image2DConvolver::_dealWithRestoringBeam	Output tres2K resolution major: 10 arcsec, minor: 5 arcsec, pa: 0 deg
+2025-09-16 14:56:49	INFO	SubImageFactory::createImage	Creating image 'tres2K' of shape [100, 100]
+2025-09-16 14:56:49	INFO	name::	No table opened.
+2025-09-16 14:56:49	INFO	showcache::	The Table Cache is empty.

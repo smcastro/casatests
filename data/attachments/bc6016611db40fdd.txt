@@ -1,0 +1,2 @@
+2025-09-16 16:05:05	WARN	imbaseline::Image2DConvolver::_dealWithRestoringBeam	Convolving kernel has minor axis 10 arcsec which is less than the pixel diagonal length of 84.8528 arcsec. Thus, the kernel is poorly sampled, and so the output of this application may not be what you expect. You should consider increasing the kernel size or regridding the image to a smaller pixel size
+2025-09-16 16:05:09	WARN	imbaseline::SingleDishMS::setSelection (file /source/casa6/casatools/src/code/singledish/SingleDish/SingleDishMS.cc, line 212)	No valid selection parameter is set.

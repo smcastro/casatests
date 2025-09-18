@@ -1,0 +1,1644 @@
+2025-09-16 14:57:03	INFO	ImageFactory::createImage	Created Paged image 'tg_poly.im' of shape [5, 5, 120] with float valued pixels.
+2025-09-16 14:57:03	INFO	ImageProfileFitter::ImageProfileFitter	Number of gaussian singlets to fit found to be 2 in estimates file /casadata/repository/casatestdata/unittest/ia_fitprofile/poly+2gauss_estimates.txt
+2025-09-16 14:57:03	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:03	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 25
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 25
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 25
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Number converged         = 25
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Number valid             = 25
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	****** Fit performed at Tue Sep 16 14:57:03 2025******
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	Input parameters ---
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	       --- imagename:           /scratch/scastro/casa/Tests/reports/tg_poly.im
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	       --- region:              
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	       --- box:                 
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	       --- channels:            
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	       --- stokes:              
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	       --- mask:                
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	       --- number of Gaussian singlets: 2
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	       --- number of Gaussian multiplets: 0
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	       --- polynomial order:    2
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	       --- Multiple profiles fit, one per pixel over selected region
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   00:00:08.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  -00.02.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [0, 0,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 6
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 50.0000009 +/- 0.0000033 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.612303182 +/- 0.000000068 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   90.00000012 +/- 0.00000032 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.11061139 +/- 0.00000017 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   9.99999991 +/- 0.00000081 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 112.333813 +/- 0.000012 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 9.9999978 +/- 0.0000040 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.27597170 +/- 0.00000028 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.9999997 +/- 0.0000013 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.47742866 +/- 0.00000070 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   7.0000032 +/- 0.0000033 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.7267373 +/- 0.0000097 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 999.9990 +/- 0.0021 mJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.000000109 +/- 0.000000079 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : -1.44 +/- 0.64 nJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 27.329717 +/- 0.000019 kJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -23.689744 +/- 0.000033 Jy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : -32 +/- 14 nJy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   00:00:04.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  -00.02.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [1, 0,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 50.019962 +/- 0.000017 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.61019229 +/- 0.00000035 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   90.0100015 +/- 0.0000017 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.11272471 +/- 0.00000089 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   10.0100128 +/- 0.0000042 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 112.491181 +/- 0.000062 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 10.019997 +/- 0.000021 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.2738613 +/- 0.0000015 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   30.0099985 +/- 0.0000069 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.4795372 +/- 0.0000036 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   7.009994 +/- 0.000017 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.780680 +/- 0.000050 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 1.999993 +/- 0.000011 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.05000073 +/- 0.00000041 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 199.9999926 +/- 0.0000033 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 6.002492630 +/- 0.000000099 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -10.38253962 +/- 0.00000017 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 4.489659716 +/- 0.000000074 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   00:00:00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  -00.02.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [2, 0,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 50.040041 +/- 0.000034 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.60808106 +/- 0.00000069 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   90.0200044 +/- 0.0000033 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.1148290 +/- 0.0000017 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   10.0199828 +/- 0.0000082 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 112.64842 +/- 0.00012 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 10.040019 +/- 0.000040 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.2717501 +/- 0.0000028 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   30.020001 +/- 0.000014 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.4816520 +/- 0.0000070 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   7.020013 +/- 0.000033 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.834814 +/- 0.000098 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 3.000018 +/- 0.000021 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.19999815 +/- 0.00000080 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 400.0000210 +/- 0.0000064 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 11.97820313 +/- 0.00000019 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -20.74186505 +/- 0.00000033 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 8.97932023 +/- 0.00000014 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   23:59:56.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  -00.02.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [3, 0,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 50.059992 +/- 0.000041 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.60597412 +/- 0.00000083 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   90.0299870 +/- 0.0000039 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.1169467 +/- 0.0000021 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   10.0300162 +/- 0.0000100 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 112.80618 +/- 0.00015 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 10.060015 +/- 0.000048 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.2696394 +/- 0.0000034 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   30.030002 +/- 0.000016 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.4837609 +/- 0.0000085 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   7.030005 +/- 0.000040 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.88893 +/- 0.00012 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 4.000011 +/- 0.000025 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.44999929 +/- 0.00000096 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 600.0000072 +/- 0.0000078 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 17.95445896 +/- 0.00000023 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -31.10166211 +/- 0.00000040 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 13.46897981 +/- 0.00000017 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   23:59:52.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  -00.02.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [4, 0,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 50.080007 +/- 0.000063 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.6038632 +/- 0.0000013 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   90.0399884 +/- 0.0000061 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.1190502 +/- 0.0000033 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   10.039983 +/- 0.000015 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 112.96342 +/- 0.00023 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 10.079967 +/- 0.000075 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.2675291 +/- 0.0000053 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   30.040001 +/- 0.000025 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.485864 +/- 0.000013 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   7.039971 +/- 0.000062 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.94301 +/- 0.00018 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 4.999958 +/- 0.000039 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.8000035 +/- 0.0000015 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 799.999970 +/- 0.000012 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 23.93126068 +/- 0.00000036 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -41.46193177 +/- 0.00000062 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 17.95863885 +/- 0.00000027 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   00:00:08.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  -00.01.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [0, 1,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 6
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 49.9699990 +/- 0.0000030 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.618635092 +/- 0.000000061 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   89.96999976 +/- 0.00000029 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.10533518 +/- 0.00000015 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   9.97500144 +/- 0.00000073 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 111.985759 +/- 0.000011 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 9.9699989 +/- 0.0000036 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.28230347 +/- 0.00000025 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.9700000 +/- 0.0000012 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.47215176 +/- 0.00000063 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   6.9750014 +/- 0.0000030 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.6235565 +/- 0.0000087 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 2.0000003 +/- 0.0000019 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.020000029 +/- 0.000000071 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : -20.00000036 +/- 0.00000057 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : -570.048816 +/- 0.000017 kJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 1.012076769 +/- 0.000000030 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : -448.965996 +/- 0.000013 mJy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   00:00:04.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  -00.01.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [1, 1,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 49.989994 +/- 0.000017 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.61652385 +/- 0.00000034 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   89.9800027 +/- 0.0000016 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.10744606 +/- 0.00000086 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   9.9850027 +/- 0.0000041 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 112.142894 +/- 0.000059 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 9.990009 +/- 0.000020 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.2801926 +/- 0.0000014 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.9800013 +/- 0.0000067 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.4742633 +/- 0.0000035 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   6.985006 +/- 0.000017 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.677368 +/- 0.000049 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 3.000006 +/- 0.000010 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.06999948 +/- 0.00000040 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 180.0000051 +/- 0.0000032 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 5.405114432 +/- 0.000000095 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -9.34677369 +/- 0.00000017 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 4.040694008 +/- 0.000000072 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   00:00:00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  -00.01.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [2, 1,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 50.009995 +/- 0.000029 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.61441337 +/- 0.00000059 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   89.9900021 +/- 0.0000028 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.1095610 +/- 0.0000015 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   9.9950232 +/- 0.0000071 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 112.30035 +/- 0.00010 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 10.010000 +/- 0.000035 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.2780821 +/- 0.0000025 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.990001 +/- 0.000012 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.4763705 +/- 0.0000061 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   6.994990 +/- 0.000029 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.731193 +/- 0.000084 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 3.999987 +/- 0.000018 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.22000106 +/- 0.00000069 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 379.9999880 +/- 0.0000055 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 11.38082359 +/- 0.00000017 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -19.70609679 +/- 0.00000029 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 8.53035351 +/- 0.00000012 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   23:59:56.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  -00.01.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [3, 1,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 50.029989 +/- 0.000042 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.61230576 +/- 0.00000085 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   89.9999879 +/- 0.0000040 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.1116703 +/- 0.0000022 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   10.005017 +/- 0.000010 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 112.45758 +/- 0.00015 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 10.029994 +/- 0.000050 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.2759726 +/- 0.0000035 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.999996 +/- 0.000017 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.4784800 +/- 0.0000087 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   7.004984 +/- 0.000041 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.78514 +/- 0.00012 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 4.999987 +/- 0.000026 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.47000134 +/- 0.00000099 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 579.9999840 +/- 0.0000080 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 17.35707971 +/- 0.00000024 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -30.06589436 +/- 0.00000041 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 13.02001330 +/- 0.00000018 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   23:59:52.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  -00.01.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [4, 1,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 50.050004 +/- 0.000063 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.6101931 +/- 0.0000013 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   90.0099978 +/- 0.0000060 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.1137677 +/- 0.0000032 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   10.014954 +/- 0.000015 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 112.61431 +/- 0.00022 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 10.050011 +/- 0.000074 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.2738614 +/- 0.0000053 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   30.009998 +/- 0.000025 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.480599 +/- 0.000013 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   7.015024 +/- 0.000062 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.83931 +/- 0.00018 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 6.000017 +/- 0.000039 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.8199979 +/- 0.0000015 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 780.000030 +/- 0.000012 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 23.33388388 +/- 0.00000036 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -40.42616829 +/- 0.00000062 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 17.50967421 +/- 0.00000027 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   00:00:08.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  +00.00.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [0, 2,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 6
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 49.9399999 +/- 0.0000019 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.624966912 +/- 0.000000038 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   89.93999983 +/- 0.00000018 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.100058287 +/- 0.000000096 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   9.94999971 +/- 0.00000045 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 111.6380125 +/- 0.0000066 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 9.9399995 +/- 0.0000022 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.28863530 +/- 0.00000016 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.94000002 +/- 0.00000075 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.46687471 +/- 0.00000039 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   6.9499990 +/- 0.0000018 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.5207103 +/- 0.0000054 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 2.9999997 +/- 0.0000011 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.040000017 +/- 0.000000044 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : -80.00000020 +/- 0.00000035 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : -2.362405136 +/- 0.000000011 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 4.119565986 +/- 0.000000018 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : -1.7958639570 +/- 0.0000000079 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   00:00:04.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  +00.00.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [1, 2,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 49.959988 +/- 0.000013 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.62285663 +/- 0.00000026 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   89.9499983 +/- 0.0000012 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.10216956 +/- 0.00000064 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   9.9600029 +/- 0.0000031 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 111.794973 +/- 0.000044 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 9.959998 +/- 0.000015 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.2865249 +/- 0.0000011 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.9499989 +/- 0.0000050 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.4689849 +/- 0.0000026 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   6.959997 +/- 0.000012 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.574309 +/- 0.000036 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 3.9999978 +/- 0.0000077 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.09000021 +/- 0.00000030 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 119.9999983 +/- 0.0000024 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 3.612757908 +/- 0.000000071 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -6.23928412 +/- 0.00000012 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 2.693795891 +/- 0.000000054 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   00:00:00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  +00.00.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [2, 2,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 49.980021 +/- 0.000030 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.62074616 +/- 0.00000060 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   89.9599976 +/- 0.0000029 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.1042785 +/- 0.0000015 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   9.9699947 +/- 0.0000072 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 111.95200 +/- 0.00011 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 9.980005 +/- 0.000035 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.2844142 +/- 0.0000025 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.960000 +/- 0.000012 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.4710969 +/- 0.0000062 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   6.970004 +/- 0.000029 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.628030 +/- 0.000086 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 5.000005 +/- 0.000018 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.23999947 +/- 0.00000070 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 320.0000053 +/- 0.0000056 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 9.58846777 +/- 0.00000017 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -16.59860845 +/- 0.00000029 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 7.18345593 +/- 0.00000013 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   23:59:56.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  +00.00.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [3, 2,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 49.999902 +/- 0.000041 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.61863371 +/- 0.00000084 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   89.9700063 +/- 0.0000040 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.1063927 +/- 0.0000021 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   9.980012 +/- 0.000010 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 112.10906 +/- 0.00015 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 9.999971 +/- 0.000049 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.2823027 +/- 0.0000035 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.970004 +/- 0.000017 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.4732079 +/- 0.0000086 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   6.980005 +/- 0.000041 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.68177 +/- 0.00012 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 5.999987 +/- 0.000025 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.49000110 +/- 0.00000098 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 519.9999901 +/- 0.0000079 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 15.56472357 +/- 0.00000023 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -26.95840544 +/- 0.00000041 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 11.67311547 +/- 0.00000018 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   23:59:52.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  +00.00.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [4, 2,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 50.020097 +/- 0.000060 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.6165220 +/- 0.0000012 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   89.9800115 +/- 0.0000058 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.1085034 +/- 0.0000031 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   9.990012 +/- 0.000015 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 112.26672 +/- 0.00021 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 10.020000 +/- 0.000071 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.2801921 +/- 0.0000050 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.980003 +/- 0.000024 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.475312 +/- 0.000012 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   6.989977 +/- 0.000059 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.73562 +/- 0.00017 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 6.999991 +/- 0.000037 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.8400013 +/- 0.0000014 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 719.999979 +/- 0.000011 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 21.54152606 +/- 0.00000034 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -37.31867646 +/- 0.00000059 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 16.16277511 +/- 0.00000026 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   00:00:08.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  +00.01.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [0, 3,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 6
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 49.9100031 +/- 0.0000081 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.63129911 +/- 0.00000016 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   89.90999811 +/- 0.00000077 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.09478174 +/- 0.00000041 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   9.9249996 +/- 0.0000020 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 111.290626 +/- 0.000028 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 9.9100012 +/- 0.0000096 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.29496711 +/- 0.00000068 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.9100001 +/- 0.0000032 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.4615988 +/- 0.0000017 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   6.9250018 +/- 0.0000080 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.418215 +/- 0.000023 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 4.0000018 +/- 0.0000049 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.05999982 +/- 0.00000019 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : -179.9999983 +/- 0.0000015 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : -5.349739164 +/- 0.000000046 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 9.298777768 +/- 0.000000079 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : -4.040693854 +/- 0.000000034 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   00:00:04.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  +00.01.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [1, 3,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 49.9300098 +/- 0.0000050 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.62918818 +/- 0.00000010 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   89.91999962 +/- 0.00000048 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.09689223 +/- 0.00000026 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   9.9349990 +/- 0.0000012 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 111.447408 +/- 0.000018 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 9.9300016 +/- 0.0000059 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.29285655 +/- 0.00000042 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.9199999 +/- 0.0000020 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.4637085 +/- 0.0000010 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   6.9349974 +/- 0.0000049 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.471631 +/- 0.000014 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 5.0000005 +/- 0.0000031 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.10999994 +/- 0.00000012 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 20.00000086 +/- 0.00000095 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 625.423898 +/- 0.000028 kJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -1.060072367 +/- 0.000000049 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 448.966007 +/- 0.000021 mJy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   00:00:00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  +00.01.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [2, 3,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 49.949959 +/- 0.000017 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.62707613 +/- 0.00000034 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   89.9300064 +/- 0.0000016 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.09900345 +/- 0.00000087 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   9.9450019 +/- 0.0000041 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 111.604190 +/- 0.000060 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 9.949990 +/- 0.000020 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.2907455 +/- 0.0000014 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.9300019 +/- 0.0000068 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.4658182 +/- 0.0000035 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   6.944993 +/- 0.000017 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.525120 +/- 0.000049 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 6.000001 +/- 0.000010 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.26000006 +/- 0.00000040 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 219.9999997 +/- 0.0000032 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 6.601133527 +/- 0.000000096 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -11.41939628 +/- 0.00000017 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 4.938625863 +/- 0.000000072 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   23:59:56.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  +00.01.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [3, 3,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 49.969985 +/- 0.000032 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.62496780 +/- 0.00000065 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   89.9399956 +/- 0.0000031 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.1011170 +/- 0.0000016 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   9.9550159 +/- 0.0000078 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 111.76136 +/- 0.00011 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 9.969988 +/- 0.000038 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.2886348 +/- 0.0000027 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.940003 +/- 0.000013 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.4679321 +/- 0.0000067 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   6.955009 +/- 0.000032 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.578757 +/- 0.000093 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 7.000001 +/- 0.000020 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.51000019 +/- 0.00000076 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 419.9999946 +/- 0.0000061 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 12.57738961 +/- 0.00000018 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -21.77919379 +/- 0.00000032 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 9.42828563 +/- 0.00000014 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   23:59:52.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  +00.01.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [4, 3,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 49.990048 +/- 0.000056 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.6228564 +/- 0.0000011 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   89.9499995 +/- 0.0000053 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.1032252 +/- 0.0000029 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   9.965004 +/- 0.000014 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 111.91841 +/- 0.00020 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 9.990013 +/- 0.000066 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.2865239 +/- 0.0000047 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.950004 +/- 0.000022 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.470043 +/- 0.000012 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   6.965011 +/- 0.000055 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.63250 +/- 0.00016 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 8.000016 +/- 0.000034 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.8599987 +/- 0.0000013 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 620.000012 +/- 0.000011 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 18.55419293 +/- 0.00000032 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -32.13946624 +/- 0.00000055 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 13.91794590 +/- 0.00000024 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   00:00:08.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  +00.02.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [0, 4,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 7
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 49.879956 +/- 0.000018 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.63763019 +/- 0.00000037 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   89.8800017 +/- 0.0000017 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.08950694 +/- 0.00000092 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   9.9000078 +/- 0.0000044 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 110.943558 +/- 0.000063 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 9.880001 +/- 0.000021 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.3012988 +/- 0.0000015 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.8800008 +/- 0.0000072 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.4563221 +/- 0.0000038 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   6.900001 +/- 0.000018 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.316045 +/- 0.000052 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 4.999997 +/- 0.000011 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.08000023 +/- 0.00000042 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : -320.0000027 +/- 0.0000034 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : -9.53205114 +/- 0.00000010 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 16.54971254 +/- 0.00000018 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : -7.183455872 +/- 0.000000077 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   00:00:04.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  +00.02.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [1, 4,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 49.8999928 +/- 0.0000046 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.635519789 +/- 0.000000093 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   89.89000068 +/- 0.00000044 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.09161617 +/- 0.00000023 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   9.9100013 +/- 0.0000011 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 111.100160 +/- 0.000016 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 9.8999989 +/- 0.0000054 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.29918836 +/- 0.00000039 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.8900000 +/- 0.0000018 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.45843234 +/- 0.00000095 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   6.9099993 +/- 0.0000045 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.369284 +/- 0.000013 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 5.9999988 +/- 0.0000028 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.13000007 +/- 0.00000011 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : -120.00000063 +/- 0.00000087 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : -3.556887991 +/- 0.000000026 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 6.190862248 +/- 0.000000045 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : -2.693795943 +/- 0.000000019 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   00:00:00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  +00.02.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [2, 4,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 49.9200160 +/- 0.0000089 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.63340954 +/- 0.00000018 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   89.89999898 +/- 0.00000085 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.09372752 +/- 0.00000045 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   9.9200048 +/- 0.0000022 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 111.256934 +/- 0.000031 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 9.919994 +/- 0.000011 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.29707805 +/- 0.00000075 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.8999986 +/- 0.0000036 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.4605431 +/- 0.0000019 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   6.9199999 +/- 0.0000088 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.422613 +/- 0.000026 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 6.9999980 +/- 0.0000055 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.28000025 +/- 0.00000021 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 79.9999961 +/- 0.0000017 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 2.418821575 +/- 0.000000050 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -4.168461560 +/- 0.000000087 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 1.795863865 +/- 0.000000038 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   23:59:56.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  +00.02.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [3, 4,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 49.940011 +/- 0.000029 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.63129857 +/- 0.00000059 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   89.9100007 +/- 0.0000028 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.0958370 +/- 0.0000015 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   9.9299994 +/- 0.0000070 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 111.41364 +/- 0.00010 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 9.939996 +/- 0.000034 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.2949665 +/- 0.0000024 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.910003 +/- 0.000012 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.4626536 +/- 0.0000060 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   6.929999 +/- 0.000029 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.476042 +/- 0.000083 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 8.000001 +/- 0.000018 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.53000000 +/- 0.00000068 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 279.9999993 +/- 0.0000055 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 8.39507791 +/- 0.00000016 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -14.52825949 +/- 0.00000028 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 6.28552382 +/- 0.00000012 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   23:59:52.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  +00.02.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [4, 4,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 49.959981 +/- 0.000035 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.62918974 +/- 0.00000070 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   89.9199922 +/- 0.0000033 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.0979473 +/- 0.0000018 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   9.9399981 +/- 0.0000084 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 111.57042 +/- 0.00012 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 9.959990 +/- 0.000041 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.2928554 +/- 0.0000029 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.920005 +/- 0.000014 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.4647665 +/- 0.0000072 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   6.940010 +/- 0.000034 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.529573 +/- 0.000099 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 9.000004 +/- 0.000021 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.87999975 +/- 0.00000081 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 480.0000021 +/- 0.0000065 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 14.37188080 +/- 0.00000020 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -24.88853121 +/- 0.00000034 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 10.77518376 +/- 0.00000015 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitter::ImageProfileFitter	Number of Gaussian singlets to fit found to be 1 from provided spectral element list
+2025-09-16 14:57:03	INFO	ImageProfileFitter::ImageProfileFitter	Number of Gaussian singlets to fit found to be 2 from provided spectral element list
+2025-09-16 14:57:03	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:03	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 25
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 25
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 25
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Number converged         = 25
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Number valid             = 25
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	****** Fit performed at Tue Sep 16 14:57:03 2025******
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	Input parameters ---
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	       --- imagename:           /scratch/scastro/casa/Tests/reports/tg_poly.im
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	       --- region:              
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	       --- box:                 
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	       --- channels:            
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	       --- stokes:              
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	       --- mask:                
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	       --- number of Gaussian singlets: 2
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	       --- number of Gaussian multiplets: 0
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	       --- polynomial order:    2
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	       --- Multiple profiles fit, one per pixel over selected region
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   00:00:08.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  -00.02.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [0, 0,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 6
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 50.0000009 +/- 0.0000033 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.612303182 +/- 0.000000068 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   90.00000012 +/- 0.00000032 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.11061139 +/- 0.00000017 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   9.99999991 +/- 0.00000081 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 112.333813 +/- 0.000012 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 9.9999978 +/- 0.0000040 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.27597170 +/- 0.00000028 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.9999997 +/- 0.0000013 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.47742866 +/- 0.00000070 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   7.0000032 +/- 0.0000033 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.7267373 +/- 0.0000097 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 999.9990 +/- 0.0021 mJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.000000109 +/- 0.000000079 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : -1.44 +/- 0.64 nJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 27.329717 +/- 0.000019 kJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -23.689744 +/- 0.000033 Jy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : -32 +/- 14 nJy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   00:00:04.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  -00.02.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [1, 0,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 50.019962 +/- 0.000017 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.61019229 +/- 0.00000035 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   90.0100015 +/- 0.0000017 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.11272471 +/- 0.00000089 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   10.0100128 +/- 0.0000042 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 112.491181 +/- 0.000062 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 10.019997 +/- 0.000021 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.2738613 +/- 0.0000015 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   30.0099985 +/- 0.0000069 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.4795372 +/- 0.0000036 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   7.009994 +/- 0.000017 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.780680 +/- 0.000050 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 1.999993 +/- 0.000011 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.05000073 +/- 0.00000041 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 199.9999926 +/- 0.0000033 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 6.002492630 +/- 0.000000099 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -10.38253962 +/- 0.00000017 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 4.489659716 +/- 0.000000074 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   00:00:00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  -00.02.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [2, 0,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 50.040041 +/- 0.000034 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.60808106 +/- 0.00000069 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   90.0200044 +/- 0.0000033 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.1148290 +/- 0.0000017 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   10.0199828 +/- 0.0000082 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 112.64842 +/- 0.00012 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 10.040019 +/- 0.000040 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.2717501 +/- 0.0000028 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   30.020001 +/- 0.000014 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.4816520 +/- 0.0000070 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   7.020013 +/- 0.000033 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.834814 +/- 0.000098 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 3.000018 +/- 0.000021 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.19999815 +/- 0.00000080 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 400.0000210 +/- 0.0000064 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 11.97820313 +/- 0.00000019 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -20.74186505 +/- 0.00000033 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 8.97932023 +/- 0.00000014 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   23:59:56.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  -00.02.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [3, 0,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 50.059992 +/- 0.000041 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.60597412 +/- 0.00000083 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   90.0299870 +/- 0.0000039 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.1169467 +/- 0.0000021 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   10.0300162 +/- 0.0000100 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 112.80618 +/- 0.00015 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 10.060015 +/- 0.000048 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.2696394 +/- 0.0000034 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   30.030002 +/- 0.000016 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.4837609 +/- 0.0000085 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   7.030005 +/- 0.000040 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.88893 +/- 0.00012 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 4.000011 +/- 0.000025 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.44999929 +/- 0.00000096 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 600.0000072 +/- 0.0000078 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 17.95445896 +/- 0.00000023 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -31.10166211 +/- 0.00000040 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 13.46897981 +/- 0.00000017 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   23:59:52.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  -00.02.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [4, 0,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 50.080007 +/- 0.000063 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.6038632 +/- 0.0000013 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   90.0399884 +/- 0.0000061 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.1190502 +/- 0.0000033 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   10.039983 +/- 0.000015 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 112.96342 +/- 0.00023 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 10.079967 +/- 0.000075 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.2675291 +/- 0.0000053 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   30.040001 +/- 0.000025 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.485864 +/- 0.000013 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   7.039971 +/- 0.000062 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.94301 +/- 0.00018 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 4.999958 +/- 0.000039 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.8000035 +/- 0.0000015 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 799.999970 +/- 0.000012 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 23.93126068 +/- 0.00000036 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -41.46193177 +/- 0.00000062 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 17.95863885 +/- 0.00000027 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   00:00:08.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  -00.01.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [0, 1,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 6
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 49.9699990 +/- 0.0000030 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.618635092 +/- 0.000000061 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   89.96999976 +/- 0.00000029 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.10533518 +/- 0.00000015 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   9.97500144 +/- 0.00000073 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 111.985759 +/- 0.000011 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 9.9699989 +/- 0.0000036 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.28230347 +/- 0.00000025 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.9700000 +/- 0.0000012 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.47215176 +/- 0.00000063 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   6.9750014 +/- 0.0000030 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.6235565 +/- 0.0000087 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 2.0000003 +/- 0.0000019 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.020000029 +/- 0.000000071 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : -20.00000036 +/- 0.00000057 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : -570.048816 +/- 0.000017 kJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 1.012076769 +/- 0.000000030 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : -448.965996 +/- 0.000013 mJy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   00:00:04.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  -00.01.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [1, 1,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 49.989994 +/- 0.000017 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.61652385 +/- 0.00000034 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   89.9800027 +/- 0.0000016 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.10744606 +/- 0.00000086 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   9.9850027 +/- 0.0000041 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 112.142894 +/- 0.000059 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 9.990009 +/- 0.000020 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.2801926 +/- 0.0000014 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.9800013 +/- 0.0000067 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.4742633 +/- 0.0000035 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   6.985006 +/- 0.000017 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.677368 +/- 0.000049 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 3.000006 +/- 0.000010 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.06999948 +/- 0.00000040 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 180.0000051 +/- 0.0000032 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 5.405114432 +/- 0.000000095 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -9.34677369 +/- 0.00000017 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 4.040694008 +/- 0.000000072 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   00:00:00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  -00.01.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [2, 1,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 50.009995 +/- 0.000029 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.61441337 +/- 0.00000059 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   89.9900021 +/- 0.0000028 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.1095610 +/- 0.0000015 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   9.9950232 +/- 0.0000071 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 112.30035 +/- 0.00010 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 10.010000 +/- 0.000035 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.2780821 +/- 0.0000025 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.990001 +/- 0.000012 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.4763705 +/- 0.0000061 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   6.994990 +/- 0.000029 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.731193 +/- 0.000084 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 3.999987 +/- 0.000018 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.22000106 +/- 0.00000069 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 379.9999880 +/- 0.0000055 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 11.38082359 +/- 0.00000017 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -19.70609679 +/- 0.00000029 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 8.53035351 +/- 0.00000012 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   23:59:56.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  -00.01.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [3, 1,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 50.029989 +/- 0.000042 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.61230576 +/- 0.00000085 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   89.9999879 +/- 0.0000040 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.1116703 +/- 0.0000022 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   10.005017 +/- 0.000010 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 112.45758 +/- 0.00015 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 10.029994 +/- 0.000050 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.2759726 +/- 0.0000035 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.999996 +/- 0.000017 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.4784800 +/- 0.0000087 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   7.004984 +/- 0.000041 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.78514 +/- 0.00012 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 4.999987 +/- 0.000026 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.47000134 +/- 0.00000099 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 579.9999840 +/- 0.0000080 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 17.35707971 +/- 0.00000024 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -30.06589436 +/- 0.00000041 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 13.02001330 +/- 0.00000018 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   23:59:52.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  -00.01.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [4, 1,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 50.050004 +/- 0.000063 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.6101931 +/- 0.0000013 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   90.0099978 +/- 0.0000060 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.1137677 +/- 0.0000032 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   10.014954 +/- 0.000015 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 112.61431 +/- 0.00022 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 10.050011 +/- 0.000074 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.2738614 +/- 0.0000053 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   30.009998 +/- 0.000025 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.480599 +/- 0.000013 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   7.015024 +/- 0.000062 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.83931 +/- 0.00018 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 6.000017 +/- 0.000039 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.8199979 +/- 0.0000015 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 780.000030 +/- 0.000012 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 23.33388388 +/- 0.00000036 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -40.42616829 +/- 0.00000062 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 17.50967421 +/- 0.00000027 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   00:00:08.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  +00.00.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [0, 2,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 6
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 49.9399999 +/- 0.0000019 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.624966912 +/- 0.000000038 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   89.93999983 +/- 0.00000018 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.100058287 +/- 0.000000096 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   9.94999971 +/- 0.00000045 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 111.6380125 +/- 0.0000066 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 9.9399995 +/- 0.0000022 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.28863530 +/- 0.00000016 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.94000002 +/- 0.00000075 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.46687471 +/- 0.00000039 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   6.9499990 +/- 0.0000018 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.5207103 +/- 0.0000054 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 2.9999997 +/- 0.0000011 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.040000017 +/- 0.000000044 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : -80.00000020 +/- 0.00000035 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : -2.362405136 +/- 0.000000011 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 4.119565986 +/- 0.000000018 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : -1.7958639570 +/- 0.0000000079 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   00:00:04.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  +00.00.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [1, 2,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 49.959988 +/- 0.000013 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.62285663 +/- 0.00000026 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   89.9499983 +/- 0.0000012 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.10216956 +/- 0.00000064 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   9.9600029 +/- 0.0000031 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 111.794973 +/- 0.000044 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 9.959998 +/- 0.000015 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.2865249 +/- 0.0000011 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.9499989 +/- 0.0000050 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.4689849 +/- 0.0000026 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   6.959997 +/- 0.000012 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.574309 +/- 0.000036 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 3.9999978 +/- 0.0000077 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.09000021 +/- 0.00000030 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 119.9999983 +/- 0.0000024 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 3.612757908 +/- 0.000000071 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -6.23928412 +/- 0.00000012 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 2.693795891 +/- 0.000000054 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   00:00:00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  +00.00.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [2, 2,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 49.980021 +/- 0.000030 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.62074616 +/- 0.00000060 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   89.9599976 +/- 0.0000029 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.1042785 +/- 0.0000015 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   9.9699947 +/- 0.0000072 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 111.95200 +/- 0.00011 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 9.980005 +/- 0.000035 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.2844142 +/- 0.0000025 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.960000 +/- 0.000012 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.4710969 +/- 0.0000062 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   6.970004 +/- 0.000029 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.628030 +/- 0.000086 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 5.000005 +/- 0.000018 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.23999947 +/- 0.00000070 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 320.0000053 +/- 0.0000056 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 9.58846777 +/- 0.00000017 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -16.59860845 +/- 0.00000029 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 7.18345593 +/- 0.00000013 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   23:59:56.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  +00.00.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [3, 2,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 49.999902 +/- 0.000041 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.61863371 +/- 0.00000084 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   89.9700063 +/- 0.0000040 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.1063927 +/- 0.0000021 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   9.980012 +/- 0.000010 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 112.10906 +/- 0.00015 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 9.999971 +/- 0.000049 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.2823027 +/- 0.0000035 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.970004 +/- 0.000017 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.4732079 +/- 0.0000086 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   6.980005 +/- 0.000041 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.68177 +/- 0.00012 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 5.999987 +/- 0.000025 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.49000110 +/- 0.00000098 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 519.9999901 +/- 0.0000079 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 15.56472357 +/- 0.00000023 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -26.95840544 +/- 0.00000041 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 11.67311547 +/- 0.00000018 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   23:59:52.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  +00.00.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [4, 2,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 50.020097 +/- 0.000060 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.6165220 +/- 0.0000012 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   89.9800115 +/- 0.0000058 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.1085034 +/- 0.0000031 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   9.990012 +/- 0.000015 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 112.26672 +/- 0.00021 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 10.020000 +/- 0.000071 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.2801921 +/- 0.0000050 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.980003 +/- 0.000024 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.475312 +/- 0.000012 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   6.989977 +/- 0.000059 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.73562 +/- 0.00017 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 6.999991 +/- 0.000037 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.8400013 +/- 0.0000014 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 719.999979 +/- 0.000011 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 21.54152606 +/- 0.00000034 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -37.31867646 +/- 0.00000059 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 16.16277511 +/- 0.00000026 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   00:00:08.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  +00.01.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [0, 3,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 6
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 49.9100031 +/- 0.0000081 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.63129911 +/- 0.00000016 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   89.90999811 +/- 0.00000077 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.09478174 +/- 0.00000041 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   9.9249996 +/- 0.0000020 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 111.290626 +/- 0.000028 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 9.9100012 +/- 0.0000096 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.29496711 +/- 0.00000068 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.9100001 +/- 0.0000032 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.4615988 +/- 0.0000017 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   6.9250018 +/- 0.0000080 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.418215 +/- 0.000023 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 4.0000018 +/- 0.0000049 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.05999982 +/- 0.00000019 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : -179.9999983 +/- 0.0000015 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : -5.349739164 +/- 0.000000046 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 9.298777768 +/- 0.000000079 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : -4.040693854 +/- 0.000000034 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   00:00:04.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  +00.01.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [1, 3,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 49.9300098 +/- 0.0000050 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.62918818 +/- 0.00000010 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   89.91999962 +/- 0.00000048 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.09689223 +/- 0.00000026 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   9.9349990 +/- 0.0000012 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 111.447408 +/- 0.000018 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 9.9300016 +/- 0.0000059 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.29285655 +/- 0.00000042 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.9199999 +/- 0.0000020 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.4637085 +/- 0.0000010 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   6.9349974 +/- 0.0000049 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.471631 +/- 0.000014 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 5.0000005 +/- 0.0000031 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.10999994 +/- 0.00000012 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 20.00000086 +/- 0.00000095 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 625.423898 +/- 0.000028 kJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -1.060072367 +/- 0.000000049 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 448.966007 +/- 0.000021 mJy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   00:00:00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  +00.01.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [2, 3,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 49.949959 +/- 0.000017 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.62707613 +/- 0.00000034 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   89.9300064 +/- 0.0000016 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.09900345 +/- 0.00000087 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   9.9450019 +/- 0.0000041 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 111.604190 +/- 0.000060 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 9.949990 +/- 0.000020 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.2907455 +/- 0.0000014 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.9300019 +/- 0.0000068 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.4658182 +/- 0.0000035 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   6.944993 +/- 0.000017 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.525120 +/- 0.000049 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 6.000001 +/- 0.000010 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.26000006 +/- 0.00000040 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 219.9999997 +/- 0.0000032 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 6.601133527 +/- 0.000000096 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -11.41939628 +/- 0.00000017 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 4.938625863 +/- 0.000000072 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   23:59:56.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  +00.01.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [3, 3,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 49.969985 +/- 0.000032 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.62496780 +/- 0.00000065 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   89.9399956 +/- 0.0000031 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.1011170 +/- 0.0000016 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   9.9550159 +/- 0.0000078 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 111.76136 +/- 0.00011 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 9.969988 +/- 0.000038 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.2886348 +/- 0.0000027 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.940003 +/- 0.000013 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.4679321 +/- 0.0000067 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   6.955009 +/- 0.000032 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.578757 +/- 0.000093 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 7.000001 +/- 0.000020 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.51000019 +/- 0.00000076 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 419.9999946 +/- 0.0000061 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 12.57738961 +/- 0.00000018 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -21.77919379 +/- 0.00000032 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 9.42828563 +/- 0.00000014 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   23:59:52.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  +00.01.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [4, 3,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 49.990048 +/- 0.000056 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.6228564 +/- 0.0000011 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   89.9499995 +/- 0.0000053 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.1032252 +/- 0.0000029 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   9.965004 +/- 0.000014 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 111.91841 +/- 0.00020 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 9.990013 +/- 0.000066 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.2865239 +/- 0.0000047 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.950004 +/- 0.000022 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.470043 +/- 0.000012 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   6.965011 +/- 0.000055 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.63250 +/- 0.00016 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 8.000016 +/- 0.000034 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.8599987 +/- 0.0000013 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 620.000012 +/- 0.000011 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 18.55419293 +/- 0.00000032 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -32.13946624 +/- 0.00000055 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 13.91794590 +/- 0.00000024 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   00:00:08.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  +00.02.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [0, 4,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 7
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 49.879956 +/- 0.000018 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.63763019 +/- 0.00000037 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   89.8800017 +/- 0.0000017 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.08950694 +/- 0.00000092 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   9.9000078 +/- 0.0000044 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 110.943558 +/- 0.000063 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 9.880001 +/- 0.000021 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.3012988 +/- 0.0000015 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.8800008 +/- 0.0000072 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.4563221 +/- 0.0000038 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   6.900001 +/- 0.000018 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.316045 +/- 0.000052 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 4.999997 +/- 0.000011 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.08000023 +/- 0.00000042 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : -320.0000027 +/- 0.0000034 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : -9.53205114 +/- 0.00000010 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 16.54971254 +/- 0.00000018 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : -7.183455872 +/- 0.000000077 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   00:00:04.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  +00.02.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [1, 4,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 49.8999928 +/- 0.0000046 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.635519789 +/- 0.000000093 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   89.89000068 +/- 0.00000044 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.09161617 +/- 0.00000023 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   9.9100013 +/- 0.0000011 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 111.100160 +/- 0.000016 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 9.8999989 +/- 0.0000054 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.29918836 +/- 0.00000039 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.8900000 +/- 0.0000018 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.45843234 +/- 0.00000095 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   6.9099993 +/- 0.0000045 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.369284 +/- 0.000013 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 5.9999988 +/- 0.0000028 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.13000007 +/- 0.00000011 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : -120.00000063 +/- 0.00000087 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : -3.556887991 +/- 0.000000026 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 6.190862248 +/- 0.000000045 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : -2.693795943 +/- 0.000000019 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   00:00:00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  +00.02.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [2, 4,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 49.9200160 +/- 0.0000089 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.63340954 +/- 0.00000018 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   89.89999898 +/- 0.00000085 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.09372752 +/- 0.00000045 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   9.9200048 +/- 0.0000022 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 111.256934 +/- 0.000031 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 9.919994 +/- 0.000011 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.29707805 +/- 0.00000075 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.8999986 +/- 0.0000036 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.4605431 +/- 0.0000019 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   6.9199999 +/- 0.0000088 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.422613 +/- 0.000026 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 6.9999980 +/- 0.0000055 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.28000025 +/- 0.00000021 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 79.9999961 +/- 0.0000017 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 2.418821575 +/- 0.000000050 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -4.168461560 +/- 0.000000087 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 1.795863865 +/- 0.000000038 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   23:59:56.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  +00.02.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [3, 4,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 49.940011 +/- 0.000029 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.63129857 +/- 0.00000059 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   89.9100007 +/- 0.0000028 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.0958370 +/- 0.0000015 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   9.9299994 +/- 0.0000070 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 111.41364 +/- 0.00010 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 9.939996 +/- 0.000034 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.2949665 +/- 0.0000024 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.910003 +/- 0.000012 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.4626536 +/- 0.0000060 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   6.929999 +/- 0.000029 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.476042 +/- 0.000083 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 8.000001 +/- 0.000018 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.53000000 +/- 0.00000068 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 279.9999993 +/- 0.0000055 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 8.39507791 +/- 0.00000016 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -14.52825949 +/- 0.00000028 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 6.28552382 +/- 0.00000012 Jy/pixel/((km/s)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    RA           :   23:59:52.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  +00.02.00.000
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [4, 4,  *]
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 8
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 0:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 49.959981 +/- 0.000035 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1134.62918974 +/- 0.00000070 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   89.9199922 +/- 0.0000033 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 2.0979473 +/- 0.0000018 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   9.9399981 +/- 0.0000084 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 111.57042 +/- 0.00012 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 1:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 9.959990 +/- 0.000041 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Center   : 1147.2928554 +/- 0.0000029 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   29.920005 +/- 0.000014 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 1.4647665 +/- 0.0000072 km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	                   6.940010 +/- 0.000034 pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Integral : 15.529573 +/- 0.000099 Jy/pixel.km/s
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	    Results for component 2:
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 9.000004 +/- 0.000021 Jy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : 5.87999975 +/- 0.00000081 Jy/pixel/(pixel)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 480.0000021 +/- 0.0000065 mJy/pixel/((pixel)2)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c0 : 14.37188080 +/- 0.00000020 MJy/pixel
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c1 : -24.88853121 +/- 0.00000034 kJy/pixel/(km/s)
+2025-09-16 14:57:03	INFO	ImageProfileFitterResults::logSummary+	         c2 : 10.77518376 +/- 0.00000015 Jy/pixel/((km/s)2)

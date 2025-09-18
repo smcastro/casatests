@@ -1,0 +1,2 @@
+Read direction result {'m0': {'unit': 'rad', 'value': -2.896255672938892}, 'm1': {'unit': 'rad', 'value': -0.05320199377953938}, 'refer': 'APP', 'type': 'direction'}
+Read direction result {'m0': {'unit': 'rad', 'value': -2.896255672938892}, 'm1': {'unit': 'rad', 'value': -0.05320199377953938}, 'refer': 'APP', 'type': 'direction'}

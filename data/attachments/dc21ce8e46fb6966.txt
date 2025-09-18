@@ -1,0 +1,2 @@
+ :  spw with channel selection( 0:4~13 ), default start, LSRK nearest
+[check_spec_frame] tstCubetest_defstspwchansel4.image: Spec frame is TOPO with crval 1200000000.0 (Pass : should be TOPO with expected crval 1200000000.0 )

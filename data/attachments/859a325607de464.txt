@@ -1,0 +1,1 @@
+[33mWARNING [0m matplotlib.axes._base:_base.py:2082 Ignoring fixed y limits to fulfill fixed data aspect with adjustable data limits.

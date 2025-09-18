@@ -1,0 +1,23 @@
+2025-09-16 17:06:40	WARN	sdimaging::::casa	The sdimaging task is deprecated and will be removed in future releases. Please use tsdimaging instead.
+2025-09-16 17:06:40	SEVERE	ms::cvelfreqs	Exception Reported: Empty QuantumHolder argument for asQuantumDouble
+2025-09-16 17:06:40	SEVERE	sdimaging::::casa	Traceback (most recent call last):
+2025-09-16 17:06:40	SEVERE	sdimaging::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:06:40	SEVERE	sdimaging::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdimaging.py", line 32, in sdimaging
+2025-09-16 17:06:40	SEVERE	sdimaging::::casa+	    worker.execute()
+2025-09-16 17:06:40	SEVERE	sdimaging::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdimaging.py", line 916, in execute
+2025-09-16 17:06:40	SEVERE	sdimaging::::casa+	    self._configure_map_property()
+2025-09-16 17:06:40	SEVERE	sdimaging::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdimaging.py", line 851, in _configure_map_property
+2025-09-16 17:06:40	SEVERE	sdimaging::::casa+	    (imnchan, imstart, imwidth) = imhelper.setChannelizeDefault(
+2025-09-16 17:06:40	SEVERE	sdimaging::::casa+	                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:06:40	SEVERE	sdimaging::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdimaging.py", line 290, in setChannelizeDefault
+2025-09-16 17:06:40	SEVERE	sdimaging::::casa+	    newfreqs=myms.cvelfreqs(spwids=selspw,fieldids=selfield,mode=mode,nchan=nchan,
+2025-09-16 17:06:40	SEVERE	sdimaging::::casa+	             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:06:40	SEVERE	sdimaging::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/ms.py", line 1331, in cvelfreqs
+2025-09-16 17:06:40	SEVERE	sdimaging::::casa+	    return self._swigobj.cvelfreqs(spwids, fieldids, obstime, mode, nchan, start, width, phasec, restfreq, outframe, veltype, verbose)
+2025-09-16 17:06:40	SEVERE	sdimaging::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:06:40	SEVERE	sdimaging::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/__casac__/ms.py", line 3073, in cvelfreqs
+2025-09-16 17:06:40	SEVERE	sdimaging::::casa+	    return _ms.ms_cvelfreqs(self, *args, **kwargs)
+2025-09-16 17:06:40	SEVERE	sdimaging::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:06:40	SEVERE	sdimaging::::casa+	RuntimeError: Empty QuantumHolder argument for asQuantumDouble
+2025-09-16 17:06:40	SEVERE	sdimaging::::casa	Empty QuantumHolder argument for asQuantumDouble
+2025-09-16 17:06:40	SEVERE	sdimaging::::casa	Task sdimaging raised an exception of class RuntimeError with the following message: Empty QuantumHolder argument for asQuantumDouble

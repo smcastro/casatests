@@ -1,0 +1,24 @@
+2025-09-16 14:57:04	INFO	FITSCoordinateUtil::fromFITSHeader	passing empty or nonexistant spectral Coordinate axis
+2025-09-16 14:57:04	INFO	ImageFactory::createImage	Created Paged image 'mult_pb.im' of shape [113, 76] with float valued pixels.
+2025-09-16 14:57:04	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:04	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:04	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:57:04	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:04	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [112, 75, 4, 1]  (00:03:44.024, -00.38.00.046, 1.415e+09Hz, I to 23:56:15.977, +00.37.00.043, 1.415e+09Hz, Q)
+2025-09-16 14:57:04	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:04	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [112, 75, 4, 1]  (00:03:44.024, -00.38.00.046, 1.415e+09Hz, I to 23:56:15.977, +00.37.00.043, 1.415e+09Hz, Q)
+2025-09-16 14:57:04	INFO	SubImageFactory::createImage	Creating image 'mypb.im' of shape [113, 76, 5, 2]
+2025-09-16 14:57:04	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:57:04	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:04	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [112, 75, 0, 0]  (00:03:44.024, -00.38.00.046, 1.415e+09Hz, I to 23:56:15.977, +00.37.00.043, 1.415e+09Hz, I)
+2025-09-16 14:57:04	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:04	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:04	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:57:04	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:04	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [112, 75, 4, 1]  (00:03:44.024, -00.38.00.046, 1.415e+09Hz, I to 23:56:15.977, +00.37.00.043, 1.415e+09Hz, Q)
+2025-09-16 14:57:04	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:04	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [112, 75, 4, 1]  (00:03:44.024, -00.38.00.046, 1.415e+09Hz, I to 23:56:15.977, +00.37.00.043, 1.415e+09Hz, Q)
+2025-09-16 14:57:04	INFO	SubImageFactory::createImage	Creating image 'mypb.im' of shape [113, 76, 5, 2]
+2025-09-16 14:57:04	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:57:04	INFO	name::	No table opened.
+2025-09-16 14:57:04	INFO	showcache::	The Table Cache is empty.

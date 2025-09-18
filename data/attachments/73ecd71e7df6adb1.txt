@@ -1,0 +1,10 @@
+2025-09-16 14:58:55	INFO	test
+::ImageFactory::createImage	Created Temp image  of shape [4, 4, 4] with float valued pixels.
+2025-09-16 14:58:55	SEVERE	test
+::regionmanager::selectedchannels	Exception Reported: Exception: Associated coordinate system has no spectral axis.
+2025-09-16 14:58:55	SEVERE	test
+::regionmanager::selectedchannels+	... thrown by std::vector<long int> casac::regionmanager::selectedchannels(const string&, const std::vector<long int>&) at File: src/tools/regionmanager/regionmanager_cmpt.cc, line: 686
+2025-09-16 14:58:55	INFO	test
+::name::	No table opened.
+2025-09-16 14:58:55	INFO	test
+::name::	No table opened.

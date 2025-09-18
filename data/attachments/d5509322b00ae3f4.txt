@@ -1,0 +1,756 @@
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=62)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=61)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=60)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=59)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=58)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=57)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=56)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=55)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=54)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=53)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=52)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=51)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=50)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=49)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=48)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=47)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=46)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=45)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=44)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=43)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=42)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=41)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=40)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=39)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=38)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=37)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=36)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=35)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=34)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=33)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=32)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=31)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=30)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=29)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=28)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=27)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=26)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=25)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=24)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=23)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=22)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=21)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=20)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=19)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=18)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=17)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=16)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=15)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=14)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=13)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=12)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=11)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=10)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=9)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=8)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=7)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=6)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=5)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=4)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=3)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=2)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=1)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:21:45.0 field=0 spw=0 chan=0)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=62)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=61)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=60)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=59)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=58)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=57)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=56)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=55)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=54)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=53)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=52)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=51)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=50)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=49)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=48)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=47)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=46)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=45)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=44)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=43)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=42)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=41)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=40)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=39)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=38)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=37)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=36)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=35)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=34)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=33)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=32)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=31)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=30)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=29)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=28)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=27)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=26)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=25)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=24)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=23)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=22)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=21)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=20)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=19)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=18)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=17)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=16)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=15)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=14)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=13)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=12)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=11)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=10)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=9)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=8)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=7)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=6)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=5)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=4)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=3)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=2)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=1)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:28:30.0 field=1 spw=0 chan=0)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=62)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=61)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=60)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=59)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=58)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=57)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=56)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=55)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=54)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=53)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=52)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=51)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=50)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=49)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=48)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=47)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=46)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=45)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=44)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=43)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=42)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=41)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=40)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=39)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=38)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=37)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=36)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=35)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=34)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=33)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=32)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=31)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=30)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=29)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=28)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=27)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=26)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=25)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=24)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=23)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=22)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=21)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=20)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=19)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=18)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=17)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=16)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=15)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=14)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=13)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=12)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=11)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=10)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=9)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=8)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=7)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=6)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=5)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=4)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=3)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=2)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=1)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:09:48.0 field=1 spw=0 chan=0)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=62)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=61)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=60)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=59)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=58)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=57)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=56)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=55)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=54)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=53)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=52)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=51)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=50)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=49)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=48)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=47)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=46)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=45)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=44)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=43)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=42)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=41)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=40)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=39)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=38)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=37)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=36)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=35)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=34)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=33)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=32)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=31)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=30)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=29)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=28)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=27)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=26)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=25)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=24)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=23)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=22)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=21)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=20)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=19)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=18)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=17)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=16)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=15)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=14)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=13)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=12)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=11)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=10)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=9)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=8)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=7)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=6)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=5)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=4)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=3)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=2)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=1)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:46:15.0 field=1 spw=0 chan=0)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=62)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=61)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=60)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=59)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=58)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=57)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=56)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=55)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=54)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=53)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=52)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=51)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=50)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=49)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=48)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=47)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=46)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=45)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=44)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=43)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=42)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=41)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=40)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=39)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=38)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=37)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=36)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=35)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=34)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=33)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=32)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=31)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=30)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=29)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=28)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=27)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=26)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=25)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=24)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=23)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=22)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=21)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=20)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=19)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=18)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=17)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=16)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=15)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=14)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=13)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=12)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=11)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=10)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=9)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=8)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=7)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=6)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=5)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=4)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=3)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=2)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=1)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/09:40:30.0 field=2 spw=0 chan=0)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=62)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=61)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=60)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=59)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=58)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=57)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=56)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=55)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=54)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=53)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=52)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=51)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=50)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=49)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=48)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=47)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=46)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=45)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=44)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=43)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=42)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=41)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=40)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=39)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=38)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=37)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=36)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=35)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=34)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=33)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=32)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=31)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=30)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=29)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=28)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=27)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=26)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=25)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=24)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=23)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=22)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=21)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=20)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=19)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=18)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=17)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=16)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=15)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=14)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=13)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=12)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=11)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=10)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=9)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=8)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=7)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=6)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=5)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=4)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=3)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=2)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=1)
+ Insufficient unflagged antennas to proceed with this solve.
+   (time=1995/04/13/10:34:30.0 field=2 spw=0 chan=0)

@@ -1,0 +1,2 @@
+2025-09-16 16:59:01	WARN	SingleDishMS::setSelection (file /source/casa6/casatools/src/code/singledish/SingleDish/SingleDishMS.cc, line 212)	No valid selection parameter is set.
+2025-09-16 16:59:02	WARN	SDAtmosphereCorrectionTVI::initializeAtmosphereCorrection (file /source/casa6/casatools/src/code/mstransform/TVI/SDAtmosphereCorrectionTVI.cc, line 476)	SPW 23 is output but not corrected

@@ -1,0 +1,2 @@
+ :  channel, start=0, default width, step=2 LSRK nearest
+[check_spec_frame] tstCubetest_st4stride2.image: Spec frame is LSRK with crval 999988750.3872563 (Pass : should be LSRK with expected crval 999988750.387 )

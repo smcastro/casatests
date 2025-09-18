@@ -1,0 +1,107 @@
+2025-09-16 14:56:46	INFO	ImageFactory::createImage	Created Paged image 'jk.im' of shape [100, 100, 4, 5] with float valued pixels.
+2025-09-16 14:56:46	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:46	INFO	BeamManipulator::set	This image currently has no beams of any kind. Since channel and/or polarization were specified, a set of per plane beams, each equal to the specified beam, will be created.
+2025-09-16 14:56:46	INFO	BeamManipulator::set	Beam parameters:  Major          : 4 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Minor          : 3 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Position Angle : 20 deg
+2025-09-16 14:56:46	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:46	INFO	BeamManipulator::set	Beam parameters:  Major          : 4.01 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Minor          : 3 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Position Angle : 20 deg
+2025-09-16 14:56:46	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:46	INFO	BeamManipulator::set	Beam parameters:  Major          : 4.02 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Minor          : 3 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Position Angle : 20 deg
+2025-09-16 14:56:46	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:46	INFO	BeamManipulator::set	Beam parameters:  Major          : 4.03 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Minor          : 3 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Position Angle : 20 deg
+2025-09-16 14:56:46	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:46	INFO	BeamManipulator::set	Beam parameters:  Major          : 4.1 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Minor          : 3 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Position Angle : 20 deg
+2025-09-16 14:56:46	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:46	INFO	BeamManipulator::set	Beam parameters:  Major          : 4.11 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Minor          : 3 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Position Angle : 20 deg
+2025-09-16 14:56:46	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:46	INFO	BeamManipulator::set	Beam parameters:  Major          : 4.12 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Minor          : 3 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Position Angle : 20 deg
+2025-09-16 14:56:46	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:46	INFO	BeamManipulator::set	Beam parameters:  Major          : 4.13 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Minor          : 3 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Position Angle : 20 deg
+2025-09-16 14:56:46	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:46	INFO	BeamManipulator::set	Beam parameters:  Major          : 4.2 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Minor          : 3 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Position Angle : 20 deg
+2025-09-16 14:56:46	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:46	INFO	BeamManipulator::set	Beam parameters:  Major          : 4.21 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Minor          : 3 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Position Angle : 20 deg
+2025-09-16 14:56:46	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:46	INFO	BeamManipulator::set	Beam parameters:  Major          : 4.22 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Minor          : 3 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Position Angle : 20 deg
+2025-09-16 14:56:46	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:46	INFO	BeamManipulator::set	Beam parameters:  Major          : 4.23 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Minor          : 3 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Position Angle : 20 deg
+2025-09-16 14:56:46	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:46	INFO	BeamManipulator::set	Beam parameters:  Major          : 4.3 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Minor          : 3 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Position Angle : 20 deg
+2025-09-16 14:56:46	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:46	INFO	BeamManipulator::set	Beam parameters:  Major          : 4.31 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Minor          : 3 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Position Angle : 20 deg
+2025-09-16 14:56:46	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:46	INFO	BeamManipulator::set	Beam parameters:  Major          : 4.32 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Minor          : 3 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Position Angle : 20 deg
+2025-09-16 14:56:46	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:46	INFO	BeamManipulator::set	Beam parameters:  Major          : 4.33 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Minor          : 3 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Position Angle : 20 deg
+2025-09-16 14:56:46	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:46	INFO	BeamManipulator::set	Beam parameters:  Major          : 4.4 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Minor          : 3 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Position Angle : 20 deg
+2025-09-16 14:56:46	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:46	INFO	BeamManipulator::set	Beam parameters:  Major          : 4.41 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Minor          : 3 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Position Angle : 20 deg
+2025-09-16 14:56:46	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:46	INFO	BeamManipulator::set	Beam parameters:  Major          : 4.42 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Minor          : 3 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Position Angle : 20 deg
+2025-09-16 14:56:46	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:46	INFO	BeamManipulator::set	Beam parameters:  Major          : 4.43 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Minor          : 3 arcmin
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Position Angle : 20 deg
+2025-09-16 14:56:46	INFO	Image2DConvolver::_dealWithRestoringBeam	You are convolving the sky
+2025-09-16 14:56:46	INFO	Image2DConvolver::_dealWithRestoringBeam	Scaling pixel values by inverse of area of convolution kernel in pixels (0.0441271) times the ratio of the beam areas (2.66797) = 0.11773 for channel number 0 and polarization number 0
+2025-09-16 14:56:46	INFO	Image2DConvolver::_dealWithRestoringBeam	Scaling pixel values by inverse of area of convolution kernel in pixels (0.0441271) times the ratio of the beam areas (2.62848) = 0.115987 for channel number 1 and polarization number 0
+2025-09-16 14:56:46	INFO	Image2DConvolver::_dealWithRestoringBeam	Scaling pixel values by inverse of area of convolution kernel in pixels (0.0441271) times the ratio of the beam areas (2.59124) = 0.114344 for channel number 2 and polarization number 0
+2025-09-16 14:56:46	INFO	Image2DConvolver::_dealWithRestoringBeam	Scaling pixel values by inverse of area of convolution kernel in pixels (0.0441271) times the ratio of the beam areas (2.55608) = 0.112793 for channel number 3 and polarization number 0
+2025-09-16 14:56:46	INFO	Image2DConvolver::_dealWithRestoringBeam	Scaling pixel values by inverse of area of convolution kernel in pixels (0.0441271) times the ratio of the beam areas (2.52285) = 0.111326 for channel number 4 and polarization number 0
+2025-09-16 14:56:46	INFO	Image2DConvolver::_dealWithRestoringBeam	Scaling pixel values by inverse of area of convolution kernel in pixels (0.0441271) times the ratio of the beam areas (2.66391) = 0.117551 for channel number 0 and polarization number 1
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Scaling pixel values by inverse of area of convolution kernel in pixels (0.0441271) times the ratio of the beam areas (2.62466) = 0.115819 for channel number 1 and polarization number 1
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Scaling pixel values by inverse of area of convolution kernel in pixels (0.0441271) times the ratio of the beam areas (2.58764) = 0.114185 for channel number 2 and polarization number 1
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Scaling pixel values by inverse of area of convolution kernel in pixels (0.0441271) times the ratio of the beam areas (2.55268) = 0.112642 for channel number 3 and polarization number 1
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Scaling pixel values by inverse of area of convolution kernel in pixels (0.0441271) times the ratio of the beam areas (2.51963) = 0.111184 for channel number 4 and polarization number 1
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Scaling pixel values by inverse of area of convolution kernel in pixels (0.0441271) times the ratio of the beam areas (2.65988) = 0.117373 for channel number 0 and polarization number 2
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Scaling pixel values by inverse of area of convolution kernel in pixels (0.0441271) times the ratio of the beam areas (2.62086) = 0.115651 for channel number 1 and polarization number 2
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Scaling pixel values by inverse of area of convolution kernel in pixels (0.0441271) times the ratio of the beam areas (2.58405) = 0.114027 for channel number 2 and polarization number 2
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Scaling pixel values by inverse of area of convolution kernel in pixels (0.0441271) times the ratio of the beam areas (2.54929) = 0.112493 for channel number 3 and polarization number 2
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Scaling pixel values by inverse of area of convolution kernel in pixels (0.0441271) times the ratio of the beam areas (2.51643) = 0.111043 for channel number 4 and polarization number 2
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Scaling pixel values by inverse of area of convolution kernel in pixels (0.0441271) times the ratio of the beam areas (2.65588) = 0.117196 for channel number 0 and polarization number 3
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Scaling pixel values by inverse of area of convolution kernel in pixels (0.0441271) times the ratio of the beam areas (2.61708) = 0.115484 for channel number 1 and polarization number 3
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Scaling pixel values by inverse of area of convolution kernel in pixels (0.0441271) times the ratio of the beam areas (2.58048) = 0.113869 for channel number 2 and polarization number 3
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Scaling pixel values by inverse of area of convolution kernel in pixels (0.0441271) times the ratio of the beam areas (2.54592) = 0.112344 for channel number 3 and polarization number 3
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Scaling pixel values by inverse of area of convolution kernel in pixels (0.0441271) times the ratio of the beam areas (2.51324) = 0.110902 for channel number 4 and polarization number 3
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Original /scratch/scastro/casa/Tests/reports/jk.im has multiple beams. Min area beam: major: 4 arcmin, minor: 3 arcmin, pa: 20 deg. Max area beam: major: 4.43 arcmin, minor: 3 arcmin, pa: 20 deg. Median area beam major: 4.22 arcmin, minor: 3 arcmin, pa: 20 deg
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Output  has multiple beams. Min area beam: major: 0 arcsec, minor: 0 arcsec, pa: 0 deg. Max area beam: major: 400.811 arcsec, minor: 300 arcsec, pa: 20 deg. Median area beam major: 392.569 arcsec, minor: 300 arcsec, pa: 20 deg
+2025-09-16 14:56:47	INFO	name::	No table opened.
+2025-09-16 14:56:47	INFO	showcache::	The Table Cache is empty.

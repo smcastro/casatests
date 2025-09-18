@@ -1,0 +1,6 @@
+2025-09-16 15:03:03	INFO	test
+::vp::createantresp	Found 6 response images in directory /scratch/scastro/casa/Tests/reports/mydir3
+2025-09-16 15:03:03	INFO	test
+::vp::createantresp	Created antenna responses table /scratch/scastro/casa/Tests/reports/mydir3/AntennaResponses
+2025-09-16 15:03:03	INFO	test
+::vp::createantresp+	 with 2 rows.

@@ -1,0 +1,4 @@
+2025-09-16 16:11:37	WARN	immath::::casa	The OUTFILE parameter tests will cause errors to occur, do not be alarmed
+2025-09-16 16:11:37	SEVERE	immath::::casa	Unable to process expression IM0*1
+2025-09-16 16:11:37	SEVERE	immath::::casa	Exception caught was: Output file input_test4 exists. immath can not proceed, please remove it or change the output file name.
+2025-09-16 16:11:37	SEVERE	immath::::casa	Task immath raised an exception of class Exception with the following message: Output file input_test4 exists. immath can not proceed, please remove it or change the output file name.

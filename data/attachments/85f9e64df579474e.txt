@@ -1,0 +1,2 @@
+{'attempted': array([[[ True]]]), 'converged': array([[[ True]]]), 'direction': array([[['J2000 00:00:02.000 -00.00.30.000']]], dtype='<U32'), 'ltp': {'error': array([[[[4.66933789e-09, 1.21324127e-08]]]]), 'solution': array([[[[-0.69314718,  2.        ]]]])}, 'ncomps': array([[[1]]]), 'niter': array([[[1]]]), 'succeeded': array([[[ True]]]), 'type': array([[[['LOGARITHMIC TRANSFORMED POLYNOMIAL']]]], dtype='<U34'), 'valid': array([[[ True]]]), 'xUnit': 'Hz', 'yUnit': ''}
+*** xUnit Hz

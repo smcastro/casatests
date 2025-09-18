@@ -1,0 +1,57 @@
+test_concat : Now checking output ...
+test_concat :  table.f8 present.
+test_concat :  FIELD/table.dat present.
+test_concat :  table.f7 present.
+test_concat :  POINTING/table.f0 present.
+test_concat :  POLARIZATION/table.f0 present.
+test_concat :  SPECTRAL_WINDOW/table.f0 present.
+test_concat :  STATE/table.f0 present.
+test_concat :  table.f4 present.
+test_concat :  POINTING/table.dat present.
+test_concat :  FLAG_CMD/table.dat present.
+test_concat :  POLARIZATION/table.dat present.
+test_concat :  table.f6 present.
+test_concat :  table.f1 present.
+test_concat :  FLAG_CMD/table.f0 present.
+test_concat :  ANTENNA/table.f0 present.
+test_concat :  HISTORY/table.dat present.
+test_concat :  ANTENNA/table.dat present.
+test_concat :  FIELD/table.f0 present.
+test_concat :  OBSERVATION/table.dat present.
+test_concat :  OBSERVATION/table.f0 present.
+test_concat :  SOURCE/table.f0 present.
+test_concat :  table.f5 present.
+test_concat :  table.dat present.
+test_concat :  SPECTRAL_WINDOW/table.dat present.
+test_concat :  STATE/table.dat present.
+test_concat :  PROCESSOR/table.dat present.
+test_concat :  FEED/table.f0 present.
+test_concat :  HISTORY/table.f0 present.
+test_concat :  table.f3 present.
+test_concat :  SOURCE/table.dat present.
+test_concat :  table.f2 present.
+test_concat :  DATA_DESCRIPTION/table.dat present.
+test_concat :  PROCESSOR/table.f0 present.
+test_concat :  DATA_DESCRIPTION/table.f0 present.
+test_concat :  FEED/table.dat present.
+test_concat : MS exists. All tables present. Try opening as MS ...
+test_concat : OK. Checking tables in detail ...
+test_concat : comparing  ['SOURCE_ID', 41, 13, 0]
+test_concat : comparing  ['SPECTRAL_WINDOW_ID', 41, 2, 0]
+test_concat : table  SOURCE  as expected.
+test_concat : comparing  ['NUM_CHAN', 2, 128, 0]
+test_concat : table  SPECTRAL_WINDOW  as expected.
+test_concat : comparing  ['WEIGHT', 0, array([11.86871839]), 1e-06]
+test_concat : comparing  ['WEIGHT', 23813, array([19.3635335]), 1e-06]
+test_concat : comparing  ['WEIGHT', 23814, array([7.91247892]), 1e-06]
+test_concat : comparing  ['WEIGHT', 47627, array([12.90902233]), 1e-06]
+test_concat : comparing  ['WEIGHT', 47628, array([3.95623946]), 1e-06]
+test_concat : comparing  ['WEIGHT', 71441, array([6.45451117]), 1e-06]
+test_concat : table  MAIN  as expected.
+test_concat : comparing  ['SIGMA', 0, array([0.29026728]), 1e-06]
+test_concat : comparing  ['SIGMA', 23813, array([0.22725199]), 1e-06]
+test_concat : comparing  ['SIGMA', 23814, array([0.35550336]), 1e-06]
+test_concat : comparing  ['SIGMA', 47627, array([0.27832571]), 1e-06]
+test_concat : comparing  ['SIGMA', 47628, array([0.50275767]), 1e-06]
+test_concat : comparing  ['SIGMA', 71441, array([0.393612]), 1e-06]
+test_concat : table  MAIN  as expected.

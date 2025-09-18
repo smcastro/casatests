@@ -1,0 +1,3 @@
+The MS is already around, just unflag
+Rename versionname to Do_Not_Overwrite_Me
+Move existing versionname to temporary name

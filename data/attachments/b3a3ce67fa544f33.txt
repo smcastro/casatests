@@ -1,0 +1,60 @@
+2025-09-16 15:02:39	INFO	test
+::NewMSSimulator::initAnt() 	Using global coordinates for the antennas
+2025-09-16 15:02:39	INFO	test
+::NewMSSimulator::initAnt() 	Added rows to ANTENNA table
+2025-09-16 15:02:39	INFO	test
+::MSsimulator::initFeeds() 	Added rows to FEED table
+2025-09-16 15:02:39	INFO	test
+::MSsimulator::initSpWindows() 	Creating new spectral window LBand, ID 1
+2025-09-16 15:02:39	INFO	test
+::simulator::settimes()	Times 
+2025-09-16 15:02:39	INFO	test
+::simulator::settimes()+	     Integration time 2000s
+2025-09-16 15:02:39	INFO	test
+::simulator::settimes()	     Times will be interpreted as hour angles for first source
+2025-09-16 15:02:39	INFO	test
+::NewMSSimulator::observe()	First source: fake @ 19:53:50.00   +40.06.00.00       J2000
+2025-09-16 15:02:39	INFO	test
+::NewMSSimulator::observe()+	Full time range: 03-Oct-2019/21:16:01.8 -- 04-Oct-2019/07:16:01.8 TAI with int = 2000
+2025-09-16 15:02:39	INFO	test
+::NewMSSimulator::observe()	Calculating a total of 18 integrations
+2025-09-16 15:02:39	INFO	test
+::Simulator::reset() 	Resetting all visibility corruption components
+2025-09-16 15:02:39	INFO	test
+::Simulator::reset() 	Reset all image-plane corruption components
+2025-09-16 15:02:39	INFO	test
+::AgentFlagger::open	Table type is Measurement Set
+2025-09-16 15:02:39	INFO	test
+::AgentFlagger::initAgents	There are initially 1 agents in the list. Agents: unflag
+2025-09-16 15:02:39	INFO	test
+::AgentFlagger::initAgents	There are 1 valid agents in the list. Agents: unflag
+2025-09-16 15:02:39	INFO	test
+::FlagMSHandler::	Chunk = 1 [progress: 100%], Observation = 0, Array = 0, Scan = 1, Field = 0 (fake), Spw = 0, Channels = 5, Corrs = [ RR LL ], Total Rows = 6318
+2025-09-16 15:02:39	INFO	test
+::Unflag::chunkSummary	=> Data unflagged so far 100% (63180/63180)
+2025-09-16 15:02:39	INFO	test
+::FlagMSHandler::nextChunk 	==================================================================================== 
+2025-09-16 15:02:39	INFO	test
+::Unflag::tableSummary	=> Percentage of data un-flagged in table selection: 100%
+2025-09-16 15:02:39	INFO	test
+::AgentFlagger::run	=> Writing flags to the MS
+2025-09-16 15:02:39	INFO	test
+::NewMSSimulator::NewMSSimulator(MeasurementSet& theMS) 	Opening MeasurementSet /scratch/scastro/casa/Tests/reports/myms.ms with 6318 rows
+2025-09-16 15:02:39	INFO	test
+::NewMSSimulator::NewMSSimulator(MeasurementSet& theMS) 	   last spectral window ID = 1
+2025-09-16 15:02:39	INFO	test
+::Simulator::predict() 	Predicting visibilities using model: [] and componentList: mycomplist.cl
+2025-09-16 15:02:39	INFO	test
+::Simulator::predict() 	The data column will be replaced
+2025-09-16 15:02:39	INFO	test
+::Simulator::getVPRecord 	Using default Voltage Patterns from the VPManager
+2025-09-16 15:02:39	INFO	test
+::Simulator::getVPRecord 	Temporary alert : The state of the vpmanager tool has been modified by loading these primary beam models. If any of your scripts rely on the vpmanager state being preserved throughout your CASA session, please use vp.saveastable() and vp.loadfromtable() as needed. 
+2025-09-16 15:02:39	INFO	test
+::Simulator::createSkyEquation() 	Synthesis gridding 
+2025-09-16 15:02:39	INFO	test
+::Simulator::createSkyEquation() 	Fourier transforms will use image centers as tangent points
+2025-09-16 15:02:40	INFO	test
+::Simulator::reset() 	Resetting all visibility corruption components
+2025-09-16 15:02:40	INFO	test
+::Simulator::reset() 	Reset all image-plane corruption components

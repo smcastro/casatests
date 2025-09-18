@@ -1,0 +1,13 @@
+2025-09-16 16:23:42	WARN	importfits::::casa	This image has no beam or angular resolution provided, so you will not receive warnings from
+2025-09-16 16:23:42	WARN	importfits::::casa+	tasks such as imregrid if your image pixels do not sample the the angular resolution well.
+2025-09-16 16:23:42	WARN	importfits::::casa+	(This only affects warnings, not any functionality).
+2025-09-16 16:23:42	WARN	importfits::::casa+	Providing a beam and brightness units in an image can also be useful for flux calculations.
+2025-09-16 16:23:42	WARN	importfits::::casa+	If you wish to add a beam or brightness units to your image, please use
+2025-09-16 16:23:42	WARN	importfits::::casa+	the "beam" parameter or ia.setrestoringbeam() and ia.setbrightnessunit()
+2025-09-16 16:23:42	SEVERE	importfits::::casa	Task importfits raised an exception of class RuntimeError with the following message: Output image exists already and you did not set overwrite to True.
+2025-09-16 16:23:42	WARN	importfits::::casa	This image has no beam or angular resolution provided, so you will not receive warnings from
+2025-09-16 16:23:42	WARN	importfits::::casa+	tasks such as imregrid if your image pixels do not sample the the angular resolution well.
+2025-09-16 16:23:42	WARN	importfits::::casa+	(This only affects warnings, not any functionality).
+2025-09-16 16:23:42	WARN	importfits::::casa+	Providing a beam and brightness units in an image can also be useful for flux calculations.
+2025-09-16 16:23:42	WARN	importfits::::casa+	If you wish to add a beam or brightness units to your image, please use
+2025-09-16 16:23:42	WARN	importfits::::casa+	the "beam" parameter or ia.setrestoringbeam() and ia.setbrightnessunit()

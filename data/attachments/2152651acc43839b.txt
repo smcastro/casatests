@@ -1,0 +1,1 @@
+2025-09-16 17:29:48	WARN	setjy::::casa	Processing 4 spw(s) and at least some of them are a few 1000 channels or more. This may take                             many minutes (>3min per spw for 3840 channels) in some cases. Please be patient.

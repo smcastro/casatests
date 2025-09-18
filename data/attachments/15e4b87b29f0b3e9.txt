@@ -1,0 +1,4 @@
+2025-09-16 18:40:19	WARN	task_tclean::SIImageStore::restore (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SIImageStore.cc, line 2345)	Restoring with an empty model image. Only residuals will be processed to form the output restored image.
+2025-09-16 18:40:19	WARN	task_tclean::SIImageStore::restore (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SIImageStore.cc, line 2345)	Restoring with an empty model image. Only residuals will be processed to form the output restored image.
+2025-09-16 18:40:19	WARN	widebandpbcor::::casa	widebandpbcor is a temporary task, meant for use until a widebandpbcor option is enabled from within the tclean task.
+2025-09-16 18:40:25	WARN	widebandpbcor::::casa	widebandpbcor is a temporary task, meant for use until a widebandpbcor option is enabled from within the tclean task.

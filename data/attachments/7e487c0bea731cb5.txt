@@ -1,0 +1,10 @@
+2025-09-16 14:58:43	INFO	test
+::msmetadata_cmpt.cc::open	Performing internal consistency checks on /casadata/repository/casatestdata/unittest/msmetadata/MSMetaData.ms...
+2025-09-16 14:58:43	SEVERE	test
+::msmetadata_cmpt.cc::sourceidforfield	Exception Reported: Exception: Antenna ID -1 out of range, must be less than 6.
+2025-09-16 14:58:43	SEVERE	test
+::msmetadata_cmpt.cc::sourceidforfield+	... thrown by void casac::msmetadata::_checkFieldId(int, bool) const at File: src/tools/msmetadata/msmetadata_cmpt.cc, line: 2425
+2025-09-16 14:58:43	SEVERE	test
+::msmetadata_cmpt.cc::sourceidforfield	Exception Reported: Exception: Antenna ID 6 out of range, must be less than 6.
+2025-09-16 14:58:43	SEVERE	test
+::msmetadata_cmpt.cc::sourceidforfield+	... thrown by void casac::msmetadata::_checkFieldId(int, bool) const at File: src/tools/msmetadata/msmetadata_cmpt.cc, line: 2425

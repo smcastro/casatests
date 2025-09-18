@@ -1,0 +1,2 @@
+line blfunc:cspline dirkernel:gaussian spkernel:gaussian, chans:chanA, 0.02010178565979004, -0.0072362422943115234, 0.0010877937649638625, 0.0
+cont blfunc:cspline dirkernel:gaussian spkernel:gaussian, chans:chanA, 2.0072362422943115, 0.0, 1.598912206235036, 1.9975910186767578

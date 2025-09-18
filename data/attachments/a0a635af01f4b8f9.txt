@@ -1,0 +1,82 @@
+importatca-unit-test : Success! Now checking output ...
+importatca-unit-test :  FIELD/table.dat present.
+importatca-unit-test :  POINTING/table.f0 present.
+importatca-unit-test :  POLARIZATION/table.f0 present.
+importatca-unit-test :  SPECTRAL_WINDOW/table.f0 present.
+importatca-unit-test :  SYSCAL/table.f1 present.
+importatca-unit-test :  table.f3_TSM3 present.
+importatca-unit-test :  table.f5_TSM3 present.
+importatca-unit-test :  SYSCAL/table.f1_TSM0 present.
+importatca-unit-test :  STATE/table.f0 present.
+importatca-unit-test :  table.f4 present.
+importatca-unit-test :  table.f5_TSM1 present.
+importatca-unit-test :  POINTING/table.dat present.
+importatca-unit-test :  FLAG_CMD/table.dat present.
+importatca-unit-test :  table.f3_TSM2 present.
+importatca-unit-test :  SYSCAL/table.dat present.
+importatca-unit-test :  table.f2_TSM2 present.
+importatca-unit-test :  POLARIZATION/table.dat present.
+importatca-unit-test :  table.f1 present.
+importatca-unit-test :  ATCA_SCAN_INFO/table.dat present.
+importatca-unit-test :  FLAG_CMD/table.f0 present.
+importatca-unit-test :  ANTENNA/table.f0 present.
+importatca-unit-test :  HISTORY/table.dat present.
+importatca-unit-test :  table.f4_TSM1 present.
+importatca-unit-test :  table.f4_TSM2 present.
+importatca-unit-test :  ANTENNA/table.dat present.
+importatca-unit-test :  FIELD/table.f0 present.
+importatca-unit-test :  OBSERVATION/table.dat present.
+importatca-unit-test :  table.f5_TSM2 present.
+importatca-unit-test :  OBSERVATION/table.f0 present.
+importatca-unit-test :  SOURCE/table.f0 present.
+importatca-unit-test :  POINTING/table.f0i present.
+importatca-unit-test :  table.f5 present.
+importatca-unit-test :  SOURCE/table.f0i present.
+importatca-unit-test :  SPECTRAL_WINDOW/table.f0i present.
+importatca-unit-test :  table.dat present.
+importatca-unit-test :  table.f0i present.
+importatca-unit-test :  SPECTRAL_WINDOW/table.dat present.
+importatca-unit-test :  STATE/table.dat present.
+importatca-unit-test :  SYSCAL/table.f0 present.
+importatca-unit-test :  table.f4_TSM3 present.
+importatca-unit-test :  FEED/table.f0 present.
+importatca-unit-test :  table.f0 present.
+importatca-unit-test :  FIELD/table.f0i present.
+importatca-unit-test :  PROCESSOR/table.dat present.
+importatca-unit-test :  ATCA_SCAN_INFO/table.f1 present.
+importatca-unit-test :  HISTORY/table.f0 present.
+importatca-unit-test :  table.f3 present.
+importatca-unit-test :  SOURCE/table.dat present.
+importatca-unit-test :  table.f2 present.
+importatca-unit-test :  table.f2_TSM1 present.
+importatca-unit-test :  POINTING/table.f1 present.
+importatca-unit-test :  table.f2_TSM3 present.
+importatca-unit-test :  DATA_DESCRIPTION/table.dat present.
+importatca-unit-test :  POLARIZATION/table.f0i present.
+importatca-unit-test :  table.f3_TSM1 present.
+importatca-unit-test :  ATCA_SCAN_INFO/table.f0 present.
+importatca-unit-test :  PROCESSOR/table.f0 present.
+importatca-unit-test :  DATA_DESCRIPTION/table.f0 present.
+importatca-unit-test :  FEED/table.dat present.
+importatca-unit-test :  FEED/table.f0i present.
+importatca-unit-test : MS exists. All tables present. Try opening as MS ...
+importatca-unit-test : OK. Checking tables in detail ...
+importatca-unit-test : comparing  ['UVW', 0, [37.08396912, 110.68421173, 121.33368683], 1e-08]
+importatca-unit-test : comparing  ['EXPOSURE', 0, 9.856, 0.0001]
+importatca-unit-test : comparing  ['DATA', 0, [[(-0.19179995-0.27503902j)], [(-0.07504284-0.07763118j)], [(-0.13403413+0.04170537j)], [(0.24940215-0.23159257j)]], 1e-08]
+importatca-unit-test : table  MAIN  as expected.
+importatca-unit-test : comparing  ['UVW', 854, [870.02380371, 2447.86230469, 2683.08862305], 1e-08]
+importatca-unit-test : comparing  ['EXPOSURE', 854, 9.856, 0.0001]
+importatca-unit-test : comparing  ['DATA', 854, [[(0.69642496-0.57600111j)], [(0.01779159+0.27384654j)], [(-0.07370736-0.30479908j)], [(0.45262983+0.29306653j)]], 1e-08]
+importatca-unit-test : table  MAIN  as expected.
+importatca-unit-test : comparing  ['OFFSET', 1, [0.0, 0.0, 0.0], 0]
+importatca-unit-test : comparing  ['POSITION', 1, [-4751591.759, 2791758.855, -3200483.75], 0.001]
+importatca-unit-test : comparing  ['DISH_DIAMETER', 1, 22.0, 0.0]
+importatca-unit-test : table  ANTENNA  as expected.
+importatca-unit-test : comparing  ['NUM_CHAN', 0, 2049, 0]
+importatca-unit-test : comparing  ['TOTAL_BANDWIDTH', 0, 2048000000.0, 10000.0]
+importatca-unit-test : comparing  ['CHAN_WIDTH', 0, [-1000000.0, -1000000.0, -1000000.0], 0.1]
+importatca-unit-test : comparing  ['CHAN_FREQ', 0, [3124000000.0, 3123000000.0, 3122000000.0], 10000.0]
+importatca-unit-test : comparing  ['CHAN_FREQ', 2, [1411000000.0, 1410968750.0, 1410937500.0], 10.0]
+importatca-unit-test : table  SPECTRAL_WINDOW  as expected.
+Pressure unit is hPa

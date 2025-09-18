@@ -1,0 +1,7 @@
+2025-09-16 16:12:06	SEVERE	importasap::::casa	Traceback (most recent call last):
+2025-09-16 16:12:06	SEVERE	importasap::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 16:12:06	SEVERE	importasap::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_importasap.py", line 36, in importasap
+2025-09-16 16:12:06	SEVERE	importasap::::casa+	    raise RuntimeError('%s is not a valid Scantable.' % (infile))
+2025-09-16 16:12:06	SEVERE	importasap::::casa+	RuntimeError: uid___A002_X85c183_X36f.test.asap is not a valid Scantable.
+2025-09-16 16:12:06	SEVERE	importasap::::casa	uid___A002_X85c183_X36f.test.asap is not a valid Scantable.
+2025-09-16 16:12:06	SEVERE	importasap::::casa	Task importasap raised an exception of class RuntimeError with the following message: uid___A002_X85c183_X36f.test.asap is not a valid Scantable.

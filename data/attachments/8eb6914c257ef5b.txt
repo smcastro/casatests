@@ -1,0 +1,100 @@
+2025-09-16 14:56:54	INFO	ImageFactory::createImage	Created Temp image  of shape [10, 10, 10, 4] with float valued pixels.
+2025-09-16 14:56:54	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:54	INFO	BeamManipulator::set	This image currently has no beams of any kind. Since channel and/or polarization were specified, a set of per plane beams, each equal to the specified beam, will be created.
+2025-09-16 14:56:54	INFO	BeamManipulator::set	Beam parameters:  Major          : 4 arcsec
+2025-09-16 14:56:54	INFO	BeamManipulator::set+	  Minor          : 2 arcsec
+2025-09-16 14:56:54	INFO	BeamManipulator::set+	  Position Angle : 40 deg
+2025-09-16 14:56:54	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:54	INFO	BeamManipulator::set	Beam parameters:  Major          : 7 arcsec
+2025-09-16 14:56:54	INFO	BeamManipulator::set+	  Minor          : 5 arcsec
+2025-09-16 14:56:54	INFO	BeamManipulator::set+	  Position Angle : 80 deg
+2025-09-16 14:56:54	INFO	ImageMetaData::summary	
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	Image name       : Temporary_Image
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	Object name      : 
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	Image type       : TempImage
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	Image quantity   : Intensity
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	Pixel mask(s)    : None
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	Region(s)        : None
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	Restoring Beams 
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	Pol   Type Chan          Freq     Vel
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	  I    Max    0 1.4149950e+09 1142.00    4.0000 arcsec x    2.0000 arcsec pa= 40.0000 deg
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	  I    Min    0 1.4149950e+09 1142.00    4.0000 arcsec x    2.0000 arcsec pa= 40.0000 deg
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	  I Median    5 1.4150000e+09 1140.94    4.0000 arcsec x    2.0000 arcsec pa= 40.0000 deg
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	  Q    Max    0 1.4149950e+09 1142.00    4.0000 arcsec x    2.0000 arcsec pa= 40.0000 deg
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	  Q    Min    0 1.4149950e+09 1142.00    4.0000 arcsec x    2.0000 arcsec pa= 40.0000 deg
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	  Q Median    5 1.4150000e+09 1140.94    4.0000 arcsec x    2.0000 arcsec pa= 40.0000 deg
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	  U    Max    0 1.4149950e+09 1142.00    4.0000 arcsec x    2.0000 arcsec pa= 40.0000 deg
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	  U    Min    0 1.4149950e+09 1142.00    4.0000 arcsec x    2.0000 arcsec pa= 40.0000 deg
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	  U Median    5 1.4150000e+09 1140.94    4.0000 arcsec x    2.0000 arcsec pa= 40.0000 deg
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	  V    Max    6 1.4150010e+09 1140.73    7.0000 arcsec x    5.0000 arcsec pa= 80.0000 deg
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	  V    Min    0 1.4149950e+09 1142.00    4.0000 arcsec x    2.0000 arcsec pa= 40.0000 deg
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	  V Median    5 1.4150000e+09 1140.94    4.0000 arcsec x    2.0000 arcsec pa= 40.0000 deg
+2025-09-16 14:56:54	INFO	ImageMetaData::summary	
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	Direction reference : J2000
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	Spectral  reference : LSRK
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	Velocity  type      : RADIO
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	Rest frequency      : 1.42041e+09 Hz
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	Telescope           : ALMA
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	Observer            : Karl Jansky
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	Date observation    : 2000/01/01/00:00:00.000100
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	Telescope position: [2.22514e+06m, -5.44031e+06m, -2.48103e+06m] (ITRF)
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	Axis Coord Type      Name             Proj Shape Tile   Coord value at pixel    Coord incr Units
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	------------------------------------------------------------------------------------------------ 
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	0    0     Direction Right Ascension   SIN    10   10  00:00:00.000     5.00 -6.000000e+01 arcsec
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	1    0     Direction Declination       SIN    10   10 +00.00.00.000     5.00  6.000000e+01 arcsec
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	2    1     Spectral  Frequency                10   10     1.415e+09     5.00  1.000000e+03 Hz
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	                     Velocity                               1140.94     5.00 -2.110611e-01 km/s
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	3    2     Stokes    Stokes                    4    4       I Q U V
+2025-09-16 14:56:54	INFO	ImageFactory::createImage	Created Temp image  of shape [10, 10, 10, 4] with Complex valued pixels.
+2025-09-16 14:56:54	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:54	INFO	BeamManipulator::set	This image currently has no beams of any kind. Since channel and/or polarization were specified, a set of per plane beams, each equal to the specified beam, will be created.
+2025-09-16 14:56:54	INFO	BeamManipulator::set	Beam parameters:  Major          : 4 arcsec
+2025-09-16 14:56:54	INFO	BeamManipulator::set+	  Minor          : 2 arcsec
+2025-09-16 14:56:54	INFO	BeamManipulator::set+	  Position Angle : 40 deg
+2025-09-16 14:56:54	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:54	INFO	BeamManipulator::set	Beam parameters:  Major          : 7 arcsec
+2025-09-16 14:56:54	INFO	BeamManipulator::set+	  Minor          : 5 arcsec
+2025-09-16 14:56:54	INFO	BeamManipulator::set+	  Position Angle : 80 deg
+2025-09-16 14:56:54	INFO	ImageMetaData::summary	
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	Image name       : Temporary_Image
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	Object name      : 
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	Image type       : TempImage
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	Image quantity   : Intensity
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	Pixel mask(s)    : None
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	Region(s)        : None
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	Restoring Beams 
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	Pol   Type Chan          Freq     Vel
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	  I    Max    0 1.4149950e+09 1142.00    4.0000 arcsec x    2.0000 arcsec pa= 40.0000 deg
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	  I    Min    0 1.4149950e+09 1142.00    4.0000 arcsec x    2.0000 arcsec pa= 40.0000 deg
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	  I Median    5 1.4150000e+09 1140.94    4.0000 arcsec x    2.0000 arcsec pa= 40.0000 deg
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	  Q    Max    0 1.4149950e+09 1142.00    4.0000 arcsec x    2.0000 arcsec pa= 40.0000 deg
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	  Q    Min    0 1.4149950e+09 1142.00    4.0000 arcsec x    2.0000 arcsec pa= 40.0000 deg
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	  Q Median    5 1.4150000e+09 1140.94    4.0000 arcsec x    2.0000 arcsec pa= 40.0000 deg
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	  U    Max    0 1.4149950e+09 1142.00    4.0000 arcsec x    2.0000 arcsec pa= 40.0000 deg
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	  U    Min    0 1.4149950e+09 1142.00    4.0000 arcsec x    2.0000 arcsec pa= 40.0000 deg
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	  U Median    5 1.4150000e+09 1140.94    4.0000 arcsec x    2.0000 arcsec pa= 40.0000 deg
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	  V    Max    6 1.4150010e+09 1140.73    7.0000 arcsec x    5.0000 arcsec pa= 80.0000 deg
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	  V    Min    0 1.4149950e+09 1142.00    4.0000 arcsec x    2.0000 arcsec pa= 40.0000 deg
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	  V Median    5 1.4150000e+09 1140.94    4.0000 arcsec x    2.0000 arcsec pa= 40.0000 deg
+2025-09-16 14:56:54	INFO	ImageMetaData::summary	
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	Direction reference : J2000
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	Spectral  reference : LSRK
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	Velocity  type      : RADIO
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	Rest frequency      : 1.42041e+09 Hz
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	Telescope           : ALMA
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	Observer            : Karl Jansky
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	Date observation    : 2000/01/01/00:00:00.000100
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	Telescope position: [2.22514e+06m, -5.44031e+06m, -2.48103e+06m] (ITRF)
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	Axis Coord Type      Name             Proj Shape Tile   Coord value at pixel    Coord incr Units
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	------------------------------------------------------------------------------------------------ 
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	0    0     Direction Right Ascension   SIN    10   10  00:00:00.000     5.00 -6.000000e+01 arcsec
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	1    0     Direction Declination       SIN    10   10 +00.00.00.000     5.00  6.000000e+01 arcsec
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	2    1     Spectral  Frequency                10   10     1.415e+09     5.00  1.000000e+03 Hz
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	                     Velocity                               1140.94     5.00 -2.110611e-01 km/s
+2025-09-16 14:56:54	INFO	ImageMetaData::summary+	3    2     Stokes    Stokes                    4    4       I Q U V
+2025-09-16 14:56:54	INFO	name::	No table opened.
+2025-09-16 14:56:54	INFO	name::	No table opened.
+2025-09-16 14:56:54	INFO	name::	No table opened.
+2025-09-16 14:56:54	INFO	showcache::	The Table Cache is empty.

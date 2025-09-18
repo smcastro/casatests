@@ -1,0 +1,19 @@
+2025-09-16 14:56:54	INFO	FITSCoordinateUtil::fromFITSHeader	Neither SPECSYS nor VELREF keyword given, spectral reference frame not defined ...
+2025-09-16 14:56:54	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:54	INFO	ImageRegion::fromRecord+	    [1, 1, 1, 1] to [2, 2, 2, 2]  (04:46:00.548, +44.50.12.823, 5.1351e+09Hz, Q to 04:46:00.520, +44.50.13.123, 5.5351e+09Hz, U)
+2025-09-16 14:56:54	INFO	SubImageFactory::createImage	Creating image 'test_3.im' of shape [2, 1, 2, 2]
+2025-09-16 14:56:54	INFO	FITSCoordinateUtil::fromFITSHeader	Neither SPECSYS nor VELREF keyword given, spectral reference frame not defined ...
+2025-09-16 14:56:54	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:54	INFO	ImageRegion::fromRecord+	    [1, 1, 1, 1] to [2, 2, 2, 2]  (04:46:00.548, +44.50.12.823, 5.1351e+09Hz, Q to 04:46:00.520, +44.50.13.123, 5.5351e+09Hz, U)
+2025-09-16 14:56:54	SEVERE	image::collapse (file src/tools/image/image_cmpt.cc, line 712)	Exception Reported: Exception: test_3.im is currently present in the table cache and so is being used by another process. Please close it in the other process first before attempting to overwrite it.
+2025-09-16 14:56:54	SEVERE	image::collapse (file src/tools/image/image_cmpt.cc, line 712)+	... thrown by void casa::ImageTask<T>::_removeExistingFileIfNecessary(const casacore::String&, casacore::Bool, casacore::Bool) const [with T = float; casacore::Bool = bool] at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/ImageTask.tcc, line: 137
+2025-09-16 14:56:54	INFO	FITSCoordinateUtil::fromFITSHeader	Neither SPECSYS nor VELREF keyword given, spectral reference frame not defined ...
+2025-09-16 14:56:54	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:54	INFO	ImageRegion::fromRecord+	    [1, 1, 1, 1] to [2, 2, 2, 2]  (04:46:00.548, +44.50.12.823, 5.1351e+09Hz, Q to 04:46:00.520, +44.50.13.123, 5.5351e+09Hz, U)
+2025-09-16 14:56:54	INFO	SubImageFactory::createImage	Creating image 'test_3.im' of shape [2, 1, 2, 2]
+2025-09-16 14:56:54	INFO	FITSCoordinateUtil::fromFITSHeader	Neither SPECSYS nor VELREF keyword given, spectral reference frame not defined ...
+2025-09-16 14:56:54	INFO	FITSCoordinateUtil::fromFITSHeader	Neither SPECSYS nor VELREF keyword given, spectral reference frame not defined ...
+2025-09-16 14:56:54	INFO	name::	No table opened.
+2025-09-16 14:56:54	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:56:54	INFO	name::	No table opened.
+2025-09-16 14:56:54	INFO	name::	No table opened.

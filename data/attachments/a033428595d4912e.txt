@@ -1,0 +1,7 @@
+2025-09-16 16:50:16	SEVERE	plotprofilemap::::casa	Traceback (most recent call last):
+2025-09-16 16:50:16	SEVERE	plotprofilemap::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 16:50:16	SEVERE	plotprofilemap::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_plotprofilemap.py", line 28, in plotprofilemap
+2025-09-16 16:50:16	SEVERE	plotprofilemap::::casa+	    raise RuntimeError('pol {pol} is out of range (Stokes axis {stokes})'.format(pol=pol,stokes=image_data.stokes))
+2025-09-16 16:50:16	SEVERE	plotprofilemap::::casa+	RuntimeError: pol 1 is out of range (Stokes axis ['I'])
+2025-09-16 16:50:16	SEVERE	plotprofilemap::::casa	pol 1 is out of range (Stokes axis ['I'])
+2025-09-16 16:50:16	SEVERE	plotprofilemap::::casa	Task plotprofilemap raised an exception of class RuntimeError with the following message: pol 1 is out of range (Stokes axis ['I'])

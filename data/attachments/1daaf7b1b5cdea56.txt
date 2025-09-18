@@ -1,0 +1,5 @@
+caltable = casa-rockylinux8-amd64-perf07:/scratch/scastro/casa/Tests/reports/uid___A002_Xa1f062_X37e3.ms.tsys
+Median difference between solution times = 227.855999 sec
+spws to plot (sorted) =  [30, 32]
+basebands = [2 3], spwsToPlot=[30, 32]
+Both pdftk and ghostscript are missing, so no PDF built.

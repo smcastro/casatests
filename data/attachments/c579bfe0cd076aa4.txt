@@ -1,0 +1,25 @@
+2025-09-17 12:44:20	WARN	tclean::task_tclean::casa	Please consider using specmode=mvc with mosaic gridder as this gridder does not implement conjbeams 
+2025-09-17 12:44:20	WARN	tclean::task_tclean::casa+	 thus it needs a few major cycles to converge towards the correct answer
+2025-09-17 12:44:20	WARN	SynthesisParamsImage::fromRecord (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisUtilMethods.cc, line 2470)	imsize with 126 pixels is not an efficient imagesize. Try 128 instead.
+
+0%....10....20....30....40....50....60....70....80....90....100%
+
+0%....10....20....30....40....50....60....70....80....90....100%
+2025-09-17 12:44:58	WARN	tclean::task_tclean::casa	For specmode='mfs' and deconvolver='mtmfs', the option of pbcor=True divides each restored Taylor coefficient image by the pb.tt0 image. This correction ignores the frequency-dependence of the primary beam and does not correct for PB spectral index. It is scientifically valid only for small fractional bandwidths. For more accurate wideband primary beam correction (if needed), please use one of the following options : (1) specmode='mvc' with gridder='standard' or 'mosaic' with pbcor=True,  (2) conjbeams=True and wbawp=True with gridder='awproject' and pbcor=True.
+2025-09-17 12:44:58	WARN	tclean::task_tclean::casa	Please consider using specmode=mvc with mosaic gridder as this gridder does not implement conjbeams 
+2025-09-17 12:44:58	WARN	tclean::task_tclean::casa+	 thus it needs a few major cycles to converge towards the correct answer
+2025-09-17 12:44:58	WARN	SynthesisParamsImage::fromRecord (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisUtilMethods.cc, line 2470)	imsize with 126 pixels is not an efficient imagesize. Try 128 instead.
+
+0%....10....20....30....40....50....60....70....80....90....100%
+2025-09-17 12:45:20	WARN	image::commonbeam (file src/tools/image/image_cmpt.cc, line 824)	This image only has one beam, so just returning that
+2025-09-17 12:45:20	WARN	ImageFitter::_finishConstruction	Unrecognized intensity unit . Will assume Jy/pixel
+2025-09-17 12:45:20	WARN	ImageFitter::clearNoiseFWHM	noiseFWHM not specified and image has no beam, using uncorrelated noise expressions to calculate uncertainties
+2025-09-17 12:45:20	WARN	SkyCompRep::convertToJy	Cannot convert units of brightness to Jy - will assume Jy
+2025-09-17 12:45:20	WARN	SkyCompRep::peakToIntegralFlux()	There are no image brightness units, assuming Jy/pixel
+2025-09-17 12:45:20	WARN	SkyCompRep::integralToPeakFlux()	There are no image brightness units, assuming Jy/pixel
+2025-09-17 12:45:20	WARN	ImageFitter::_finishConstruction	Unrecognized intensity unit . Will assume Jy/pixel
+2025-09-17 12:45:20	WARN	SkyCompRep::convertToJy	Cannot convert units of brightness to Jy - will assume Jy
+2025-09-17 12:45:20	WARN	SkyCompRep::peakToIntegralFlux()	There are no image brightness units, assuming Jy/pixel
+2025-09-17 12:45:20	WARN	SkyCompRep::integralToPeakFlux()	There are no image brightness units, assuming Jy/pixel
+2025-09-17 12:45:20	WARN	image::commonbeam (file src/tools/image/image_cmpt.cc, line 824)	This image only has one beam, so just returning that
+2025-09-17 12:45:20	WARN	image::commonbeam (file src/tools/image/image_cmpt.cc, line 824)	This image only has one beam, so just returning that

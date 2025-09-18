@@ -1,0 +1,3 @@
+2025-09-16 15:46:11	WARN	Tfcrop_YY::checkVisExpression (file /source/casa6/casatools/src/code/flagging/Flagging/FlagAgentBase.cc, line 2681)	 Requested correlation (YY) not available in current spectral window (0) 
+2025-09-16 15:46:11	WARN	Tfcrop_YY::checkVisExpression (file /source/casa6/casatools/src/code/flagging/Flagging/FlagAgentBase.cc, line 2681)	 Requested correlation (YY) not available in current spectral window (0) 
+2025-09-16 15:46:11	WARN	Tfcrop_YY::checkVisExpression (file /source/casa6/casatools/src/code/flagging/Flagging/FlagAgentBase.cc, line 2681)	 Requested correlation (YY) not available in current spectral window (0) 

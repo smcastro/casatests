@@ -1,0 +1,5 @@
+2025-09-16 15:34:25	WARN	tclean::task_tclean::casa	For specmode='mfs' and deconvolver='mtmfs', the option of pbcor=True divides each restored Taylor coefficient image by the pb.tt0 image. This correction ignores the frequency-dependence of the primary beam and does not correct for PB spectral index. It is scientifically valid only for small fractional bandwidths. For more accurate wideband primary beam correction (if needed), please use one of the following options : (1) specmode='mvc' with gridder='standard' or 'mosaic' with pbcor=True,  (2) conjbeams=True and wbawp=True with gridder='awproject' and pbcor=True.
+
+0%....10....20....30....40....50....60....70....80....90....100%
+2025-09-16 15:34:38	SEVERE	deconvolve::deconvolve::casa	Exception from deconvolve : The parameter nsigma>0 (1.5) requires a .pb.tt0 image to be available.
+2025-09-16 15:34:38	SEVERE	deconvolve::::casa	Task deconvolve raised an exception of class RuntimeError with the following message: Exception from deconvolve : The parameter nsigma>0 (1.5) requires a .pb.tt0 image to be available.

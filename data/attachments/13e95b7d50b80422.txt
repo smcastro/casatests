@@ -1,0 +1,1 @@
+Number of matching rows found:  172260

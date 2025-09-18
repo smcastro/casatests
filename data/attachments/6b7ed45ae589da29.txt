@@ -1,0 +1,3 @@
+ :  frequency, default start, width='100MHz'(2 x chanwidth), TOPO
+/casadata/repository/casatestdata/unittest/deconvolve/
+refim_point

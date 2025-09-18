@@ -1,0 +1,4 @@
+2025-09-16 17:32:48	SEVERE	simobserve::image::newimagefromfile (file src/tools/image/image_cmpt.cc, line 4110)	Exception Reported: Exception: Unable to open image core5ps.clist.
+2025-09-16 17:32:48	SEVERE	simobserve::image::newimagefromfile (file src/tools/image/image_cmpt.cc, line 4110)+	... thrown by static casa::ITUPLE casa::ImageFactory::fromFile(const casacore::String&, casacore::Bool) at File: /source/casa6/casatools/src/code/imageanalysis/ImageAnalysis/ImageFactory2.cc, line: 289
+2025-09-16 17:32:48	SEVERE	simobserve::::casa	Task simobserve raised an exception of class RuntimeError with the following message: Exception: Unable to open image core5ps.clist.
+2025-09-16 17:32:48	SEVERE	simobserve::::casa+	... thrown by static casa::ITUPLE casa::ImageFactory::fromFile(const casacore::String&, casacore::Bool) at File: /source/casa6/casatools/src/code/imageanalysis/ImageAnalysis/ImageFactory2.cc, line: 289

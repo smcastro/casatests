@@ -1,0 +1,10 @@
+
+0%....10....20....30....40....50....60....70....80....90....100%
+2025-09-16 18:00:17	WARN	task_tclean::SIImageStore::getPSFGaussian (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SIImageStore.cc, line 2136)	PSF is blank for[C0:P0] 
+2025-09-16 18:00:17	WARN	tclean::::casa	Warning! Non-zero values at the edge of the .pb image can cause unexpected aliasing effects! (found value 1.0 at index [np.int64(0), np.int64(0), np.int64(0), np.int64(1)])
+
+0%....10....20....30....40....50....60....70....80....90....100%
+
+0%....10....20....30....40....50....60....70....80....90....100%
+
+0%....10....20....30....40....50....60....70....80....90....100%

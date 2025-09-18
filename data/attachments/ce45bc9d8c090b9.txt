@@ -1,0 +1,7 @@
+2025-09-16 16:11:24	WARN	ImageFitter::clearNoiseFWHM	noiseFWHM not specified and image has no beam, using uncorrelated noise expressions to calculate uncertainties
+2025-09-16 16:11:24	WARN	ImageFitter::clearNoiseFWHM	noiseFWHM not specified and image has no beam, using uncorrelated noise expressions to calculate uncertainties
+2025-09-16 16:11:24	WARN	componentlist::fromrecord	componentlist is not empty; overwriting it
+2025-09-16 16:11:24	WARN	imfit::ImageFitter::clearNoiseFWHM	noiseFWHM not specified and image has no beam, using uncorrelated noise expressions to calculate uncertainties
+2025-09-16 16:11:24	WARN	componentlist::fromrecord	componentlist is not empty; overwriting it
+2025-09-16 16:11:24	WARN	imfit::ImageFitter::clearNoiseFWHM	noiseFWHM not specified and image has no beam, using uncorrelated noise expressions to calculate uncertainties
+2025-09-16 16:11:24	WARN	componentlist::fromrecord	componentlist is not empty; overwriting it

@@ -1,0 +1,4 @@
+ :  channel, default start and width, LSRK
+/casadata/repository/casatestdata/unittest/deconvolve/
+refim_point
+[check_spec_frame] tst.image: Spec frame is LSRK with crval 999988750.3872563 (Pass : should be LSRK with expected crval 999988750 )

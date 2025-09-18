@@ -1,0 +1,8 @@
+2025-09-16 14:56:56	INFO	ImageFactory::createImage	Created Paged image 'mycirc.im' of shape [100, 100] with float valued pixels.
+2025-09-16 14:56:57	INFO	StatImageCreator::useReferencePixelAsAnchor	Anchor being set at pixel [50,50], at/near image reference pixel.
+2025-09-16 14:56:57	INFO	StatImageCreator::_computeStat	Using circular region of radius 20 pix (because of centering and rounding to use whole pixels, actual dimensions of bounding box are 41 pix x 41 pix and there are 1257 good pixels in the circle that are being used) to choose pixels for computing SUM using the classical algorithm around each of 25 grid points in 1 planes.
+2025-09-16 14:56:57	INFO	StatImageCreator::_doInterpolation	Interpolate using CUBIC algorithm.
+2025-09-16 14:56:57	INFO	name::	No table opened.
+2025-09-16 14:56:57	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:56:57	INFO	name::	No table opened.
+2025-09-16 14:56:57	INFO	name::	No table opened.

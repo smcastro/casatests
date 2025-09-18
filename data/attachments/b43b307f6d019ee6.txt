@@ -1,0 +1,6 @@
+2025-09-16 17:32:22	SEVERE	simobserve::::	Error in QuantumHolder::fromString with input string "5bad": Illegal input units or format
+2025-09-16 17:32:22	SEVERE	simobserve::::+	 in converting quantity 
+2025-09-16 17:32:22	SEVERE	simobserve::::	Exception Reported: Error in QuantumHolder::fromString with input string "5bad": Illegal input units or format
+2025-09-16 17:32:22	SEVERE	simobserve::::+	 in converting quantity
+2025-09-16 17:32:22	SEVERE	simobserve::::casa	Task simobserve raised an exception of class RuntimeError with the following message: Error in QuantumHolder::fromString with input string "5bad": Illegal input units or format
+2025-09-16 17:32:22	SEVERE	simobserve::::casa+	 in converting quantity

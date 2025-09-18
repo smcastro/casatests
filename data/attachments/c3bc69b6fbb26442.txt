@@ -1,0 +1,44 @@
+test_importasdm: Success! Now checking output ...
+test_importasdm: table.f8 present.
+test_importasdm: FIELD/table.dat present.
+test_importasdm: table.f7 present.
+test_importasdm: POINTING/table.f0 present.
+test_importasdm: POLARIZATION/table.f0 present.
+test_importasdm: SPECTRAL_WINDOW/table.f0 present.
+test_importasdm: STATE/table.f0 present.
+test_importasdm: table.f4 present.
+test_importasdm: POINTING/table.dat present.
+test_importasdm: FLAG_CMD/table.dat present.
+test_importasdm: SYSCAL/table.dat present.
+test_importasdm: POLARIZATION/table.dat present.
+test_importasdm: table.f6 present.
+test_importasdm: table.f1 present.
+test_importasdm: FIELD/EPHEM0_URANUS_57545.8.tab/table.f0 present.
+test_importasdm: FLAG_CMD/table.f0 present.
+test_importasdm: ANTENNA/table.f0 present.
+test_importasdm: HISTORY/table.dat present.
+test_importasdm: ANTENNA/table.dat present.
+test_importasdm: FIELD/table.f0 present.
+test_importasdm: OBSERVATION/table.dat present.
+test_importasdm: OBSERVATION/table.f0 present.
+test_importasdm: SOURCE/table.f0 present.
+test_importasdm: table.f5 present.
+test_importasdm: table.dat present.
+test_importasdm: SPECTRAL_WINDOW/table.dat present.
+test_importasdm: STATE/table.dat present.
+test_importasdm: WEATHER/table.dat present.
+test_importasdm: SYSCAL/table.f0 present.
+test_importasdm: PROCESSOR/table.dat present.
+test_importasdm: FEED/table.f0 present.
+test_importasdm: HISTORY/table.f0 present.
+test_importasdm: table.f3 present.
+test_importasdm: SOURCE/table.dat present.
+test_importasdm: table.f2 present.
+test_importasdm: WEATHER/table.f0 present.
+test_importasdm: DATA_DESCRIPTION/table.dat present.
+test_importasdm: PROCESSOR/table.f0 present.
+test_importasdm: DATA_DESCRIPTION/table.f0 present.
+test_importasdm: FEED/table.dat present.
+test_importasdm: MS exists. All tables present. Try opening as MS ...
+test_importasdm: OK. Checking tables in detail ...
+test_importasdm: MS summary as expected.

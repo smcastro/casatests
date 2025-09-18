@@ -1,0 +1,147 @@
+2025-09-16 14:56:18	WARN	calibrater::setvi(bool,bool)	Forcing use of OLD VisibilityIterator.
+2025-09-16 14:56:18	INFO	calibrater::open	****Using OLD VI-driven calibrater tool****
+2025-09-16 14:56:18	INFO	calibrater::open	Opening MS: ngc5921.ms for calibration.
+2025-09-16 14:56:18	INFO		Clearing all model records in MS header.
+2025-09-16 14:56:18	INFO	VisSetUtil::addScrCols	Adding MODEL_DATA and CORRECTED_DATA column(s).
+2025-09-16 14:56:18	INFO	VisSetUtil::initScrCols	Initializing MODEL_DATA to (unity).
+2025-09-16 14:56:18	INFO	VisSetUtil::initScrCols	Initialized 22653 rows.
+2025-09-16 14:56:18	INFO	Calibrater::	Initializing nominal selection to the whole MS.
+2025-09-16 14:56:18	INFO	calibrater::setsolvebandpoly	Beginning setsolvebandpoly--(MSSelection version)-------
+2025-09-16 14:56:18	INFO	Calibrater::setsolvebandpoly	Arranging to SOLVE:
+2025-09-16 14:56:18	INFO	Calibrater::setsolvebandpoly	.   BPOLY: table=bpoly append=false solint=inf,none refantmode='flex' refant='none' minsnr=0 apmode= solnorm=true normtype=MEAN
+2025-09-16 14:56:18	INFO	calibrater::solve	Beginning solve-----------------------------
+2025-09-16 14:56:18	INFO	Calibrater::solve	The following calibration terms are arranged for apply:
+2025-09-16 14:56:18	INFO	Calibrater::solve	.   (None)
+2025-09-16 14:56:18	INFO	Calibrater::solve	The following calibration term is arranged for solve:
+2025-09-16 14:56:18	INFO	Calibrater::solve	.   BPOLY: table=bpoly append=false solint=inf,none refantmode='flex' refant='none' minsnr=0 apmode= solnorm=true normtype=MEAN
+2025-09-16 14:56:18	INFO	Calibrater::solve	Solving for BPOLY
+2025-09-16 14:56:18	INFO		For solint = inf, found 7 solution intervals.
+2025-09-16 14:56:18	INFO	BJonesPoly::selfSolveOne() 	THIS IS THE NEW MULTI-SPW-FLEXIBLE VERSION
+2025-09-16 14:56:18	INFO	BJonesPoly::selfSolveOne() 	Fitting bandpass amplitude and phase polynomials.
+2025-09-16 14:56:18	INFO	BJonesPoly::selfSolveOne() 	Polynomial degree for amplitude is 5
+2025-09-16 14:56:18	INFO	BJonesPoly::selfSolveOne() 	Polynomial degree for phase is 7
+2025-09-16 14:56:18	INFO	BJonesPoly::selfSolveOne() 	Spectral grid for fit will have 63 points spaced by 24.4141 kHz.
+2025-09-16 14:56:18	INFO	BJonesPoly::selfSolveOne() 	Polynomial solution will be valid over frequency range: 1.41267e+09-1.41418e+09 Hz.
+2025-09-16 14:56:18	INFO	BJonesPoly::selfSolveOne() 	Total bandwidth: 1538.09 kHz.
+2025-09-16 14:56:18	INFO	BJonesPoly::selfSolveOne() 	Found data for 351 baselines among 27 antennas.
+2025-09-16 14:56:18	INFO	BJonesPoly::selfSolveOne() 	Fitting amplitude polynomial.
+2025-09-16 14:56:18	INFO	BJonesPoly::selfSolveOne() 	Per-baseline RMS log(Amp) statistics: (min/mean/max) = 0.059507/0.0681762/0.0765806
+2025-09-16 14:56:18	INFO	BJonesPoly::selfSolveOne() 	Fitting phase polynomial.
+2025-09-16 14:56:18	INFO	BJonesPoly::selfSolveOne() 	Per baseline RMS phase (deg) statistics: (min/mean/max) = 0.336529/0.750193/1.6779
+2025-09-16 14:56:18	INFO	BJonesPoly::selfSolveOne() 	Fitting amplitude polynomial.
+2025-09-16 14:56:18	INFO	BJonesPoly::selfSolveOne() 	Per-baseline RMS log(Amp) statistics: (min/mean/max) = 0.0630839/0.0689061/0.0756384
+2025-09-16 14:56:18	INFO	BJonesPoly::selfSolveOne() 	Fitting phase polynomial.
+2025-09-16 14:56:18	INFO	BJonesPoly::selfSolveOne() 	Per baseline RMS phase (deg) statistics: (min/mean/max) = 0.279482/0.74979/1.59355
+2025-09-16 14:56:18	INFO	BJonesPoly::selfSolveOne() 	Normalizing antenna-based solutions.
+2025-09-16 14:56:18	INFO	BJonesPoly::updateCalTable() 	Storing calibration in table bpoly
+2025-09-16 14:56:18	INFO	BJonesPoly::selfSolveOne() 	THIS IS THE NEW MULTI-SPW-FLEXIBLE VERSION
+2025-09-16 14:56:18	INFO	BJonesPoly::selfSolveOne() 	Fitting bandpass amplitude and phase polynomials.
+2025-09-16 14:56:18	INFO	BJonesPoly::selfSolveOne() 	Polynomial degree for amplitude is 5
+2025-09-16 14:56:18	INFO	BJonesPoly::selfSolveOne() 	Polynomial degree for phase is 7
+2025-09-16 14:56:18	INFO	BJonesPoly::selfSolveOne() 	Spectral grid for fit will have 63 points spaced by 24.4141 kHz.
+2025-09-16 14:56:18	INFO	BJonesPoly::selfSolveOne() 	Polynomial solution will be valid over frequency range: 1.41267e+09-1.41418e+09 Hz.
+2025-09-16 14:56:18	INFO	BJonesPoly::selfSolveOne() 	Total bandwidth: 1538.09 kHz.
+2025-09-16 14:56:18	INFO	BJonesPoly::selfSolveOne() 	Found data for 351 baselines among 27 antennas.
+2025-09-16 14:56:18	INFO	BJonesPoly::selfSolveOne() 	Fitting amplitude polynomial.
+2025-09-16 14:56:18	INFO	BJonesPoly::selfSolveOne() 	Per-baseline RMS log(Amp) statistics: (min/mean/max) = 0.0672607/0.089081/0.111106
+2025-09-16 14:56:18	INFO	BJonesPoly::selfSolveOne() 	Fitting phase polynomial.
+2025-09-16 14:56:19	INFO	BJonesPoly::selfSolveOne() 	Per baseline RMS phase (deg) statistics: (min/mean/max) = 2.31075/3.32219/4.29305
+2025-09-16 14:56:19	INFO	BJonesPoly::selfSolveOne() 	Fitting amplitude polynomial.
+2025-09-16 14:56:19	INFO	BJonesPoly::selfSolveOne() 	Per-baseline RMS log(Amp) statistics: (min/mean/max) = 0.0652822/0.0889198/0.116912
+2025-09-16 14:56:19	INFO	BJonesPoly::selfSolveOne() 	Fitting phase polynomial.
+2025-09-16 14:56:19	INFO	BJonesPoly::selfSolveOne() 	Per baseline RMS phase (deg) statistics: (min/mean/max) = 2.44269/3.26616/4.3519
+2025-09-16 14:56:19	INFO	BJonesPoly::selfSolveOne() 	Normalizing antenna-based solutions.
+2025-09-16 14:56:19	INFO	BJonesPoly::updateCalTable() 	Storing calibration in table bpoly
+2025-09-16 14:56:19	INFO	BJonesPoly::selfSolveOne() 	THIS IS THE NEW MULTI-SPW-FLEXIBLE VERSION
+2025-09-16 14:56:19	INFO	BJonesPoly::selfSolveOne() 	Fitting bandpass amplitude and phase polynomials.
+2025-09-16 14:56:19	INFO	BJonesPoly::selfSolveOne() 	Polynomial degree for amplitude is 5
+2025-09-16 14:56:19	INFO	BJonesPoly::selfSolveOne() 	Polynomial degree for phase is 7
+2025-09-16 14:56:19	INFO	BJonesPoly::selfSolveOne() 	Spectral grid for fit will have 63 points spaced by 24.4141 kHz.
+2025-09-16 14:56:19	INFO	BJonesPoly::selfSolveOne() 	Polynomial solution will be valid over frequency range: 1.41267e+09-1.41418e+09 Hz.
+2025-09-16 14:56:19	INFO	BJonesPoly::selfSolveOne() 	Total bandwidth: 1538.09 kHz.
+2025-09-16 14:56:19	INFO	BJonesPoly::selfSolveOne() 	Found data for 351 baselines among 27 antennas.
+2025-09-16 14:56:19	INFO	BJonesPoly::selfSolveOne() 	Fitting amplitude polynomial.
+2025-09-16 14:56:19	INFO	BJonesPoly::selfSolveOne() 	Per-baseline RMS log(Amp) statistics: (min/mean/max) = 0.350681/0.587724/0.894558
+2025-09-16 14:56:19	INFO	BJonesPoly::selfSolveOne() 	Fitting phase polynomial.
+2025-09-16 14:56:20	INFO	BJonesPoly::selfSolveOne() 	Per baseline RMS phase (deg) statistics: (min/mean/max) = 21.296/59.0077/111.454
+2025-09-16 14:56:20	INFO	BJonesPoly::selfSolveOne() 	Fitting amplitude polynomial.
+2025-09-16 14:56:20	INFO	BJonesPoly::selfSolveOne() 	Per-baseline RMS log(Amp) statistics: (min/mean/max) = 0.354236/0.581733/0.988903
+2025-09-16 14:56:20	INFO	BJonesPoly::selfSolveOne() 	Fitting phase polynomial.
+2025-09-16 14:56:21	INFO	BJonesPoly::selfSolveOne() 	Per baseline RMS phase (deg) statistics: (min/mean/max) = 17.2419/56.3249/117.264
+2025-09-16 14:56:21	INFO	BJonesPoly::selfSolveOne() 	Normalizing antenna-based solutions.
+2025-09-16 14:56:21	INFO	BJonesPoly::updateCalTable() 	Storing calibration in table bpoly
+2025-09-16 14:56:21	INFO	BJonesPoly::selfSolveOne() 	THIS IS THE NEW MULTI-SPW-FLEXIBLE VERSION
+2025-09-16 14:56:21	INFO	BJonesPoly::selfSolveOne() 	Fitting bandpass amplitude and phase polynomials.
+2025-09-16 14:56:21	INFO	BJonesPoly::selfSolveOne() 	Polynomial degree for amplitude is 5
+2025-09-16 14:56:21	INFO	BJonesPoly::selfSolveOne() 	Polynomial degree for phase is 7
+2025-09-16 14:56:21	INFO	BJonesPoly::selfSolveOne() 	Spectral grid for fit will have 63 points spaced by 24.4141 kHz.
+2025-09-16 14:56:21	INFO	BJonesPoly::selfSolveOne() 	Polynomial solution will be valid over frequency range: 1.41267e+09-1.41418e+09 Hz.
+2025-09-16 14:56:21	INFO	BJonesPoly::selfSolveOne() 	Total bandwidth: 1538.09 kHz.
+2025-09-16 14:56:21	INFO	BJonesPoly::selfSolveOne() 	Found data for 351 baselines among 27 antennas.
+2025-09-16 14:56:21	INFO	BJonesPoly::selfSolveOne() 	Fitting amplitude polynomial.
+2025-09-16 14:56:21	INFO	BJonesPoly::selfSolveOne() 	Per-baseline RMS log(Amp) statistics: (min/mean/max) = 0.0850169/0.113968/0.15276
+2025-09-16 14:56:21	INFO	BJonesPoly::selfSolveOne() 	Fitting phase polynomial.
+2025-09-16 14:56:21	INFO	BJonesPoly::selfSolveOne() 	Per baseline RMS phase (deg) statistics: (min/mean/max) = 3.67561/5.33243/8.17296
+2025-09-16 14:56:21	INFO	BJonesPoly::selfSolveOne() 	Fitting amplitude polynomial.
+2025-09-16 14:56:21	INFO	BJonesPoly::selfSolveOne() 	Per-baseline RMS log(Amp) statistics: (min/mean/max) = 0.0784236/0.114345/0.159908
+2025-09-16 14:56:21	INFO	BJonesPoly::selfSolveOne() 	Fitting phase polynomial.
+2025-09-16 14:56:21	INFO	BJonesPoly::selfSolveOne() 	Per baseline RMS phase (deg) statistics: (min/mean/max) = 3.46392/5.27232/7.20673
+2025-09-16 14:56:21	INFO	BJonesPoly::selfSolveOne() 	Normalizing antenna-based solutions.
+2025-09-16 14:56:21	INFO	BJonesPoly::updateCalTable() 	Storing calibration in table bpoly
+2025-09-16 14:56:22	INFO	BJonesPoly::selfSolveOne() 	THIS IS THE NEW MULTI-SPW-FLEXIBLE VERSION
+2025-09-16 14:56:22	INFO	BJonesPoly::selfSolveOne() 	Fitting bandpass amplitude and phase polynomials.
+2025-09-16 14:56:22	INFO	BJonesPoly::selfSolveOne() 	Polynomial degree for amplitude is 5
+2025-09-16 14:56:22	INFO	BJonesPoly::selfSolveOne() 	Polynomial degree for phase is 7
+2025-09-16 14:56:22	INFO	BJonesPoly::selfSolveOne() 	Spectral grid for fit will have 63 points spaced by 24.4141 kHz.
+2025-09-16 14:56:22	INFO	BJonesPoly::selfSolveOne() 	Polynomial solution will be valid over frequency range: 1.41267e+09-1.41418e+09 Hz.
+2025-09-16 14:56:22	INFO	BJonesPoly::selfSolveOne() 	Total bandwidth: 1538.09 kHz.
+2025-09-16 14:56:22	INFO	BJonesPoly::selfSolveOne() 	Found data for 351 baselines among 27 antennas.
+2025-09-16 14:56:22	INFO	BJonesPoly::selfSolveOne() 	Fitting amplitude polynomial.
+2025-09-16 14:56:22	INFO	BJonesPoly::selfSolveOne() 	Per-baseline RMS log(Amp) statistics: (min/mean/max) = 0.0703936/0.102501/0.131676
+2025-09-16 14:56:22	INFO	BJonesPoly::selfSolveOne() 	Fitting phase polynomial.
+2025-09-16 14:56:22	INFO	BJonesPoly::selfSolveOne() 	Per baseline RMS phase (deg) statistics: (min/mean/max) = 2.98728/4.47977/5.84264
+2025-09-16 14:56:22	INFO	BJonesPoly::selfSolveOne() 	Fitting amplitude polynomial.
+2025-09-16 14:56:22	INFO	BJonesPoly::selfSolveOne() 	Per-baseline RMS log(Amp) statistics: (min/mean/max) = 0.0751114/0.102994/0.138529
+2025-09-16 14:56:22	INFO	BJonesPoly::selfSolveOne() 	Fitting phase polynomial.
+2025-09-16 14:56:22	INFO	BJonesPoly::selfSolveOne() 	Per baseline RMS phase (deg) statistics: (min/mean/max) = 3.18629/4.47068/5.8941
+2025-09-16 14:56:22	INFO	BJonesPoly::selfSolveOne() 	Normalizing antenna-based solutions.
+2025-09-16 14:56:22	INFO	BJonesPoly::updateCalTable() 	Storing calibration in table bpoly
+2025-09-16 14:56:22	INFO	BJonesPoly::selfSolveOne() 	THIS IS THE NEW MULTI-SPW-FLEXIBLE VERSION
+2025-09-16 14:56:22	INFO	BJonesPoly::selfSolveOne() 	Fitting bandpass amplitude and phase polynomials.
+2025-09-16 14:56:22	INFO	BJonesPoly::selfSolveOne() 	Polynomial degree for amplitude is 5
+2025-09-16 14:56:22	INFO	BJonesPoly::selfSolveOne() 	Polynomial degree for phase is 7
+2025-09-16 14:56:22	INFO	BJonesPoly::selfSolveOne() 	Spectral grid for fit will have 63 points spaced by 24.4141 kHz.
+2025-09-16 14:56:22	INFO	BJonesPoly::selfSolveOne() 	Polynomial solution will be valid over frequency range: 1.41267e+09-1.41418e+09 Hz.
+2025-09-16 14:56:22	INFO	BJonesPoly::selfSolveOne() 	Total bandwidth: 1538.09 kHz.
+2025-09-16 14:56:22	INFO	BJonesPoly::selfSolveOne() 	Found data for 351 baselines among 27 antennas.
+2025-09-16 14:56:22	INFO	BJonesPoly::selfSolveOne() 	Fitting amplitude polynomial.
+2025-09-16 14:56:22	INFO	BJonesPoly::selfSolveOne() 	Per-baseline RMS log(Amp) statistics: (min/mean/max) = 0.350626/0.604424/0.974388
+2025-09-16 14:56:22	INFO	BJonesPoly::selfSolveOne() 	Fitting phase polynomial.
+2025-09-16 14:56:23	INFO	BJonesPoly::selfSolveOne() 	Per baseline RMS phase (deg) statistics: (min/mean/max) = 21.2542/59.3511/120.719
+2025-09-16 14:56:23	INFO	BJonesPoly::selfSolveOne() 	Fitting amplitude polynomial.
+2025-09-16 14:56:23	INFO	BJonesPoly::selfSolveOne() 	Per-baseline RMS log(Amp) statistics: (min/mean/max) = 0.382806/0.598119/0.941571
+2025-09-16 14:56:23	INFO	BJonesPoly::selfSolveOne() 	Fitting phase polynomial.
+2025-09-16 14:56:24	INFO	BJonesPoly::selfSolveOne() 	Per baseline RMS phase (deg) statistics: (min/mean/max) = 20.0637/57.2112/118.101
+2025-09-16 14:56:24	INFO	BJonesPoly::selfSolveOne() 	Normalizing antenna-based solutions.
+2025-09-16 14:56:24	INFO	BJonesPoly::updateCalTable() 	Storing calibration in table bpoly
+2025-09-16 14:56:25	INFO	BJonesPoly::selfSolveOne() 	THIS IS THE NEW MULTI-SPW-FLEXIBLE VERSION
+2025-09-16 14:56:25	INFO	BJonesPoly::selfSolveOne() 	Fitting bandpass amplitude and phase polynomials.
+2025-09-16 14:56:25	INFO	BJonesPoly::selfSolveOne() 	Polynomial degree for amplitude is 5
+2025-09-16 14:56:25	INFO	BJonesPoly::selfSolveOne() 	Polynomial degree for phase is 7
+2025-09-16 14:56:25	INFO	BJonesPoly::selfSolveOne() 	Spectral grid for fit will have 63 points spaced by 24.4141 kHz.
+2025-09-16 14:56:25	INFO	BJonesPoly::selfSolveOne() 	Polynomial solution will be valid over frequency range: 1.41267e+09-1.41418e+09 Hz.
+2025-09-16 14:56:25	INFO	BJonesPoly::selfSolveOne() 	Total bandwidth: 1538.09 kHz.
+2025-09-16 14:56:25	INFO	BJonesPoly::selfSolveOne() 	Found data for 351 baselines among 27 antennas.
+2025-09-16 14:56:25	INFO	BJonesPoly::selfSolveOne() 	Fitting amplitude polynomial.
+2025-09-16 14:56:25	INFO	BJonesPoly::selfSolveOne() 	Per-baseline RMS log(Amp) statistics: (min/mean/max) = 0.0750931/0.0978998/0.125897
+2025-09-16 14:56:25	INFO	BJonesPoly::selfSolveOne() 	Fitting phase polynomial.
+2025-09-16 14:56:25	INFO	BJonesPoly::selfSolveOne() 	Per baseline RMS phase (deg) statistics: (min/mean/max) = 2.72932/3.98787/5.33715
+2025-09-16 14:56:25	INFO	BJonesPoly::selfSolveOne() 	Fitting amplitude polynomial.
+2025-09-16 14:56:25	INFO	BJonesPoly::selfSolveOne() 	Per-baseline RMS log(Amp) statistics: (min/mean/max) = 0.0658572/0.0972125/0.140794
+2025-09-16 14:56:25	INFO	BJonesPoly::selfSolveOne() 	Fitting phase polynomial.
+2025-09-16 14:56:25	INFO	BJonesPoly::selfSolveOne() 	Per baseline RMS phase (deg) statistics: (min/mean/max) = 2.97943/3.97841/5.72903
+2025-09-16 14:56:25	INFO	BJonesPoly::selfSolveOne() 	Normalizing antenna-based solutions.
+2025-09-16 14:56:25	INFO	BJonesPoly::updateCalTable() 	Storing calibration in table bpoly
+2025-09-16 14:56:25	INFO	Calibrater::solve	  Found good BPOLY solutions in 7 slots.
+2025-09-16 14:56:25	INFO	calibrater::solve	Finished solving.
+2025-09-16 14:56:25	WARN	calibrater::setvi(bool,bool)	Forcing use of NEW VisibilityIterator.

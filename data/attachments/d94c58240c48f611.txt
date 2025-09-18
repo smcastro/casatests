@@ -1,0 +1,6 @@
+
+Create a new local copy of the MS...
+
+Running setjy(field='Titan').
+
+Removing a local copy of MS from the previous test...

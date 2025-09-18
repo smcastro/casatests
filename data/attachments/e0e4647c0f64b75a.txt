@@ -1,0 +1,5 @@
+2025-09-16 16:33:54	WARN	ParallelDataHelper::getPartitionMap::casa	Number of subMSs (8) is greater than available scan,ddi pairs (2), setting nsubms to 2
+2025-09-16 16:33:55	WARN	mstransform::::casa	The subMSs of input MMS do not contain the necessary scans
+2025-09-16 16:33:55	WARN	mstransform::::casa	Cannot process MMS with the requested transformations
+2025-09-16 16:33:55	WARN	mstransform::::casa	Will create an output MS
+2025-09-16 16:33:55	WARN	MSTransformManager::setup	There is only one selected SPW, no need to combine 

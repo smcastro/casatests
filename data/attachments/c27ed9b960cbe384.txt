@@ -1,0 +1,6 @@
+2025-09-16 15:34:52	WARN	MS2ASDM::writeProcessor()	Unsupported processor subType for type CORRELATOR ALMA_ACA assuming ALMA_CORRELATOR
+2025-09-16 15:34:52	WARN	MS2ASDM::writeState()	Trouble determining Cal Device for row 1 in MS State table.Assuming NONE.
+2025-09-16 15:34:52	WARN	MS2ASDM::writeState()	Duplicate row in MS State table :2
+2025-09-16 15:34:52	WARN	MS2ASDM::writeState()	Trouble determining Cal Device for row 3 in MS State table.Assuming NONE.
+2025-09-16 15:34:52	WARN	MS2ASDM::writeState()	Duplicate row in MS State table :3
+2025-09-16 15:34:52	WARN	MS2ASDM::writeSysCal()	MS SysCal table doesn't exist or is empty. Creating ASDM SysCal table with default entries.

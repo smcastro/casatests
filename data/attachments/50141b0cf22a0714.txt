@@ -1,0 +1,3 @@
+Image value at source locations
+Original MS : {'unit': 'Jy/beam', 'value': 1.0387226343154907} and {'unit': 'Jy/beam', 'value': 5.590171813964844}
+Phase shifted MS : {'unit': 'Jy/beam', 'value': 1.038696050643921} and {'unit': 'Jy/beam', 'value': 5.589254856109619}

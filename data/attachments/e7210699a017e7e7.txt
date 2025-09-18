@@ -1,0 +1,22 @@
+2025-09-16 14:55:34	WARN	calibrater::setvi(bool,bool)	Forcing use of OLD VisibilityIterator.
+2025-09-16 14:55:34	INFO	calibrater::open	****Using OLD VI-driven calibrater tool****
+2025-09-16 14:55:34	INFO	calibrater::open	Opening MS: gaincaltest2.ms for calibration.
+2025-09-16 14:55:34	INFO		Clearing all model records in MS header.
+2025-09-16 14:55:34	INFO	VisSetUtil::addScrCols	Adding MODEL_DATA and CORRECTED_DATA column(s).
+2025-09-16 14:55:35	INFO	VisSetUtil::initScrCols	Initializing MODEL_DATA to (unity).
+2025-09-16 14:55:35	INFO	VisSetUtil::initScrCols	Initialized 328860 rows.
+2025-09-16 14:55:35	INFO	Calibrater::	Initializing nominal selection to the whole MS.
+2025-09-16 14:55:35	INFO	calibrater::setapply	Beginning setapply--(MSSelection version)-------
+2025-09-16 14:55:35	INFO	Calibrater::setapply(type, applypar)	Arranging to APPLY:
+2025-09-16 14:55:35	INFO	Calibrater::setapply(type, applypar)	.   G Jones: table=gaincaltest2.ms.G0 select= interp=linear spwmap=[-1] calWt=false
+2025-09-16 14:55:35	INFO	calibrater::correct	Beginning correct---------------------------
+2025-09-16 14:55:35	INFO	Calibrater::correct2 (VI2/VB2)	The following calibration terms are arranged for apply:
+2025-09-16 14:55:35	INFO	Calibrater::correct2 (VI2/VB2)	.   G Jones: table=gaincaltest2.ms.G0 select= interp=linear spwmap=[-1] calWt=false
+2025-09-16 14:55:38	INFO	calibrater::correct	Finished correcting.
+2025-09-16 14:55:38	INFO	calibrater::open	****Using OLD VI-driven calibrater tool****
+2025-09-16 14:55:38	INFO	calibrater::open	Opening MS: gaincaltest2.ms for calibration.
+2025-09-16 14:55:38	INFO	Calibrater::	Initializing nominal selection to the whole MS.
+2025-09-16 14:55:38	INFO	calibrater::initcalset	Beginning initcalset------------------------
+2025-09-16 14:55:38	INFO	VisSet::VisSet	Initializing MODEL_DATA (to unity) and CORRECTED_DATA (to DATA)
+2025-09-16 14:55:39	INFO	VisSet::VisSet	Initialized 328860 rows.
+2025-09-16 14:55:39	WARN	calibrater::setvi(bool,bool)	Forcing use of NEW VisibilityIterator.

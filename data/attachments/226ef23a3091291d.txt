@@ -1,0 +1,2 @@
+
+Comparing 105 pointings in 'simobserve_sky/simobserve_sky.alma.out01.ptg.txt' with 'alma.alma.out01.ptg.txt'

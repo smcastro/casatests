@@ -1,0 +1,3 @@
+2025-09-16 16:28:22	WARN	ImageRegridder::_doImagesOverlap	At least one of the images exceeds one degree on at one side, not checking for direction plane overlap.
+2025-09-16 16:28:22	WARN	ImageRegridder::_regrid	Warning: template/imagename relative channel size is 2
+2025-09-16 16:28:22	WARN	ImageRegridder::_regrid	imregrid/ia.regrid() interpolates over spectral channels and does not average channels together. Noise in your resulting image will be the noise in the original individual channels, not the averaged channel noise. To average output channels together, use specsmooth (or ia.boxcar() or ia.hanning() to smooth the spectral axis of your input cube to close to desired resolution and use imregrid/ia.regrid() to regrid it to the desired spectral coordinate grid.

@@ -1,0 +1,13 @@
+2025-09-16 14:56:52	INFO	ImageFactory::createImage	Created Paged image 'hist_zxye.im' of shape [20, 20] with float valued pixels.
+2025-09-16 14:56:52	INFO	ImageMaskHandler::_calcmask	Created mask `mask0'
+2025-09-16 14:56:52	INFO	::::ImageFactory::createImage	Created Paged image 'hist_zxye.im' of shape [20, 20] with float valued pixels.
+2025-09-16 14:56:52	INFO	::::image::fromshape	Ran ia.fromshape
+2025-09-16 14:56:52	INFO	::::image::fromshape	ia.fromshape(outfile="hist_zxye.im", shape=[20,20], csys={...}, linear=false, overwrite=false, log=true, type="f")
+2025-09-16 14:56:52	INFO	::::image::calcmask	Ran ia.calcmask
+2025-09-16 14:56:52	INFO	::::image::calcmask	ia.calcmask(mask="hist_zxye.im>0", name="", asdefault=true)
+2025-09-16 14:56:52	INFO	::::image::maskhandler	Ran ia.maskhandler
+2025-09-16 14:56:52	INFO	::::image::maskhandler	ia.maskhandler(op="rename", name=["mask0","blahmask"])
+2025-09-16 14:56:52	INFO	name::	No table opened.
+2025-09-16 14:56:52	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:56:52	INFO	name::	No table opened.
+2025-09-16 14:56:52	INFO	name::	No table opened.

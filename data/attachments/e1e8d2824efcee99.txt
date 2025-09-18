@@ -1,0 +1,9 @@
+Stripping off the trailing '/' from the caltable name.
+caltable = casa-rockylinux8-amd64-perf07:/scratch/scastro/casa/Tests/reports/uid___A002_X960614_X1379.ms.hifa_tsyscal.s6_3.tsyscal.tbl
+Median difference between solution times = 691.455999 sec
+Measurement set not found.
+spws to plot (sorted) =  [9]
+Using telescope name (ALMA) to set the polarization type.
+No ASDM_CALWVR, ASDM_CALATMOSPHERE, or CalWVR.xml table found.  Using PWV 1.0mm.
+Skip DV08 (spw 9,  field 2: J1752-2956) for time3=15:42:18 all data flagged
+Both pdftk and ghostscript are missing, so no PDF built.

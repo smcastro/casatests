@@ -1,0 +1,13 @@
+There are 24500 - 3 = 24497 degrees of freedom.
+ iter=0:   reduced chi2=0.500025883715:  I=1.000000000000,  dir=[0.000000000000, 0.000000000000] arcsec
+ iter=1:   reduced chi2=0.000001302793:  I=0.001035113153,  dir=[-0.000002351398, -0.000000682833] arcsec
+ iter=2:   reduced chi2=0.000000803765:  I=0.000036647545,  dir=[-0.002275131946, -0.000660685403] arcsec
+ iter=3:   reduced chi2=0.000000803717:  I=0.000036193480,  dir=[-0.066776007149, -0.019295346526] arcsec
+ iter=4:   reduced chi2=0.000000803657:  I=0.000037534135,  dir=[-0.138374779366, -0.037902165477] arcsec
+ iter=5:   reduced chi2=0.000000803594:  I=0.000039095955,  dir=[-0.209873948931, -0.056094994516] arcsec
+If data weights are arbitrarily scaled, the following formal errors
+ will be underestimated by at least a factor sqrt(reduced chi2). If 
+ the fit is systematically poor, the errors are much worse.
+I = 0.000039095955 +/- 0.009035079029
+x = -0.209873948931 +/- 83.890726997937 arcsec
+y = -0.056094994516 +/- 73.560104562886 arcsec
