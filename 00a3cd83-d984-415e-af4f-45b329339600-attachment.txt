@@ -1,5 +1,0 @@
-2025-09-18 11:29:33	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
-2025-09-18 11:29:33	INFO	CasacRegionManager::fromBCS	Using channel range(s) 
-2025-09-18 11:29:33	INFO	CasacRegionManager::fromBCS	Using polarizations I
-2025-09-18 11:29:33	SEVERE	image::fitprofile	Exception Reported: Exception: There are not enough points (2) along the fit axis to fit 3 unknowns.
-2025-09-18 11:29:33	SEVERE	image::fitprofile+	... thrown by casacore::Record casa::ImageProfileFitter::fit(casacore::Bool) at File: /source/casa6/casatools/src/code/imageanalysis/ImageAnalysis/ImageProfileFitter.cc, line: 232
