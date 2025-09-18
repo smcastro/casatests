@@ -1,0 +1,16 @@
+2025-09-16 18:43:23	WARN	tsdimaging::SynthesisParamsImage::buildCoordinateSystem (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisUtilMethods.cc, line 2565)	imsize with 75 pixels is not an efficient imagesize. Try 80 instead.
+2025-09-16 18:43:23	SEVERE	tsdimaging::::casa	Traceback (most recent call last):
+2025-09-16 18:43:23	SEVERE	tsdimaging::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 18:43:23	SEVERE	tsdimaging::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_tsdimaging.py", line 1112, in tsdimaging
+2025-09-16 18:43:23	SEVERE	tsdimaging::::casa+	    imager.initializeImagers()
+2025-09-16 18:43:23	SEVERE	tsdimaging::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/imagerhelpers/imager_base.py", line 133, in initializeImagers
+2025-09-16 18:43:23	SEVERE	tsdimaging::::casa+	    self.SItool.defineimage(
+2025-09-16 18:43:23	SEVERE	tsdimaging::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/synthesisimager.py", line 36, in defineimage
+2025-09-16 18:43:23	SEVERE	tsdimaging::::casa+	    return self._swigobj.defineimage(impars, gridpars)
+2025-09-16 18:43:23	SEVERE	tsdimaging::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 18:43:23	SEVERE	tsdimaging::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/__casac__/synthesisimager.py", line 164, in defineimage
+2025-09-16 18:43:23	SEVERE	tsdimaging::::casa+	    return _synthesisimager.synthesisimager_defineimage(self, *args, **kwargs)
+2025-09-16 18:43:23	SEVERE	tsdimaging::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 18:43:23	SEVERE	tsdimaging::::casa+	RuntimeError: Invalid Image Parameter set : cellsize must be nonzero
+2025-09-16 18:43:23	SEVERE	tsdimaging::::casa	Invalid Image Parameter set : cellsize must be nonzero
+2025-09-16 18:43:23	SEVERE	tsdimaging::::casa	Task tsdimaging raised an exception of class RuntimeError with the following message: Invalid Image Parameter set : cellsize must be nonzero

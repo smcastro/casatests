@@ -1,0 +1,5 @@
+caltable = casa-rockylinux8-amd64-perf07:/scratch/scastro/casa/Tests/reports/uid___A002_Xb0dfe8_Xcc8.orion_sio.skycal.tbl
+Median difference between solution times = 40.704001 sec
+Measurement set not found.
+spws to plot (sorted) =  [23]
+Using telescope name (ALMA) to set the polarization type.

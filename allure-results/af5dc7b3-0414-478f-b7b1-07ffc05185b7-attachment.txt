@@ -1,0 +1,10 @@
+test_importasdm: testing SDM columns in alma_numbin_mixed writing to alma_numbin_mixed.ms
+test_importasdm: testing SDM columns in alma_numbin_mixed writing to alma_numbin_mixed.numbin.ms
+test_importasdm: using SpectralWindow.xml.numBin for SpectralWindow.xml
+test_importasdm: restored original SpectralWindow.xml
+test_importasdm: testing SDM columns in alma_numbin_mixed writing to alma_numbin_mixed.faked.ms
+test_importasdm: using SpectralWindow.xml.faked for SpectralWindow.xml
+test_importasdm: restored original SpectralWindow.xml
+test_importasdm: testing SDM columns in alma_numbin_mixed writing to alma_numbin_mixed.faked.numBin.ms
+test_importasdm: using SpectralWindow.xml.faked.numBin for SpectralWindow.xml
+test_importasdm: restored original SpectralWindow.xml

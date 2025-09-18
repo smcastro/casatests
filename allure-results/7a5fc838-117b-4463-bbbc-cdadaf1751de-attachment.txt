@@ -1,0 +1,598 @@
+2025-09-16 14:58:04	INFO	test
+::FITSReader::listFits 	read fitsfile=ngc5921.fits
+2025-09-16 14:58:04	INFO	test
+::FITSReader::listFits 	Primary Group HDU ------>>>
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU 	SIMPLE  =                      T /Standard FITS format
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	BITPIX  =                    -32 /Floating point values
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	NAXIS   =                      7
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	NAXIS1  =                      0 /Random groups, NOT image
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	NAXIS2  =                      3
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	NAXIS3  =                      2
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	NAXIS4  =                     63
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	NAXIS5  =                      1
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	NAXIS6  =                      1
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	NAXIS7  =                      1
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	EXTEND  =                      T /Tables may follow
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	BLOCKED =                      T /File may be blocked
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	GROUPS  =                      T /Random Group UV data
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	PCOUNT  =                      9 /Number of random parameters
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	GCOUNT  =                  22653 /Number of groups (rows) in the file
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	        
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	EPOCH   =                   2000
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	BSCALE  =                      1
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	BZERO   =                      0
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	BUNIT   = 'UNCALIB '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	CTYPE2  = 'COMPLEX '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	CRVAL2  =                      1
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	CDELT2  =                      1
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	CRPIX2  =                      1
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	CROTA2  =                      0
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	CTYPE3  = 'STOKES  '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	CRVAL3  =                     -1
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	CDELT3  =                     -1
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	CRPIX3  =                      1
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	CROTA3  =                      0
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	CTYPE4  = 'FREQ    '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	CRVAL4  =            1.41342e+09
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	CDELT4  =                24414.1
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	CRPIX4  =                     32
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	CROTA4  =                      0
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	CTYPE5  = 'IF      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	CRVAL5  =                      1
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	CDELT5  =                      1
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	CRPIX5  =                      1
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	CROTA5  =                      0
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	CTYPE6  = 'RA      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	CRVAL6  =                      0
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	CDELT6  =                      1
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	CRPIX6  =                      1
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	CROTA6  =                      0
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	CTYPE7  = 'DEC     '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	CRVAL7  =                      0
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	CDELT7  =                      1
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	CRPIX7  =                      1
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	CROTA7  =                      0
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	PTYPE1  = 'UU      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	PSCAL1  =                      1
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	PZERO1  =                      0
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	PTYPE2  = 'VV      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	PSCAL2  =                      1
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	PZERO2  =                      0
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	PTYPE3  = 'WW      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	PSCAL3  =                      1
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	PZERO3  =                      0
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	PTYPE4  = 'DATE    ' /Day number
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	PSCAL4  =                      1
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	PZERO4  =                      0
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	PTYPE5  = 'DATE    ' /Day fraction
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	PSCAL5  =                      1
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	PZERO5  =                      0
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	PTYPE6  = 'BASELINE'
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	PSCAL6  =                      1
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	PZERO6  =                      0
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	PTYPE7  = 'FREQSEL '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	PSCAL7  =                      1
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	PZERO7  =                      0
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	PTYPE8  = 'SOURCE  '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	PSCAL8  =                      1
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	PZERO8  =                      0
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	PTYPE9  = 'INTTIM  '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	PSCAL9  =                      1
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	PZERO9  =                      0
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	OBJECT  = 'MULTI   '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	DATE-OBS= '1995-04-13T09:18:59.999771'
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TELESCOP= 'VLA     '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	INSTRUME= 'VLA     '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	OBSERVER= 'TEST    '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	SORTORD = 'TB      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	SPECSYS = 'LSRK    '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	RESTFREQ=            1.42041e+09
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	HISTORY AIPS WTSCAL = 1.0
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	        
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	ORIGIN  = 'casacore'
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	        
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	END
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showPrimaryGroup 	22653 groups total, display first 6 elements of the first 2 groups
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showPrimaryGroup +	Group 0 parms:  0 0 0 2.44982e+06 0.888194 257 1 1 30
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showPrimaryGroup +	Group 0 data:  2.45987 0 6 0.798322 0 6 21.1242 0 6 11.6481 0 6 39.7646 0 6 27.8526 0 6... 
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showPrimaryGroup +	Group 1 parms:  -4.61236e-07 1.20458e-06 5.15788e-08 2.44982e+06 0.888194 258 1 1 30
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showPrimaryGroup +	Group 1 data:  0.00824685 -0.0166335 6 0.00102503 -0.00442628 6 -0.0403956 -0.32815 6 -0.179474 0.100313 6 -0.0678851 -0.773201 6 -0.358901 0.429815 6... 
+2025-09-16 14:58:04	INFO	test
+::FITSReader::listFits 	<<<------ Primary Group HDU
+2025-09-16 14:58:04	INFO	test
+::FITSReader::listFits 	Binary Table HDU ------>>>
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU 	XTENSION= 'BINTABLE' /Binary Table Extension
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	BITPIX  =                      8 /Character Information
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	NAXIS   =                      2 /Two-dimensional table
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	NAXIS1  =                     24 /Number of bytes per row
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	NAXIS2  =                      1 /Number of rows
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	PCOUNT  =                      0 /No random parameters
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	GCOUNT  =                      1 /Only one group
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFIELDS =                      5 /Number of columns
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	        
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	        
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	EXTNAME = 'AIPS FQ '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	EXTVER  =                      1
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	NO_IF   =                      1
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	        
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TTYPE1  = 'FRQSEL  '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFORM1  = '1J      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TTYPE2  = 'IF FREQ '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFORM2  = '1D      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TUNIT2  = 'HZ      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TTYPE3  = 'CH WIDTH'
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFORM3  = '1E      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TUNIT3  = 'HZ      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TTYPE4  = 'TOTAL BANDWIDTH'
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFORM4  = '1E      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TUNIT4  = 'HZ      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TTYPE5  = 'SIDEBAND'
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFORM5  = '1J      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	        
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	END
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showBinaryTable 	1 rows, 5 cols, 24 bytes total
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showBinaryTable 	the first 20 cols of the first 5 rows:
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showBinaryTable 	0: | 1 | 0 | 24414.1 | 1.5502e+06 | 1 |
+2025-09-16 14:58:04	INFO	test
+::FITSReader::listFits 	<<<------ Binary Table HDU
+2025-09-16 14:58:04	INFO	test
+::FITSReader::listFits 	Binary Table HDU ------>>>
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU 	XTENSION= 'BINTABLE' /Binary Table Extension
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	BITPIX  =                      8 /Character Information
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	NAXIS   =                      2 /Two-dimensional table
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	NAXIS1  =                     66 /Number of bytes per row
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	NAXIS2  =                     28 /Number of rows
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	PCOUNT  =                      0 /No random parameters
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	GCOUNT  =                      1 /Only one group
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFIELDS =                     13 /Number of columns
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	        
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	        
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	EXTNAME = 'AIPS AN '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	EXTVER  =                      1
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	ARRAYX  =                      0
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	ARRAYY  =                      0
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	ARRAYZ  =                      0
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	GSTIA0  =                200.712
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	DEGPDY  =                360.986
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	FREQ    =            1.41342e+09
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	RDATE   = '1995-04-13T09:18:59.999771'
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	POLARX  =                2.12653
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	POLARY  =                17.1957
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	UT1UTC  =               0.123216
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	IATUTC  =                     29
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TIMSYS  = 'TAI     '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	ARRNAM  = 'VLA     '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	NUMORB  =                      0
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	NOPCAL  =                      0
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	POLTYPE = '        '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	XYZHAND = 'RIGHT   '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	FRAME   = 'ITRF    '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	        
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TTYPE1  = 'ANNAME  '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFORM1  = '8A      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TTYPE2  = 'STABXYZ '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFORM2  = '3D      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TUNIT2  = 'METERS  '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TTYPE3  = 'ORBPARM '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFORM3  = '0D      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TTYPE4  = 'NOSTA   '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFORM4  = '1J      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TTYPE5  = 'MNTSTA  '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFORM5  = '1J      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TTYPE6  = 'STAXOF  '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFORM6  = '1E      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TUNIT6  = 'METERS  '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TTYPE7  = 'POLTYA  '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFORM7  = '1A      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TTYPE8  = 'POLAA   '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFORM8  = '1E      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TUNIT8  = 'DEGREES '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TTYPE9  = 'POLCALA '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFORM9  = '1E      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TTYPE10 = 'POLTYB  '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFORM10 = '1A      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TTYPE11 = 'POLAB   '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFORM11 = '1E      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TUNIT11 = 'DEGREES '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TTYPE12 = 'POLCALB '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFORM12 = '1E      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TTYPE13 = 'DIAMETER'
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFORM13 = '1E      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	        
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	END
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showBinaryTable 	28 rows, 13 cols, 1848 bytes total
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showBinaryTable 	the first 20 cols of the first 5 rows:
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showBinaryTable 	0: | VLA:N7 | -1.60116e+06, -5.04178e+06, 3.55516e+06 | | 1 | 0 | 0.00164886 | R | 0 | 0 | L | 0 | 0 | 25 |
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showBinaryTable +	1: | VLA:W1 | -1.60119e+06, -5.042e+06, 3.55484e+06 | | 2 | 0 | 0.000869398 | R | 0 | 0 | L | 0 | 0 | 25 |
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showBinaryTable +	2: | VLA:W2 | -1.60123e+06, -5.04198e+06, 3.55486e+06 | | 3 | 0 | -0.00116919 | R | 0 | 0 | L | 0 | 0 | 25 |
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showBinaryTable +	3: | VLA:E1 | -1.60119e+06, -5.04202e+06, 3.55481e+06 | | 4 | 0 | 0.0093835 | R | 0 | 0 | L | 0 | 0 | 25 |
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showBinaryTable +	4: | VLA:E3 | -1.60111e+06, -5.04202e+06, 3.55484e+06 | | 5 | 0 | 0.000869398 | R | 0 | 0 | L | 0 | 0 | 25 |
+2025-09-16 14:58:04	INFO	test
+::FITSReader::listFits 	<<<------ Binary Table HDU
+2025-09-16 14:58:04	INFO	test
+::FITSReader::listFits 	Binary Table HDU ------>>>
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU 	XTENSION= 'BINTABLE' /Binary Table Extension
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	BITPIX  =                      8 /Character Information
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	NAXIS   =                      2 /Two-dimensional table
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	NAXIS1  =                    136 /Number of bytes per row
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	NAXIS2  =                      3 /Number of rows
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	PCOUNT  =                      0 /No random parameters
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	GCOUNT  =                      1 /Only one group
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFIELDS =                     19 /Number of columns
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	        
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	        
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	EXTNAME = 'AIPS SU '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	EXTVER  =                      1
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	NO_IF   =                      1
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	FREQID  =                      1
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	        
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TTYPE1  = 'ID. NO. '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFORM1  = '1J      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TTYPE2  = 'SOURCE  '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFORM2  = '20A     '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TTYPE3  = 'QUAL    '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFORM3  = '1J      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TTYPE4  = 'CALCODE '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFORM4  = '4A      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TTYPE5  = 'IFLUX   '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFORM5  = '1E      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TUNIT5  = 'JY      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TTYPE6  = 'QFLUX   '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFORM6  = '1E      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TUNIT6  = 'JY      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TTYPE7  = 'UFLUX   '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFORM7  = '1E      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TUNIT7  = 'JY      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TTYPE8  = 'VFLUX   '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFORM8  = '1E      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TUNIT8  = 'JY      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TTYPE9  = 'FREQOFF '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFORM9  = '1D      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TUNIT9  = 'HZ      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TTYPE10 = 'BANDWIDTH'
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFORM10 = '1D      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TUNIT10 = 'HZ      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TTYPE11 = 'RAEPO   '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFORM11 = '1D      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TUNIT11 = 'DEGREES '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TTYPE12 = 'DECEPO  '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFORM12 = '1D      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TUNIT12 = 'DEGREES '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TTYPE13 = 'EPOCH   '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFORM13 = '1D      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TUNIT13 = 'YEARS   '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TTYPE14 = 'RAAPP   '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFORM14 = '1D      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TUNIT14 = 'DEGREES '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TTYPE15 = 'DECAPP  '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFORM15 = '1D      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TUNIT15 = 'DEGREES '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TTYPE16 = 'LSRVEL  '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFORM16 = '1D      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TUNIT16 = 'M/SEC   '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TTYPE17 = 'RESTFREQ'
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFORM17 = '1D      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TUNIT17 = 'HZ      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TTYPE18 = 'PMRA    '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFORM18 = '1D      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TUNIT18 = 'DEG/DAY '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TTYPE19 = 'PMDEC   '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TFORM19 = '1D      '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	TUNIT19 = 'DEG/DAY '
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	        
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showHDU +	END
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showBinaryTable 	3 rows, 19 cols, 408 bytes total
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showBinaryTable 	the first 20 cols of the first 5 rows:
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showBinaryTable 	0: | 1 | 1331+30500002_0      | 0 |      | 0 | 0 | 0 | 0 | 0 | 1.5502e+06 | -157.215 | 30.5092 | 2000 | -157.263 | 30.5314 | 0 | 1.42041e+09 | 0 | 0 |
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showBinaryTable +	1: | 2 | 1445+09900002_0      | 0 |      | 0 | 0 | 0 | 0 | 0 | 1.5502e+06 | -138.681 | 9.97669 | 2000 | -138.732 | 9.99458 | 0 | 1.42041e+09 | 0 | 0 |
+2025-09-16 14:58:04	INFO	test
+::FITSReader::showBinaryTable +	2: | 3 | N5921_2              | 0 |      | 0 | 0 | 0 | 0 | 0 | 1.5502e+06 | -129.5 | 5.06667 | 2000 | -129.552 | 5.08192 | 0 | 1.42041e+09 | 0 | 0 |
+2025-09-16 14:58:04	INFO	test
+::FITSReader::listFits 	<<<------ Binary Table HDU
+2025-09-16 14:58:04	INFO	test
+::FITSReader::listFits 	finish processing of Header-Data Units.
+2025-09-16 14:58:04	INFO	test
+::MSFitsInput::MSFitsInput	Converting FITS file 'ngc5921.fits' to MeasurementSet 'fromfits.ms'
+2025-09-16 14:58:04	INFO	test
+::MSFitsInput::setupMeasurementSet	Using tile shape [2, 63, 1040] for VLA with obstype=0
+2025-09-16 14:58:04	INFO	test
+::MSFitsInput::fillMSMainTable	Reading and writing 22653 visibility groups
+2025-09-16 14:58:04	INFO	test
+::MSFitsInput::readRandomGroupUVFits	extname=AIPS FQ  nrows=1 ncols=5 rowsize=24 pcount=0 gcount=1
+2025-09-16 14:58:04	INFO	test
+::MSFitsInput::readRandomGroupUVFits	extname=AIPS AN  nrows=28 ncols=13 rowsize=66 pcount=0 gcount=1
+2025-09-16 14:58:04	INFO	test
+::MSFitsInput::readRandomGroupUVFits	extname=AIPS SU  nrows=3 ncols=19 rowsize=136 pcount=0 gcount=1
+2025-09-16 14:58:04	INFO	test
+::MSFitsInput::fillExtraTables	Filling SOURCE table (this may take some time).
+2025-09-16 14:58:04	INFO	test
+::ms::tofits	By selection 22653 rows to be converted are reduced to 4509
+2025-09-16 14:58:04	INFO	test
+::MSFitsOutput::write	 nchan=63 startchan=0 stepchan=1 avgchan=1
+2025-09-16 14:58:04	INFO	test
+::MSFitsOutput::write	Converting MeasurementSet /scratch/scastro/casa/Tests/reports/tab593221_9422 to FITS file 'testfile.fits'
+2025-09-16 14:58:04	INFO	test
+::MSFitsOutput::_writeMain	Writing DATA column
+2025-09-16 14:58:04	INFO	test
+::MSFitsOutput::_writeMain	Frequency reference frame is LSRK
+2025-09-16 14:58:04	INFO	test
+::MSFitsOutput::write	Writing AIPS FQ table
+2025-09-16 14:58:04	INFO	test
+::MSFitsOutput::writeFQ	Found 1 spectral windows 
+2025-09-16 14:58:04	INFO	test
+::MSFitsOutput::write	Writing AIPS AN table
+2025-09-16 14:58:04	INFO	test
+::MSFitsOutput::writeAN	Using ITRF frame for antenna positions.
+2025-09-16 14:58:04	INFO	test
+::MSFitsOutput::writeAN	Found 28 antennas in array #1

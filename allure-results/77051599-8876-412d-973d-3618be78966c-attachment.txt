@@ -1,0 +1,4 @@
+2025-09-16 14:56:50	INFO		Created ComponentListImage  of shape [20, 20].
+2025-09-16 14:56:50	INFO	::::ImageFactory::createComponentListImage	Created ComponentListImage  of shape [20, 20].
+2025-09-16 14:56:50	INFO	::::image::fromcomplist	Ran ia.fromcomplist
+2025-09-16 14:56:50	INFO	::::image::fromcomplist	ia.fromcomplist(outfile="", shape=[20,20], cl={...}, csys={...}, overwrite=false, log=true, cache=true)

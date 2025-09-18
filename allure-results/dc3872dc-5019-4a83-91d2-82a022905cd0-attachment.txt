@@ -1,0 +1,20 @@
+test_importasdm: testing SDM columns in evla_numbin_2 writing to evla_numbin_2.ms
+test_importasdm: testing SDM columns in evla_numbin_2 writing to evla_numbin_2.numBin.ms
+test_importasdm: using SpectralWindow.xml.numBin for SpectralWindow.xml
+test_importasdm: restored original SpectralWindow.xml
+test_importasdm: testing SDM columns in evla_numbin_2 writing to evla_numbin_2.mixed.ms
+test_importasdm: using SpectralWindow.xml.mixed for SpectralWindow.xml
+test_importasdm: restored original SpectralWindow.xml
+test_importasdm: testing SDM columns in evla_numbin_2 writing to evla_numbin_2.bad.ms
+test_importasdm: using SpectralWindow.xml.bad for SpectralWindow.xml
+test_importasdm: restored original SpectralWindow.xml
+test_importasdm: testing SDM columns in evla_numbin_4 writing to evla_numbin_4.ms
+test_importasdm: testing SDM columns in evla_numbin_4 writing to evla_numbin_4.numBin.ms
+test_importasdm: using SpectralWindow.xml.numBin for SpectralWindow.xml
+test_importasdm: restored original SpectralWindow.xml
+test_importasdm: testing SDM columns in evla_numbin_4 writing to evla_numbin_4.onlyNumBin.ms
+test_importasdm: using SpectralWindow.xml.onlyNumBin for SpectralWindow.xml
+test_importasdm: restored original SpectralWindow.xml
+test_importasdm: testing SDM columns in evla_numbin_4 writing to evla_numbin_4.unknownTel.ms
+test_importasdm: using ExecBlock.xml.unknownTel for ExecBlock.xml
+test_importasdm: restored original ExecBlock.xml

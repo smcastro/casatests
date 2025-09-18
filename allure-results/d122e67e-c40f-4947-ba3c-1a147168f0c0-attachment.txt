@@ -1,0 +1,20 @@
+2025-09-16 14:58:03	INFO	test
+::MSFitsInput::MSFitsInput	Converting FITS file '/casadata/repository/casatestdata/unittest/mstool/3c273.fits7' to MeasurementSet 'ngc4826.tutorial.3c273.7.ms'
+2025-09-16 14:58:03	INFO	test
+::MSFitsInput::setupMeasurementSet	Using tile shape [1, 64, 2048] for HATCREEK with obstype=0
+2025-09-16 14:58:03	INFO	test
+::MSFitsInput::fillMSMainTableColWise	SOURCE not found in UU VV WW BASELINE DATE
+2025-09-16 14:58:03	INFO	test
+::MSFitsInput::fillMSMainTableColWise	FREQSEL not found in UU VV WW BASELINE DATE
+2025-09-16 14:58:03	INFO	test
+::MSFitsInput::fillMSMainTableColWise	Reading and writing 2925 visibility groups
+2025-09-16 14:58:03	INFO	test
+::MSFitsInput::readRandomGroupUVFits	extname=AIPS AN  nrows=12 ncols=12 rowsize=78 pcount=0 gcount=1
+2025-09-16 14:58:03	WARN	test
+::MSFitsInput::fillAntennaTable	XYZHAND keyword not found in AN table. Will assume antenna coordinate system is right handed.
+2025-09-16 14:58:03	INFO	test
+::MSFitsInput::fillExtraTables	Filling SOURCE table (this may take some time).
+2025-09-16 14:58:03	WARN	test
+::MSFitsInput::fillExtraTable	No systemic velocity for field 0
+2025-09-16 14:58:03	WARN	test
+::MSFitsInput::fillExtraTable	No rest frequency for field 0

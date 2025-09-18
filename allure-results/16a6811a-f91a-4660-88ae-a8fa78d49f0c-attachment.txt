@@ -1,0 +1,3 @@
+2025-09-16 14:57:04	INFO	SubImageFactory::createImage	Creating image 'mypb.im' of shape [5, 5, 1, 1]
+2025-09-16 14:57:04	INFO	name::	No table opened.
+2025-09-16 14:57:04	INFO	showcache::	The Table Cache is empty.

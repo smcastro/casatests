@@ -1,0 +1,13 @@
+2025-09-16 15:55:17	SEVERE	getantposalma::::casa	Task getantposalma raised an exception of class ValueError with the following message: Parameter outfile must be specified
+2025-09-16 15:55:17	SEVERE	getantposalma::::casa	Task getantposalma raised an exception of class ValueError with the following message: Parameter outfile must be specified
+2025-09-16 15:55:17	SEVERE	getantposalma::::casa	Task getantposalma raised an exception of class RuntimeError with the following message: A file or directory named kyfjak.blah already exists and overwrite is False, so exiting. Either rename the existing file or directory, change the value of overwrite to True, or both.
+2025-09-16 15:55:17	SEVERE	getantposalma::::casa	Task getantposalma raised an exception of class ValueError with the following message: Parameter hosts must be specified
+2025-09-16 15:55:17	SEVERE	getantposalma::::casa	Task getantposalma raised an exception of class ValueError with the following message: Parameter tw should contain exactly one comma that separates two times
+2025-09-16 15:55:17	SEVERE	getantposalma::::casa	Task getantposalma raised an exception of class ValueError with the following message: Begin time 1 does not appear to have a valid format. The correct format is of the form YYYY-MM-DDThh:mm:ss.
+2025-09-16 15:55:17	SEVERE	getantposalma::::casa	Task getantposalma raised an exception of class ValueError with the following message: End time 3 does not appear to have a valid format. The correct format is of the form YYYY-MM-DDThh:mm:ss.
+2025-09-16 15:55:17	SEVERE	getantposalma::::casa	Task getantposalma raised an exception of class ValueError with the following message: Parameter tw, start time (2023-04-15T17:15:22) must be less than end time (2023-03-02T14:41:00).
+2025-09-16 15:55:17	SEVERE	getantposalma::::casa	Task getantposalma raised an exception of class ValueError with the following message: Parameter tw, start time (2023-04-15T17:15:22) must be less than end time (2023-04-15T17:15:22).
+2025-09-16 15:55:17	SEVERE	getantposalma::::casa	Task getantposalma raised an exception of class ValueError with the following message: If a number, parameter snr (-1) must be non-negative.
+2025-09-16 15:55:17	SEVERE	getantposalma::::casa	Task getantposalma raised an exception of class ValueError with the following message: Parameter hosts: bogus./12?.example.com is not a valid host expressed as a URL.
+2025-09-16 15:55:17	WARN	getantposalma::::casa	Caught URLError: <urlopen error [Errno -2] Name or service not known>
+2025-09-16 15:55:17	SEVERE	getantposalma::::casa	Task getantposalma raised an exception of class RuntimeError with the following message: All URLs failed to return an antenna position list.

@@ -1,0 +1,2 @@
+2025-09-16 17:34:57	SEVERE	ms::statwt	Exception Reported: Unsupported value for 'statalg' at File: /source/casa6/casatools/src/code/mstransform/TVI/StatWtTVI.cc, line: 406
+2025-09-16 17:34:57	SEVERE	statwt::::casa	Task statwt raised an exception of class RuntimeError with the following message: Unsupported value for 'statalg' at File: /source/casa6/casatools/src/code/mstransform/TVI/StatWtTVI.cc, line: 406

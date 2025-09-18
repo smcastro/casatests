@@ -1,0 +1,58 @@
+2025-09-16 14:56:57	INFO	ImageProfileFitter::ImageProfileFitter	Number of Gaussian multiplets to fit found to be 1 from provided spectral element list
+2025-09-16 14:56:57	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:57	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:57	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:57	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:57	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:57	INFO	ImageRegion::fromRecord+	    [0, 0, 0] to [4, 4, 139]  (03:53:32.437, +49.57.59.958, 1.41493e+09Hz to 03:53:07.546, +50.01.59.958, 1.41507e+09Hz)
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 1
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 1
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 1
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary	Number converged         = 1
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary	Number valid             = 1
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary	****** Fit performed at Tue Sep 16 14:56:57 2025******
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	Input parameters ---
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	       --- imagename:           /casadata/repository/casatestdata/unittest/ia_fitprofile/gauss_triplet.fits
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	       --- region:              
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	       --- box:                 
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	       --- channels:            
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	       --- stokes:              
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	       --- mask:                
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	       --- number of Gaussian singlets: 0
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	       --- number of Gaussian multiplets: 1
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	           --- number of components in Gaussian multiplet 0: 3
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	       --- no polynomial fit 
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	       --- One profile fit, averaged over several pixels if necessary
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	    RA           :   03:53:19.991
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  +49.59.59.958
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [2.001, 1.999,  *]
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 18
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN MULTIPLET
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	        Results for subcomponent 0:
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	            Peak     : 4.158 +/- 0.030 Jy
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	            Center   : 1149.732 +/- 0.022 km/s
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	                       28.36 +/- 0.10 pixel
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	            FWHM     : 5.753 +/- 0.056 km/s
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	                       27.26 +/- 0.26 pixel
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	            Integral : 25.47 +/- 0.31 Jy.km/s
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	        Results for subcomponent 1:
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	            Peak     : 2.911 +/- 0.021 Jy
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	            Center   : 1138.757 +/- 0.022 km/s
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	                       80.36 +/- 0.10 pixel
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	            FWHM     : 4.094 +/- 0.085 km/s
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	                       19.40 +/- 0.40 pixel
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	            Integral : 12.69 +/- 0.28 Jy.km/s
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	        Results for subcomponent 2:
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	            Peak     : 2.287 +/- 0.017 Jy
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	            Center   : 1133.656 +/- 0.048 km/s
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	                       104.53 +/- 0.23 pixel
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	            FWHM     : 3.935 +/- 0.099 km/s
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	                       18.64 +/- 0.47 pixel
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	            Integral : 9.58 +/- 0.25 Jy.km/s

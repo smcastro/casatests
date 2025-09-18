@@ -1,0 +1,4 @@
+2025-09-16 14:57:15	INFO	ImageFITSConverter::readBeamsTable	Loading multiple beams from BEAMS table
+2025-09-16 14:57:15	INFO	ImagePolTask::_sigma 	Determined noise from V image to be 1.0119
+2025-09-16 14:57:15	INFO	ImagePolTask::_sigma 	Debiasing with sigma = 1.0119
+2025-09-16 14:57:15	INFO	ImageFITSConverter::readBeamsTable	Loading multiple beams from BEAMS table

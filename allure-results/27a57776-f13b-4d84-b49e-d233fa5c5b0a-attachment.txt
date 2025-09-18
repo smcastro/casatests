@@ -1,0 +1,5 @@
+(256, 256, 1, 46, 1) (256, 256, 1, 1, 1)
+False
+/casadata/repository/casatestdata/unittest/imdev/ngc5921.clean.image
+OrigRes mean:  0.0
+finRes mean:  0.0

@@ -1,0 +1,2 @@
+2025-09-16 15:55:59	WARN	imsmooth::::casa	created working directory: /scratch/scastro/casa/Tests/reports/df7b8b61-0065-4ff7-935e-c6f64c7701d6
+2025-09-16 15:55:59	WARN	sdsmooth::SingleDishMS::setSelection (file /source/casa6/casatools/src/code/singledish/SingleDish/SingleDishMS.cc, line 212)	No valid selection parameter is set.

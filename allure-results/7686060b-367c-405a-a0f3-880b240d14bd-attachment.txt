@@ -1,0 +1,6 @@
+2025-09-16 17:32:09	WARN	simobserve::::	Illegal reference frame string.  Reference string set to DEFAULT
+Could not understand Direction frame...defaulting to J2000 
+Could not understand Direction frame...defaulting to J2000 
+2025-09-16 17:32:11	WARN	noise::CTPatchedInterp::interpolate	In caltable simobserve_bad.alma.out10.noisy.T.cal_sim_temp (Tf Jones):
+2025-09-16 17:32:11	WARN	noise::CTPatchedInterp::interpolate+	 Insufficient solution channel sampling (nchan=1) for frequency-dependent LINEAR interpolation 
+2025-09-16 17:32:11	WARN	noise::CTPatchedInterp::interpolate+	 of calibration for MS spw=0; using NEAREST instead.

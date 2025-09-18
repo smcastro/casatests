@@ -1,0 +1,96 @@
+2025-09-16 14:56:52	INFO	ImageFactory::createImage	Created Temp image  of shape [4, 4, 20] with float valued pixels.
+2025-09-16 14:56:52	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:52	INFO	ImageRegion::fromRecord+	    [0, 0, 0] to [3, 3, 9]  (00:00:08.000, -00.02.00.000, 1.41499e+09Hz to 23:59:56.000, +00.01.00.000, 1.415e+09Hz)
+2025-09-16 14:56:52	INFO	ImageRegion::fromRecord	Creating image 'image1.im' of shape [4, 4, 10]
+2025-09-16 14:56:52	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:52	INFO	ImageRegion::fromRecord+	    [0, 0, 10] to [3, 3, 19]  (00:00:08.000, -00.02.00.000, 1.415e+09Hz to 23:59:56.000, +00.01.00.000, 1.41501e+09Hz)
+2025-09-16 14:56:52	INFO	ImageRegion::fromRecord	Creating image 'image2.im' of shape [4, 4, 10]
+2025-09-16 14:56:52	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:52	INFO	BeamManipulator::set	Setting (global) restoring beam.
+2025-09-16 14:56:52	INFO	BeamManipulator::set	Beam parameters:  Major          : 3 arcmin
+2025-09-16 14:56:52	INFO	BeamManipulator::set+	  Minor          : 2 arcmin
+2025-09-16 14:56:52	INFO	BeamManipulator::set+	  Position Angle : 0 deg
+2025-09-16 14:56:52	INFO	ImageConcatenator::ImageConcatenator 	Number of images to concatenate = 2
+2025-09-16 14:56:52	SEVERE	ImageConcat::setImage (file /source/casainstall/include/casacore/images/Images/ImageConcat.tcc, line 288)	One image does not have a beam while another does
+2025-09-16 14:56:52	SEVERE	image::subimage (file src/tools/image/image_cmpt.cc, line 6162)	Exception Reported: Exception: 2025-09-16 14:56:52	SEVERE	ImageConcat::setImage (file /source/casainstall/include/casacore/images/Images/ImageConcat.tcc, line 288)	One image does not have a beam while another does.
+2025-09-16 14:56:52	SEVERE	image::subimage (file src/tools/image/image_cmpt.cc, line 6162)+	... thrown by void casa::ImageConcatenator<T>::_addImage(std::shared_ptr<casacore::ImageConcat<T> >, const casacore::String&, casacore::Bool) const [with T = float; casacore::Bool = bool] at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/ImageConcatenator.tcc, line: 277
+2025-09-16 14:56:52	INFO	ImageConcatenator::ImageConcatenator 	Number of images to concatenate = 2
+2025-09-16 14:56:52	WARN	ImageConcat::setImage (file /source/casainstall/include/casacore/images/Images/ImageConcat.tcc, line 288)	One image does not have a beam while another does The concat image will have no beam
+2025-09-16 14:56:52	WARN	ImageConcat::setImage (file /source/casainstall/include/casacore/images/Images/ImageConcat.tcc, line 288)	Image units differ. Image units of the first image (Jy/pixel) will be used for the output image 
+2025-09-16 14:56:52	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:52	INFO	BeamManipulator::set	Setting (global) restoring beam.
+2025-09-16 14:56:52	INFO	BeamManipulator::set	Beam parameters:  Major          : 3 arcmin
+2025-09-16 14:56:52	INFO	BeamManipulator::set+	  Minor          : 2 arcmin
+2025-09-16 14:56:52	INFO	BeamManipulator::set+	  Position Angle : 0 deg
+2025-09-16 14:56:52	INFO	image::_setrestoringbeam 	Will remove any existing beams from image
+2025-09-16 14:56:52	INFO		Deleted restoring beam(s)
+2025-09-16 14:56:52	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:52	INFO	BeamManipulator::set	This image currently has no beams of any kind. Since channel and/or polarization were specified, a set of per plane beams, each equal to the specified beam, will be created.
+2025-09-16 14:56:52	INFO	BeamManipulator::set	Beam parameters:  Major          : 4 arcmin
+2025-09-16 14:56:52	INFO	BeamManipulator::set+	  Minor          : 3 arcmin
+2025-09-16 14:56:52	INFO	BeamManipulator::set+	  Position Angle : 10 deg
+2025-09-16 14:56:52	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:52	INFO	BeamManipulator::set	Beam parameters:  Major          : 5 arcmin
+2025-09-16 14:56:52	INFO	BeamManipulator::set+	  Minor          : 4 arcmin
+2025-09-16 14:56:52	INFO	BeamManipulator::set+	  Position Angle : 20 deg
+2025-09-16 14:56:52	INFO	ImageConcatenator::ImageConcatenator 	Number of images to concatenate = 2
+2025-09-16 14:56:52	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:52	INFO	BeamManipulator::set	Setting (global) restoring beam.
+2025-09-16 14:56:52	INFO	BeamManipulator::set	Beam parameters:  Major          : 3 arcmin
+2025-09-16 14:56:52	INFO	BeamManipulator::set+	  Minor          : 2 arcmin
+2025-09-16 14:56:52	INFO	BeamManipulator::set+	  Position Angle : 0 deg
+2025-09-16 14:56:52	INFO	image::_setrestoringbeam 	Will remove any existing beams from image
+2025-09-16 14:56:52	INFO		Deleted restoring beam(s)
+2025-09-16 14:56:52	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:52	INFO	BeamManipulator::set	Setting (global) restoring beam.
+2025-09-16 14:56:52	INFO	BeamManipulator::set	Beam parameters:  Major          : 3 arcmin
+2025-09-16 14:56:52	INFO	BeamManipulator::set+	  Minor          : 2 arcmin
+2025-09-16 14:56:52	INFO	BeamManipulator::set+	  Position Angle : 0 deg
+2025-09-16 14:56:52	INFO	ImageConcatenator::ImageConcatenator 	Number of images to concatenate = 2
+2025-09-16 14:56:52	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:52	INFO	BeamManipulator::set	Setting (global) restoring beam.
+2025-09-16 14:56:52	INFO	BeamManipulator::set	Beam parameters:  Major          : 3 arcmin
+2025-09-16 14:56:52	INFO	BeamManipulator::set+	  Minor          : 2 arcmin
+2025-09-16 14:56:52	INFO	BeamManipulator::set+	  Position Angle : 0 deg
+2025-09-16 14:56:52	INFO	image::_setrestoringbeam 	Will remove any existing beams from image
+2025-09-16 14:56:52	INFO		Deleted restoring beam(s)
+2025-09-16 14:56:52	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:52	INFO	BeamManipulator::set	Setting (global) restoring beam.
+2025-09-16 14:56:52	INFO	BeamManipulator::set	Beam parameters:  Major          : 4 arcmin
+2025-09-16 14:56:52	INFO	BeamManipulator::set+	  Minor          : 3 arcmin
+2025-09-16 14:56:52	INFO	BeamManipulator::set+	  Position Angle : 10 deg
+2025-09-16 14:56:52	INFO	ImageConcatenator::ImageConcatenator 	Number of images to concatenate = 2
+2025-09-16 14:56:52	INFO	image::_setrestoringbeam 	Will remove any existing beams from image
+2025-09-16 14:56:52	INFO		Deleted restoring beam(s)
+2025-09-16 14:56:52	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:52	INFO	BeamManipulator::set	Setting (global) restoring beam.
+2025-09-16 14:56:52	INFO	BeamManipulator::set	Beam parameters:  Major          : 3 arcmin
+2025-09-16 14:56:52	INFO	BeamManipulator::set+	  Minor          : 2 arcmin
+2025-09-16 14:56:52	INFO	BeamManipulator::set+	  Position Angle : 0 deg
+2025-09-16 14:56:52	INFO	image::_setrestoringbeam 	Will remove any existing beams from image
+2025-09-16 14:56:52	INFO		Deleted restoring beam(s)
+2025-09-16 14:56:52	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:52	INFO	BeamManipulator::set	This image currently has no beams of any kind. Since channel and/or polarization were specified, a set of per plane beams, each equal to the specified beam, will be created.
+2025-09-16 14:56:52	INFO	BeamManipulator::set	Beam parameters:  Major          : 4 arcmin
+2025-09-16 14:56:52	INFO	BeamManipulator::set+	  Minor          : 3 arcmin
+2025-09-16 14:56:52	INFO	BeamManipulator::set+	  Position Angle : 10 deg
+2025-09-16 14:56:52	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:52	INFO	BeamManipulator::set	Beam parameters:  Major          : 5 arcmin
+2025-09-16 14:56:52	INFO	BeamManipulator::set+	  Minor          : 4 arcmin
+2025-09-16 14:56:52	INFO	BeamManipulator::set+	  Position Angle : 20 deg
+2025-09-16 14:56:52	INFO	ImageConcatenator::ImageConcatenator 	Number of images to concatenate = 2
+2025-09-16 14:56:52	INFO	image::_setrestoringbeam 	Will remove any existing beams from image
+2025-09-16 14:56:52	INFO		Deleted restoring beam(s)
+2025-09-16 14:56:52	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:52	INFO	BeamManipulator::set	Setting (global) restoring beam.
+2025-09-16 14:56:52	INFO	BeamManipulator::set	Beam parameters:  Major          : 3 arcmin
+2025-09-16 14:56:52	INFO	BeamManipulator::set+	  Minor          : 2 arcmin
+2025-09-16 14:56:52	INFO	BeamManipulator::set+	  Position Angle : 0 deg
+2025-09-16 14:56:52	INFO	image::_setrestoringbeam 	Will remove any existing beams from image
+2025-09-16 14:56:52	INFO		Deleted restoring beam(s)
+2025-09-16 14:56:52	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:52	INFO	BeamManipulator::set	Setting (global) restoring beam.
+2025-09-16 14:56:52	INFO	BeamManipulator::set	Beam parameters:  Major          : 3 arcmin
+2025-09-16 14:56:52	INFO	BeamManipulator::set+	  Minor          : 2 arcmin
+2025-09-16 14:56:52	INFO	BeamManipulator::set+	  Position Angle : 0 deg
+2025-09-16 14:56:52	INFO	ImageConcatenator::ImageConcatenator 	Number of images to concatenate = 2

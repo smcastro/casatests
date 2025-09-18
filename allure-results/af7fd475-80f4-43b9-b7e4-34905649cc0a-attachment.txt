@@ -1,0 +1,9 @@
+2025-09-16 14:56:37	INFO	ImageFactory::createImage	Created Temp image  of shape [2, 2, 2] with float valued pixels.
+2025-09-16 14:56:37	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:37	INFO	BeamManipulator::set	Setting (global) restoring beam.
+2025-09-16 14:56:37	INFO	BeamManipulator::set	Beam parameters:  Major          : 4 arcsec
+2025-09-16 14:56:37	INFO	BeamManipulator::set+	  Minor          : 2 arcsec
+2025-09-16 14:56:37	INFO	BeamManipulator::set+	  Position Angle : 0 deg
+2025-09-16 14:56:37	WARN	image::commonbeam (file src/tools/image/image_cmpt.cc, line 824)	This image only has one beam, so just returning that
+2025-09-16 14:56:37	INFO	name::	No table opened.
+2025-09-16 14:56:37	INFO	name::	No table opened.

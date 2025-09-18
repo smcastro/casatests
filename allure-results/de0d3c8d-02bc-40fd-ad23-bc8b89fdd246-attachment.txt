@@ -1,0 +1,1 @@
+Skipping asdm_import7.test7_skiprows - uses stand-alone executable

@@ -1,0 +1,14 @@
+2025-09-16 14:56:37	INFO	ImageFactory::createImage	Created Temp image  of shape [20, 20, 20] with float valued pixels.
+2025-09-16 14:56:37	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:37	INFO	BeamManipulator::set	Setting (global) restoring beam.
+2025-09-16 14:56:37	INFO	BeamManipulator::set	Beam parameters:  Major          : 10 arcmin
+2025-09-16 14:56:37	INFO	BeamManipulator::set+	  Minor          : 5 arcmin
+2025-09-16 14:56:37	INFO	BeamManipulator::set+	  Position Angle : 20 deg
+2025-09-16 14:56:37	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:37	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:37	INFO	ImageBoxcarSmoother::smooth	Original Temporary_Image size => [20, 20, 20]
+2025-09-16 14:56:37	INFO	ImageBoxcarSmoother::smooth	New  size => [20, 20, 10]
+2025-09-16 14:56:37	INFO	name::	No table opened.
+2025-09-16 14:56:37	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:56:37	INFO	name::	No table opened.
+2025-09-16 14:56:37	INFO	name::	No table opened.

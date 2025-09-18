@@ -1,0 +1,32 @@
+2025-09-16 18:35:55	WARN	SynthesisImagerVi2::dryGridding (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisImagerVi2.cc, line 3148)	Making a "blank" CFCache
+2025-09-16 18:35:55	WARN	AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]	Setting up for weights accumulation during gridding to compute sensitivity pattern.
+2025-09-16 18:35:55	WARN	AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]+	Consequently, the first gridding cycle will be slower than the subsequent ones.
+2025-09-16 18:35:56	WARN	SynthesisImagerVi2::fillCFCache (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisImagerVi2.cc, line 3232)	Re-loading the "blank" CFCache for filling
+2025-09-16 18:35:56	WARN	crustaceans::makeConvFunction2[R&D]	Filling CFs for baseline type 0, PA slot 0
+2025-09-16 18:36:51	WARN	task_tclean::AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]	Setting up for weights accumulation during gridding to compute sensitivity pattern.
+2025-09-16 18:36:51	WARN	task_tclean::AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]+	Consequently, the first gridding cycle will be slower than the subsequent ones.
+2025-09-16 18:36:52	WARN	task_tclean::AWProjectFT::finalizeToSky	time to massage data 0.1
+2025-09-16 18:36:52	WARN	task_tclean::AWProjectFT::finalizeToSky	time gridding 0.22
+2025-09-16 18:36:53	WARN	task_tclean::AWProjectFT::finalizeToSky	time to massage data 0.15
+2025-09-16 18:36:53	WARN	task_tclean::AWProjectFT::finalizeToSky	time gridding 0.03
+2025-09-16 18:36:54	WARN	task_tclean::AWProjectFT::finalizeToVis	Time degrid 0.02
+2025-09-16 18:36:54	WARN	task_tclean::AWProjectFT::finalizeToSky	time to massage data 0.1
+2025-09-16 18:36:54	WARN	task_tclean::AWProjectFT::finalizeToSky	time gridding 0.03
+2025-09-16 18:36:55	WARN	task_tclean::AWProjectFT::finalizeToVis	Time degrid 0.05
+2025-09-16 18:36:55	WARN	task_tclean::AWProjectFT::finalizeToSky	time to massage data 0.07
+2025-09-16 18:36:55	WARN	task_tclean::AWProjectFT::finalizeToSky	time gridding 0.06
+2025-09-16 18:36:56	WARN	task_tclean::AWProjectFT::finalizeToVis	Time degrid 0.04
+2025-09-16 18:36:56	WARN	task_tclean::AWProjectFT::finalizeToSky	time to massage data 0.08
+2025-09-16 18:36:56	WARN	task_tclean::AWProjectFT::finalizeToSky	time gridding 0.05
+2025-09-16 18:36:57	WARN	task_tclean::AWProjectFT::finalizeToVis	Time degrid 0.05
+2025-09-16 18:36:57	WARN	task_tclean::AWProjectFT::finalizeToSky	time to massage data 0.07
+2025-09-16 18:36:57	WARN	task_tclean::AWProjectFT::finalizeToSky	time gridding 0.06
+2025-09-16 18:36:58	SEVERE	tclean::::casa	[ checkall ] 
+2025-09-16 18:36:58	SEVERE	tclean::::casa+	[ check_ims ] Image made : ['tst.psf.tt0', 'tst.residual.tt0', 'tst.image.tt0', 'tst.image.tt1', 'tst.alpha'] =  [True, True, True, True, True] ( Pass : should all be True )
+2025-09-16 18:36:58	SEVERE	tclean::::casa+	All expected keywords in imageinfo, miscinfo, and coords found. (check_keywords)
+2025-09-16 18:36:58	SEVERE	tclean::::casa+	[check_history] All expected history entries found. (Pass)
+2025-09-16 18:36:58	SEVERE	tclean::::casa+	[ check_pix_val ] tst.psf.tt0 : Value is 1.0 at [256, 256, 0, 0] ( Pass : should be 1.0 , Epsilon: 0.05)
+2025-09-16 18:36:58	SEVERE	tclean::::casa+	[ check_pix_val ] tst.image.tt0 : Value is 0.49991655349731445 at [256, 256, 0, 0] ( Pass : should be 0.5 , Epsilon: 0.05)
+2025-09-16 18:36:58	SEVERE	tclean::::casa+	[ check_pix_val ] tst.alpha : Value is -0.5678095817565918 at [256, 256, 0, 0] ( Pass : should be -0.56 , Epsilon: 0.05)
+2025-09-16 18:36:58	SEVERE	tclean::::casa+	[ check_pix_val ] tst.image.tt0.pbcor : Value is 1.0094469785690308 at [256, 256, 0, 0] ( Pass : should be 1.0 , Epsilon: 0.05)
+2025-09-16 18:36:58	SEVERE	tclean::::casa+	[check_tabcache] Fail: Found open tables after run 

@@ -1,0 +1,15 @@
+2025-09-16 14:56:32	INFO	calibrater::open	****Using NEW VI2-driven calibrater tool****
+2025-09-16 14:56:32	INFO	calibrater::open	Opening MS: gaincaltest2.ms for calibration.
+2025-09-16 14:56:32	INFO		Clearing all model records in MS header.
+2025-09-16 14:56:32	INFO	VisSetUtil::addScrCols	Adding MODEL_DATA and CORRECTED_DATA column(s).
+2025-09-16 14:56:33	INFO	VisSetUtil::initScrCols	Initializing MODEL_DATA to (unity).
+2025-09-16 14:56:33	INFO	VisSetUtil::initScrCols	Initialized 328860 rows.
+2025-09-16 14:56:33	INFO	Calibrater::	Initializing nominal selection to the whole MS.
+2025-09-16 14:56:33	INFO	calibrater::setapply	Beginning setapply--(MSSelection version)-------
+2025-09-16 14:56:33	INFO	Calibrater::setapply(type, applypar)	Arranging to APPLY:
+2025-09-16 14:56:33	INFO	Calibrater::setapply(type, applypar)	.   G Jones: table=gaincaltest2.ms.G0 select= interp=linear spwmap=[-1] calWt=false
+2025-09-16 14:56:33	INFO	calibrater::correct	Beginning correct---------------------------
+2025-09-16 14:56:33	INFO	Calibrater::correct2 (VI2/VB2)	The following calibration terms are arranged for apply:
+2025-09-16 14:56:33	INFO	Calibrater::correct2 (VI2/VB2)	.   G Jones: table=gaincaltest2.ms.G0 select= interp=linear spwmap=[-1] calWt=false
+2025-09-16 14:56:35	INFO	calibrater::correct	Finished correcting.
+2025-09-16 14:56:36	WARN	calibrater::setvi(bool,bool)	Already using NEW VisibilityIterator.

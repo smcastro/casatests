@@ -1,0 +1,33 @@
+2025-09-16 14:56:25	WARN	calibrater::setvi(bool,bool)	Forcing use of OLD VisibilityIterator.
+2025-09-16 14:56:25	INFO	calibrater::open	****Using OLD VI-driven calibrater tool****
+2025-09-16 14:56:25	INFO	calibrater::open	Opening MS: ngc5921.ms for calibration.
+2025-09-16 14:56:25	INFO		Clearing all model records in MS header.
+2025-09-16 14:56:25	INFO	VisSetUtil::addScrCols	Adding MODEL_DATA and CORRECTED_DATA column(s).
+2025-09-16 14:56:25	INFO	VisSetUtil::initScrCols	Initializing MODEL_DATA to (unity).
+2025-09-16 14:56:25	INFO	VisSetUtil::initScrCols	Initialized 22653 rows.
+2025-09-16 14:56:25	INFO	Calibrater::	Initializing nominal selection to the whole MS.
+2025-09-16 14:56:25	INFO	calibrater::setsolvegainspline	Beginning setsolvegainspline--(MSSelection version)-------
+2025-09-16 14:56:25	INFO	Calibrater::setsolvegainspline	Arranging to SOLVE:
+2025-09-16 14:56:25	INFO	Calibrater::setsolvegainspline	.   GSPLINE: table=gainspline append=false solint=inf refantmode='flex' refant='none' minsnr=0 apmode=AMP solnorm=false
+2025-09-16 14:56:25	INFO	calibrater::solve	Beginning solve-----------------------------
+2025-09-16 14:56:25	INFO	Calibrater::solve	The following calibration terms are arranged for apply:
+2025-09-16 14:56:25	INFO	Calibrater::solve	.   (None)
+2025-09-16 14:56:25	INFO	Calibrater::solve	The following calibration term is arranged for solve:
+2025-09-16 14:56:25	INFO	Calibrater::solve	.   GSPLINE: table=gainspline append=false solint=inf refantmode='flex' refant='none' minsnr=0 apmode=AMP solnorm=false
+2025-09-16 14:56:25	INFO	GJonesSpline::solve() 	Fitting time-dependent cubic splines.
+2025-09-16 14:56:25	INFO	GJonesSpline::solve() 	Solving for phase splines with splinetime= 10800
+2025-09-16 14:56:25	INFO	GJonesSpline::solve() 	Solving for amplitude splines with splinetime= 10800
+2025-09-16 14:56:25	INFO	GJonesSpline::solve() 	Accumulating data for:  field= 1331+30500002_0, spw= 0, nchan= 63
+2025-09-16 14:56:25	INFO	GJonesSpline::solve() 	Accumulating data for:  field= 1445+09900002_0, spw= 0, nchan= 63
+2025-09-16 14:56:25	INFO	GJonesSpline::solve() 	Accumulating data for:  field= N5921_2, spw= 0, nchan= 63
+2025-09-16 14:56:25	INFO	GJonesSpline::solve() 	Number of timestamps in data = 60
+2025-09-16 14:56:25	INFO	GJonesSpline::getKnots() 	Gridded splinetime = 5280 sec.
+2025-09-16 14:56:25	INFO	GJonesSpline::solve() 	Number of cubic spline control points = 4
+2025-09-16 14:56:25	INFO	GJonesSpline::solve() 	Number of cubic spline knots = 8
+2025-09-16 14:56:25	INFO	GJonesSpline::solve() 	Number of cubic spline segments = 1
+2025-09-16 14:56:25	INFO	GJonesSpline::solve() 	Fitting amplitude spline.
+2025-09-16 14:56:25	INFO	GJonesSpline::solve() 	Searching for and correcting phase-wraps on each baseline.
+2025-09-16 14:56:25	INFO	GJonesSpline::solve() 	Fitting phase spline.
+2025-09-16 14:56:25	INFO	GJonesSpline::updateCalTable 	Storing solutions in table gainspline
+2025-09-16 14:56:25	INFO	calibrater::solve	Finished solving.
+2025-09-16 14:56:25	WARN	calibrater::setvi(bool,bool)	Forcing use of NEW VisibilityIterator.

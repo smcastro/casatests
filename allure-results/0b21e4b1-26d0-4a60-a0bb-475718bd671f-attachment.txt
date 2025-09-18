@@ -1,0 +1,4 @@
+2025-09-16 16:25:23	SEVERE	imrebin::image::rebin	Exception Reported: Exception: A polarization axis cannot be rebinned.
+2025-09-16 16:25:23	SEVERE	imrebin::image::rebin+	... thrown by void casa::ImageRebinner<T>::setFactors(const casacore::Vector<int>&) [with T = float] at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/ImageRebinner.tcc, line: 52
+2025-09-16 16:25:23	SEVERE	imrebin::::casa	Task imrebin raised an exception of class RuntimeError with the following message: Exception: A polarization axis cannot be rebinned.
+2025-09-16 16:25:23	SEVERE	imrebin::::casa+	... thrown by void casa::ImageRebinner<T>::setFactors(const casacore::Vector<int>&) [with T = float] at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/ImageRebinner.tcc, line: 52

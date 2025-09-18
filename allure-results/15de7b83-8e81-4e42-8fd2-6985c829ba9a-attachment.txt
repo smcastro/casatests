@@ -1,0 +1,5 @@
+2025-09-16 17:28:04	WARN	sdtimeaverage::::casa	Explicitly both 'scan' and 'state' were specified in 'timespan'.
+2025-09-16 17:28:04	WARN	sdtimeaverage::::casa+	   If 'state' distinguishes OBSERVE_TARGET#ON_SOURCE / OBSERVE_TARGET#OFF_SOURCE,
+2025-09-16 17:28:04	WARN	sdtimeaverage::::casa+	   these two states are mixed, and unexpectedly averaged results might be generated.
+2025-09-16 17:28:04	WARN	sdtimeaverage::::casa+	(Suggestion) Please specify timespan = 'scan'
+2025-09-16 17:28:04	WARN	sdtimeaverage::::casa+	             to separate OBSERVE_TARGET#ON_SOURCE and OBSERVE_TARGET#OFF_SOURCE.

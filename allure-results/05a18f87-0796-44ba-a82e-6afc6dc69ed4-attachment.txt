@@ -1,0 +1,4 @@
+(100, 100, 2, 1)
+(100, 100, 2, 1)
+is equal:  False
+/casadata/repository/casatestdata/unittest/imdev/orion_tfeather.im

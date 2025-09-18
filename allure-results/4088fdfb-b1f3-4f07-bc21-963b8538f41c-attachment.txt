@@ -1,0 +1,490 @@
+List value of cal_grp: (array([0, 0, 0, 0, 0]), {})
+Read value:      (array([0, 0, 0, 0, 0]), {})
+
+************* Test 1 (get cal_grp[0]) start *************
+************* Test get cal_grp[0] OK *************
+
+************* Test 2 (get cal_grp[1]) start *************
+************* Test get cal_grp[1] OK *************
+
+************* Test 3 (put/get cal_grp[0]) start *************
+New value:       42.0
+Read new value:  42
+************* Test put/get cal_grp[0] OK *************
+
+************* Test 4 (put/get cal_grp[1]) start *************
+New value:       42.0
+Read new value:  42
+************* Test put/get cal_grp[1] OK *************
+
+************* Test 5 (put/get cal_grp[2]) start *************
+New value:       42.0
+Read new value:  42
+************* Test put/get cal_grp[2] OK *************
+
+************* Test 6 (put/get cal_grp[3]) start *************
+New value:       42.0
+Read new value:  42
+************* Test put/get cal_grp[3] OK *************
+
+************* Test 7 (put/get cal_grp[4]) start *************
+New value:       42.0
+Read new value:  42
+************* Test put/get cal_grp[4] OK *************
+List value of field: (array(['3C273-F0', '1310+323-F0', 'NGC4826-F0', 'NGC4826-F1',
+       'NGC4826-F2', 'NGC4826-F3', 'NGC4826-F4', 'NGC4826-F5',
+       'NGC4826-F6'], dtype='<U11'), {})
+Read value:      (array(['3C273-F0', '1310+323-F0', 'NGC4826-F0', 'NGC4826-F1',
+       'NGC4826-F2', 'NGC4826-F3', 'NGC4826-F4', 'NGC4826-F5',
+       'NGC4826-F6'], dtype='<U11'), {})
+
+************* Test 8 (get field[0]) start *************
+************* Test get field[0] OK *************
+
+************* Test 9 (get field[1]) start *************
+************* Test get field[1] OK *************
+
+************* Test 10 (put/get field[0]) start *************
+New value:       the_coolest_3C273-F0
+Read new value:  the_coolest_3C273-F0
+************* Test put/get field[0] OK *************
+
+************* Test 11 (put/get field[1]) start *************
+New value:       the_coolest_1310+323-F0
+Read new value:  the_coolest_1310+323-F0
+************* Test put/get field[1] OK *************
+
+************* Test 12 (put/get field[2]) start *************
+New value:       the_coolest_NGC4826-F0
+Read new value:  the_coolest_NGC4826-F0
+************* Test put/get field[2] OK *************
+
+************* Test 13 (put/get field[3]) start *************
+New value:       the_coolest_NGC4826-F1
+Read new value:  the_coolest_NGC4826-F1
+************* Test put/get field[3] OK *************
+
+************* Test 14 (put/get field[4]) start *************
+New value:       the_coolest_NGC4826-F2
+Read new value:  the_coolest_NGC4826-F2
+************* Test put/get field[4] OK *************
+
+************* Test 15 (put/get field[5]) start *************
+New value:       the_coolest_NGC4826-F3
+Read new value:  the_coolest_NGC4826-F3
+************* Test put/get field[5] OK *************
+
+************* Test 16 (put/get field[6]) start *************
+New value:       the_coolest_NGC4826-F4
+Read new value:  the_coolest_NGC4826-F4
+************* Test put/get field[6] OK *************
+
+************* Test 17 (put/get field[7]) start *************
+New value:       the_coolest_NGC4826-F5
+Read new value:  the_coolest_NGC4826-F5
+************* Test put/get field[7] OK *************
+
+************* Test 18 (put/get field[8]) start *************
+New value:       the_coolest_NGC4826-F6
+Read new value:  the_coolest_NGC4826-F6
+************* Test put/get field[8] OK *************
+List value of fld_code: (array(['', '', '', '', '', '', '', '', ''], dtype='<U5'), {})
+Read value:      (array(['', '', '', '', '', '', '', '', ''], dtype='<U5'), {})
+
+************* Test 19 (get fld_code[0]) start *************
+************* Test get fld_code[0] OK *************
+
+************* Test 20 (get fld_code[1]) start *************
+************* Test get fld_code[1] OK *************
+
+************* Test 21 (put/get fld_code[0]) start *************
+New value:       the_coolest_
+Read new value:  the_coolest_
+************* Test put/get fld_code[0] OK *************
+
+************* Test 22 (put/get fld_code[1]) start *************
+New value:       the_coolest_
+Read new value:  the_coolest_
+************* Test put/get fld_code[1] OK *************
+
+************* Test 23 (put/get fld_code[2]) start *************
+New value:       the_coolest_
+Read new value:  the_coolest_
+************* Test put/get fld_code[2] OK *************
+
+************* Test 24 (put/get fld_code[3]) start *************
+New value:       the_coolest_
+Read new value:  the_coolest_
+************* Test put/get fld_code[3] OK *************
+
+************* Test 25 (put/get fld_code[4]) start *************
+New value:       the_coolest_
+Read new value:  the_coolest_
+************* Test put/get fld_code[4] OK *************
+
+************* Test 26 (put/get fld_code[5]) start *************
+New value:       the_coolest_
+Read new value:  the_coolest_
+************* Test put/get fld_code[5] OK *************
+
+************* Test 27 (put/get fld_code[6]) start *************
+New value:       the_coolest_
+Read new value:  the_coolest_
+************* Test put/get fld_code[6] OK *************
+
+************* Test 28 (put/get fld_code[7]) start *************
+New value:       the_coolest_
+Read new value:  the_coolest_
+************* Test put/get fld_code[7] OK *************
+
+************* Test 29 (put/get fld_code[8]) start *************
+New value:       the_coolest_
+Read new value:  the_coolest_
+************* Test put/get fld_code[8] OK *************
+List value of freq_group_name: (array(['SIDEBAND-AVG', 'SIDEBAND-AVG', 'MULTI-CHANNEL-DATA',
+       'MULTI-CHANNEL-DATA', 'MULTI-CHANNEL-DATA', 'MULTI-CHANNEL-DATA'],
+      dtype='<U18'), {})
+Read value:      (array(['SIDEBAND-AVG', 'SIDEBAND-AVG', 'MULTI-CHANNEL-DATA',
+       'MULTI-CHANNEL-DATA', 'MULTI-CHANNEL-DATA', 'MULTI-CHANNEL-DATA'],
+      dtype='<U18'), {})
+
+************* Test 30 (get freq_group_name[0]) start *************
+************* Test get freq_group_name[0] OK *************
+
+************* Test 31 (get freq_group_name[1]) start *************
+************* Test get freq_group_name[1] OK *************
+
+************* Test 32 (put/get freq_group_name[0]) start *************
+New value:       the_coolest_SIDEBAND-AVG
+Read new value:  the_coolest_SIDEBAND-AVG
+************* Test put/get freq_group_name[0] OK *************
+
+************* Test 33 (put/get freq_group_name[1]) start *************
+New value:       the_coolest_SIDEBAND-AVG
+Read new value:  the_coolest_SIDEBAND-AVG
+************* Test put/get freq_group_name[1] OK *************
+
+************* Test 34 (put/get freq_group_name[2]) start *************
+New value:       the_coolest_MULTI-CHANNEL-DATA
+Read new value:  the_coolest_MULTI-CHANNEL-DATA
+************* Test put/get freq_group_name[2] OK *************
+
+************* Test 35 (put/get freq_group_name[3]) start *************
+New value:       the_coolest_MULTI-CHANNEL-DATA
+Read new value:  the_coolest_MULTI-CHANNEL-DATA
+************* Test put/get freq_group_name[3] OK *************
+
+************* Test 36 (put/get freq_group_name[4]) start *************
+New value:       the_coolest_MULTI-CHANNEL-DATA
+Read new value:  the_coolest_MULTI-CHANNEL-DATA
+************* Test put/get freq_group_name[4] OK *************
+
+************* Test 37 (put/get freq_group_name[5]) start *************
+New value:       the_coolest_MULTI-CHANNEL-DATA
+Read new value:  the_coolest_MULTI-CHANNEL-DATA
+************* Test put/get freq_group_name[5] OK *************
+List value of log: ({'r1': array([['See HISTORY for BIMA observing log']], dtype='<U34'), 'r2': array([['See HISTORY for BIMA observing log']], dtype='<U34'), 'r3': array([['See HISTORY for BIMA observing log']], dtype='<U34'), 'r4': array([['See HISTORY for BIMA observing log']], dtype='<U34'), 'r5': array([['See HISTORY for BIMA observing log']], dtype='<U34')}, {})
+Read value:      ({'r1': array([['See HISTORY for BIMA observing log']], dtype='<U34'), 'r2': array([['See HISTORY for BIMA observing log']], dtype='<U34'), 'r3': array([['See HISTORY for BIMA observing log']], dtype='<U34'), 'r4': array([['See HISTORY for BIMA observing log']], dtype='<U34'), 'r5': array([['See HISTORY for BIMA observing log']], dtype='<U34')}, {})
+
+************* Test 38 (get log[0]) start *************
+************* Test get log[0] OK *************
+
+************* Test 39 (get log[1]) start *************
+************* Test get log[1] OK *************
+log is probably a column with variable length arrays, don't try to write that
+List value of observer: (array(['', '', '', '', ''], dtype='<U5'), {})
+Read value:      (array(['', '', '', '', ''], dtype='<U5'), {})
+
+************* Test 40 (get observer[0]) start *************
+************* Test get observer[0] OK *************
+
+************* Test 41 (get observer[1]) start *************
+************* Test get observer[1] OK *************
+
+************* Test 42 (put/get observer[0]) start *************
+New value:       the_coolest_
+Read new value:  the_coolest_
+************* Test put/get observer[0] OK *************
+
+************* Test 43 (put/get observer[1]) start *************
+New value:       the_coolest_
+Read new value:  the_coolest_
+************* Test put/get observer[1] OK *************
+
+************* Test 44 (put/get observer[2]) start *************
+New value:       the_coolest_
+Read new value:  the_coolest_
+************* Test put/get observer[2] OK *************
+
+************* Test 45 (put/get observer[3]) start *************
+New value:       the_coolest_
+Read new value:  the_coolest_
+************* Test put/get observer[3] OK *************
+
+************* Test 46 (put/get observer[4]) start *************
+New value:       the_coolest_
+Read new value:  the_coolest_
+************* Test put/get observer[4] OK *************
+List value of project: (array(['t108c115.n48', 't108c115.n48', 't108c115.n48', 't108c115.n48',
+       't108c115.n48'], dtype='<U12'), {})
+Read value:      (array(['t108c115.n48', 't108c115.n48', 't108c115.n48', 't108c115.n48',
+       't108c115.n48'], dtype='<U12'), {})
+
+************* Test 47 (get project[0]) start *************
+************* Test get project[0] OK *************
+
+************* Test 48 (get project[1]) start *************
+************* Test get project[1] OK *************
+
+************* Test 49 (put/get project[0]) start *************
+New value:       the_coolest_t108c115.n48
+Read new value:  the_coolest_t108c115.n48
+************* Test put/get project[0] OK *************
+
+************* Test 50 (put/get project[1]) start *************
+New value:       the_coolest_t108c115.n48
+Read new value:  the_coolest_t108c115.n48
+************* Test put/get project[1] OK *************
+
+************* Test 51 (put/get project[2]) start *************
+New value:       the_coolest_t108c115.n48
+Read new value:  the_coolest_t108c115.n48
+************* Test put/get project[2] OK *************
+
+************* Test 52 (put/get project[3]) start *************
+New value:       the_coolest_t108c115.n48
+Read new value:  the_coolest_t108c115.n48
+************* Test put/get project[3] OK *************
+
+************* Test 53 (put/get project[4]) start *************
+New value:       the_coolest_t108c115.n48
+Read new value:  the_coolest_t108c115.n48
+************* Test put/get project[4] OK *************
+List value of ptcs: ({'r1': array([[[-3.01456907]],
+
+       [[ 0.03582093]]]), 'r2': array([[[-2.83407554]],
+
+       [[ 0.56453539]]]), 'r3': array([[[-2.89402933]],
+
+       [[ 0.37847028]]]), 'r4': array([[[-2.89425879]],
+
+       [[ 0.37847028]]]), 'r5': array([[[-2.89414422]],
+
+       [[ 0.378655  ]]]), 'r6': array([[[-2.89391445]],
+
+       [[ 0.378655  ]]]), 'r7': array([[[-2.89379988]],
+
+       [[ 0.37847028]]]), 'r8': array([[[-2.89391445]],
+
+       [[ 0.37828557]]]), 'r9': array([[[-2.89414422]],
+
+       [[ 0.37828557]]])}, {'MEASINFO': {'Ref': 'J2000', 'type': 'direction'}, 'QuantumUnits': array(['rad', 'rad'], dtype='<U3')})
+Read value:      ({'r1': array([[[-3.01456907]],
+
+       [[ 0.03582093]]]), 'r2': array([[[-2.83407554]],
+
+       [[ 0.56453539]]]), 'r3': array([[[-2.89402933]],
+
+       [[ 0.37847028]]]), 'r4': array([[[-2.89425879]],
+
+       [[ 0.37847028]]]), 'r5': array([[[-2.89414422]],
+
+       [[ 0.378655  ]]]), 'r6': array([[[-2.89391445]],
+
+       [[ 0.378655  ]]]), 'r7': array([[[-2.89379988]],
+
+       [[ 0.37847028]]]), 'r8': array([[[-2.89391445]],
+
+       [[ 0.37828557]]]), 'r9': array([[[-2.89414422]],
+
+       [[ 0.37828557]]])}, {'MEASINFO': {'Ref': 'J2000', 'type': 'direction'}, 'QuantumUnits': array(['rad', 'rad'], dtype='<U3')})
+
+************* Test 54 (get ptcs[0]) start *************
+************* Test get ptcs[0] OK *************
+
+************* Test 55 (get ptcs[1]) start *************
+************* Test get ptcs[1] OK *************
+ptcs is probably a column with variable length arrays, don't try to write that
+List value of release_date: (array([4.44762648e+09, 4.44765409e+09, 4.44765349e+09, 4.44765409e+09,
+       4.44765349e+09]), {'MEASINFO': {'Ref': 'UTC', 'type': 'epoch'}, 'QuantumUnits': array(['s'], dtype='<U1')})
+Read value:      (array([4.44762648e+09, 4.44765409e+09, 4.44765349e+09, 4.44765409e+09,
+       4.44765349e+09]), {'MEASINFO': {'Ref': 'UTC', 'type': 'epoch'}, 'QuantumUnits': array(['s'], dtype='<U1')})
+
+************* Test 56 (get release_date[0]) start *************
+************* Test get release_date[0] OK *************
+
+************* Test 57 (get release_date[1]) start *************
+************* Test get release_date[1] OK *************
+
+************* Test 58 (put/get release_date[0]) start *************
+New value:       4447626518.249618
+Read new value:  4447626518.249618
+************* Test put/get release_date[0] OK *************
+
+************* Test 59 (put/get release_date[1]) start *************
+New value:       4447654133.299631
+Read new value:  4447654133.299631
+************* Test put/get release_date[1] OK *************
+
+************* Test 60 (put/get release_date[2]) start *************
+New value:       4447653535.139608
+Read new value:  4447653535.139608
+************* Test put/get release_date[2] OK *************
+
+************* Test 61 (put/get release_date[3]) start *************
+New value:       4447654133.299631
+Read new value:  4447654133.299631
+************* Test put/get release_date[3] OK *************
+
+************* Test 62 (put/get release_date[4]) start *************
+New value:       4447653535.139608
+Read new value:  4447653535.139608
+************* Test put/get release_date[4] OK *************
+List value of schedule: ({'r1': False, 'r2': array([], shape=(0, 1), dtype='<U5'), 'r3': array([], shape=(0, 1), dtype='<U5'), 'r4': array([], shape=(0, 1), dtype='<U5'), 'r5': array([], shape=(0, 1), dtype='<U5')}, {})
+Read value:      ({'r1': False, 'r2': array([], shape=(0, 1), dtype='<U5'), 'r3': array([], shape=(0, 1), dtype='<U5'), 'r4': array([], shape=(0, 1), dtype='<U5'), 'r5': array([], shape=(0, 1), dtype='<U5')}, {})
+
+************* Test 63 (get schedule[0]) start *************
+************* Test get schedule[0] OK *************
+
+************* Test 64 (get schedule[1]) start *************
+************* Test get schedule[1] OK *************
+schedule is probably a column with variable length arrays, don't try to write that
+List value of schedule_type: (array(['', '', '', '', ''], dtype='<U5'), {})
+Read value:      (array(['', '', '', '', ''], dtype='<U5'), {})
+
+************* Test 65 (get schedule_type[0]) start *************
+************* Test get schedule_type[0] OK *************
+
+************* Test 66 (get schedule_type[1]) start *************
+************* Test get schedule_type[1] OK *************
+
+************* Test 67 (put/get schedule_type[0]) start *************
+New value:       the_coolest_
+Read new value:  the_coolest_
+************* Test put/get schedule_type[0] OK *************
+
+************* Test 68 (put/get schedule_type[1]) start *************
+New value:       the_coolest_
+Read new value:  the_coolest_
+************* Test put/get schedule_type[1] OK *************
+
+************* Test 69 (put/get schedule_type[2]) start *************
+New value:       the_coolest_
+Read new value:  the_coolest_
+************* Test put/get schedule_type[2] OK *************
+
+************* Test 70 (put/get schedule_type[3]) start *************
+New value:       the_coolest_
+Read new value:  the_coolest_
+************* Test put/get schedule_type[3] OK *************
+
+************* Test 71 (put/get schedule_type[4]) start *************
+New value:       the_coolest_
+Read new value:  the_coolest_
+************* Test put/get schedule_type[4] OK *************
+List value of source_name: (array(['3C273', '1310+323', 'NGC4826', '1310+323', 'NGC4826'], dtype='<U8'), {})
+Read value:      (array(['3C273', '1310+323', 'NGC4826', '1310+323', 'NGC4826'], dtype='<U8'), {})
+
+************* Test 72 (get source_name[0]) start *************
+************* Test get source_name[0] OK *************
+
+************* Test 73 (get source_name[1]) start *************
+************* Test get source_name[1] OK *************
+
+************* Test 74 (put/get source_name[0]) start *************
+New value:       the_coolest_3C273
+Read new value:  the_coolest_3C273
+************* Test put/get source_name[0] OK *************
+
+************* Test 75 (put/get source_name[1]) start *************
+New value:       the_coolest_1310+323
+Read new value:  the_coolest_1310+323
+************* Test put/get source_name[1] OK *************
+
+************* Test 76 (put/get source_name[2]) start *************
+New value:       the_coolest_NGC4826
+Read new value:  the_coolest_NGC4826
+************* Test put/get source_name[2] OK *************
+
+************* Test 77 (put/get source_name[3]) start *************
+New value:       the_coolest_1310+323
+Read new value:  the_coolest_1310+323
+************* Test put/get source_name[3] OK *************
+
+************* Test 78 (put/get source_name[4]) start *************
+New value:       the_coolest_NGC4826
+Read new value:  the_coolest_NGC4826
+************* Test put/get source_name[4] OK *************
+List value of spw_name: (array(['', '', '', '', '', ''], dtype='<U5'), {})
+Read value:      (array(['', '', '', '', '', ''], dtype='<U5'), {})
+
+************* Test 79 (get spw_name[0]) start *************
+************* Test get spw_name[0] OK *************
+
+************* Test 80 (get spw_name[1]) start *************
+************* Test get spw_name[1] OK *************
+
+************* Test 81 (put/get spw_name[0]) start *************
+New value:       the_coolest_
+Read new value:  the_coolest_
+************* Test put/get spw_name[0] OK *************
+
+************* Test 82 (put/get spw_name[1]) start *************
+New value:       the_coolest_
+Read new value:  the_coolest_
+************* Test put/get spw_name[1] OK *************
+
+************* Test 83 (put/get spw_name[2]) start *************
+New value:       the_coolest_
+Read new value:  the_coolest_
+************* Test put/get spw_name[2] OK *************
+
+************* Test 84 (put/get spw_name[3]) start *************
+New value:       the_coolest_
+Read new value:  the_coolest_
+************* Test put/get spw_name[3] OK *************
+
+************* Test 85 (put/get spw_name[4]) start *************
+New value:       the_coolest_
+Read new value:  the_coolest_
+************* Test put/get spw_name[4] OK *************
+
+************* Test 86 (put/get spw_name[5]) start *************
+New value:       the_coolest_
+Read new value:  the_coolest_
+************* Test put/get spw_name[5] OK *************
+List value of telescope: (array(['BIMA', 'BIMA', 'BIMA', 'BIMA', 'BIMA'], dtype='<U4'), {})
+Read value:      (array(['BIMA', 'BIMA', 'BIMA', 'BIMA', 'BIMA'], dtype='<U4'), {})
+
+************* Test 87 (get telescope[0]) start *************
+************* Test get telescope[0] OK *************
+
+************* Test 88 (get telescope[1]) start *************
+************* Test get telescope[1] OK *************
+
+************* Test 89 (put/get telescope[0]) start *************
+New value:       the_coolest_BIMA
+Read new value:  the_coolest_BIMA
+************* Test put/get telescope[0] OK *************
+
+************* Test 90 (put/get telescope[1]) start *************
+New value:       the_coolest_BIMA
+Read new value:  the_coolest_BIMA
+************* Test put/get telescope[1] OK *************
+
+************* Test 91 (put/get telescope[2]) start *************
+New value:       the_coolest_BIMA
+Read new value:  the_coolest_BIMA
+************* Test put/get telescope[2] OK *************
+
+************* Test 92 (put/get telescope[3]) start *************
+New value:       the_coolest_BIMA
+Read new value:  the_coolest_BIMA
+************* Test put/get telescope[3] OK *************
+
+************* Test 93 (put/get telescope[4]) start *************
+New value:       the_coolest_BIMA
+Read new value:  the_coolest_BIMA
+************* Test put/get telescope[4] OK *************
+93/93 tests passed
+All tests passed, congratulations!

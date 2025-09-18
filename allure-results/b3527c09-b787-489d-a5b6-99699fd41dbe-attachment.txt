@@ -1,0 +1,2 @@
+Starting imval INPUT/OUTPUT tests.
+Performing input/output tests on imagename, errors WILL occur.

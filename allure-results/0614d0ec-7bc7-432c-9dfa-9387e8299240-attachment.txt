@@ -1,0 +1,2 @@
+2025-09-16 15:46:04	WARN	Clip::setAgentParameters (file /source/casa6/casatools/src/code/flagging/Flagging/FlagAgentBase.cc, line 1178)	 Unsupported complex operator: SOL1; using ABS by default.  Supported expressions: REAL,IMAG,ARG,ABS,NORM.
+2025-09-16 15:46:04	WARN	Tfcrop::setAgentParameters (file /source/casa6/casatools/src/code/flagging/Flagging/FlagAgentBase.cc, line 1178)	 Unsupported complex operator: SOL1; using ABS by default.  Supported expressions: REAL,IMAG,ARG,ABS,NORM.

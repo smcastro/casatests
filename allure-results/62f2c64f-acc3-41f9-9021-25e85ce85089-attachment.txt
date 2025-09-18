@@ -1,0 +1,3 @@
+2025-09-16 15:38:57	WARN	exportuvfits::MSFitsOutput::write	Multiple sources are present, thus written as a multi-source FITS file
+2025-09-16 15:38:57	SEVERE	exportuvfits::MSFitsOutput::_writeMain	Cannot deduce MS epoch. Assuming J2000
+....10....20....30....40....50....60....70....80....90....100%

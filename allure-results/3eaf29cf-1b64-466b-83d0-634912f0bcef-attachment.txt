@@ -1,0 +1,2 @@
+2025-09-16 17:41:06	WARN	tclean::::casa	Some of the MSes donot have WEIGHT_SPECTRUM while some other do. Automatically adding the column and initialize using the existing WEIGHT column for those don't to avoid a process failure.
+2025-09-16 17:41:06	WARN	tclean::::casa	Adding WEIGHT_SPECTRUM in the following MS(s): ['refim_point_onespw1_noWtSpec.ms']

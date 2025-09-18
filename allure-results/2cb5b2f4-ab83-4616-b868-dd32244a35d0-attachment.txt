@@ -1,0 +1,19 @@
+2025-09-16 17:01:15	SEVERE	sdbaseline::::casa	Traceback (most recent call last):
+2025-09-16 17:01:15	SEVERE	sdbaseline::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:01:15	SEVERE	sdbaseline::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdbaseline.py", line 54, in sdbaseline
+2025-09-16 17:01:15	SEVERE	sdbaseline::::casa+	    temp_outfile = _do_fit(infile, datacolumn, antenna, field, spw, timerange, scan,
+2025-09-16 17:01:15	SEVERE	sdbaseline::::casa+	                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:01:15	SEVERE	sdbaseline::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdbaseline.py", line 491, in _do_fit
+2025-09-16 17:01:15	SEVERE	sdbaseline::::casa+	    blformat, bloutput = prepare_for_blformat_bloutput(infile, blformat, bloutput, overwrite)
+2025-09-16 17:01:15	SEVERE	sdbaseline::::casa+	                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:01:15	SEVERE	sdbaseline::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdbaseline.py", line 141, in prepare_for_blformat_bloutput
+2025-09-16 17:01:15	SEVERE	sdbaseline::::casa+	    bloutput = normalise_bloutput(infile, blformat, bloutput, overwrite)
+2025-09-16 17:01:15	SEVERE	sdbaseline::::casa+	               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:01:15	SEVERE	sdbaseline::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdbaseline.py", line 186, in normalise_bloutput
+2025-09-16 17:01:15	SEVERE	sdbaseline::::casa+	    return [get_normalised_name(infile, blformat, bloutput, item[0], item[1], overwrite)
+2025-09-16 17:01:15	SEVERE	sdbaseline::::casa+	            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:01:15	SEVERE	sdbaseline::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdbaseline.py", line 201, in get_normalised_name
+2025-09-16 17:01:15	SEVERE	sdbaseline::::casa+	    raise ValueError(fname + ' exists.')
+2025-09-16 17:01:15	SEVERE	sdbaseline::::casa+	ValueError: OrionS_rawACSmod_calave.ms_blparam.txt exists.
+2025-09-16 17:01:15	SEVERE	sdbaseline::::casa	OrionS_rawACSmod_calave.ms_blparam.txt exists.
+2025-09-16 17:01:15	SEVERE	sdbaseline::::casa	Task sdbaseline raised an exception of class ValueError with the following message: OrionS_rawACSmod_calave.ms_blparam.txt exists.

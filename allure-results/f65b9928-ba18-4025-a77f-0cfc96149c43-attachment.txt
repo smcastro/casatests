@@ -1,0 +1,4 @@
+2025-09-16 16:25:11	WARN	importvla::VLAFiller::fill	Unsupported observing mode: IR interferometer reference pointing mode
+2025-09-16 16:25:14	WARN	importvla::VLAFiller::fill	Unsupported observing mode: TE tipping curve
+2025-09-16 16:25:15	WARN	importvla::VLAFiller::fill	Unsupported observing mode: IR interferometer reference pointing mode
+2025-09-16 16:25:17	WARN	importvla::VLAFiller::fill	Unsupported observing mode: TE tipping curve

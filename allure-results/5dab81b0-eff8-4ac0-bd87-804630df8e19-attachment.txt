@@ -1,0 +1,81 @@
+2025-09-16 14:56:49	INFO	ImageFactory::createImage	Created Paged image 'myim_0.im' of shape [10, 20, 41, 1] with float valued pixels.
+2025-09-16 14:56:49	INFO	ImageMaskHandler::_calcmask	Created mask `mask0'
+2025-09-16 14:56:49	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:49	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:49	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:56:49	INFO	ImageDecimator::decimate	Original /scratch/scastro/casa/Tests/reports/myim_0.im size => [10, 20, 41, 1]
+2025-09-16 14:56:49	INFO	ImageDecimator::decimate	New  size => [10, 20, 11, 1]
+2025-09-16 14:56:49	INFO	ImageFactory::createImage	Created Paged image 'myim_1.im' of shape [10, 20, 41, 1] with float valued pixels.
+2025-09-16 14:56:49	INFO	ImageMaskHandler::_calcmask	Created mask `mask0'
+2025-09-16 14:56:49	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:49	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:49	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:56:49	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:49	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:49	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [9, 19, 3, 0]  (00:00:20.000, -00.10.00.001, 1.41498e+09Hz, I to 23:59:44.000, +00.09.00.001, 1.41498e+09Hz, I)
+2025-09-16 14:56:49	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord+	    [0, 0, 4, 0] to [9, 19, 7, 0]  (00:00:20.000, -00.10.00.001, 1.41498e+09Hz, I to 23:59:44.000, +00.09.00.001, 1.41499e+09Hz, I)
+2025-09-16 14:56:49	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord+	    [0, 0, 8, 0] to [9, 19, 11, 0]  (00:00:20.000, -00.10.00.001, 1.41499e+09Hz, I to 23:59:44.000, +00.09.00.001, 1.41499e+09Hz, I)
+2025-09-16 14:56:49	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord+	    [0, 0, 12, 0] to [9, 19, 15, 0]  (00:00:20.000, -00.10.00.001, 1.41499e+09Hz, I to 23:59:44.000, +00.09.00.001, 1.415e+09Hz, I)
+2025-09-16 14:56:49	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord+	    [0, 0, 16, 0] to [9, 19, 19, 0]  (00:00:20.000, -00.10.00.001, 1.415e+09Hz, I to 23:59:44.000, +00.09.00.001, 1.415e+09Hz, I)
+2025-09-16 14:56:49	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord+	    [0, 0, 20, 0] to [9, 19, 23, 0]  (00:00:20.000, -00.10.00.001, 1.415e+09Hz, I to 23:59:44.000, +00.09.00.001, 1.415e+09Hz, I)
+2025-09-16 14:56:49	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord+	    [0, 0, 24, 0] to [9, 19, 27, 0]  (00:00:20.000, -00.10.00.001, 1.415e+09Hz, I to 23:59:44.000, +00.09.00.001, 1.41501e+09Hz, I)
+2025-09-16 14:56:49	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord+	    [0, 0, 28, 0] to [9, 19, 31, 0]  (00:00:20.000, -00.10.00.001, 1.41501e+09Hz, I to 23:59:44.000, +00.09.00.001, 1.41501e+09Hz, I)
+2025-09-16 14:56:49	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord+	    [0, 0, 32, 0] to [9, 19, 35, 0]  (00:00:20.000, -00.10.00.001, 1.41501e+09Hz, I to 23:59:44.000, +00.09.00.001, 1.41502e+09Hz, I)
+2025-09-16 14:56:49	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord+	    [0, 0, 36, 0] to [9, 19, 39, 0]  (00:00:20.000, -00.10.00.001, 1.41502e+09Hz, I to 23:59:44.000, +00.09.00.001, 1.41502e+09Hz, I)
+2025-09-16 14:56:49	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:49	INFO	ImageDecimator::decimate	Original /scratch/scastro/casa/Tests/reports/myim_1.im size => [10, 20, 41, 1]
+2025-09-16 14:56:49	INFO	ImageDecimator::decimate	New  size => [10, 20, 10, 1]
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [9, 19, 3, 0]  (00:00:20.000, -00.10.00.001, 1.41498e+09Hz, I to 23:59:44.000, +00.09.00.001, 1.41498e+09Hz, I)
+2025-09-16 14:56:49	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord+	    [0, 0, 4, 0] to [9, 19, 7, 0]  (00:00:20.000, -00.10.00.001, 1.41498e+09Hz, I to 23:59:44.000, +00.09.00.001, 1.41499e+09Hz, I)
+2025-09-16 14:56:49	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord+	    [0, 0, 8, 0] to [9, 19, 11, 0]  (00:00:20.000, -00.10.00.001, 1.41499e+09Hz, I to 23:59:44.000, +00.09.00.001, 1.41499e+09Hz, I)
+2025-09-16 14:56:49	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord+	    [0, 0, 12, 0] to [9, 19, 15, 0]  (00:00:20.000, -00.10.00.001, 1.41499e+09Hz, I to 23:59:44.000, +00.09.00.001, 1.415e+09Hz, I)
+2025-09-16 14:56:49	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord+	    [0, 0, 16, 0] to [9, 19, 19, 0]  (00:00:20.000, -00.10.00.001, 1.415e+09Hz, I to 23:59:44.000, +00.09.00.001, 1.415e+09Hz, I)
+2025-09-16 14:56:49	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord+	    [0, 0, 20, 0] to [9, 19, 23, 0]  (00:00:20.000, -00.10.00.001, 1.415e+09Hz, I to 23:59:44.000, +00.09.00.001, 1.415e+09Hz, I)
+2025-09-16 14:56:49	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord+	    [0, 0, 24, 0] to [9, 19, 27, 0]  (00:00:20.000, -00.10.00.001, 1.415e+09Hz, I to 23:59:44.000, +00.09.00.001, 1.41501e+09Hz, I)
+2025-09-16 14:56:49	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord+	    [0, 0, 28, 0] to [9, 19, 31, 0]  (00:00:20.000, -00.10.00.001, 1.41501e+09Hz, I to 23:59:44.000, +00.09.00.001, 1.41501e+09Hz, I)
+2025-09-16 14:56:49	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord+	    [0, 0, 32, 0] to [9, 19, 35, 0]  (00:00:20.000, -00.10.00.001, 1.41501e+09Hz, I to 23:59:44.000, +00.09.00.001, 1.41502e+09Hz, I)
+2025-09-16 14:56:49	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord+	    [0, 0, 36, 0] to [9, 19, 39, 0]  (00:00:20.000, -00.10.00.001, 1.41502e+09Hz, I to 23:59:44.000, +00.09.00.001, 1.41502e+09Hz, I)
+2025-09-16 14:56:49	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:49	INFO	name::	No table opened.
+2025-09-16 14:56:49	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:56:49	INFO	name::	No table opened.
+2025-09-16 14:56:49	INFO	name::	No table opened.

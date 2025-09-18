@@ -1,0 +1,5 @@
+2025-09-16 16:11:36	WARN	immath::::casa	The IMAGENAME parameter tests will cause errors to occur, do not be alarmed
+2025-09-16 16:11:36	SEVERE	immath::::casa	Image data set not found - please verify junk
+2025-09-16 16:11:36	SEVERE	immath::::casa	Unable to process expression IM0
+2025-09-16 16:11:36	SEVERE	immath::::casa	Exception caught was: Image data set not found - please verify junk
+2025-09-16 16:11:36	SEVERE	immath::::casa	Task immath raised an exception of class Exception with the following message: Image data set not found - please verify junk

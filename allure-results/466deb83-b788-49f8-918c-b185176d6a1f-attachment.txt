@@ -1,0 +1,22 @@
+2025-09-16 14:57:46	INFO	test
+::ms::cvelfreqs	Calculating grid ...
+2025-09-16 14:57:46	INFO	test
+::ms::cvelfreqs	Using observation time from earliest row of the MS given the SPW and FIELD selection:
+2025-09-16 14:57:46	INFO	test
+::ms::cvelfreqs	    1995/04/13/09:19:00 (TAI)
+2025-09-16 14:57:46	INFO	test
+::ms::cvelfreqs	Using tabulated observatory position for VLA:
+2025-09-16 14:57:46	INFO	test
+::ms::cvelfreqs	   Position: [-1.60119e+06, -5.04198e+06, 3.55488e+06] (ITRF)
+2025-09-16 14:57:46	INFO	test
+::SubMS::convertGridPars	 Channels equidistant in freq
+2025-09-16 14:57:46	INFO	test
+::SubMS::convertGridPars+	 Central frequency (in output frame) = 1.41341e+09 Hz
+2025-09-16 14:57:46	INFO	test
+::SubMS::convertGridPars+	 Width of central channel (in output frame) = 48828.1 Hz
+2025-09-16 14:57:46	INFO	test
+::SubMS::convertGridPars+	 Number of channels = 31
+2025-09-16 14:57:46	INFO	test
+::SubMS::convertGridPars+	 Total width of SPW (in output frame) = 1.51367e+06 Hz
+2025-09-16 14:57:46	INFO	test
+::SubMS::convertGridPars+	 Lower edge = 1.41265e+09 Hz, upper edge = 1.41417e+09 Hz

@@ -1,0 +1,56 @@
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::	Exception Reported: The number of shift should match that of images
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa	Traceback (most recent call last):
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdsidebandsplit.py", line 14, in sdsidebandsplit
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	    separator.setshift(signalshift, True)
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/sidebandseparator.py", line 44, in setshift
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	    return self._swigobj.setshift(shift, signal)
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/__casac__/sidebandseparator.py", line 198, in setshift
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	    return _sidebandseparator.sidebandseparator_setshift(self, *args, **kwargs)
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	RuntimeError: The number of shift should match that of images
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa	The number of shift should match that of images
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa	Task sdsidebandsplit raised an exception of class RuntimeError with the following message: The number of shift should match that of images
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::	Exception Reported: The number of shift should match that of images
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa	Traceback (most recent call last):
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdsidebandsplit.py", line 14, in sdsidebandsplit
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	    separator.setshift(signalshift, True)
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/sidebandseparator.py", line 44, in setshift
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	    return self._swigobj.setshift(shift, signal)
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/__casac__/sidebandseparator.py", line 198, in setshift
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	    return _sidebandseparator.sidebandseparator_setshift(self, *args, **kwargs)
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	RuntimeError: The number of shift should match that of images
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa	The number of shift should match that of images
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa	Task sdsidebandsplit raised an exception of class RuntimeError with the following message: The number of shift should match that of images
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::	Exception Reported: The number of shift should match that of images
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa	Traceback (most recent call last):
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdsidebandsplit.py", line 16, in sdsidebandsplit
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	    separator.setshift(imageshift, False)
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/sidebandseparator.py", line 44, in setshift
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	    return self._swigobj.setshift(shift, signal)
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/__casac__/sidebandseparator.py", line 198, in setshift
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	    return _sidebandseparator.sidebandseparator_setshift(self, *args, **kwargs)
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	RuntimeError: The number of shift should match that of images
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa	The number of shift should match that of images
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa	Task sdsidebandsplit raised an exception of class RuntimeError with the following message: The number of shift should match that of images
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::	Exception Reported: The number of shift should match that of images
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa	Traceback (most recent call last):
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdsidebandsplit.py", line 16, in sdsidebandsplit
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	    separator.setshift(imageshift, False)
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/sidebandseparator.py", line 44, in setshift
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	    return self._swigobj.setshift(shift, signal)
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/__casac__/sidebandseparator.py", line 198, in setshift
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	    return _sidebandseparator.sidebandseparator_setshift(self, *args, **kwargs)
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa+	RuntimeError: The number of shift should match that of images
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa	The number of shift should match that of images
+2025-09-16 17:27:14	SEVERE	sdsidebandsplit::::casa	Task sdsidebandsplit raised an exception of class RuntimeError with the following message: The number of shift should match that of images

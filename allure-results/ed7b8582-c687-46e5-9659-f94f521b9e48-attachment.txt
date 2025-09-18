@@ -1,0 +1,4 @@
+2025-09-16 16:26:43	WARN	imstat::image::statistics (file src/tools/image/image_cmpt.cc, line 5995)	The biweight algorithm does not support computation of quantile-related (median, MADM, first/third quartile, IQR) statistics (robust=True). Proceeding without calculating those stats.
+....10....20....30....40....50....60....70....80....90....100%
+2025-09-16 16:26:52	WARN	imstat::image::statistics (file src/tools/image/image_cmpt.cc, line 5995)	The biweight algorithm does not support computation of quantile-related (median, MADM, first/third quartile, IQR) statistics (robust=True). Proceeding without calculating those stats.
+2025-09-16 16:26:54	WARN	imstat::image::statistics (file src/tools/image/image_cmpt.cc, line 5995)	The biweight algorithm does not support computation of quantile-related (median, MADM, first/third quartile, IQR) statistics (robust=True). Proceeding without calculating those stats.

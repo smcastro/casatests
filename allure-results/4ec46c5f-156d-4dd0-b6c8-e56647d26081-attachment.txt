@@ -1,0 +1,3 @@
+ :  channel, start=5, default width, LSRK
+/casadata/repository/casatestdata/unittest/deconvolve/
+refim_point

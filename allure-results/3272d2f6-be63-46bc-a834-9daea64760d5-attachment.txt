@@ -1,0 +1,7 @@
+2025-09-16 14:56:36	INFO	ImageFactory::createImage	Created Temp image  of shape [4, 4, 4, 4] with float valued pixels.
+2025-09-16 14:56:36	SEVERE	CoordinateSystem::getWorldAxesOrder (file /source/casa6/casatools/casacore/coordinates/Coordinates/CoordinateSystem.cc, line 4665)	No axis matches requested axis ra. Image axis names are [right ascension, declination, stokes, frequency]
+2025-09-16 14:56:36	SEVERE	coordsys::findaxisbyname	Error: 2025-09-16 14:56:36	SEVERE	CoordinateSystem::getWorldAxesOrder (file /source/casa6/casatools/casacore/coordinates/Coordinates/CoordinateSystem.cc, line 4665)	No axis matches requested axis ra. Image axis names are [right ascension, declination, stokes, frequency]
+2025-09-16 14:56:36	INFO	name::	No table opened.
+2025-09-16 14:56:36	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:56:36	INFO	name::	No table opened.
+2025-09-16 14:56:36	INFO	name::	No table opened.

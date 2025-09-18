@@ -1,0 +1,8 @@
+Found no unflagged data at:   (time=2008/03/10/17:07:30.0 field=3 spw=0 chan=0)
+Found no unflagged data at:   (time=2008/03/10/17:07:30.0 field=3 spw=1 chan=0)
+Found no unflagged data at:   (time=2008/03/10/17:07:30.0 field=3 spw=2 chan=0)
+Found no unflagged data at:   (time=2008/03/10/17:07:30.0 field=3 spw=3 chan=0)
+Found no unflagged data at:   (time=2008/03/10/17:10:00.0 field=2 spw=0 chan=0)
+Found no unflagged data at:   (time=2008/03/10/17:10:00.0 field=2 spw=1 chan=0)
+Found no unflagged data at:   (time=2008/03/10/17:10:00.0 field=2 spw=2 chan=0)
+Found no unflagged data at:   (time=2008/03/10/17:10:00.0 field=2 spw=3 chan=0)

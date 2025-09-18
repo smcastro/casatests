@@ -1,0 +1,2 @@
+ :  velocity, start='11977.6km/s', default width, BARY
+[check_spec_frame] tstCubetest_velst4defwdbary.image: Spec frame is BARY with crval 1200058783.6669326 (Pass : should be BARY with expected crval 1200058783.0 )

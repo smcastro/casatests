@@ -1,0 +1,1 @@
+2025-09-16 16:11:31	WARN	ImageMetaDataRW::removeMask	This image has no masks, so nothing to do.

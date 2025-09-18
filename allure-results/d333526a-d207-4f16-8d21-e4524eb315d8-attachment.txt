@@ -1,0 +1,11 @@
+Copying  A2256LC2_4.5s-1.ms
+/casadata/repository/casatestdata/unittest/virtualconcat/A2256LC2_4.5s-1.ms
+Copying  A2256LC2_4.5s-2.ms
+/casadata/repository/casatestdata/unittest/virtualconcat/A2256LC2_4.5s-2.ms
+test_task_virtualconcat : Now checking output ...
+test_task_virtualconcat : OK. Checking tables in detail ...
+test_task_virtualconcat : comparing  ['SPECTRAL_WINDOW_ID', 53, 1, 0]
+test_task_virtualconcat : comparing  ['SPECTRAL_WINDOW_ID', 54, 2, 0]
+test_task_virtualconcat : comparing  ['SPECTRAL_WINDOW_ID', 107, 3, 0]
+test_task_virtualconcat : comparing  ['RECEPTOR_ANGLE', 54, [-1, 0], 0]
+test_task_virtualconcat : table  FEED  as expected.

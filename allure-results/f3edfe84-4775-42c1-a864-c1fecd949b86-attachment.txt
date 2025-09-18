@@ -1,0 +1,43 @@
+2025-09-16 14:56:57	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:57	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:57	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:56:57	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:57	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:57	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:56:57	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:57	INFO	ImageRegion::fromRecord+	    [0, 0, 0, 0] to [8, 8, 99, 0]  (17:42:36.087, -29.00.47.589, 1.41335e+09Hz, I to 17:42:35.477, -29.00.39.591, 1.4153e+09Hz, I)
+2025-09-16 14:56:57	WARN	ImageProfileFitter::_setFitterElements	Only able to estimate parameters for 1 Gaussian singlets. If you really want 2 Gaussian singlets to be fit, you should specify initial parameter estimates for all of them.
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 1
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 1
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 1
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary	Number converged         = 1
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary	Number valid             = 1
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary	****** Fit performed at Tue Sep 16 14:56:57 2025******
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	Input parameters ---
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	       --- imagename:           /scratch/scastro/casa/Tests/reports/specfit_multipix_2gauss.fits
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	       --- region:              
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	       --- box:                 
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	       --- channels:            
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	       --- stokes:              I
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	       --- mask:                
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	       --- number of Gaussian singlets: 2
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	       --- number of Gaussian multiplets: 0
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	       --- no polynomial fit 
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	       --- One profile fit, averaged over several pixels if necessary
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	    RA           :   17:42:35.782
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  -29.00.43.590
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	    Stokes       : I
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [4.000, 4.000,  *, 0.000]
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 7
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	        Type     : GAUSSIAN
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	        Peak     : 49.7 +/- 4.0 Jy
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	        Center   : -237.7 +/- 1.7 km/s
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	                   89.96 +/- 0.40 pixel
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	        FWHM     : 42.4 +/- 4.0 km/s
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	                   10.17 +/- 0.97 pixel
+2025-09-16 14:56:57	INFO	ImageProfileFitterResults::logSummary+	        Integral : 2.25 +/- 0.28 kJy.km/s

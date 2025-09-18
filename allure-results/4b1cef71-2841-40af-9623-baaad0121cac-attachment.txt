@@ -1,0 +1,72 @@
+Call with spw='0:1~1', correlation=ll
+
+s2 {'DATA_DESC_ID=0': {'firstquartile': 0.012998353689908981, 'isMasked': True, 'isWeighted': False, 'max': 23.695859909057617, 'maxDatasetIndex': 1, 'maxIndex': 1, 'mean': 1.51201536185032, 'medabsdevmed': 0.020134394988417625, 'median': 0.027283204719424248, 'min': 0.00037757985410280526, 'minDatasetIndex': 25, 'minIndex': 195, 'npts': 21119.0, 'rms': 5.254564972098979, 'stddev': 5.032440935625601, 'sum': 31932.25242691688, 'sumOfWeights': 21119.0, 'sumsq': 583105.1578786756, 'thirdquartile': 0.20560552179813385, 'variance': 25.325461770560278}}
+Checking npts: 21119 vs 21119.0
+Call with spw='0:1~1', correlation=rr
+
+s2 {'DATA_DESC_ID=0': {'firstquartile': 0.013324417173862457, 'isMasked': True, 'isWeighted': False, 'max': 26.920883178710938, 'maxDatasetIndex': 4, 'maxIndex': 19, 'mean': 1.703732570450803, 'medabsdevmed': 0.02199349133297801, 'median': 0.028599174693226814, 'min': 0.00016617041546851397, 'minDatasetIndex': 27, 'minIndex': 173, 'npts': 21119.0, 'rms': 5.9277552741561355, 'stddev': 5.677772835275629, 'sum': 35981.12815535044, 'sumOfWeights': 21119.0, 'sumsq': 742085.3900242473, 'thirdquartile': 0.26254236698150635, 'variance': 32.237104368993855}}
+Checking npts: 21119 vs 21119.0
+Call with spw='0:1~1', correlation=ll,rr
+
+s2 {'DATA_DESC_ID=0': {'firstquartile': 0.01315868180245161, 'isMasked': True, 'isWeighted': False, 'max': 26.920883178710938, 'maxDatasetIndex': 4, 'maxIndex': 39, 'mean': 1.6078739661505588, 'medabsdevmed': 0.021032736403867602, 'median': 0.027937160804867744, 'min': 0.00016617041546851397, 'minDatasetIndex': 27, 'minIndex': 347, 'npts': 42238.0, 'rms': 5.601282694003898, 'stddev': 5.365611869664173, 'sum': 67913.38058226732, 'sumOfWeights': 42238.0, 'sumsq': 1325190.5479029168, 'thirdquartile': 0.23095539212226868, 'variance': 28.789790735881063}}
+Checking npts: 42238 vs 42238.0
+Call with spw='0:1~2', correlation=ll
+
+s2 {'DATA_DESC_ID=0': {'firstquartile': 0.015203726477921009, 'isMasked': True, 'isWeighted': False, 'max': 47.85862731933594, 'maxDatasetIndex': 9, 'maxIndex': 3, 'mean': 2.2685205557350705, 'medabsdevmed': 0.025584048125892878, 'median': 0.033365800976753235, 'min': 0.00037757985410280526, 'minDatasetIndex': 25, 'minIndex': 390, 'npts': 42238.0, 'rms': 8.247744697530607, 'stddev': 7.929728608521772, 'sum': 95817.77123313842, 'sumOfWeights': 42238.0, 'sumsq': 2873252.3086548215, 'thirdquartile': 0.2353196144104004, 'variance': 62.88059580480865}}
+Checking npts: 42238 vs 42238.0
+Call with spw='0:1~2', correlation=rr
+
+s2 {'DATA_DESC_ID=0': {'firstquartile': 0.015641184523701668, 'isMasked': True, 'isWeighted': False, 'max': 50.03026580810547, 'maxDatasetIndex': 30, 'maxIndex': 39, 'mean': 2.4662003717613192, 'medabsdevmed': 0.027923745336011052, 'median': 0.03566293604671955, 'min': 3.5077806387562305e-05, 'minDatasetIndex': 38, 'minIndex': 65, 'npts': 42238.0, 'rms': 8.903693383964843, 'stddev': 8.555427781728099, 'sum': 104167.37130245389, 'sumOfWeights': 42238.0, 'sumsq': 3348449.376676098, 'thirdquartile': 0.2842475175857544, 'variance': 73.19534452836497}}
+Checking npts: 42238 vs 42238.0
+Call with spw='0:1~2', correlation=ll,rr
+
+s2 {'DATA_DESC_ID=0': {'firstquartile': 0.015421337448060513, 'isMasked': True, 'isWeighted': False, 'max': 50.03026580810547, 'maxDatasetIndex': 30, 'maxIndex': 79, 'mean': 2.3673604637482013, 'medabsdevmed': 0.026692680083215237, 'median': 0.03441326133906841, 'min': 3.5077806387562305e-05, 'minDatasetIndex': 38, 'minIndex': 131, 'npts': 84476.0, 'rms': 8.581988361426047, 'stddev': 8.249056563527775, 'sum': 199985.1425355923, 'sumOfWeights': 84476.0, 'sumsq': 6221701.685330949, 'thirdquartile': 0.2572411596775055, 'variance': 68.04693418828066}}
+Checking npts: 84476 vs 84476.0
+Call with spw='0:1~4', correlation=ll
+
+s2 {'DATA_DESC_ID=0': {'firstquartile': 0.018262511119246483, 'isMasked': True, 'isWeighted': False, 'max': 67.18834686279297, 'maxDatasetIndex': 1, 'maxIndex': 7, 'mean': 3.2328949655030006, 'medabsdevmed': 0.03320419928058982, 'median': 0.04149508289992809, 'min': 2.2739146515959874e-05, 'minDatasetIndex': 48, 'minIndex': 851, 'npts': 84476.0, 'rms': 11.716386189704192, 'stddev': 11.261598322870743, 'sum': 273102.0351058309, 'sumOfWeights': 84476.0, 'sumsq': 11596333.532833287, 'thirdquartile': 0.27172136306762695, 'variance': 126.82359678568513}}
+Checking npts: 84476 vs 84476.0
+Call with spw='0:1~4', correlation=rr
+
+s2 {'DATA_DESC_ID=0': {'firstquartile': 0.018680663779377937, 'isMasked': True, 'isWeighted': False, 'max': 68.62496948242188, 'maxDatasetIndex': 26, 'maxIndex': 79, 'mean': 3.3996190574518157, 'medabsdevmed': 0.03522256435826421, 'median': 0.043506983667612076, 'min': 3.5077806387562305e-05, 'minDatasetIndex': 38, 'minIndex': 129, 'npts': 84476.0, 'rms': 12.239038012587871, 'stddev': 11.757477542335039, 'sum': 287186.2194972994, 'sumOfWeights': 84476.0, 'sumsq': 12654002.292281372, 'thirdquartile': 0.3134520947933197, 'variance': 138.2382781585128}}
+Checking npts: 84476 vs 84476.0
+Call with spw='0:1~4', correlation=ll,rr
+
+s2 {'DATA_DESC_ID=0': {'firstquartile': 0.01846258156001568, 'isMasked': True, 'isWeighted': False, 'max': 68.62496948242188, 'maxDatasetIndex': 26, 'maxIndex': 159, 'mean': 3.3162570114774232, 'medabsdevmed': 0.03416486969217658, 'median': 0.0424413587898016, 'min': 2.2739146515959874e-05, 'minDatasetIndex': 48, 'minIndex': 1702, 'npts': 168952.0, 'rms': 11.98056252477037, 'stddev': 11.51247594176724, 'sum': 560288.2546031302, 'sumOfWeights': 168952.0, 'sumsq': 24250335.825114865, 'thirdquartile': 0.290507972240448, 'variance': 132.5371023097695}}
+Checking npts: 168952 vs 168952.0
+Call with spw='0:1~7', correlation=ll
+
+s2 {'DATA_DESC_ID=0': {'firstquartile': 0.020986022427678108, 'isMasked': True, 'isWeighted': False, 'max': 70.78073120117188, 'maxDatasetIndex': 24, 'maxIndex': 13, 'mean': 3.965659174843849, 'medabsdevmed': 0.03952489420771599, 'median': 0.04782070219516754, 'min': 2.2739146515959874e-05, 'minDatasetIndex': 48, 'minIndex': 1487, 'npts': 147833.0, 'rms': 14.130246023570889, 'stddev': 13.562398173931312, 'sum': 586255.2927946859, 'sumOfWeights': 147833.0, 'sumsq': 29516906.334224183, 'thirdquartile': 0.31161126494407654, 'variance': 183.93864422825538}}
+Checking npts: 147833 vs 147833.0
+Call with spw='0:1~7', correlation=rr
+
+s2 {'DATA_DESC_ID=0': {'firstquartile': 0.02118206024169922, 'isMasked': True, 'isWeighted': False, 'max': 73.75, 'maxDatasetIndex': 12, 'maxIndex': 139, 'mean': 4.075617324934261, 'medabsdevmed': 0.040772588923573494, 'median': 0.04898509383201599, 'min': 3.5077806387562305e-05, 'minDatasetIndex': 38, 'minIndex': 225, 'npts': 147833.0, 'rms': 14.45538727219714, 'stddev': 13.868989355124057, 'sum': 602510.7359970011, 'sumOfWeights': 147833.0, 'sumsq': 30890920.713062864, 'thirdquartile': 0.35131359100341797, 'variance': 192.3488657325444}}
+Checking npts: 147833 vs 147833.0
+Call with spw='0:1~7', correlation=ll,rr
+
+s2 {'DATA_DESC_ID=0': {'firstquartile': 0.021086707711219788, 'isMasked': True, 'isWeighted': False, 'max': 73.75, 'maxDatasetIndex': 12, 'maxIndex': 279, 'mean': 4.0206382498889885, 'medabsdevmed': 0.040139758959412575, 'median': 0.048403069376945496, 'min': 2.2739146515959874e-05, 'minDatasetIndex': 48, 'minIndex': 2974, 'npts': 295666.0, 'rms': 14.293741180597857, 'stddev': 13.716637392172299, 'sum': 1188766.028791686, 'sumOfWeights': 295666.0, 'sumsq': 60407827.04728677, 'thirdquartile': 0.3312663435935974, 'variance': 188.14614134833926}}
+Checking npts: 295666 vs 295666.0
+Call with spw='0:1~13', correlation=ll
+
+s2 {'DATA_DESC_ID=0': {'firstquartile': 0.02359769307076931, 'isMasked': True, 'isWeighted': False, 'max': 70.78073120117188, 'maxDatasetIndex': 24, 'maxIndex': 19, 'mean': 4.573634004135756, 'medabsdevmed': 0.04534465912729502, 'median': 0.05354195833206177, 'min': 2.2739146515959874e-05, 'minDatasetIndex': 48, 'minIndex': 2759, 'npts': 274547.0, 'rms': 16.001664561308168, 'stddev': 15.334144814094772, 'sum': 1255677.4949334562, 'sumOfWeights': 274547.0, 'sumsq': 70298656.77073619, 'thirdquartile': 0.3944782316684723, 'variance': 235.13599717962958}}
+Checking npts: 274547 vs 274547.0
+Call with spw='0:1~13', correlation=rr
+
+s2 {'DATA_DESC_ID=0': {'firstquartile': 0.023458972573280334, 'isMasked': True, 'isWeighted': False, 'max': 73.75, 'maxDatasetIndex': 12, 'maxIndex': 253, 'mean': 4.598994075086379, 'medabsdevmed': 0.04547768831253052, 'median': 0.053455792367458344, 'min': 3.5077806387562305e-05, 'minDatasetIndex': 38, 'minIndex': 417, 'npts': 274547.0, 'rms': 16.050754617587558, 'stddev': 15.3778034395668, 'sum': 1262640.0263327176, 'sumOfWeights': 274547.0, 'sumsq': 70730644.13747361, 'thirdquartile': 0.4329370856285095, 'variance': 236.47683862595252}}
+Checking npts: 274547 vs 274547.0
+Call with spw='0:1~13', correlation=ll,rr
+
+s2 {'DATA_DESC_ID=0': {'firstquartile': 0.02353147603571415, 'isMasked': True, 'isWeighted': False, 'max': 73.75, 'maxDatasetIndex': 12, 'maxIndex': 507, 'mean': 4.586314039611009, 'medabsdevmed': 0.04539835639297962, 'median': 0.05349326133728027, 'min': 2.2739146515959874e-05, 'minDatasetIndex': 48, 'minIndex': 5518, 'npts': 549094.0, 'rms': 16.026228385472407, 'stddev': 15.355980894727772, 'sum': 2518317.5212661745, 'sumOfWeights': 549094.0, 'sumsq': 141029300.90821227, 'thirdquartile': 0.4128650426864624, 'variance': 235.80614923924432}}
+Checking npts: 549094 vs 549094.0
+Call with spw='0:1~62', correlation=ll
+
+s2 {'DATA_DESC_ID=0': {'firstquartile': 0.02503143437206745, 'isMasked': True, 'isWeighted': False, 'max': 72.1248779296875, 'maxDatasetIndex': 19, 'maxIndex': 1090, 'mean': 4.931429419886097, 'medabsdevmed': 0.047344045247882605, 'median': 0.055874770507216454, 'min': 2.2739146515959874e-05, 'minDatasetIndex': 48, 'minIndex': 13147, 'npts': 1309378.0, 'rms': 17.284456326640903, 'stddev': 16.566038874005862, 'sum': 6457105.190951617, 'sumOfWeights': 1309378.0, 'sumsq': 391179859.9531237, 'thirdquartile': 0.396679162979126, 'variance': 274.4336439750734}}
+Checking npts: 1309378 vs 1309378.0
+Call with spw='0:1~62', correlation=rr
+
+s2 {'DATA_DESC_ID=0': {'firstquartile': 0.024585282430052757, 'isMasked': True, 'isWeighted': False, 'max': 73.75, 'maxDatasetIndex': 12, 'maxIndex': 1184, 'mean': 4.8928319861429355, 'medabsdevmed': 0.04655483830720186, 'median': 0.054879553616046906, 'min': 2.2130521756480448e-05, 'minDatasetIndex': 54, 'minIndex': 4277, 'npts': 1309378.0, 'rms': 17.151711039791177, 'stddev': 16.43902652644461, 'sum': 6406566.560351796, 'sumOfWeights': 1309378.0, 'sumsq': 385194380.2849973, 'thirdquartile': 0.4161178767681122, 'variance': 270.24159313714955}}
+Checking npts: 1309378 vs 1309378.0
+Call with spw='0:1~62', correlation=ll,rr
+
+s2 {'DATA_DESC_ID=0': {'firstquartile': 0.02480573207139969, 'isMasked': True, 'isWeighted': False, 'max': 73.75, 'maxDatasetIndex': 12, 'maxIndex': 2369, 'mean': 4.912130703014791, 'medabsdevmed': 0.04696154408156872, 'median': 0.05538627877831459, 'min': 2.2130521756480448e-05, 'minDatasetIndex': 54, 'minIndex': 8555, 'npts': 2618756.0, 'rms': 17.218211610093668, 'stddev': 16.50266302757405, 'sum': 12863671.751303274, 'sumOfWeights': 2618756.0, 'sumsq': 776374240.2379606, 'thirdquartile': 0.40908554196357727, 'variance': 272.33788700165957}}
+Checking npts: 2618756 vs 2618756.0

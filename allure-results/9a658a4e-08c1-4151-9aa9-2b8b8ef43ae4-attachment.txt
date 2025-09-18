@@ -1,0 +1,4 @@
+2025-09-16 17:03:12	WARN	sdcal::calibrater::setvi(bool,bool)	Already using OLD VisibilityIterator.
+2025-09-16 17:03:12	WARN	sdcal::CTPatchedInterp::interpolate	In caltable lissajous.edges_new_fraction_0.1.ms_caltable (SDSKY_OTF):
+2025-09-16 17:03:12	WARN	sdcal::CTPatchedInterp::interpolate+	 Insufficient solution channel sampling (nchan=1) for frequency-dependent LINEAR interpolation 
+2025-09-16 17:03:12	WARN	sdcal::CTPatchedInterp::interpolate+	 of calibration for MS spw=4; using NEAREST instead.

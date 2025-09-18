@@ -1,0 +1,15 @@
+2025-09-16 17:22:06	WARN	task_tclean::image::open (file src/tools/image/image_cmpt.cc, line 4208)	Another image is already open, closing first
+
+0%....10....20....30....40....50....60....70....80....90....100%
+2025-09-16 17:22:20	WARN	ImageRegridder::_doImagesOverlap	At least one of the images exceeds one degree on at one side, not checking for direction plane overlap.
+2025-09-16 17:22:20	WARN	ImageRegrid::regrid	You are regridding an image whose beam is not well sampled by the pixel size.  Total flux can be lost when regridding such images, especially when the new pixel size is larger than the old pixel size. It is recommended to check the total flux of your input and output image, and if necessary rebin the input to have smaller pixels.
+2025-09-16 17:22:20	WARN	ImageRegridder::_doImagesOverlap	At least one of the images exceeds one degree on at one side, not checking for direction plane overlap.
+2025-09-16 17:22:20	WARN	ImageRegrid::regrid	You are regridding an image whose beam is not well sampled by the pixel size.  Total flux can be lost when regridding such images, especially when the new pixel size is larger than the old pixel size. It is recommended to check the total flux of your input and output image, and if necessary rebin the input to have smaller pixels.
+2025-09-16 17:22:20	WARN	sdintimaging::::casa	The input SD image does not have per-plane-restoring beams. Working around that ...
+2025-09-16 17:22:20	WARN	componentlist::close	componentlist closed
+2025-09-16 17:22:22	WARN	sdintimaging::::casa	The specified reffreq for MFS imaging (1500000000.0 Hz) is not exactly the same as the frequency of the selected interferometric data for the major cycle (999889033.7197254 Hz).
+2025-09-16 17:22:22	WARN	sdintimaging::::casa+	 We will ignore this for now.
+2025-09-16 17:22:23	WARN	ImageRegrid::regrid	You are regridding an image whose beam is not well sampled by the pixel size.  Total flux can be lost when regridding such images, especially when the new pixel size is larger than the old pixel size. It is recommended to check the total flux of your input and output image, and if necessary rebin the input to have smaller pixels.
+2025-09-16 17:22:23	WARN	ImageRegrid::regrid	You are regridding an image whose beam is not well sampled by the pixel size.  Total flux can be lost when regridding such images, especially when the new pixel size is larger than the old pixel size. It is recommended to check the total flux of your input and output image, and if necessary rebin the input to have smaller pixels.
+2025-09-16 17:22:24	WARN	ImageRegridder::_doImagesOverlap	At least one of the images exceeds one degree on at one side, not checking for direction plane overlap.
+2025-09-16 17:22:24	WARN	SIImageStore::restore (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SIImageStore.cc, line 2345)	Restoring with an empty model image. Only residuals will be processed to form the output restored image.

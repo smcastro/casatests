@@ -1,0 +1,2 @@
+2025-09-16 18:46:22	WARN	tsdimaging::SynthesisParamsImage::buildCoordinateSystem (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisUtilMethods.cc, line 2565)	imsize with 21 pixels is not an efficient imagesize. Try 24 instead.
+2025-09-16 18:46:22	WARN	tsdimaging::do_weight_mask::casa	All pixels weight zero. This indicates no data in MS is in image area. Mask will not be set. Please check your image parameters.

@@ -1,0 +1,2 @@
+
+Comparing image statistics of 'simobserve_comp/simobserve_comp.alma.out01.compskymodel' with reference 'ref_comp.alma.out01.compskymodel'

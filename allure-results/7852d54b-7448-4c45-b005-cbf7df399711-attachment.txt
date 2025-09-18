@@ -1,0 +1,2 @@
+
+Comparing image statistics of 'simobserve_sc/simobserve_sc.alma.out01.skymodel.flat' with reference 'ref_sky.aca.tp.skymodel.flat'

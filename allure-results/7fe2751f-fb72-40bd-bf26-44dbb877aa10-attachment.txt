@@ -1,0 +1,18 @@
+2025-09-16 14:56:36	INFO	ImageFactory::createImage	Created Temp image  of shape [200, 200, 4, 10] with float valued pixels.
+2025-09-16 14:56:36	SEVERE	image::beamarea (file src/tools/image/image_cmpt.cc, line 329)	Exception Reported: Exception: This image has no beam(s). The setrestoringbeam() method may be used to set its beam(s).
+2025-09-16 14:56:36	SEVERE	image::beamarea (file src/tools/image/image_cmpt.cc, line 329)+	... thrown by casac::record* casac::image::beamarea(long int, long int) at File: src/tools/image/image_cmpt.cc, line: 334
+2025-09-16 14:56:36	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:36	INFO	BeamManipulator::set	This image currently has no beams of any kind. Since channel and/or polarization were specified, a set of per plane beams, each equal to the specified beam, will be created.
+2025-09-16 14:56:36	INFO	BeamManipulator::set	Beam parameters:  Major          : 3 arcmin
+2025-09-16 14:56:36	INFO	BeamManipulator::set+	  Minor          : 1 arcmin
+2025-09-16 14:56:36	INFO	BeamManipulator::set+	  Position Angle : 40 deg
+2025-09-16 14:56:36	SEVERE	image::beamarea (file src/tools/image/image_cmpt.cc, line 329)	Exception Reported: Exception: This image only has 10 channels, so a channel value less than 10 must be specified.
+2025-09-16 14:56:36	SEVERE	image::beamarea (file src/tools/image/image_cmpt.cc, line 329)+	... thrown by casac::record* casac::image::beamarea(long int, long int) at File: src/tools/image/image_cmpt.cc, line: 344
+2025-09-16 14:56:36	SEVERE	image::beamarea (file src/tools/image/image_cmpt.cc, line 329)	Exception Reported: Exception: This image only has 4 polarizations, so a polarization value less than 4 must be specified.
+2025-09-16 14:56:36	SEVERE	image::beamarea (file src/tools/image/image_cmpt.cc, line 329)+	... thrown by casac::record* casac::image::beamarea(long int, long int) at File: src/tools/image/image_cmpt.cc, line: 351
+2025-09-16 14:56:36	SEVERE	image::beamarea (file src/tools/image/image_cmpt.cc, line 329)	Exception Reported: Exception: In the case of a multibeam image, either both channel and polarization must be non-negative, or both must be negative.
+2025-09-16 14:56:36	SEVERE	image::beamarea (file src/tools/image/image_cmpt.cc, line 329)+	... thrown by casac::record* casac::image::beamarea(long int, long int) at File: src/tools/image/image_cmpt.cc, line: 357
+2025-09-16 14:56:36	SEVERE	image::beamarea (file src/tools/image/image_cmpt.cc, line 329)	Exception Reported: Exception: In the case of a multibeam image, either both channel and polarization must be non-negative, or both must be negative.
+2025-09-16 14:56:36	SEVERE	image::beamarea (file src/tools/image/image_cmpt.cc, line 329)+	... thrown by casac::record* casac::image::beamarea(long int, long int) at File: src/tools/image/image_cmpt.cc, line: 357
+2025-09-16 14:56:36	INFO	name::	No table opened.
+2025-09-16 14:56:36	INFO	name::	No table opened.

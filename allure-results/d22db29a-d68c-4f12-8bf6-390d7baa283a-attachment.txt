@@ -1,0 +1,13 @@
+Test name  : test_vlass_1p1_jointmosaic_pcorr1and2
+Doc : 
+        ---------------------------------------------------------------------------------------------------------------------------------------------
+        VLASS 1.1 : With both types of pointing correction ( antenna clusters and time-dependent nodding )
+                                        : posigdev=[30,30] 
+                           Use two scans/fields and all antennas together to test the field mosaic pointing offset.
+                           Use mtmfs with conjbeams True and test pb-corrected intensity and spectral index.
+
+        Test that the intensity and spectral index are correct. 
+
+        This is the setting most optimal for VLASS.
+        ---------------------------------------------------------------------------------------------------------------------------------------------
+        

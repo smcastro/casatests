@@ -1,0 +1,14 @@
+2025-09-16 14:57:05	INFO	ImageFactory::createImage	Created Paged image 'gd.im' of shape [10, 10, 10] with float valued pixels.
+2025-09-16 14:57:05	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:05	INFO	BeamManipulator::set	This image currently has no beams of any kind. Since channel and/or polarization were specified, a set of per plane beams, each equal to the specified beam, will be created.
+2025-09-16 14:57:05	INFO	BeamManipulator::set	Beam parameters:  Major          : 4 arcsec
+2025-09-16 14:57:05	INFO	BeamManipulator::set+	  Minor          : 2 arcsec
+2025-09-16 14:57:05	INFO	BeamManipulator::set+	  Position Angle : 0 deg
+2025-09-16 14:57:05	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:05	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:05	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:05	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:05	SEVERE	image::rebin	Exception Reported: Exception: This image has multiple beams. The spectral axis cannot be rebinned.
+2025-09-16 14:57:05	SEVERE	image::rebin+	... thrown by casacore::RebinImage<T>::RebinImage(const casacore::ImageInterface<T>&, const casacore::IPosition&) [with T = float] at File: /source/casainstall/include/casacore/images/Images/RebinImage.tcc, line: 50
+2025-09-16 14:57:05	INFO	name::	No table opened.
+2025-09-16 14:57:05	INFO	showcache::	The Table Cache is empty.

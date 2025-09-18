@@ -1,0 +1,3 @@
+2025-09-16 16:26:59	SEVERE	imval::CasacRegionManager::_fromBCS	trc in box spec is greater than or equal to number of direction coordinate pixels in the image
+2025-09-16 16:26:59	SEVERE	imval::regionmanager::frombcs	Exception Reported: 2025-09-16 16:26:59	SEVERE	imval::CasacRegionManager::_fromBCS	trc in box spec is greater than or equal to number of direction coordinate pixels in the image
+2025-09-16 16:26:59	SEVERE	imval::::casa	Task imval raised an exception of class RuntimeError with the following message: 2025-09-16 16:26:59	SEVERE	imval::CasacRegionManager::_fromBCS	trc in box spec is greater than or equal to number of direction coordinate pixels in the image

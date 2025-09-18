@@ -1,0 +1,21 @@
+2025-09-16 14:56:52	INFO	ImageFactory::createImage	Created Temp image  of shape [1, 1, 5] with float valued pixels.
+2025-09-16 14:56:52	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:52	INFO	ImageRegion::fromRecord+	    [0, 0, 0] to [0, 0, 0]  (00:00:00.000, +00.00.00.000, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:52	INFO	ImageRegion::fromRecord	Creating image 'reorder_0' of shape [1, 1, 1]
+2025-09-16 14:56:52	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:52	INFO	ImageRegion::fromRecord+	    [0, 0, 1] to [0, 0, 1]  (00:00:00.000, +00.00.00.000, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:52	INFO	ImageRegion::fromRecord	Creating image 'reorder_1' of shape [1, 1, 1]
+2025-09-16 14:56:52	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:52	INFO	ImageRegion::fromRecord+	    [0, 0, 2] to [0, 0, 2]  (00:00:00.000, +00.00.00.000, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:52	INFO	ImageRegion::fromRecord	Creating image 'reorder_2' of shape [1, 1, 1]
+2025-09-16 14:56:52	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:52	INFO	ImageRegion::fromRecord+	    [0, 0, 3] to [0, 0, 3]  (00:00:00.000, +00.00.00.000, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:52	INFO	ImageRegion::fromRecord	Creating image 'reorder_3' of shape [1, 1, 1]
+2025-09-16 14:56:52	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:52	INFO	ImageRegion::fromRecord+	    [0, 0, 4] to [0, 0, 4]  (00:00:00.000, +00.00.00.000, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:52	INFO	ImageRegion::fromRecord	Creating image 'reorder_4' of shape [1, 1, 1]
+2025-09-16 14:56:52	INFO	ImageConcatenator::ImageConcatenator 	Number of images to concatenate = 3
+2025-09-16 14:56:52	INFO	ImageConcatenator::concatenate	Images will be concatenated in the order [/scratch/scastro/casa/Tests/reports/reorder_1,/scratch/scastro/casa/Tests/reports/reorder_2,/scratch/scastro/casa/Tests/reports/reorder_3] and the coordinate system of /scratch/scastro/casa/Tests/reports/reorder_1 will be used as the reference
+2025-09-16 14:56:52	WARN	image::open (file src/tools/image/image_cmpt.cc, line 4208)	Another image is already open, closing first
+2025-09-16 14:56:52	WARN	image::open (file src/tools/image/image_cmpt.cc, line 4208)	Another image is already open, closing first
+2025-09-16 14:56:52	WARN	image::open (file src/tools/image/image_cmpt.cc, line 4208)	Another image is already open, closing first

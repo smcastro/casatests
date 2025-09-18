@@ -1,0 +1,38 @@
+
+Checking firstquartile: 1.0 vs 1.0
+
+Checking isMasked: True vs True
+
+Checking isWeighted: False vs False
+
+Checking max: 1.0 vs 1.0
+
+Checking maxDatasetIndex: 0 vs 0
+
+Checking maxIndex: 0 vs 0
+
+Checking mean: 1.0 vs 1.0
+
+Checking medabsdevmed: 0.0 vs 0.0
+
+Checking median: 1.0 vs 1.0
+
+Checking min: 1.0 vs 1.0
+
+Checking minDatasetIndex: 0 vs 0
+
+Checking minIndex: 0 vs 0
+
+Checking npts: 2660994.0 vs 2660994.0
+
+Checking thirdquartile: 1.0 vs 1.0
+
+Checking rms: 1.0 vs 1.0
+
+Checking stddev: 0.0 vs 0.0
+
+Checking sum: 2660994.0 vs 2660994.0
+
+Checking sumsq: 2660994.0 vs 2660994.0
+
+Checking variance: 0.0 vs 0.0

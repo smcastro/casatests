@@ -1,0 +1,12 @@
+2025-09-16 14:56:36	SEVERE	componentlist::putkeyword	Exception Reported: Exception: A table is not attached to this ComponentList.
+2025-09-16 14:56:36	SEVERE	componentlist::putkeyword+	... thrown by void casa::ComponentList::putKeyword(const casacore::String&, const casac::variant&) at File: /source/casa6/casatools/src/code/components/ComponentModels/ComponentList.cc, line: 1238
+2025-09-16 14:56:36	SEVERE	componentlist::getkeyword	Exception Reported: Exception: A table is not attached to this ComponentList.
+2025-09-16 14:56:36	SEVERE	componentlist::getkeyword+	... thrown by casac::variant* casa::ComponentList::getKeyword(const casacore::String&) const at File: /source/casa6/casatools/src/code/components/ComponentModels/ComponentList.cc, line: 1248
+2025-09-16 14:56:36	SEVERE	componentlist::haskeyword	Exception Reported: Exception: A table is not attached to this ComponentList.
+2025-09-16 14:56:36	SEVERE	componentlist::haskeyword+	... thrown by bool casa::ComponentList::hasKeyword(const casacore::String&) const at File: /source/casa6/casatools/src/code/components/ComponentModels/ComponentList.cc, line: 1233
+2025-09-16 14:56:36	SEVERE	componentlist::putkeyword	Exception Reported: Exception: A table is not attached to this ComponentList.
+2025-09-16 14:56:36	SEVERE	componentlist::putkeyword+	... thrown by void casa::ComponentList::putKeyword(const casacore::String&, const casac::variant&) at File: /source/casa6/casatools/src/code/components/ComponentModels/ComponentList.cc, line: 1238
+2025-09-16 14:56:36	SEVERE	componentlist::getkeyword	Exception Reported: Exception: A table is not attached to this ComponentList.
+2025-09-16 14:56:36	SEVERE	componentlist::getkeyword+	... thrown by casac::variant* casa::ComponentList::getKeyword(const casacore::String&) const at File: /source/casa6/casatools/src/code/components/ComponentModels/ComponentList.cc, line: 1248
+2025-09-16 14:56:36	SEVERE	componentlist::haskeyword	Exception Reported: Exception: A table is not attached to this ComponentList.
+2025-09-16 14:56:36	SEVERE	componentlist::haskeyword+	... thrown by bool casa::ComponentList::hasKeyword(const casacore::String&) const at File: /source/casa6/casatools/src/code/components/ComponentModels/ComponentList.cc, line: 1233

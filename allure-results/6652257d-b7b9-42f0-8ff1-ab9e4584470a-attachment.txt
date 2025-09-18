@@ -1,0 +1,21 @@
+2025-09-16 14:56:12	INFO	calibrater::open	****Using NEW VI2-driven calibrater tool****
+2025-09-16 14:56:12	INFO	calibrater::open	Opening MS: gaincaltest2.ms for calibration.
+2025-09-16 14:56:12	INFO		Clearing all model records in MS header.
+2025-09-16 14:56:12	INFO	VisSetUtil::addScrCols	Adding MODEL_DATA and CORRECTED_DATA column(s).
+2025-09-16 14:56:13	INFO	VisSetUtil::initScrCols	Initializing MODEL_DATA to (unity).
+2025-09-16 14:56:13	INFO	VisSetUtil::initScrCols	Initialized 328860 rows.
+2025-09-16 14:56:13	INFO	Calibrater::	Initializing nominal selection to the whole MS.
+2025-09-16 14:56:13	INFO	calibrater::parsecallibfile	Beginning parsecallibfile-)-------
+2025-09-16 14:56:13	INFO	calibrater::setcallib	Beginning setcallib---------
+2025-09-16 14:56:13	INFO	Calibrater::setcallib2(callib)	Arranging to APPLY:
+2025-09-16 14:56:13	INFO		.   G Jones: table=gaincaltest2.ms.G0 (by cal library) calWt=true
+2025-09-16 14:56:13	INFO		.   0:
+2025-09-16 14:56:13	INFO	+	     MS: obs= scan= fld= intent= spw=
+2025-09-16 14:56:13	INFO	+	     CT: tinterp=linear finterp=
+2025-09-16 14:56:13	INFO	+	         obsmap=[]         scanmap=[]         fldmap=[]
+2025-09-16 14:56:13	INFO	+	         spwmap=[]         antmap=[]
+2025-09-16 14:56:13	INFO	calibrater::corrupt	Beginning corrupt---------------------------
+2025-09-16 14:56:13	INFO	Calibrater::corrupt2 (VI2/VB2)	The following calibration terms are arranged for apply:
+2025-09-16 14:56:13	INFO	Calibrater::corrupt2 (VI2/VB2)	.   G Jones: table=gaincaltest2.ms.G0 (by cal library) calWt=true
+2025-09-16 14:56:16	INFO	calibrater::corrupt	Finished corrupting.
+2025-09-16 14:56:16	WARN	calibrater::setvi(bool,bool)	Already using NEW VisibilityIterator.

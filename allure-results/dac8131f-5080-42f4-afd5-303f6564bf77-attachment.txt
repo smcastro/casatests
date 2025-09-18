@@ -1,0 +1,3 @@
+2025-09-16 17:34:23	WARN	ParallelDataHelper::getPartitionMap::casa	Number of subMSs (8) is greater than available scan,ddi pairs (4), setting nsubms to 4
+2025-09-16 17:34:25	SEVERE	ParallelDataHelper::::casa	Task split raised an exception of class RuntimeError with the following message: MSSelectionNullSelection : The selected table has zero rows.
+2025-09-16 17:34:25	SEVERE	ParallelDataHelper::::casa	Task split raised an exception of class RuntimeError with the following message: MSSelectionNullSelection : The selected table has zero rows.

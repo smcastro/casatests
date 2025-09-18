@@ -1,0 +1,1 @@
+ immath( imagename=ngc5921.clean.image, varnames='A', expr='A', chans='22~35', outfile='input_test14' )

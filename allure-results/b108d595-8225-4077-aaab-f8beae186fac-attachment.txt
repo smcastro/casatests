@@ -1,0 +1,12 @@
+2025-09-16 18:37:10	WARN	SynthesisParamsImage::buildCoordinateSystem (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisUtilMethods.cc, line 2941)	No rest frequency info, using the center of the selected spw(s):1.475e+09 Hz. Velocity labelling may not be correct.
+2025-09-16 18:37:19	SEVERE	tclean::::casa	[ checkall ] 
+2025-09-16 18:37:19	SEVERE	tclean::::casa+	[ check_ims ] Image made : ['tst.mfs.psf.tt0', 'tst.mfs.image.tt0', 'tst.mvc.psf.tt0', 'tst.mvc.image.tt0'] =  [True, True, True, True] ( Pass : should all be True )
+2025-09-16 18:37:19	SEVERE	tclean::::casa+	All expected keywords in imageinfo, miscinfo, and coords found. (check_keywords)
+2025-09-16 18:37:19	SEVERE	tclean::::casa+	[check_history] All expected history entries found. (Pass)
+2025-09-16 18:37:19	SEVERE	tclean::::casa+	[ check_pix_val ] tst.mfs.psf.tt0 : Value is 1.0 at [100, 100, 0, 0] ( Pass : should be 1.0 , Epsilon: 0.05)
+2025-09-16 18:37:19	SEVERE	tclean::::casa+	[ check_pix_val ] tst.mvc.psf.tt0 : Value is 1.0 at [100, 100, 0, 0] ( Pass : should be 1.0 , Epsilon: 0.05)
+2025-09-16 18:37:19	SEVERE	tclean::::casa+	[ check_pix_val ] tst.mfs.image.tt0 : Value is 1.04018235206604 at [100, 100, 0, 0] ( Pass : should be 1.04 , Epsilon: 0.05)
+2025-09-16 18:37:19	SEVERE	tclean::::casa+	[ check_pix_val ] tst.mvc.image.tt0 : Value is 1.0401827096939087 at [100, 100, 0, 0] ( Pass : should be 1.04 , Epsilon: 0.05)
+2025-09-16 18:37:19	SEVERE	tclean::::casa+	[ check_pix_val ] tst.mfs.alpha : Value is -1.068488597869873 at [100, 100, 0, 0] ( Pass : should be -1.06 , Epsilon: 0.05)
+2025-09-16 18:37:19	SEVERE	tclean::::casa+	[ check_pix_val ] tst.mvc.alpha : Value is -1.0684857368469238 at [100, 100, 0, 0] ( Pass : should be -1.06 , Epsilon: 0.05)
+2025-09-16 18:37:19	SEVERE	tclean::::casa+	[check_tabcache] Fail: Found open tables after run 

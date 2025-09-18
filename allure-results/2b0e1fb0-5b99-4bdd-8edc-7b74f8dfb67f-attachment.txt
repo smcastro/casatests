@@ -1,0 +1,25 @@
+### gridmeta [[[], [], []], [[], [], [('clipping_3rows_2chans.ms', 0), ('clipping_3rows_2chans.ms', 1), ('clipping_3rows_2chans.ms', 2)]], [[], [], []]]
+### ira 1 idec 2 data [[ 1.e+10  2.e+01]
+ [ 1.e+01  1.e+10]
+ [-1.e+10 -1.e+10]]
+### ira 1 idec 2 argmin 2 argmax 0
+### clip clipping_3rows_2chans.ms row 2 chan 0 data [[-1.e+10 -1.e+10]]
+### flag (before) [[False False]]
+### flag (after) [[ True False]]
+### clip clipping_3rows_2chans.ms row 0 chan 0 data [[1.e+10 2.e+01]]
+### flag (before) [[False False]]
+### flag (after) [[ True False]]
+### ira 1 idec 2 argmin 2 argmax 1
+### clip clipping_3rows_2chans.ms row 2 chan 1 data [[-1.e+10 -1.e+10]]
+### flag (before) [[ True False]]
+### flag (after) [[ True  True]]
+### clip clipping_3rows_2chans.ms row 1 chan 1 data [[1.e+01 1.e+10]]
+### flag (before) [[False False]]
+### flag (after) [[False  True]]
+### result [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0. 10. 20.  0.  0.  0.  0.  0.  0.]
+### mask [False False False False False False False False False False  True  True
+ False False False False False False]
+### reference [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0. 10. 20.  0.  0.  0.  0.  0.  0.]
+### mask [False False False False False False False False False False  True  True
+ False False False False False False]
+err = [0. 0.] (max 0.0 min 0.0)

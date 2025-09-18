@@ -1,0 +1,14 @@
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::	Exception Reported: At least two valid input data are required for processing
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa	Traceback (most recent call last):
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdsidebandsplit.py", line 13, in sdsidebandsplit
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa+	    separator.open(imagename)
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/sidebandseparator.py", line 27, in open
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa+	    return self._swigobj.open(imagename)
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/__casac__/sidebandseparator.py", line 135, in open
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa+	    return _sidebandseparator.sidebandseparator_open(self, *args, **kwargs)
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa+	RuntimeError: At least two valid input data are required for processing
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa	At least two valid input data are required for processing
+2025-09-16 17:27:13	SEVERE	sdsidebandsplit::::casa	Task sdsidebandsplit raised an exception of class RuntimeError with the following message: At least two valid input data are required for processing

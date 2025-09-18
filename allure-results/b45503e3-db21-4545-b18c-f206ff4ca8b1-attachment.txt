@@ -1,0 +1,7 @@
+caltable = casa-rockylinux8-amd64-perf07:/scratch/scastro/casa/Tests/reports/16B-402.sb32888048.eb33072402.57733.81140140047.ms.finalBPcal_sm.b
+Median difference between solution times = 1.461968 sec
+Measurement set not found.
+spws to plot (sorted) =  [19]
+Using telescope name (EVLA) to set the polarization type.
+Skip ea08 spw19 (Ant 7: ea08,  spw19,  field 2: J1924-2914,  scan44  20:43:21) all data flagged
+Both pdftk and ghostscript are missing, so no PDF built.

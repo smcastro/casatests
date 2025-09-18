@@ -1,0 +1,10 @@
+2025-09-16 14:56:54	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:54	INFO	ImageRegion::fromRecord+	    [0, 0, 2445] to [2, 2, 2555]  (02:00:00.000, +30.00.00.000, 9.99142e+13Hz to 02:00:00.154, +30.00.02.000, 9.67228e+13Hz)
+2025-09-16 14:56:54	INFO	AsciiRegionFileParser::_parse	Combined 1 image regions (which excludes any annotation regions)
+2025-09-16 14:56:54	INFO	AsciiRegionFileParser::_parse	The specified region will select all pixels that are included in the region. Full pixels will be included even when they are only partially covered by the region(s).
+2025-09-16 14:56:54	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:54	INFO	ImageRegion::fromRecord+	    [0, 0, 2445] to [2, 2, 2555]  (02:00:00.000, +30.00.00.000, 9.99142e+13Hz to 02:00:00.154, +30.00.02.000, 9.67228e+13Hz)
+2025-09-16 14:56:54	INFO	name::	No table opened.
+2025-09-16 14:56:54	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:56:54	INFO	name::	No table opened.
+2025-09-16 14:56:54	INFO	name::	No table opened.

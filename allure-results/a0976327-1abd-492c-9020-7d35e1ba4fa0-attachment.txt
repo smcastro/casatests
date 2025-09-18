@@ -1,0 +1,2 @@
+ :  channel, start=4, default width, channel gap (10-11) LSRK
+[check_spec_frame] tstCubetest_st4gap.image: Spec frame is LSRK with crval 1199986500.4647074 (Pass : should be LSRK with expected crval 1199986500.0 )

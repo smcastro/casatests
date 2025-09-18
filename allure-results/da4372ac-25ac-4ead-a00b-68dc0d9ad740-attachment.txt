@@ -1,0 +1,45 @@
+Copying  A2256LC2_4.5s-1.ms
+/casadata/repository/casatestdata/unittest/virtualconcat/A2256LC2_4.5s-1.ms
+Copying  A2256LC2_4.5s-2.ms
+/casadata/repository/casatestdata/unittest/virtualconcat/A2256LC2_4.5s-2.ms
+Copying  part2-mod2.ms
+/casadata/repository/casatestdata/unittest/virtualconcat/part2-mod2.ms
+Copying  part2.ms
+/casadata/repository/casatestdata/unittest/virtualconcat/part2.ms
+Copying  part4.ms
+/casadata/repository/casatestdata/unittest/virtualconcat/part4.ms
+Copying  shortpart2.ms
+/casadata/repository/casatestdata/unittest/virtualconcat/shortpart2.ms
+Copying  shortpart4.ms
+/casadata/repository/casatestdata/unittest/virtualconcat/shortpart4.ms
+Copying  sim7.ms
+/casadata/repository/casatestdata/unittest/virtualconcat/sim7.ms
+Copying  X39a.pm03.scan3.ms
+/casadata/repository/casatestdata/unittest/virtualconcat/X39a.pm03.scan3.ms
+Copying  X425.pm04.scan4.ms
+/casadata/repository/casatestdata/unittest/virtualconcat/X425.pm04.scan4.ms
+Copying  A2256LC2_4.5s-2b.ms
+/casadata/repository/casatestdata/unittest/virtualconcat/A2256LC2_4.5s-2b.ms
+Copying  part1.ms
+/casadata/repository/casatestdata/unittest/virtualconcat/part1.ms
+Copying  part2-mod.ms
+/casadata/repository/casatestdata/unittest/virtualconcat/part2-mod.ms
+Copying  part3.ms
+/casadata/repository/casatestdata/unittest/virtualconcat/part3.ms
+Copying  shortpart1.ms
+/casadata/repository/casatestdata/unittest/virtualconcat/shortpart1.ms
+Copying  shortpart3.ms
+/casadata/repository/casatestdata/unittest/virtualconcat/shortpart3.ms
+Copying  shortpart5.ms
+/casadata/repository/casatestdata/unittest/virtualconcat/shortpart5.ms
+Copying  sim8.ms
+/casadata/repository/casatestdata/unittest/virtualconcat/sim8.ms
+Copying  X425.pm03.scan4.ms
+/casadata/repository/casatestdata/unittest/virtualconcat/X425.pm03.scan4.ms
+test_task_virtualconcat : Now checking output MS  concatenated.ms
+test_task_virtualconcat : OK. Checking tables in detail ...
+test_task_virtualconcat : comparing  ['SOURCE_ID', 55, 13, 0]
+test_task_virtualconcat : comparing  ['SPECTRAL_WINDOW_ID', 55, 3, 0]
+test_task_virtualconcat : table  SOURCE  as expected.
+test_task_virtualconcat : comparing  ['NUM_CHAN', 3, 128, 0]
+test_task_virtualconcat : table  SPECTRAL_WINDOW  as expected.
