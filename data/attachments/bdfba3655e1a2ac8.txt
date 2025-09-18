@@ -1,0 +1,19 @@
+caltable = casa-rockylinux8-amd64-perf07:/casadata/repository/casatestdata/unittest/plotbandpass/bandpass.bcal
+Median difference between solution times = 6270.024000 sec
+This dataset (Band7multi_april22.ms) does not have a BBC_NO column in the SPECTRAL_WINDOW_TABLE.
+Skip DV04 spw0 (Ant 0: DV04,  spw 0,  field 0: 3c279,  t0/2  00:09:01) all data flagged
+Skip DV04 spw0 (Ant 0: DV04,  spw 0,  field 0: 3c279,  t1/2  01:55:15) all data flagged
+Skip DV04 spw0 (Ant 0: DV04,  spw 0,  field 0: 3c279,  t2/2  03:38:01) all data flagged
+Skip DV04 spw1 (Ant 0: DV04,  spw 1,  field 0: 3c279,  t0/2  00:09:01) all data flagged
+Skip DV04 spw1 (Ant 0: DV04,  spw 1,  field 0: 3c279,  t1/2  01:55:15) all data flagged
+Skip DV04 spw1 (Ant 0: DV04,  spw 1,  field 0: 3c279,  t2/2  03:38:01) all data flagged
+Skip DV04 spw2 (Ant 0: DV04,  spw 2,  field 0: 3c279,  t0/2  00:09:01) all data flagged
+Skip DV04 spw2 (Ant 0: DV04,  spw 2,  field 0: 3c279,  t1/2  01:55:15) all data flagged
+Skip DV04 spw2 (Ant 0: DV04,  spw 2,  field 0: 3c279,  t2/2  03:38:01) all data flagged
+Skip DV04 spw3 (Ant 0: DV04,  spw 3,  field 0: 3c279,  t0/2  00:09:01) all data flagged
+Skip DV04 spw3 (Ant 0: DV04,  spw 3,  field 0: 3c279,  t1/2  01:55:15) all data flagged
+Skip DV04 spw3 (Ant 0: DV04,  spw 3,  field 0: 3c279,  t2/2  03:38:01) all data flagged
+Skip PM03 spw2 (Ant 8: PM03,  spw 2,  field 0: 3c279,  t0/2  00:09:01) all data flagged
+Skip PM03 spw2 (Ant 8: PM03,  spw 2,  field 0: 3c279,  t1/2  01:55:15) all data flagged
+Skip PM03 spw2 (Ant 8: PM03,  spw 2,  field 0: 3c279,  t2/2  03:38:01) all data flagged
+Both pdftk and ghostscript are missing, so no PDF built.

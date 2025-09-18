@@ -1,0 +1,3 @@
+2025-09-16 17:42:11	WARN	SDAlgorithmMSClean::takeOneStep (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SDAlgorithmMSClean.cc, line 185)	MSClean minor cycle stopped at large scale negative or diverging
+2025-09-16 17:42:11	WARN	SDAlgorithmMSClean::takeOneStep (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SDAlgorithmMSClean.cc, line 185)	MSClean minor cycle stopped at large scale negative or diverging
+2025-09-16 17:42:13	WARN	SDAlgorithmMSClean::takeOneStep (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SDAlgorithmMSClean.cc, line 185)	MSClean minor cycle stopped at large scale negative or diverging

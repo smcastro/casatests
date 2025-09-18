@@ -1,0 +1,13 @@
+Test name  : test_vlass_1p1_row_pcorr1and2_twoint
+Doc : 
+        ---------------------------------------------------------------------------------------------------------------------------------------------
+        VLASS 1.1 :  Corrections for antenna-groups (new/old ACUs). and time-dependent nodding :psd = [30,30]
+                           Image each OTF field separately (to make a scan plot)
+                           Use mtmfs with conjbeams True and test pb-corrected intensity and spectral index.
+                           Use both integrations per scan        
+
+        Test that the intensity and spectral index are correct.  
+
+        This is the setting most optimal for VLASS.  Perhaps the stakeholder test needs just this one run. 
+        ---------------------------------------------------------------------------------------------------------------------------------------------
+        

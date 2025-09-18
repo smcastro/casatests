@@ -1,0 +1,3 @@
+2025-09-16 15:51:36	SEVERE	Calibrater::solve	Caught exception: Mismatch with frequency meta-data in append to fmd2b.G detected in spw=1. Check spw selection.
+2025-09-16 15:51:36	SEVERE		Exception Reported: Error in Calibrater::solve.
+2025-09-16 15:51:36	SEVERE	gaincal::::casa	Task gaincal raised an exception of class RuntimeError with the following message: Error in Calibrater::solve.

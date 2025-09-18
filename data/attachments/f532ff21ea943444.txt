@@ -1,0 +1,16 @@
+2025-09-16 17:03:52	SEVERE		Negative central disk size is given
+2025-09-16 17:03:52	SEVERE	Calibrater::setsolve	Caught exception: 2025-09-16 17:03:52	SEVERE		Negative central disk size is given
+2025-09-16 17:03:52	SEVERE		Exception Reported: Error in Calibrater::setsolve.
+2025-09-16 17:03:52	SEVERE	sdgaincal::::casa	Traceback (most recent call last):
+2025-09-16 17:03:52	SEVERE	sdgaincal::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:03:52	SEVERE	sdgaincal::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdgaincal.py", line 127, in sdgaincal
+2025-09-16 17:03:52	SEVERE	sdgaincal::::casa+	    mycb.setsolve(type='SDGAIN_OTFD', table=outfile, radius=rcenter, smooth=smooth)
+2025-09-16 17:03:52	SEVERE	sdgaincal::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/calibrater.py", line 300, in setsolve
+2025-09-16 17:03:52	SEVERE	sdgaincal::::casa+	    return self._swigobj.setsolve(type, t, table, append, preavg, phaseonly, apmode, refant, refantmode, minblperant, solnorm, normtype, minsnr, combine, fillgaps, cfcache, painc, fitorder, fraction, numedge, radius, smooth, zerorates, globalsolve, niter, corrcomb, delaywindow, ratewindow, paramactive, concatspws, solmode, rmsthresh)
+2025-09-16 17:03:52	SEVERE	sdgaincal::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:03:52	SEVERE	sdgaincal::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/__casac__/calibrater.py", line 691, in setsolve
+2025-09-16 17:03:52	SEVERE	sdgaincal::::casa+	    return _calibrater.calibrater_setsolve(self, *args, **kwargs)
+2025-09-16 17:03:52	SEVERE	sdgaincal::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:03:52	SEVERE	sdgaincal::::casa+	RuntimeError: Error in Calibrater::setsolve.
+2025-09-16 17:03:52	SEVERE	sdgaincal::::casa	Error in Calibrater::setsolve.
+2025-09-16 17:03:52	SEVERE	sdgaincal::::casa	Task sdgaincal raised an exception of class RuntimeError with the following message: Error in Calibrater::setsolve.

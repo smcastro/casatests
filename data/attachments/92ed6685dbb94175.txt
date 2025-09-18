@@ -1,0 +1,4 @@
+Test len(signalshift)=5
+Test len(signalshift)=7
+Test len(imageshift)=5
+Test len(imageshift)=7

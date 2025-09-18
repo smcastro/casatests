@@ -1,0 +1,7 @@
+internal checkms test, the following printed status messages are expected here and are not test errors.
+__dummy__.ms does not exist or is not a directory
+impvla_3c129_test.ms has an unexpected number of rows.  49842 != 49843
+impvla_3c129_test.ms has an unexpected number of autocorrelation rows. 0 != 1
+impvla_3c129_test.ms is missing the NotATable table : impvla_3c129_test.ms/NotATable
+One or more of the ANTENNA names in impvla_3c129_test.ms does not follow the expected naming scheme (old).
+The FLAG_CMD table in impvla_3c129_test.ms has an unexpected number of rows. 0 != 1

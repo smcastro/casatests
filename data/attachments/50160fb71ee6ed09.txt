@@ -1,0 +1,6 @@
+caltable = casa-rockylinux8-amd64-perf07:/scratch/scastro/casa/Tests/reports/uid___A002_X85c183_X60b.skycal.spw23.tbl
+Median difference between solution times = 35.831999 sec
+Measurement set not found.
+spws to plot (sorted) =  [23]
+Using telescope name (ALMA) to set the polarization type.
+Both pdftk and ghostscript are missing, so no PDF built.

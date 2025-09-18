@@ -1,0 +1,6 @@
+2025-09-16 14:57:06	INFO	ImageFactory::createImage	Created Temp image  of shape [100, 100, 1, 1] with float valued pixels.
+2025-09-16 14:57:06	INFO	ImageMaskAttacher::makeMask	Created and initialized mask `mask0'
+2025-09-16 14:57:06	WARN	ImageRegridder::_doImagesOverlap	At least one of the images exceeds one degree on at one side, not checking for direction plane overlap.
+2025-09-16 14:57:06	INFO	SubImageFactory::createImage	Creating image 'moulou1' of shape [100, 100, 1, 1]
+2025-09-16 14:57:06	INFO	name::	No table opened.
+2025-09-16 14:57:06	INFO	showcache::	The Table Cache is empty.

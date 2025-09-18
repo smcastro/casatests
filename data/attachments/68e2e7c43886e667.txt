@@ -1,0 +1,4 @@
+2025-09-16 16:11:44	SEVERE	image::close (file src/tools/image/image_cmpt.cc, line 693)	Exception Reported: ImageExprParse: 'im..2' is an unknown lattice, image, or region
+2025-09-16 16:11:44	SEVERE	image::close (file src/tools/image/image_cmpt.cc, line 693)+	Scanned so far: "im.1"+"im..2"
+2025-09-16 16:11:44	SEVERE	image::close (file src/tools/image/image_cmpt.cc, line 693)	Exception Reported: 3-argument function max is unknown
+2025-09-16 16:11:44	SEVERE	image::close (file src/tools/image/image_cmpt.cc, line 693)+	Scanned so far: "im.2" - max("im.1", "im.2", "im.1")

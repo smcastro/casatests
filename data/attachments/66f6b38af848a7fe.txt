@@ -1,0 +1,69 @@
+
+Testing column UVW
+Column UVW PASSED
+
+Testing column FLAG
+Column FLAG PASSED
+
+Testing column WEIGHT
+Column WEIGHT PASSED
+
+Testing column SIGMA
+Column SIGMA PASSED
+
+Testing column ANTENNA1
+Column ANTENNA1 PASSED
+
+Testing column ANTENNA2
+Column ANTENNA2 PASSED
+
+Testing column ARRAY_ID
+Column ARRAY_ID PASSED
+
+Testing column DATA_DESC_ID
+Column DATA_DESC_ID PASSED
+
+Testing column EXPOSURE
+Column EXPOSURE PASSED
+
+Testing column FEED1
+Column FEED1 PASSED
+
+Testing column FEED2
+Column FEED2 PASSED
+
+Testing column FIELD_ID
+Column FIELD_ID PASSED
+
+Testing column FLAG_ROW
+Column FLAG_ROW PASSED
+
+Testing column INTERVAL
+Column INTERVAL PASSED
+
+Testing column OBSERVATION_ID
+Column OBSERVATION_ID PASSED
+
+Testing column PROCESSOR_ID
+Column PROCESSOR_ID PASSED
+
+Testing column SCAN_NUMBER
+Column SCAN_NUMBER PASSED
+
+Testing column STATE_ID
+Column STATE_ID PASSED
+
+Testing column TIME
+Column TIME PASSED
+
+Testing column TIME_CENTROID
+Column TIME_CENTROID PASSED
+
+Testing column DATA
+Column DATA PASSED
+
+Testing column MODEL_DATA
+Column MODEL_DATA PASSED
+
+Testing column CORRECTED_DATA
+Column CORRECTED_DATA PASSED

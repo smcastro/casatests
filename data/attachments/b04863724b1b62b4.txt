@@ -1,0 +1,3 @@
+2025-09-16 16:11:37	SEVERE	immath::::casa	Unable to process expression IM0
+2025-09-16 16:11:37	SEVERE	immath::::casa	Exception caught was: can only concatenate str (not "int") to str
+2025-09-16 16:11:37	SEVERE	immath::::casa	Task immath raised an exception of class TypeError with the following message: can only concatenate str (not "int") to str

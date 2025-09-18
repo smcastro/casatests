@@ -1,0 +1,11 @@
+caltable = casa-rockylinux8-amd64-perf07:/scratch/scastro/casa/Tests/reports/uid___A002_X71a45c_X1d24.ms.split.bandpass
+Median difference between solution times = nan sec
+spws to plot (sorted) =  [np.int64(0), np.int64(1)]
+basebands = [1 2 3 4], spwsToPlot=[0 1]
+Skip DV08 spw0 (Ant15: DV08,  spw 0,  field 0: J1058+0133,  scan2  12:27:59) all data flagged
+Skip DV08 spw0 (Ant15: DV08,  spw 0,  field 0: J1058+0133,  scan2  12:27:59) all data flagged
+Skip DV08 spw1 (Ant15: DV08,  spw 1,  field 0: J1058+0133,  scan2  12:27:59) all data flagged
+Skip DV08 spw1 (Ant15: DV08,  spw 1,  field 0: J1058+0133,  scan2  12:27:59) all data flagged
+Skip PM04 spw0 (Ant27: PM04,  spw 0,  field 0: J1058+0133,  scan2  12:27:59) all data flagged
+Skip PM04 spw0 (Ant27: PM04,  spw 0,  field 0: J1058+0133,  scan2  12:27:59) all data flagged
+Both pdftk and ghostscript are missing, so no PDF built.

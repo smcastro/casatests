@@ -1,0 +1,42 @@
+2025-09-16 14:58:38	INFO	test
+::msmetadata_cmpt.cc::open	Performing internal consistency checks on /casadata/repository/casatestdata/unittest/msmetadata/MSMetaData.ms...
+2025-09-16 14:58:38	INFO	test
+::MSFitsInput::MSFitsInput	Converting FITS file '/casadata/repository/casatestdata/unittest/msmetadata/W3OH_MC.UVFITS' to MeasurementSet 'lala.ms'
+2025-09-16 14:58:38	INFO	test
+::MSFitsInput::setupMeasurementSet	Using tile shape [1, 38, 3449] for VLA with obstype=0
+2025-09-16 14:58:38	INFO	test
+::MSFitsInput::fillMSMainTableColWise	SOURCE not found in UU---SIN VV---SIN WW---SIN BASELINE DATE DATE
+2025-09-16 14:58:38	INFO	test
+::MSFitsInput::fillMSMainTableColWise	FREQSEL not found in UU---SIN VV---SIN WW---SIN BASELINE DATE DATE
+2025-09-16 14:58:38	INFO	test
+::MSFitsInput::fillMSMainTableColWise	Reading and writing 16311 visibility groups
+2025-09-16 14:58:40	INFO	test
+::MSFitsInput::readRandomGroupUVFits	extname=AIPS NX  nrows=1 ncols=7 rowsize=28 pcount=0 gcount=1
+2025-09-16 14:58:40	INFO	test
+::MSFitsInput::readRandomGroupUVFits	Skipping table, duplicate or unrecognized type: AIPS NX 
+2025-09-16 14:58:40	INFO	test
+::MSFitsInput::readRandomGroupUVFits	extname=AIPS FQ  nrows=1 ncols=5 rowsize=24 pcount=0 gcount=1
+2025-09-16 14:58:40	INFO	test
+::MSFitsInput::readRandomGroupUVFits	extname=AIPS WX  nrows=155 ncols=11 rowsize=48 pcount=0 gcount=1
+2025-09-16 14:58:40	INFO	test
+::MSFitsInput::readRandomGroupUVFits	Skipping table, duplicate or unrecognized type: AIPS WX 
+2025-09-16 14:58:40	INFO	test
+::MSFitsInput::readRandomGroupUVFits	extname=AIPS OF  nrows=100 ncols=7 rowsize=28 pcount=0 gcount=1
+2025-09-16 14:58:40	INFO	test
+::MSFitsInput::readRandomGroupUVFits	Skipping table, duplicate or unrecognized type: AIPS OF 
+2025-09-16 14:58:40	INFO	test
+::MSFitsInput::readRandomGroupUVFits	extname=AIPS AN  nrows=29 ncols=14 rowsize=78 pcount=0 gcount=1
+2025-09-16 14:58:40	INFO	test
+::MSFitsInput::fillAntennaTable	This looks like an old VLA archive UVFITS file
+2025-09-16 14:58:40	INFO	test
+::MSFitsInput::fillAntennaTable	UVFITS file telescope position is 2.13393e-09 meters from CASA Observatories table VLA position
+2025-09-16 14:58:40	INFO	test
+::MSFitsInput::fillAntennaTable	Performing transformation of antenna positions from coordinate frame used by MODCOMPs to ITRF
+2025-09-16 14:58:40	INFO	test
+::MSFitsInput::fillExtraTables	Filling SOURCE table (this may take some time).
+2025-09-16 14:58:40	WARN	test
+::MSFitsInput::fillExtraTable	No systemic velocity for field 0
+2025-09-16 14:58:40	WARN	test
+::MSFitsInput::fillExtraTable	No rest frequency for field 0
+2025-09-16 14:58:40	INFO	test
+::msmetadata_cmpt.cc::open	Performing internal consistency checks on lala.ms...

@@ -1,0 +1,14 @@
+2025-09-16 16:26:26	WARN	componentlist::fromrecord	componentlist is not empty; overwriting it
+2025-09-16 16:26:26	WARN	ImageFitter::_finishConstruction	Unrecognized intensity unit cm-2. Will assume Jy/pixel
+2025-09-16 16:26:26	WARN	SkyCompRep::convertToJy	Cannot convert units of brightness to Jy - will assume Jy
+2025-09-16 16:26:26	WARN	SkyCompRep::peakToIntegralFlux()	The image units 'cm-2' are not consistent 
+2025-09-16 16:26:26	WARN	SkyCompRep::peakToIntegralFlux()+	with Jy when integrated over the sky.  Assuming Jy/pixel
+2025-09-16 16:26:26	WARN	SkyCompRep::integralToPeakFlux()	The image units 'cm-2' are not consistent 
+2025-09-16 16:26:26	WARN	SkyCompRep::integralToPeakFlux()+	with Jy when integrated over the sky.  Assuming Jy/pixel
+2025-09-16 16:26:26	WARN	ImageFitter::_finishConstruction	Unrecognized intensity unit cm-2. Will assume Jy/pixel
+2025-09-16 16:26:26	WARN	SkyCompRep::convertToJy	Cannot convert units of brightness to Jy - will assume Jy
+2025-09-16 16:26:26	WARN	SkyCompRep::peakToIntegralFlux()	The image units 'cm-2' are not consistent 
+2025-09-16 16:26:26	WARN	SkyCompRep::peakToIntegralFlux()+	with Jy when integrated over the sky.  Assuming Jy/pixel
+2025-09-16 16:26:26	WARN	SkyCompRep::integralToPeakFlux()	The image units 'cm-2' are not consistent 
+2025-09-16 16:26:26	WARN	SkyCompRep::integralToPeakFlux()+	with Jy when integrated over the sky.  Assuming Jy/pixel
+2025-09-16 16:26:26	WARN	componentlist::fromrecord	componentlist is not empty; overwriting it

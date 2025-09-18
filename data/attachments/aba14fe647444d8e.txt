@@ -1,0 +1,3 @@
+2025-09-16 17:08:58	WARN	ImageRegridder::_doImagesOverlap	At least one of the images exceeds one degree on at one side, not checking for direction plane overlap.
+2025-09-16 17:09:00	SEVERE	MatrixCleaner::clean() (file /source/casa6/casatools/src/code/synthesis/MeasurementEquations/MatrixCleaner.cc, line 327)	As Peak of PSF is negative, you should setscales again with a smaller scale size
+2025-09-16 17:09:00	WARN	SDAlgorithmMSClean::takeOneStep (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SDAlgorithmMSClean.cc, line 185)	MSClean minor cycle stopped on cleaning consecutive smallest scale

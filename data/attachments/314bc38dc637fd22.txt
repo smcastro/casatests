@@ -1,0 +1,9 @@
+2025-09-16 14:57:15	INFO	ImageFITSConverter::readBeamsTable	Loading multiple beams from BEAMS table
+2025-09-16 14:57:15	INFO	ImageFITSConverter::readBeamsTable	Loading multiple beams from BEAMS table
+2025-09-16 14:57:15	INFO	ImageFITSConverter::readBeamsTable	Loading multiple beams from BEAMS table
+2025-09-16 14:57:15	INFO	ImageFITSConverter::readBeamsTable	Loading multiple beams from BEAMS table
+2025-09-16 14:57:15	SEVERE	imagepol::depolratio	Exception Reported: Exception: Input image has multiple beams and the corresponding beams for the stokes planes necessary for this computation are not equal..
+2025-09-16 14:57:15	SEVERE	imagepol::depolratio+	... thrown by casacore::Bool casa::ImagePolarimetry::_checkBeams(const std::vector<casa::ImagePolarimetry::StokesTypes>&, casacore::Bool, casacore::Bool) const at File: /source/casa6/casatools/src/code/imageanalysis/ImageAnalysis/ImagePolarimetry.cc, line: 1626
+2025-09-16 14:57:15	INFO	ImageFITSConverter::readBeamsTable	Loading multiple beams from BEAMS table
+2025-09-16 14:57:15	SEVERE	imagepol::depolratio	Exception Reported: Exception: Input image has multiple beams and the corresponding beams for the stokes planes necessary for this computation are not equal..
+2025-09-16 14:57:15	SEVERE	imagepol::depolratio+	... thrown by casacore::Bool casa::ImagePolarimetry::_checkBeams(const std::vector<casa::ImagePolarimetry::StokesTypes>&, casacore::Bool, casacore::Bool) const at File: /source/casa6/casatools/src/code/imageanalysis/ImageAnalysis/ImagePolarimetry.cc, line: 1626

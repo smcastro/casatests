@@ -1,0 +1,4 @@
+2025-09-16 18:50:37	WARN		Antenna 1 has bad or no WVR and only 1 near antennas (40 m max. distance) to interpolate from. Required are 2.
+Calculating the coefficients now ... 
+done!
+2025-09-16 18:50:43	WARN	wvrgcal::::casa	Solution for flagged antenna DA42 could not be interpolated due to insufficient number of near antennas. Was set to unity.

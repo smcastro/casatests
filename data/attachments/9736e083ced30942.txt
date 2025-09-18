@@ -1,0 +1,2 @@
+2025-09-16 16:37:45	WARN	MSTransformManager::checkDataColumnsToFill	MODEL_DATA column requested but not available in input MS 
+2025-09-16 16:37:45	SEVERE	phaseshift::::casa	Task phaseshift raised an exception of class RuntimeError with the following message: Desired column (MODEL_DATA) not found in the input MS (/scratch/scastro/casa/Tests/reports/nep_copy.ms).

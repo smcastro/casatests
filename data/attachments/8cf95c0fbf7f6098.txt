@@ -1,0 +1,3 @@
+2025-09-16 15:34:44	WARN	calibrater::setvi(bool,bool)	Forcing use of OLD VisibilityIterator.
+2025-09-16 15:34:44	WARN	ft::FTMachine::initMaps	No overlap in frequency between image channels and selected data found for this FTMachine 
+2025-09-16 15:34:44	WARN	ft::FTMachine::initMaps+	 Check your data selection and image parameters if you end up with a blank image

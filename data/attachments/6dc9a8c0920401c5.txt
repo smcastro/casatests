@@ -1,0 +1,10 @@
+2025-09-16 16:23:47	WARN	FitsIDItoMS::fillAntennaTable	ARRAY_GEOMETRY input table does not contain dish DIAMETER column.
+2025-09-16 16:23:47	WARN	FitsIDItoMS::fillAntennaTable+	 Will assume default diameter for TELESCOPE EVN which is 0 m.
+2025-09-16 16:23:47	WARN	SynthesisImager::createIMStore (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisImager.cc, line 1325)	Unknown stokes types in feed table: [l, ?]
+2025-09-16 16:23:47	WARN	SynthesisImager::createIMStore (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisImager.cc, line 1325)+	Results open to question!
+
+0%....10....20....30....40....50....60....70....80....90....100%
+2025-09-16 16:24:04	WARN	SIImageStore::getPSFGaussian (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SIImageStore.cc, line 2136)	PSF is blank for[C0:P0] 
+2025-09-16 16:24:04	WARN	task_tclean::SynthesisImager::makePBImage() (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisImager.cc, line 2847)	Telescope EVN is not known
+2025-09-16 16:24:04	WARN	task_tclean::SynthesisImager::makePBImage() (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisImager.cc, line 2847)+	 Not making the PB  image
+2025-09-16 16:24:06	WARN	task_tclean::SIImageStore::restore (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SIImageStore.cc, line 2345)	Restoring with an empty model image. Only residuals will be processed to form the output restored image.

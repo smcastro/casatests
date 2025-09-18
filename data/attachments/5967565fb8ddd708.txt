@@ -1,0 +1,165 @@
+2025-09-16 14:57:04	INFO	ImageFactory::createImage	Created Temp image  of shape [1, 1, 20] with float valued pixels.
+2025-09-16 14:57:04	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:04	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:04	INFO	ImageProfileFitter::ImageProfileFitter	Using spectral axis (axis 2) as fit axis
+2025-09-16 14:57:04	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:04	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:04	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:04	INFO	ImageRegion::fromRecord+	    [0, 0, 0] to [0, 0, 19]  (00:00:00.000, +00.00.00.000, 1.41499e+09Hz to 00:00:00.000, +00.00.00.000, 1.41501e+09Hz)
+2025-09-16 14:57:04	INFO	ImageCollapser::_doDegenerateAxesCase	All subimage axes to be collapsed are degenerate, using algorithm optimized for that case.
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 1
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 1
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 1
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary	Number converged         = 1
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary	Number valid             = 1
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary	****** Fit performed at Tue Sep 16 14:57:04 2025******
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	Input parameters ---
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- imagename:           Temporary_Image
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- region:              
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- box:                 
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- channels:            
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- stokes:              
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- mask:                
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- number of Gaussian singlets: 0
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- number of Gaussian multiplets: 0
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- polynomial order:    2
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- One profile fit, averaged over several pixels if necessary
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	    RA           :   00:00:00.000
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  +00.00.00.000
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [0.000, 0.000,  *]
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 6
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	         c0 : -30 +/- 229 Jy/pixel
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	         c1 : 55 +/- 56 Jy/pixel/(pixel)
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	         c2 : -2.7 +/- 2.8 Jy/pixel/((pixel)2)
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	         c0 : -80 +/- 83 MJy/pixel
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	         c1 : 141 +/- 146 kJy/pixel/(km/s)
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	         c2 : -62 +/- 64 Jy/pixel/((km/s)2)
+2025-09-16 14:57:04	INFO	SubImageFactory::createImage	Creating image 'bad.im' of shape [1, 1, 20]
+2025-09-16 14:57:04	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:04	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:04	INFO	ImageProfileFitter::ImageProfileFitter	Using spectral axis (axis 2) as fit axis
+2025-09-16 14:57:04	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:04	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:04	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:04	INFO	ImageRegion::fromRecord+	    [0, 0, 0] to [0, 0, 19]  (00:00:00.000, +00.00.00.000, 1.41499e+09Hz to 00:00:00.000, +00.00.00.000, 1.41501e+09Hz)
+2025-09-16 14:57:04	INFO	ImageCollapser::_doDegenerateAxesCase	All subimage axes to be collapsed are degenerate, using algorithm optimized for that case.
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 1
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 1
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 1
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary	Number converged         = 1
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary	Number valid             = 1
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary	****** Fit performed at Tue Sep 16 14:57:04 2025******
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	Input parameters ---
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- imagename:           Temporary_Image
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- region:              
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- box:                 
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- channels:            
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- stokes:              
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- mask:                
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- number of Gaussian singlets: 0
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- number of Gaussian multiplets: 0
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- polynomial order:    2
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- One profile fit, averaged over several pixels if necessary
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	    RA           :   00:00:00.000
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  +00.00.00.000
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [0.000, 0.000,  *]
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 6
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	         c0 : 199.999990 +/- 0.000076 mJy/pixel
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	         c1 : -299.999992 +/- 0.000019 mJy/pixel/(pixel)
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	         c2 : 39.99999917 +/- 0.00000097 mJy/pixel/((pixel)2)
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	         c0 : 1.171590170 +/- 0.000000028 MJy/pixel
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	         c1 : -2.051349506 +/- 0.000000050 kJy/pixel/(km/s)
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	         c2 : 897.931958 +/- 0.000022 mJy/pixel/((km/s)2)
+2025-09-16 14:57:04	INFO	SubImageFactory::createImage	Creating image 'good1.im' of shape [1, 1, 20]
+2025-09-16 14:57:04	INFO	ImageProfileFitter::ImageProfileFitter	Using spectral axis (axis 2) as fit axis
+2025-09-16 14:57:04	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:04	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:04	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:04	INFO	ImageRegion::fromRecord+	    [0, 0, 0] to [0, 0, 16]  (00:00:00.000, +00.00.00.000, 1.41499e+09Hz to 00:00:00.000, +00.00.00.000, 1.41501e+09Hz)
+2025-09-16 14:57:04	INFO	ImageCollapser::_doDegenerateAxesCase	All subimage axes to be collapsed are degenerate, using algorithm optimized for that case.
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 1
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 1
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 1
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary	Number converged         = 1
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary	Number valid             = 1
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary	****** Fit performed at Tue Sep 16 14:57:04 2025******
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	Input parameters ---
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- imagename:           Temporary_Image
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- region:              
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- box:                 
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- channels:            
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- stokes:              
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- mask:                
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- number of Gaussian singlets: 0
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- number of Gaussian multiplets: 0
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- polynomial order:    2
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- One profile fit, averaged over several pixels if necessary
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	    RA           :   00:00:00.000
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  +00.00.00.000
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [0.000, 0.000,  *]
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 6
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	         c0 : -239.999966 +/- 0.000065 mJy/pixel
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	         c1 : -140.000018 +/- 0.000019 mJy/pixel/(pixel)
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	         c2 : 40.0000010 +/- 0.0000011 mJy/pixel/((pixel)2)
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	         c0 : 1.172456304 +/- 0.000000033 MJy/pixel
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	         c1 : -2.052107673 +/- 0.000000058 kJy/pixel/(km/s)
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	         c2 : 897.931998 +/- 0.000026 mJy/pixel/((km/s)2)
+2025-09-16 14:57:04	INFO	SubImageFactory::createImage	Creating image 'good2.im' of shape [1, 1, 17]
+2025-09-16 14:57:04	INFO	ImageProfileFitter::ImageProfileFitter	Using spectral axis (axis 2) as fit axis
+2025-09-16 14:57:04	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:04	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:04	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:04	INFO	ImageRegion::fromRecord+	    [0, 0, 0] to [0, 0, 12]  (00:00:00.000, +00.00.00.000, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.41501e+09Hz)
+2025-09-16 14:57:04	INFO	ImageCollapser::_doDegenerateAxesCase	All subimage axes to be collapsed are degenerate, using algorithm optimized for that case.
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 1
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 1
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 1
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary	Number converged         = 1
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary	Number valid             = 1
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary	****** Fit performed at Tue Sep 16 14:57:04 2025******
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	Input parameters ---
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- imagename:           Temporary_Image
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- region:              
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- box:                 
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- channels:            
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- stokes:              
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- mask:                
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- number of Gaussian singlets: 0
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- number of Gaussian multiplets: 0
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- polynomial order:    2
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	       --- One profile fit, averaged over several pixels if necessary
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary	Fit   :
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	    RA           :   00:00:00.000
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	    Dec          :  +00.00.00.000
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	    Pixel        : [0.000, 0.000,  *]
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	    Attempted    : YES
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	    Converged    : YES
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	    Iterations   : 6
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	    Valid        : YES
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	        Type: POLYNOMIAL
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	         c0 : -159.999943 +/- 0.000075 mJy/pixel
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	         c1 : 179.999957 +/- 0.000030 mJy/pixel/(pixel)
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	         c2 : 40.0000035 +/- 0.0000024 mJy/pixel/((pixel)2)
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	         c0 : 1.174189497 +/- 0.000000071 MJy/pixel
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	         c1 : -2.05362395 +/- 0.00000012 kJy/pixel/(km/s)
+2025-09-16 14:57:04	INFO	ImageProfileFitterResults::logSummary+	         c2 : 897.932054 +/- 0.000054 mJy/pixel/((km/s)2)
+2025-09-16 14:57:04	INFO	SubImageFactory::createImage	Creating image 'good3.im' of shape [1, 1, 13]

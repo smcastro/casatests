@@ -1,0 +1,2 @@
+line blfunc:poly dirkernel:gaussian spkernel:gaussian, chans:chanB, 0.008518457412719727, 0.0, 0.005408379491200321, 0.008193910121917725
+cont blfunc:poly dirkernel:gaussian spkernel:gaussian, chans:chanB, 1.9918712377548218, 0.0, 1.2945916205087997, 1.9915468096733093

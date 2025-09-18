@@ -1,0 +1,3 @@
+2025-09-16 16:25:23	SEVERE	imrebin::ImageInputProcessor::_process	Replaceable flag is false and there is already a file or directory named rebinned.im so the output image will not be written
+2025-09-16 16:25:23	SEVERE	imrebin::image::rebin	Exception Reported: 2025-09-16 16:25:23	SEVERE	imrebin::ImageInputProcessor::_process	Replaceable flag is false and there is already a file or directory named rebinned.im so the output image will not be written
+2025-09-16 16:25:23	SEVERE	imrebin::::casa	Task imrebin raised an exception of class RuntimeError with the following message: 2025-09-16 16:25:23	SEVERE	imrebin::ImageInputProcessor::_process	Replaceable flag is false and there is already a file or directory named rebinned.im so the output image will not be written

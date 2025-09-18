@@ -1,0 +1,8 @@
+2025-09-16 16:25:24	WARN	imreframe::SpectralCoordinate::setFrequencySystem	Resetting the conversion frequency system GEO
+2025-09-16 16:25:24	WARN	imreframe::SpectralCoordinate::setFrequencySystem+	to the new native frequency system GEO
+2025-09-16 16:25:24	WARN	imreframe::SpectralCoordinate::setFrequencySystem+	You must explicitly reset the conversion frequency system if desired
+2025-09-16 16:25:24	WARN	imreframe::ImageRegridder::_doImagesOverlap	At least one of the images exceeds one degree on at one side, not checking for direction plane overlap.
+2025-09-16 16:25:24	WARN	imreframe::SpectralCoordinate::setFrequencySystem	Resetting the conversion frequency system TOPO
+2025-09-16 16:25:24	WARN	imreframe::SpectralCoordinate::setFrequencySystem+	to the new native frequency system TOPO
+2025-09-16 16:25:24	WARN	imreframe::SpectralCoordinate::setFrequencySystem+	You must explicitly reset the conversion frequency system if desired
+2025-09-16 16:25:24	WARN	imreframe::ImageRegridder::_doImagesOverlap	At least one of the images exceeds one degree on at one side, not checking for direction plane overlap.

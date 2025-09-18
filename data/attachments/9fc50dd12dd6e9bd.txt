@@ -1,0 +1,7 @@
+2025-09-16 16:50:13	SEVERE	plotprofilemap::::casa	Traceback (most recent call last):
+2025-09-16 16:50:13	SEVERE	plotprofilemap::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 16:50:13	SEVERE	plotprofilemap::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_plotprofilemap.py", line 23, in plotprofilemap
+2025-09-16 16:50:13	SEVERE	plotprofilemap::::casa+	    raise RuntimeError('overwrite is False and output file exists: \'%s\''%(figfile))
+2025-09-16 16:50:13	SEVERE	plotprofilemap::::casa+	RuntimeError: overwrite is False and output file exists: 'plotprofilemap_test.png'
+2025-09-16 16:50:13	SEVERE	plotprofilemap::::casa	overwrite is False and output file exists: 'plotprofilemap_test.png'
+2025-09-16 16:50:13	SEVERE	plotprofilemap::::casa	Task plotprofilemap raised an exception of class RuntimeError with the following message: overwrite is False and output file exists: 'plotprofilemap_test.png'

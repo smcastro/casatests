@@ -1,0 +1,17 @@
+2025-09-16 17:01:15	SEVERE	sdbaseline::::casa	Traceback (most recent call last):
+2025-09-16 17:01:15	SEVERE	sdbaseline::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:01:15	SEVERE	sdbaseline::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdbaseline.py", line 54, in sdbaseline
+2025-09-16 17:01:15	SEVERE	sdbaseline::::casa+	    temp_outfile = _do_fit(infile, datacolumn, antenna, field, spw, timerange, scan,
+2025-09-16 17:01:15	SEVERE	sdbaseline::::casa+	                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:01:15	SEVERE	sdbaseline::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdbaseline.py", line 515, in _do_fit
+2025-09-16 17:01:15	SEVERE	sdbaseline::::casa+	    selection = ms.msseltoindex(vis=infile, spw=spw, field=field, baseline=antenna,
+2025-09-16 17:01:15	SEVERE	sdbaseline::::casa+	                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:01:15	SEVERE	sdbaseline::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/ms.py", line 771, in msseltoindex
+2025-09-16 17:01:15	SEVERE	sdbaseline::::casa+	    return self._swigobj.msseltoindex(vis, spw, field, baseline, time, scan, uvrange, observation, polarization, taql)
+2025-09-16 17:01:15	SEVERE	sdbaseline::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:01:15	SEVERE	sdbaseline::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/__casac__/ms.py", line 2073, in msseltoindex
+2025-09-16 17:01:15	SEVERE	sdbaseline::::casa+	    return _ms.ms_msseltoindex(self, *args, **kwargs)
+2025-09-16 17:01:15	SEVERE	sdbaseline::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:01:15	SEVERE	sdbaseline::::casa+	RuntimeError: Spw Expression: No match found for 10, 
+2025-09-16 17:01:15	SEVERE	sdbaseline::::casa	Spw Expression: No match found for 10, 
+2025-09-16 17:01:15	SEVERE	sdbaseline::::casa	Task sdbaseline raised an exception of class RuntimeError with the following message: Spw Expression: No match found for 10, 

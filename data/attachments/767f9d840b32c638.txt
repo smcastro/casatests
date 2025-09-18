@@ -1,0 +1,4 @@
+2025-09-16 14:57:15	INFO	ImageFactory::createImage	Created Paged image 'test011.im' of shape [10, 10, 10] with float valued pixels.
+2025-09-16 14:57:15	INFO	CasacRegionManager::fromBCS	Using specified box(es) 0, 0, 2, 2, 4, 4, 6, 6
+2025-09-16 14:57:15	INFO	name::	No table opened.
+2025-09-16 14:57:15	INFO	showcache::	The Table Cache is empty.

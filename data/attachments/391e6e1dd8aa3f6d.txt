@@ -1,0 +1,2 @@
+2025-09-16 17:32:48	SEVERE	simutil::componentlist::open	Exception Reported: core5ps.skymodel is non existant or is not a componentlist table
+2025-09-16 17:32:48	SEVERE	simobserve::::casa	Task simobserve raised an exception of class RuntimeError with the following message: core5ps.skymodel is non existant or is not a componentlist table

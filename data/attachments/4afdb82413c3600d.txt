@@ -1,0 +1,4 @@
+2025-09-16 16:33:21	WARN	ParallelDataHelper::getPartitionMap::casa	Number of subMSs (8) is greater than available scan,ddi pairs (4), setting nsubms to 4
+2025-09-16 16:33:22	WARN	mstransform::::casa	Cannot combine or separate spws in parallel because the subMSs do not contain all the selected spws
+2025-09-16 16:33:22	WARN	mstransform::::casa	Will process the input MMS as a monolithic MS
+2025-09-16 16:33:22	WARN	mstransform::::casa	Will create an output MMS with separation axis 'scan'

@@ -1,0 +1,6 @@
+2025-09-16 15:16:22	SEVERE	getcell::TIME	Exception Reported: TableProxy::getCell: no such row
+2025-09-16 15:16:22	SEVERE	getcell::TIME	Exception Reported: TableProxy::getCell: no such row
+2025-09-16 15:16:22	SEVERE	getcell::TIME	Exception Reported: TableProxy::getCell: no such row
+2025-09-16 15:16:22	WARN	concat::::casa	The setup of the input MSs is not fully consistent. The concatenation may fail
+2025-09-16 15:16:22	WARN	concat::::casa	and/or the affected columns may contain partially only default data.
+2025-09-16 15:16:22	WARN	concat::::casa	{'part2-mod2.ms': {'Main': {'present_a': True, 'present_b': True, 'missingcol_a': [], 'missingcol_b': ['CORRECTED_DATA', 'MODEL_DATA']}}, 'part3.ms': {'Main': {'present_a': True, 'present_b': True, 'missingcol_a': [], 'missingcol_b': ['CORRECTED_DATA', 'MODEL_DATA']}}}

@@ -1,0 +1,2 @@
+2025-09-16 14:57:28	INFO	test
+::ms::asdmref	MS does not reference an ASDM.

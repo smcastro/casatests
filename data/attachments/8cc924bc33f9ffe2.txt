@@ -1,0 +1,7 @@
+2025-09-16 17:03:52	SEVERE	sdgaincal::::casa	Traceback (most recent call last):
+2025-09-16 17:03:52	SEVERE	sdgaincal::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:03:52	SEVERE	sdgaincal::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdgaincal.py", line 74, in sdgaincal
+2025-09-16 17:03:52	SEVERE	sdgaincal::::casa+	    raise RuntimeError(outfile + ' exists.')
+2025-09-16 17:03:52	SEVERE	sdgaincal::::casa+	RuntimeError: sdgaincal_fail_test.sdgain.caltable exists.
+2025-09-16 17:03:52	SEVERE	sdgaincal::::casa	sdgaincal_fail_test.sdgain.caltable exists.
+2025-09-16 17:03:52	SEVERE	sdgaincal::::casa	Task sdgaincal raised an exception of class RuntimeError with the following message: sdgaincal_fail_test.sdgain.caltable exists.

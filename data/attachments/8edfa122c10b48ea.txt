@@ -1,0 +1,4 @@
+[check_tfmask]  T/F mask name for tst.image is : ['T'] (Pass : should be ['T']) 
+[check_tfmask]  T/F mask name for tst.pb is : ['mask0'] (Pass : should be ['mask0']) 
+[check_tfmask]  T/F mask name for tst.image.pbcor is : ['mask0'] (Pass : should be ['mask0']) 
+

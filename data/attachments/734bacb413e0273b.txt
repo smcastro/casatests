@@ -1,0 +1,5 @@
+2025-09-16 14:56:36	SEVERE	coordsys::recordToWorldVector	Failed to convert string formatted world [i, like, doggies] to double
+2025-09-16 14:56:36	INFO	name::	No table opened.
+2025-09-16 14:56:36	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:56:36	INFO	name::	No table opened.
+2025-09-16 14:56:36	INFO	name::	No table opened.

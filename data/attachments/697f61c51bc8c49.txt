@@ -1,0 +1,2 @@
+2025-09-16 15:46:06	WARN	AgentFlagger::initAgents	Cannot create agent Manual: With calibration tables, correlation selection is not supported for modes other than 'clip', 'tfcrop', or 'rflag'. 'correlation' given: BLA
+2025-09-16 15:46:06	SEVERE	AgentFlagger::run	There is no agent to run in list

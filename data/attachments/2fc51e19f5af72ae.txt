@@ -1,0 +1,4 @@
+/casadata/repository/casatestdata/unittest/deconvolve/
+refim_point
+[check_stopcode] Stopcode is 2 (Pass : should be 2)
+

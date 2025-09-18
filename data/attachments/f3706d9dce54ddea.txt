@@ -1,0 +1,16 @@
+2025-09-16 17:02:55	WARN	sdcal::calibrater::setvi(bool,bool)	Already using OLD VisibilityIterator.
+2025-09-16 17:02:55	SEVERE	sdcal::Calibrater::solve	Caught exception: Too many edge points (20000 out of 9 points)
+2025-09-16 17:02:55	SEVERE	sdcal::::	Exception Reported: Error in Calibrater::solve.
+2025-09-16 17:02:55	SEVERE	sdcal::::casa	Traceback (most recent call last):
+2025-09-16 17:02:55	SEVERE	sdcal::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:02:55	SEVERE	sdcal::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdcal.py", line 157, in sdcal
+2025-09-16 17:02:55	SEVERE	sdcal::::casa+	    cb.solve()
+2025-09-16 17:02:55	SEVERE	sdcal::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/calibrater.py", line 485, in solve
+2025-09-16 17:02:55	SEVERE	sdcal::::casa+	    return self._swigobj.solve()
+2025-09-16 17:02:55	SEVERE	sdcal::::casa+	           ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:02:55	SEVERE	sdcal::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/__casac__/calibrater.py", line 1133, in solve
+2025-09-16 17:02:55	SEVERE	sdcal::::casa+	    return _calibrater.calibrater_solve(self)
+2025-09-16 17:02:55	SEVERE	sdcal::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:02:55	SEVERE	sdcal::::casa+	RuntimeError: Error in Calibrater::solve.
+2025-09-16 17:02:55	SEVERE	sdcal::::casa	Error in Calibrater::solve.
+2025-09-16 17:02:55	SEVERE	sdcal::::casa	Task sdcal raised an exception of class RuntimeError with the following message: Error in Calibrater::solve.

@@ -1,0 +1,18 @@
+2025-09-16 18:43:22	WARN	tsdimaging::ms::msselect	Spw Expression: No match found for 99, 
+2025-09-16 18:43:22	SEVERE	tsdimaging::::casa	Traceback (most recent call last):
+2025-09-16 18:43:22	SEVERE	tsdimaging::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 18:43:22	SEVERE	tsdimaging::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_tsdimaging.py", line 1000, in tsdimaging
+2025-09-16 18:43:22	SEVERE	tsdimaging::::casa+	    _restfreq = _get_restfreq_if_empty(
+2025-09-16 18:43:22	SEVERE	tsdimaging::::casa+	                ^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 18:43:22	SEVERE	tsdimaging::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_tsdimaging.py", line 676, in _get_restfreq_if_empty
+2025-09-16 18:43:22	SEVERE	tsdimaging::::casa+	    ndx = ms.msselectedindices()
+2025-09-16 18:43:22	SEVERE	tsdimaging::::casa+	          ^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 18:43:22	SEVERE	tsdimaging::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/ms.py", line 765, in msselectedindices
+2025-09-16 18:43:22	SEVERE	tsdimaging::::casa+	    return self._swigobj.msselectedindices()
+2025-09-16 18:43:22	SEVERE	tsdimaging::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 18:43:22	SEVERE	tsdimaging::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/__casac__/ms.py", line 2012, in msselectedindices
+2025-09-16 18:43:22	SEVERE	tsdimaging::::casa+	    return _ms.ms_msselectedindices(self)
+2025-09-16 18:43:22	SEVERE	tsdimaging::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 18:43:22	SEVERE	tsdimaging::::casa+	RuntimeError: Spw Expression: No match found for 99, 
+2025-09-16 18:43:22	SEVERE	tsdimaging::::casa	Spw Expression: No match found for 99, 
+2025-09-16 18:43:22	SEVERE	tsdimaging::::casa	Task tsdimaging raised an exception of class RuntimeError with the following message: Spw Expression: No match found for 99, 

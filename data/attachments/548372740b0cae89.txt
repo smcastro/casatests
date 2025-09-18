@@ -1,0 +1,2 @@
+2025-09-16 16:26:59	SEVERE	imval::regionmanager::frombcs	Exception Reported: LCBox::LCBox - blc [128, 128, 0, 0] must be <= trc [128, 128, -2147483648, 29]
+2025-09-16 16:26:59	SEVERE	imval::::casa	Task imval raised an exception of class RuntimeError with the following message: LCBox::LCBox - blc [128, 128, 0, 0] must be <= trc [128, 128, -2147483648, 29]

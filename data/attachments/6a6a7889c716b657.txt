@@ -1,0 +1,21 @@
+2025-09-16 16:28:31	WARN	SubMS::combineSpws()	Incomplete coverage of combined SPW starting at timestamp 16-Feb-2003/22:13:50.0, baseline ( 1, 23 )
+2025-09-16 16:28:31	WARN	SubMS::combineSpws()+	In this and further affected rows, the data arrays will be padded with zeros and corresponding channels flagged.
+2025-09-16 16:28:31	WARN	SubMS::combineSpws()	Averaging failed for the following channel/correllation pairs from output row 660 up to 660. Corresponding visibilities will be flagged: 
+2025-09-16 16:28:31	WARN	SubMS::combineSpws()+	(45, 0) 
+2025-09-16 16:28:31	WARN	SubMS::combineSpws()	Averaging failed for the following channel/correllation pairs from output row 710 up to 710. Corresponding visibilities will be flagged: 
+2025-09-16 16:28:31	WARN	SubMS::combineSpws()+	(45, 0) 
+2025-09-16 16:28:31	WARN	SubMS::combineSpws()	Averaging failed for the following channel/correllation pairs from output row 830 up to 830. Corresponding visibilities will be flagged: 
+2025-09-16 16:28:31	WARN	SubMS::combineSpws()+	(45, 0) 
+2025-09-16 16:28:31	WARN	SubMS::combineSpws()	Averaging failed for the following channel/correllation pairs from output row 860 up to 860. Corresponding visibilities will be flagged: 
+2025-09-16 16:28:31	WARN	SubMS::combineSpws()+	(45, 0) 
+2025-09-16 16:28:31	WARN	SubMS::combineSpws()	Averaging failed for the following channel/correllation pairs from output row 910 up to 910. Corresponding visibilities will be flagged: 
+2025-09-16 16:28:31	WARN	SubMS::combineSpws()+	(45, 0) 
+2025-09-16 16:28:31	WARN	SubMS::combineSpws()	Averaging failed for the following channel/correllation pairs from output row 1035 up to 1035. Corresponding visibilities will be flagged: 
+2025-09-16 16:28:31	WARN	SubMS::combineSpws()+	(45, 0) 
+2025-09-16 16:28:31	WARN	SubMS::combineSpws()	Averaging failed for the following channel/correllation pairs from output row 1085 up to 1085. Corresponding visibilities will be flagged: 
+2025-09-16 16:28:31	WARN	SubMS::combineSpws()+	(45, 0) 
+2025-09-16 16:28:31	WARN	SubMS::combineSpws()	Averaging failed for the following channel/correllation pairs from output row 1385 up to 1385. Corresponding visibilities will be flagged: 
+2025-09-16 16:28:31	WARN	SubMS::combineSpws()+	(45, 1) 
+2025-09-16 16:28:31	WARN	SubMS::combineSpws()	Averaging failed for the following channel/correllation pairs from output row 1460 up to 1460. Corresponding visibilities will be flagged: 
+2025-09-16 16:28:31	WARN	SubMS::combineSpws()+	(45, 1) 
+2025-09-16 16:28:31	WARN	SubMS::combineSpws()	Incomplete coverage of combined SPW in 4 of 1891 output rows.

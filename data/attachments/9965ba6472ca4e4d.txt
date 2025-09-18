@@ -1,0 +1,7 @@
+2025-09-16 18:47:51	SEVERE	uvcontsub::::casa	Task uvcontsub raised an exception of class RuntimeError with the following message: Error trying to get chan value in subdict for spw 0, RecordInterface: field chan is unknown
+2025-09-16 18:47:51	SEVERE	uvcontsub::::casa	Task uvcontsub raised an exception of class RuntimeError with the following message: Error trying to get fitorder value in subdict for spw 0:2~988, RecordInterface: field fitorder is unknown
+2025-09-16 18:47:51	SEVERE	uvcontsub::::casa	Task uvcontsub raised an exception of class RuntimeError with the following message: Invalid SPW index: wrong_spw (in wrong_spw)
+2025-09-16 18:47:51	SEVERE	uvcontsub::::casa	Task uvcontsub raised an exception of class RuntimeError with the following message: Invalid field index: bla_fail (in bla_fail).
+2025-09-16 18:47:51	SEVERE	uvcontsub::::casa	Task uvcontsub raised an exception of class RuntimeError with the following message: Error in fitspec. SPW 0 is given multiple times. Found for SPW subdict '0,1' and other subdicts(s).
+2025-09-16 18:47:51	SEVERE	uvcontsub::::casa	Task uvcontsub raised an exception of class RuntimeError with the following message: Error in fitspec. Field 2 is given multiple times. Found for field subdict '2' and other subdict(s).
+2025-09-16 18:47:51	SEVERE	uvcontsub::::casa	Task uvcontsub raised an exception of class RuntimeError with the following message: Wrong value found in fitspec, field subdict for field: '1,2', value: 'bogus'. Only 'NONE' is accepted (= do not fit for any SPW).

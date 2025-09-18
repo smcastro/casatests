@@ -1,0 +1,29 @@
+2025-09-16 14:56:27	WARN	calibrater::setvi(bool,bool)	Forcing use of OLD VisibilityIterator.
+2025-09-16 14:56:27	INFO	calibrater::open	****Using OLD VI-driven calibrater tool****
+2025-09-16 14:56:27	INFO	calibrater::open	Opening MS: gaincaltest2.ms for calibration.
+2025-09-16 14:56:27	INFO		Clearing all model records in MS header.
+2025-09-16 14:56:27	INFO	VisSetUtil::addScrCols	Adding MODEL_DATA and CORRECTED_DATA column(s).
+2025-09-16 14:56:28	INFO	VisSetUtil::initScrCols	Initializing MODEL_DATA to (unity).
+2025-09-16 14:56:28	INFO	VisSetUtil::initScrCols	Initialized 328860 rows.
+2025-09-16 14:56:28	INFO	Calibrater::	Initializing nominal selection to the whole MS.
+2025-09-16 14:56:28	INFO	calibrater::setapply	Beginning setapply--(MSSelection version)-------
+2025-09-16 14:56:28	INFO	Calibrater::setapply(type, applypar)	Arranging to APPLY:
+2025-09-16 14:56:28	INFO	Calibrater::setapply(type, applypar)	.   G Jones: table=gaincaltest2.ms.G0 select= interp=linear spwmap=[-1] calWt=false
+2025-09-16 14:56:28	INFO	calibrater::setsolve	Beginning setsolve--(MSSelection version)-------
+2025-09-16 14:56:28	INFO	Calibrater::setsolve	Arranging to SOLVE:
+2025-09-16 14:56:28	INFO	Calibrater::setsolve	.   Mf Mueller: table=output.ms append=false solint=inf,none refantmode='flex' refant='none' minsnr=0 apmode=AP solnorm=false
+2025-09-16 14:56:28	INFO	Calibrater::state	The following calibration terms are arranged for apply:
+2025-09-16 14:56:28	INFO	Calibrater::state	.   G Jones: table=gaincaltest2.ms.G0 select= interp=linear spwmap=[-1] calWt=false
+2025-09-16 14:56:28	INFO	Calibrater::state	The following calibration term is arranged for solve:
+2025-09-16 14:56:28	INFO	Calibrater::state	.   Mf Mueller: table=output.ms append=false solint=inf,none refantmode='flex' refant='none' minsnr=0 apmode=AP solnorm=false
+2025-09-16 14:56:28	INFO	calibrater::solve	Beginning solve-----------------------------
+2025-09-16 14:56:28	INFO	Calibrater::solve	The following calibration terms are arranged for apply:
+2025-09-16 14:56:28	INFO	Calibrater::solve	.   G Jones: table=gaincaltest2.ms.G0 select= interp=linear spwmap=[-1] calWt=false
+2025-09-16 14:56:28	INFO	Calibrater::solve	The following calibration term is arranged for solve:
+2025-09-16 14:56:28	INFO	Calibrater::solve	.   Mf Mueller: table=output.ms append=false solint=inf,none refantmode='flex' refant='none' minsnr=0 apmode=AP solnorm=false
+2025-09-16 14:56:28	INFO		Solving for Mf Mueller
+2025-09-16 14:56:29	INFO		For solint = inf, found 84 solution intervals.
+2025-09-16 14:56:29	INFO		  Found good Mf Mueller solutions in 84 intervals.
+2025-09-16 14:56:29	INFO		Writing solutions to table: output.ms
+2025-09-16 14:56:30	INFO	calibrater::solve	Finished solving.
+2025-09-16 14:56:30	WARN	calibrater::setvi(bool,bool)	Forcing use of NEW VisibilityIterator.

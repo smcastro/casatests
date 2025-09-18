@@ -1,0 +1,5 @@
+2025-09-16 14:57:06	INFO	ImageFactory::createImage	Created Temp image  of shape [10, 10, 10] with float valued pixels.
+2025-09-16 14:57:06	SEVERE	image::regrid	Exception Reported: Exception: The output image has only 10 pixels along axis 0, so the maximum value of decimate should be 3.
+2025-09-16 14:57:06	SEVERE	image::regrid+	... thrown by void casa::ImageRegridderBase<T>::setDecimate(casacore::Int) [with T = float; casacore::Int = int] at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/ImageRegridderBase.tcc, line: 75
+2025-09-16 14:57:06	INFO	ImageMaskAttacher::makeMask	Created and initialized mask `mask0'
+2025-09-16 14:57:06	INFO	ImageMaskAttacher::makeMask	Created and initialized mask `mask0'

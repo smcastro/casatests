@@ -1,0 +1,23 @@
+setUpClass::deleting existing work-MS.
+- TestMS.[sdimaging-t.ms] being created on current dir.
+----- Generating MS.
+Nrow = 3843
+------ Putting Time,INTERVAL.
+------ Calculating Curve.
+------ Putting Curve.
+------ Done.
+- TestMS(for TimeSpan.[sdimaging-t2.ms] being created on current dir.
+----- Generating MS.
+Nrow = 3843
+------ stateOption Active, putting three STATE_IDs on the MS. 
+------ Putting Time,INTERVAL.
+------ Calculating Curve.
+------ Putting Curve.
+------ Done.
+- TestMS(for data/float_data.[Uranus1.cal.Ant0.spw34-nobeyama.ms] being created.
+------ changing Telscope Name. 
+------ changing Telscope Name. 
+_run_task::starts
+-- checking scan selection --
+-- checking Output Record Count --
+tearDown::deleting MSs.

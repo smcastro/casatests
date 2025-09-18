@@ -1,0 +1,9 @@
+caltable = casa-rockylinux8-amd64-perf07:/scratch/scastro/casa/Tests/reports/uid___A002_X5e971a_X124.ms.hifa_tsyscal.s5_2.tsyscal.tbl
+Median difference between solution times = 1080.113999 sec
+spws to plot (sorted) =  [8]
+basebands = [1], spwsToPlot=[8]
+Skip CM01 (spw 8, bb1,  field 0: J1229+0203) for time0=04:12:03 all data flagged
+Skip CM01 (spw 8, bb1,  field 2: Titan) for time1=04:28:17 all data flagged
+Skip CM01 (spw 8, bb1,  field 4: M100) for time2=04:41:23 all data flagged
+Skip CM01 (spw 8, bb1,  field 4: M100) for time3=05:01:10 all data flagged
+Skip CM01 (spw 8, bb1,  field 4: M100) for time4=05:20:57 all data flagged

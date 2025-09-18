@@ -1,0 +1,15 @@
+2025-09-16 14:56:53	INFO	ImageFactory::createImage	Created Temp image  of shape [5, 5, 1, 2] with float valued pixels.
+2025-09-16 14:56:53	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:53	INFO	BeamManipulator::set	This image currently has no beams of any kind. Since channel and/or polarization were specified, a set of per plane beams, each equal to the specified beam, will be created.
+2025-09-16 14:56:53	INFO	BeamManipulator::set	Beam parameters:  Major          : 4 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Minor          : 2 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Position Angle : 20 deg
+2025-09-16 14:56:53	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:53	INFO	BeamManipulator::set	Beam parameters:  Major          : 8 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Minor          : 4 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Position Angle : 40 deg
+2025-09-16 14:56:53	INFO	BeamManipulator::rotate	This image has multiple beams. Reporting the rotation of the minimum and maximum area beams:
+2025-09-16 14:56:53	INFO	BeamManipulator::rotate	Original Temporary_Image minimum area restoring beam: major: 4 arcsec, minor: 2 arcsec, pa: 20 deg
+2025-09-16 14:56:53	INFO	BeamManipulator::rotate	New Temporary_Image minimum area restoring beam: major: 4 arcsec, minor: 2 arcsec, pa: 80 deg
+2025-09-16 14:56:53	INFO	BeamManipulator::rotate	Original Temporary_Image maximum area restoring beam: major: 8 arcsec, minor: 4 arcsec, pa: 40 deg
+2025-09-16 14:56:53	INFO	BeamManipulator::rotate	New Temporary_Image maximum area restoring beam: major: 8 arcsec, minor: 4 arcsec, pa: -80 deg

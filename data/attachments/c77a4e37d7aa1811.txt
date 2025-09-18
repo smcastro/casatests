@@ -1,0 +1,15 @@
+2025-09-16 17:27:51	SEVERE	sdtimeaverage::::casa	Traceback (most recent call last):
+2025-09-16 17:27:51	SEVERE	sdtimeaverage::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:27:51	SEVERE	sdtimeaverage::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdtimeaverage.py", line 73, in sdtimeaverage
+2025-09-16 17:27:51	SEVERE	sdtimeaverage::::casa+	    sdutil.do_mst(
+2025-09-16 17:27:51	SEVERE	sdtimeaverage::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/sdutil.py", line 702, in do_mst
+2025-09-16 17:27:51	SEVERE	sdtimeaverage::::casa+	    mtlocal.open()
+2025-09-16 17:27:51	SEVERE	sdtimeaverage::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/mstransformer.py", line 36, in open
+2025-09-16 17:27:51	SEVERE	sdtimeaverage::::casa+	    return self._swigobj.open()
+2025-09-16 17:27:51	SEVERE	sdtimeaverage::::casa+	           ^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:27:51	SEVERE	sdtimeaverage::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/__casac__/mstransformer.py", line 176, in open
+2025-09-16 17:27:51	SEVERE	sdtimeaverage::::casa+	    return _mstransformer.mstransformer_open(self)
+2025-09-16 17:27:51	SEVERE	sdtimeaverage::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:27:51	SEVERE	sdtimeaverage::::casa+	RuntimeError: Spw Expression: No match found for 9, 
+2025-09-16 17:27:51	SEVERE	sdtimeaverage::::casa	Spw Expression: No match found for 9, 
+2025-09-16 17:27:51	SEVERE	sdtimeaverage::::casa	Task sdtimeaverage raised an exception of class RuntimeError with the following message: Spw Expression: No match found for 9, 

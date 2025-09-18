@@ -1,0 +1,17 @@
+2025-09-16 17:06:57	WARN	sdimaging::::casa	The sdimaging task is deprecated and will be removed in future releases. Please use tsdimaging instead.
+2025-09-16 17:06:57	SEVERE	sdimaging::::casa	Traceback (most recent call last):
+2025-09-16 17:06:57	SEVERE	sdimaging::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:06:57	SEVERE	sdimaging::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdimaging.py", line 32, in sdimaging
+2025-09-16 17:06:57	SEVERE	sdimaging::::casa+	    worker.execute()
+2025-09-16 17:06:57	SEVERE	sdimaging::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdimaging.py", line 920, in execute
+2025-09-16 17:06:57	SEVERE	sdimaging::::casa+	    self.imager.defineimage(**self.imager_param)  # self.__get_param())
+2025-09-16 17:06:57	SEVERE	sdimaging::::casa+	    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:06:57	SEVERE	sdimaging::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/imager.py", line 356, in defineimage
+2025-09-16 17:06:57	SEVERE	sdimaging::::casa+	    return self._swigobj.defineimage(nx, ny, cellx, celly, stokes, phasecenter, mode, nchan, start, step, spw, restfreq, outframe, veltype, facets, movingsource, distance, projection)
+2025-09-16 17:06:57	SEVERE	sdimaging::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:06:57	SEVERE	sdimaging::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/__casac__/imager.py", line 900, in defineimage
+2025-09-16 17:06:57	SEVERE	sdimaging::::casa+	    return _imager.imager_defineimage(self, *args, **kwargs)
+2025-09-16 17:06:57	SEVERE	sdimaging::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:06:57	SEVERE	sdimaging::::casa+	RuntimeError: Infinite resolution not possible... please do let us know what you are drinking
+2025-09-16 17:06:57	SEVERE	sdimaging::::casa	Infinite resolution not possible... please do let us know what you are drinking
+2025-09-16 17:06:57	SEVERE	sdimaging::::casa	Task sdimaging raised an exception of class RuntimeError with the following message: Infinite resolution not possible... please do let us know what you are drinking

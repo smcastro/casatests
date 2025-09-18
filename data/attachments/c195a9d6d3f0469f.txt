@@ -1,0 +1,2 @@
+2025-09-16 15:45:57	SEVERE	agentflagger:: (file src/tools/agentflagger/agentflagger_cmpt.cc, line 35)	Exception Reported: MSSelectionNullSelection : The selected table has zero rows.
+2025-09-16 15:45:57	SEVERE	flagdata::::casa	Task flagdata raised an exception of class RuntimeError with the following message: MSSelectionNullSelection : The selected table has zero rows.

@@ -1,0 +1,1 @@
+2025-09-16 15:20:09	SEVERE	cvel::::casa	Task cvel raised an exception of class RuntimeError with the following message: ERROR: cvel does not regrid properly for channel widths > or = 2x the native channel width, please use mstransform, clean, or tclean for larger regridding. All earlier versions of CASA also have this issue.

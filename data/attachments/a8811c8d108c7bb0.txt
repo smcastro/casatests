@@ -1,0 +1,43 @@
+test_concat : Now checking output ...
+test_concat :  table.f8 present.
+test_concat :  FIELD/table.dat present.
+test_concat :  table.f7 present.
+test_concat :  POINTING/table.f0 present.
+test_concat :  POLARIZATION/table.f0 present.
+test_concat :  SPECTRAL_WINDOW/table.f0 present.
+test_concat :  STATE/table.f0 present.
+test_concat :  table.f4 present.
+test_concat :  POINTING/table.dat present.
+test_concat :  FIELD/EPHEM1_Jupiter_54708-55437dUTC.tab present.
+test_concat :  FLAG_CMD/table.dat present.
+test_concat :  POLARIZATION/table.dat present.
+test_concat :  table.f6 present.
+test_concat :  table.f1 present.
+test_concat :  FIELD/EPHEM0_Uranus_54708-55437dUTC.tab present.
+test_concat :  FLAG_CMD/table.f0 present.
+test_concat :  ANTENNA/table.f0 present.
+test_concat :  HISTORY/table.dat present.
+test_concat :  ANTENNA/table.dat present.
+test_concat :  FIELD/table.f0 present.
+test_concat :  OBSERVATION/table.dat present.
+test_concat :  OBSERVATION/table.f0 present.
+test_concat :  SOURCE/table.f0 present.
+test_concat :  table.f5 present.
+test_concat :  table.dat present.
+test_concat :  SPECTRAL_WINDOW/table.dat present.
+test_concat :  STATE/table.dat present.
+test_concat :  PROCESSOR/table.dat present.
+test_concat :  FEED/table.f0 present.
+test_concat :  HISTORY/table.f0 present.
+test_concat :  table.f3 present.
+test_concat :  SOURCE/table.dat present.
+test_concat :  table.f2 present.
+test_concat :  DATA_DESCRIPTION/table.dat present.
+test_concat :  PROCESSOR/table.f0 present.
+test_concat :  DATA_DESCRIPTION/table.f0 present.
+test_concat :  FEED/table.dat present.
+test_concat : MS exists. All tables present. Try opening as MS ...
+test_concat :  FIELD/EPHEM2_Uranus_54708-55437dUTC.tab  not present as expected.
+test_concat :  FIELD/EPHEM3_Jupiter_54708-55437dUTC.tab  not present as expected.
+test_concat :  FIELD/EPHEM2_Jupiter_54708-55437dUTC.tab  not present as expected.
+test_concat :  FIELD/EPHEM3_Uranus_54708-55437dUTC.tab  not present as expected.

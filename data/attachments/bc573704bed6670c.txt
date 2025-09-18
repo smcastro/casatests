@@ -1,0 +1,2 @@
+2025-09-16 15:32:41	SEVERE	deconvolve::deconvolve::casa	Exception from deconvolve : Internal Error: missing one or more of the required images: ['tst.psf']
+2025-09-16 15:32:41	SEVERE	deconvolve::::casa	Task deconvolve raised an exception of class RuntimeError with the following message: Exception from deconvolve : Internal Error: missing one or more of the required images: ['tst.psf']

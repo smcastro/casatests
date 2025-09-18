@@ -1,0 +1,7 @@
+2025-09-16 14:56:37	INFO	ImageFactory::createImage	Created Paged image 'zz' of shape [20, 20] with float valued pixels.
+2025-09-16 14:56:37	INFO	ImageFactory::createImage	Created Temp image  of shape [20, 20] with float valued pixels.
+2025-09-16 14:56:37	INFO	::::ImageFactory::createImage	Created Temp image  of shape [20, 20] with float valued pixels.
+2025-09-16 14:56:37	INFO	::::image::newimagefromarray	Ran ia.newimagefromarray
+2025-09-16 14:56:37	INFO	::::image::newimagefromarray	ia.newimagefromarray(outfile="", pixels="[...]", csys={...}, linear=false, overwrite=false, log=true)
+2025-09-16 14:56:37	INFO	name::	No table opened.
+2025-09-16 14:56:37	INFO	name::	No table opened.

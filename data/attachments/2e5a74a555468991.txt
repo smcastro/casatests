@@ -1,0 +1,2 @@
+
+Comparing MS statistics of 'simobserve_comp/simobserve_comp.alma.out01.ms' with reference 'ref_comp.alma.out01.ms'

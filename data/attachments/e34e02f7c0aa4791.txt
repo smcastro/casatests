@@ -1,0 +1,10 @@
+Comparing column DATA of MS xosro2ref.ms
+     with column DATA of MS xosro2ref-reimp.ms
+Discrepant row search ...
+Found  0  rows in selection.
+The two columns agree.
+Comparing column FLAG of MS xosro2ref.ms
+     with column FLAG of MS xosro2ref-reimp.ms
+Discrepant row search ...
+Found  0  rows in selection.
+The two columns agree.

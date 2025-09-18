@@ -1,0 +1,15 @@
+2025-09-16 16:24:17	WARN	FitsIDItoMS::fillAntennaTable	ARRAY_GEOMETRY input table does not contain dish DIAMETER column.
+2025-09-16 16:24:17	WARN	FitsIDItoMS::fillAntennaTable+	 Will assume default diameter for TELESCOPE EVN which is 0 m.
+2025-09-16 16:24:17	WARN		Duplicate keyword name : RDATE most recent occurrance takes precedence
+2025-09-16 16:24:18	WARN	FitsIDItoMS::fillAntennaTable	ARRAY_GEOMETRY input table does not contain dish DIAMETER column.
+2025-09-16 16:24:18	WARN	FitsIDItoMS::fillAntennaTable+	 Will assume default diameter for TELESCOPE VLBA which is 0 m.
+2025-09-16 16:24:18	WARN	FitsIDItoMS()::readFitsFile	FITS-IDI table CALIBRATION not yet supported. Will ignore it.
+2025-09-16 16:24:18	WARN		Duplicate keyword name : RDATE most recent occurrance takes precedence
+2025-09-16 16:24:18	WARN	FitsIDItoMS()::fillCorrelatorModelTable	not yet implemented
+2025-09-16 16:24:18	SEVERE	FitsIDItoMS()::handleModelComps	Data needs FFT artifact corrections; this is not yet implemented.
+2025-09-16 16:24:18	SEVERE	FitsIDItoMS()::handleModelComps	Data was correlated with HANNING taper; support for this taper is not yet implemented.
+2025-09-16 16:24:19	WARN	MSConcat::copyEOP	/scratch/scastro/casa/Tests/reports/n09q2_1_1-shortened.IDI1.ms does not have a valid EOP table,
+2025-09-16 16:24:19	WARN	MSConcat::copyEOP+	  the MS to be appended, however, has one. Result won't have one.
+2025-09-16 16:24:19	WARN	MSConcat::concatenate (file /source/casa6/casatools/casacore/ms/MSOper/MSConcat.cc, line 1000)	Could not merge EOP subtables 
+2025-09-16 16:24:19	WARN	MSConcat::concatenate (file /source/casa6/casatools/casacore/ms/MSOper/MSConcat.cc, line 1000)	Zero or negative scan numbers in MS. May lead to duplicate scan numbers in concatenated MS.
+2025-09-16 16:24:20	WARN	importfitsidi::::casa	The input files stem from different telescopes. Need to give different obs id.

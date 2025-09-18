@@ -1,0 +1,18 @@
+2025-09-16 14:56:58	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:58	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:58	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:56:58	WARN	ImageProfileFitter::_setFitterElements	Only able to estimate parameters for 1 Gaussian singlets. If you really want 2 Gaussian singlets to be fit, you should specify initial parameter estimates for all of them (additional warnings of this type during this run will not be logged).
+2025-09-16 14:56:58	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 25
+2025-09-16 14:56:58	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 25
+2025-09-16 14:56:58	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 25
+2025-09-16 14:56:58	INFO	ImageProfileFitterResults::logSummary	Number converged         = 16
+2025-09-16 14:56:58	INFO	ImageProfileFitterResults::logSummary	Number valid             = 16
+2025-09-16 14:56:58	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:58	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:58	INFO	CasacRegionManager::fromBCS	Using polarizations I
+2025-09-16 14:56:58	WARN	ImageProfileFitter::_setFitterElements	Only able to estimate parameters for 1 Gaussian singlets. If you really want 2 Gaussian singlets to be fit, you should specify initial parameter estimates for all of them (additional warnings of this type during this run will not be logged).
+2025-09-16 14:56:58	INFO	ImageProfileFitterResults::logSummary	Number of profiles       = 25
+2025-09-16 14:56:58	INFO	ImageProfileFitterResults::logSummary	Number of fits attempted = 25
+2025-09-16 14:56:58	INFO	ImageProfileFitterResults::logSummary	Number succeeded         = 25
+2025-09-16 14:56:58	INFO	ImageProfileFitterResults::logSummary	Number converged         = 16
+2025-09-16 14:56:58	INFO	ImageProfileFitterResults::logSummary	Number valid             = 6

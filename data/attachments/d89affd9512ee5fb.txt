@@ -1,0 +1,4 @@
+
+Checking SPECTRAL_WINDOW and FLAG_CMD with width 1.
+
+Checking SPECTRAL_WINDOW and FLAG_CMD with width 3.

@@ -1,0 +1,27 @@
+2025-09-16 14:57:04	SEVERE	image::open (file src/tools/image/image_cmpt.cc, line 4208)	Exception Reported: Exception: File name is empty.
+2025-09-16 14:57:04	SEVERE	image::open (file src/tools/image/image_cmpt.cc, line 4208)+	... thrown by static void casa::ImageFactory::_checkInfile(const casacore::String&) at File: /source/casa6/casatools/src/code/imageanalysis/ImageAnalysis/ImageFactory2.cc, line: 371
+2025-09-16 14:57:04	SEVERE	image::open (file src/tools/image/image_cmpt.cc, line 4208)	Exception Reported: Exception: File totally_bogus does not exist..
+2025-09-16 14:57:04	SEVERE	image::open (file src/tools/image/image_cmpt.cc, line 4208)+	... thrown by static void casa::ImageFactory::_checkInfile(const casacore::String&) at File: /source/casa6/casatools/src/code/imageanalysis/ImageAnalysis/ImageFactory2.cc, line: 375
+2025-09-16 14:57:04	INFO	FITSCoordinateUtil::fromFITSHeader	passing empty or nonexistant spectral Coordinate axis
+2025-09-16 14:57:04	SEVERE	image::pbcor (file src/tools/image/image_cmpt.cc, line 4289)	Exception Reported: Exception: The image filename is empty.
+2025-09-16 14:57:04	SEVERE	image::pbcor (file src/tools/image/image_cmpt.cc, line 4289)+	... thrown by static void casacore::ImageUtilities::openImage(casacore::ImageInterface<T>*&, const casacore::String&) [with T = float] at File: /source/casainstall/include/casacore/images/Images/ImageUtilities2.tcc, line: 255
+2025-09-16 14:57:04	INFO	FITSCoordinateUtil::fromFITSHeader	passing empty or nonexistant spectral Coordinate axis
+2025-09-16 14:57:04	SEVERE	image::pbcor (file src/tools/image/image_cmpt.cc, line 4289)	Exception Reported: Exception: File 'totally_bogus2' does not exist.
+2025-09-16 14:57:04	SEVERE	image::pbcor (file src/tools/image/image_cmpt.cc, line 4289)+	... thrown by static void casacore::ImageUtilities::openImage(casacore::ImageInterface<T>*&, const casacore::String&) [with T = float] at File: /source/casainstall/include/casacore/images/Images/ImageUtilities2.tcc, line: 260
+2025-09-16 14:57:04	INFO	FITSCoordinateUtil::fromFITSHeader	passing empty or nonexistant spectral Coordinate axis
+2025-09-16 14:57:04	INFO	FITSCoordinateUtil::fromFITSHeader	passing empty or nonexistant spectral Coordinate axis
+2025-09-16 14:57:04	SEVERE	ImageInputProcessor::_process	Requested output image /bogusplace/bogusimage cannot be created so will not be written
+2025-09-16 14:57:04	SEVERE	image::pbcor (file src/tools/image/image_cmpt.cc, line 4289)	Exception Reported: 2025-09-16 14:57:04	SEVERE	ImageInputProcessor::_process	Requested output image /bogusplace/bogusimage cannot be created so will not be written
+2025-09-16 14:57:04	INFO	FITSCoordinateUtil::fromFITSHeader	passing empty or nonexistant spectral Coordinate axis
+2025-09-16 14:57:04	INFO	FITSCoordinateUtil::fromFITSHeader	passing empty or nonexistant spectral Coordinate axis
+2025-09-16 14:57:04	WARN		/scratch/scastro/casa/Tests/reports/pbtest1_im.fits is not a valid or readable table
+2025-09-16 14:57:04	SEVERE		Cannot read image /scratch/scastro/casa/Tests/reports/pbtest1_im.fits to get region bogus_region
+2025-09-16 14:57:04	SEVERE	image::pbcor (file src/tools/image/image_cmpt.cc, line 4289)	Exception Reported: Unable to open region file or region table description bogus_region in image /scratch/scastro/casa/Tests/reports/pbtest1_im.fits at File: /source/casa6/casatools/src/code/imageanalysis/Regions/CasacRegionManager.cc, line: 486
+2025-09-16 14:57:04	INFO	FITSCoordinateUtil::fromFITSHeader	passing empty or nonexistant spectral Coordinate axis
+2025-09-16 14:57:04	INFO	FITSCoordinateUtil::fromFITSHeader	passing empty or nonexistant spectral Coordinate axis
+2025-09-16 14:57:04	SEVERE	image::pbcor (file src/tools/image/image_cmpt.cc, line 4289)	Exception Reported: Unknown mode zz
+2025-09-16 14:57:04	INFO	FITSCoordinateUtil::fromFITSHeader	passing empty or nonexistant spectral Coordinate axis
+2025-09-16 14:57:04	INFO	FITSCoordinateUtil::fromFITSHeader	passing empty or nonexistant spectral Coordinate axis
+2025-09-16 14:57:04	SEVERE	image::pbcor (file src/tools/image/image_cmpt.cc, line 4289)	Exception Reported: Coordinate systems of image and template are different: The DirectionCoordinates have differing LinearXform components at File: /source/casa6/casatools/src/code/imageanalysis/ImageAnalysis/ImagePrimaryBeamCorrector.cc, line: 141
+2025-09-16 14:57:04	INFO	name::	No table opened.
+2025-09-16 14:57:04	INFO	showcache::	The Table Cache is empty.

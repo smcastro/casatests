@@ -1,0 +1,2 @@
+2025-09-16 15:45:23	SEVERE	flagdata::::casa	exceptions must derive from BaseException
+2025-09-16 15:45:23	SEVERE	flagdata::::casa	Task flagdata raised an exception of class ValueError with the following message: Error reading the input list. Make sure the syntax used in the list follows the rules given in the inline help of the task.

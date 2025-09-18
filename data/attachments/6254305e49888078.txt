@@ -1,0 +1,13 @@
+2025-09-16 14:56:36	INFO	componentlist::summarize	SUMMARY OF COMPONENT 
+2025-09-16 14:56:36	INFO	componentlist::summarize+	Shape: Gaussian
+2025-09-16 14:56:36	INFO	componentlist::summarize+	Flux density: [(1,0), (0,0), (0,0), (0,0)] Jy +/- [(0,0), (0,0), (0,0), (0,0)]
+2025-09-16 14:56:36	INFO	componentlist::summarize+	Spectral model: Constant
+2025-09-16 14:56:36	INFO	componentlist::summarize+	Position: Position ---
+2025-09-16 14:56:36	INFO	componentlist::summarize+	       --- long:   10:30:00.000 (fixed)
+2025-09-16 14:56:36	INFO	componentlist::summarize+	       --- lat:  - 20.00.00.00 (fixed)
+2025-09-16 14:56:36	INFO	componentlist::summarize+	
+2025-09-16 14:56:36	INFO	componentlist::summarize+	Size: 
+2025-09-16 14:56:36	INFO	componentlist::summarize+	       --- major axis FWHM:     4.00 arcsec (fixed)
+2025-09-16 14:56:36	INFO	componentlist::summarize+	       --- minor axis FWHM:     2.00 arcsec (fixed)
+2025-09-16 14:56:36	INFO	componentlist::summarize+	       --- position angle: 30.0deg (fixed)
+2025-09-16 14:56:36	SEVERE	componentlist::summarize	Exception Reported: List has only 1 components, but zero-based component 1 specified. Please specify a component less than 1

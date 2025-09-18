@@ -1,0 +1,4 @@
+2025-09-16 15:52:19	WARN	Calibrater::solve	Spectral window(s) 0, 
+2025-09-16 15:52:19	WARN	Calibrater::solve+	  could not be solved due to missing (pre-)calibration
+2025-09-16 15:52:19	WARN	Calibrater::solve+	    in one or more of the specified tables.
+2025-09-16 15:52:19	WARN	Calibrater::solve+	    Please check your results carefully!

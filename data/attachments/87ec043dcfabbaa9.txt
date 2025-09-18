@@ -1,0 +1,2 @@
+Verifying asdm test7exportasdm-output.asdm
+Note: xml validation not possible since ASDM DTDs (schemas) not yet online.

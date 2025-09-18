@@ -1,0 +1,5 @@
+2025-09-16 14:57:15	INFO	ImageFactory::createImage	Created Paged image 'maskim' of shape [200, 200, 1, 1] with float valued pixels.
+2025-09-16 14:57:15	INFO	ImageFactory::createImage	Created Paged image 'tmp.im' of shape [200, 200, 1, 20] with float valued pixels.
+2025-09-16 14:57:15	SEVERE	image::statistics (file src/tools/image/image_cmpt.cc, line 5995)	Exception Reported: The input image shape ([200, 200, 1, 20]) and mask shape ([200, 200, 1, 1]) are different, and it was specified that the mask should not be extended, so the mask cannot be applied to the (sub)image. Specifying that the mask should be extended may resolve the issue at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/SubImageFactory.tcc, line: 306
+2025-09-16 14:57:15	INFO	name::	No table opened.
+2025-09-16 14:57:15	INFO	showcache::	The Table Cache is empty.

@@ -1,0 +1,132 @@
+2025-09-16 14:54:57	INFO	AgentFlagger::open	Table type is Measurement Set
+2025-09-16 14:54:57	INFO	AgentFlagger::initAgents	There are initially 1 agents in the list. Agents: unflag
+2025-09-16 14:54:57	INFO	AgentFlagger::initAgents	There are 1 valid agents in the list. Agents: unflag
+2025-09-16 14:54:57	INFO	FlagMSHandler::	Chunk = 1 [progress: 5%], Observation = 0, Array = 0, Scan = 1, Field = 0 (J2253+161; 3c454.3), Spw = 0, Channels = 4, Corrs = [ I ], Total Rows = 104
+2025-09-16 14:54:57	INFO	FlagMSHandler::	Chunk = 2 [progress: 47%], Observation = 0, Array = 0, Scan = 1, Field = 0 (J2253+161; 3c454.3), Spw = 1, Channels = 128, Corrs = [ XX YY ], Total Rows = 750
+2025-09-16 14:54:57	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (192416/192416)
+2025-09-16 14:54:57	INFO	FlagMSHandler::	Chunk = 3 [progress: 48%], Observation = 0, Array = 0, Scan = 8, Field = 2 (B0007+106; J0010+109), Spw = 0, Channels = 4, Corrs = [ I ], Total Rows = 24
+2025-09-16 14:54:57	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (96/96)
+2025-09-16 14:54:57	INFO	FlagMSHandler::	Chunk = 4 [progress: 57%], Observation = 0, Array = 0, Scan = 8, Field = 2 (B0007+106; J0010+109), Spw = 2, Channels = 128, Corrs = [ XX YY ], Total Rows = 150
+2025-09-16 14:54:57	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (38400/38400)
+2025-09-16 14:54:57	INFO	FlagMSHandler::	Chunk = 5 [progress: 73%], Observation = 0, Array = 0, Scan = 8, Field = 2 (B0007+106; J0010+109), Spw = 3, Channels = 1, Corrs = [ XX YY ], Total Rows = 300
+2025-09-16 14:54:57	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (600/600)
+2025-09-16 14:54:57	INFO	FlagMSHandler::	Chunk = 6 [progress: 75%], Observation = 0, Array = 0, Scan = 10, Field = 3 (GRB021004), Spw = 0, Channels = 4, Corrs = [ I ], Total Rows = 24
+2025-09-16 14:54:57	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (96/96)
+2025-09-16 14:54:57	INFO	FlagMSHandler::	Chunk = 7 [progress: 83%], Observation = 0, Array = 0, Scan = 10, Field = 3 (GRB021004), Spw = 2, Channels = 128, Corrs = [ XX YY ], Total Rows = 150
+2025-09-16 14:54:57	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (38400/38400)
+2025-09-16 14:54:57	INFO	FlagMSHandler::	Chunk = 8 [progress: 100%], Observation = 0, Array = 0, Scan = 10, Field = 3 (GRB021004), Spw = 3, Channels = 1, Corrs = [ XX YY ], Total Rows = 300
+2025-09-16 14:54:57	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (600/600)
+2025-09-16 14:54:57	INFO	FlagMSHandler::nextChunk 	==================================================================================== 
+2025-09-16 14:54:57	INFO	Unflag::tableSummary	=> Percentage of data un-flagged in table selection: 100%
+2025-09-16 14:54:57	INFO	AgentFlagger::run	=> Writing flags to the MS
+2025-09-16 14:54:57	INFO	AgentFlagger::open	Table type is Measurement Set
+2025-09-16 14:54:57	INFO	AgentFlagger::initAgents	There are initially 5 agents in the list. Agents: summary, manual, summary, manual, summary
+2025-09-16 14:54:57	INFO	Manual::setAgentParameters 	autocorr is 0
+2025-09-16 14:54:57	WARN	AgentFlagger::initAgents	Cannot create agent Manual: State Expression: No match found for "FOCUS"
+2025-09-16 14:54:57	WARN	AgentFlagger::initAgents+	State Expression: Partial or no match for State ID list []
+2025-09-16 14:54:57	INFO	Manual::setAgentParameters 	autocorr is 0
+2025-09-16 14:54:57	INFO	AgentFlagger::initAgents	There are 4 valid agents in the list. Agents: summary, summary, manual, summary
+2025-09-16 14:54:57	INFO	FlagMSHandler::	Chunk = 1 [progress: 5%], Observation = 0, Array = 0, Scan = 1, Field = 0 (J2253+161; 3c454.3), Spw = 0, Channels = 4, Corrs = [ I ], Total Rows = 104
+2025-09-16 14:54:57	INFO	FlagMSHandler::	Chunk = 2 [progress: 47%], Observation = 0, Array = 0, Scan = 1, Field = 0 (J2253+161; 3c454.3), Spw = 1, Channels = 128, Corrs = [ XX YY ], Total Rows = 750
+2025-09-16 14:54:57	INFO	Manual::chunkSummary	=> Data flagged so far 0.216198% (416/192416)
+2025-09-16 14:54:57	INFO	FlagMSHandler::	Chunk = 3 [progress: 48%], Observation = 0, Array = 0, Scan = 8, Field = 2 (B0007+106; J0010+109), Spw = 0, Channels = 4, Corrs = [ I ], Total Rows = 24
+2025-09-16 14:54:57	INFO	Manual::chunkSummary	=> Data flagged so far 100% (96/96)
+2025-09-16 14:54:57	INFO	FlagMSHandler::	Chunk = 4 [progress: 57%], Observation = 0, Array = 0, Scan = 8, Field = 2 (B0007+106; J0010+109), Spw = 2, Channels = 128, Corrs = [ XX YY ], Total Rows = 150
+2025-09-16 14:54:57	INFO	FlagMSHandler::	Chunk = 5 [progress: 73%], Observation = 0, Array = 0, Scan = 8, Field = 2 (B0007+106; J0010+109), Spw = 3, Channels = 1, Corrs = [ XX YY ], Total Rows = 300
+2025-09-16 14:54:57	INFO	FlagMSHandler::	Chunk = 6 [progress: 75%], Observation = 0, Array = 0, Scan = 10, Field = 3 (GRB021004), Spw = 0, Channels = 4, Corrs = [ I ], Total Rows = 24
+2025-09-16 14:54:57	INFO	Manual::chunkSummary	=> Data flagged so far 100% (96/96)
+2025-09-16 14:54:58	INFO	FlagMSHandler::	Chunk = 7 [progress: 83%], Observation = 0, Array = 0, Scan = 10, Field = 3 (GRB021004), Spw = 2, Channels = 128, Corrs = [ XX YY ], Total Rows = 150
+2025-09-16 14:54:58	INFO	FlagMSHandler::	Chunk = 8 [progress: 100%], Observation = 0, Array = 0, Scan = 10, Field = 3 (GRB021004), Spw = 3, Channels = 1, Corrs = [ XX YY ], Total Rows = 300
+2025-09-16 14:54:58	INFO	FlagMSHandler::nextChunk 	==================================================================================== 
+2025-09-16 14:54:58	INFO	Manual::tableSummary	=> Percentage of data flagged in table selection: 0.224679%
+2025-09-16 14:54:58	INFO	AgentFlagger::run	=> Writing flags to the MS
+2025-09-16 14:54:58	INFO	Summary::getResult 	 observation 0 flagged: 0 total: 270608 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 scan 10 flagged: 0 total: 39096 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 scan 1 flagged: 0 total: 192416 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 scan 8 flagged: 0 total: 39096 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna DV14 flagged: 0 total: 21600 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna DV13 flagged: 0 total: 21600 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna DV12 flagged: 0 total: 21600 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna DV07 flagged: 0 total: 21600 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna DV05 flagged: 0 total: 21600 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna DV10 flagged: 0 total: 21600 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna DA42 flagged: 0 total: 75752 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna DA43 flagged: 0 total: 21600 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna PM02 flagged: 0 total: 21600 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna DV11 flagged: 0 total: 21600 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna DA41 flagged: 0 total: 75752 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna DV03 flagged: 0 total: 21600 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna DV02 flagged: 0 total: 75752 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna PM03 flagged: 0 total: 75752 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 field GRB021004 flagged: 0 total: 39096 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 field J2253+161; 3c454.3 flagged: 0 total: 192416 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 field B0007+106; J0010+109 flagged: 0 total: 39096 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 spw 3 flagged: 0 total: 1200 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 spw 2 flagged: 0 total: 76800 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 spw 0 flagged: 0 total: 608 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 spw 1 flagged: 0 total: 192000 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 correlation YY flagged: 0 total: 135000 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 correlation I flagged: 0 total: 608 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 correlation XX flagged: 0 total: 135000 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 array 0 flagged: 0 total: 270608 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 Total Flagged: 0 Total Counts: 270608 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 observation 0 flagged: 0 total: 270608 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 scan 10 flagged: 0 total: 39096 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 scan 1 flagged: 0 total: 192416 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 scan 8 flagged: 0 total: 39096 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna DV14 flagged: 0 total: 21600 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna DV13 flagged: 0 total: 21600 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna DV12 flagged: 0 total: 21600 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna DV07 flagged: 0 total: 21600 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna DV05 flagged: 0 total: 21600 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna DV10 flagged: 0 total: 21600 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna DA42 flagged: 0 total: 75752 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna DA43 flagged: 0 total: 21600 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna PM02 flagged: 0 total: 21600 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna DV11 flagged: 0 total: 21600 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna DA41 flagged: 0 total: 75752 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna DV03 flagged: 0 total: 21600 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna DV02 flagged: 0 total: 75752 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna PM03 flagged: 0 total: 75752 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 field GRB021004 flagged: 0 total: 39096 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 field J2253+161; 3c454.3 flagged: 0 total: 192416 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 field B0007+106; J0010+109 flagged: 0 total: 39096 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 spw 3 flagged: 0 total: 1200 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 spw 2 flagged: 0 total: 76800 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 spw 0 flagged: 0 total: 608 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 spw 1 flagged: 0 total: 192000 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 correlation YY flagged: 0 total: 135000 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 correlation I flagged: 0 total: 608 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 correlation XX flagged: 0 total: 135000 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 array 0 flagged: 0 total: 270608 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 Total Flagged: 0 Total Counts: 270608 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 observation 0 flagged: 608 total: 270608 (0.225%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 scan 10 flagged: 96 total: 39096 (0.246%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 scan 1 flagged: 416 total: 192416 (0.216%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 scan 8 flagged: 96 total: 39096 (0.246%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna DV14 flagged: 0 total: 21600 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna DV13 flagged: 0 total: 21600 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna DV12 flagged: 0 total: 21600 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna DV07 flagged: 0 total: 21600 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna DV05 flagged: 0 total: 21600 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna DV10 flagged: 0 total: 21600 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna DA42 flagged: 152 total: 75752 (0.201%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna DA43 flagged: 0 total: 21600 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna PM02 flagged: 0 total: 21600 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna DV11 flagged: 0 total: 21600 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna DA41 flagged: 152 total: 75752 (0.201%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna DV03 flagged: 0 total: 21600 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna DV02 flagged: 152 total: 75752 (0.201%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 antenna PM03 flagged: 152 total: 75752 (0.201%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 field GRB021004 flagged: 96 total: 39096 (0.246%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 field J2253+161; 3c454.3 flagged: 416 total: 192416 (0.216%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 field B0007+106; J0010+109 flagged: 96 total: 39096 (0.246%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 spw 3 flagged: 0 total: 1200 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 spw 2 flagged: 0 total: 76800 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 spw 0 flagged: 608 total: 608 (100%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 spw 1 flagged: 0 total: 192000 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 correlation YY flagged: 0 total: 135000 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 correlation I flagged: 608 total: 608 (100%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 correlation XX flagged: 0 total: 135000 (0%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 array 0 flagged: 608 total: 270608 (0.225%)
+2025-09-16 14:54:58	INFO	Summary::getResult 	 Total Flagged: 608 Total Counts: 270608 (0.225%)

@@ -1,0 +1,28 @@
+2025-09-16 14:58:55	INFO	test
+::ImageFactory::createImage	Created Temp image  of shape [200, 200] with float valued pixels.
+2025-09-16 14:58:55	INFO	test
+::AsciiRegionFileParser::_parse	Combined 1 image regions (which excludes any annotation regions)
+2025-09-16 14:58:55	INFO	test
+::AsciiRegionFileParser::_parse	The specified region will select all pixels that are included in the region. Full pixels will be included even when they are only partially covered by the region(s).
+2025-09-16 14:58:55	INFO	test
+::ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:58:55	INFO	test
+::ImageRegion::fromRecord+	    [50, 31] to [150, 171]  (00:03:20.047, -01.09.00.278 to 23:56:39.950, +01.11.00.303)
+2025-09-16 14:58:55	INFO	test
+::ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:58:55	WARN	test
+::image::open (file src/tools/image/image_cmpt.cc, line 4208)	Another image is already open, closing first
+2025-09-16 14:58:55	INFO	test
+::ImageFactory::createImage	Created Temp image  of shape [200, 200] with float valued pixels.
+2025-09-16 14:58:55	INFO	test
+::AsciiRegionFileParser::_parse	Combined 1 image regions (which excludes any annotation regions)
+2025-09-16 14:58:55	INFO	test
+::AsciiRegionFileParser::_parse	The specified region will select all pixels that are included in the region. Full pixels will be included even when they are only partially covered by the region(s).
+2025-09-16 14:58:55	INFO	test
+::ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:58:55	INFO	test
+::ImageRegion::fromRecord+	    [50, 31] to [149, 171]  (00:03:20.047, -01.09.00.278 to 23:56:43.952, +01.11.00.303)
+2025-09-16 14:58:55	INFO	test
+::ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:58:55	WARN	test
+::image::open (file src/tools/image/image_cmpt.cc, line 4208)	Another image is already open, closing first

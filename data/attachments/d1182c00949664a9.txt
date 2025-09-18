@@ -1,0 +1,22 @@
+2025-09-16 14:56:36	INFO	ImageFactory::createImage	Created Temp image  of shape [200, 200, 4, 10] with float valued pixels.
+2025-09-16 14:56:36	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:36	INFO	BeamManipulator::set	This image currently has no beams of any kind. Since channel and/or polarization were specified, a set of per plane beams, each equal to the specified beam, will be created.
+2025-09-16 14:56:36	INFO	BeamManipulator::set	Beam parameters:  Major          : 3 arcmin
+2025-09-16 14:56:36	INFO	BeamManipulator::set+	  Minor          : 1 arcmin
+2025-09-16 14:56:36	INFO	BeamManipulator::set+	  Position Angle : 40 deg
+2025-09-16 14:56:36	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:36	INFO	BeamManipulator::set	Beam parameters:  Major          : 5 arcmin
+2025-09-16 14:56:36	INFO	BeamManipulator::set+	  Minor          : 4 arcmin
+2025-09-16 14:56:36	INFO	BeamManipulator::set+	  Position Angle : 40 deg
+2025-09-16 14:56:36	INFO	ImageFactory::createImage	Created Temp image  of shape [200, 200, 10, 4] with float valued pixels.
+2025-09-16 14:56:36	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:36	INFO	BeamManipulator::set	This image currently has no beams of any kind. Since channel and/or polarization were specified, a set of per plane beams, each equal to the specified beam, will be created.
+2025-09-16 14:56:36	INFO	BeamManipulator::set	Beam parameters:  Major          : 3 arcmin
+2025-09-16 14:56:36	INFO	BeamManipulator::set+	  Minor          : 1 arcmin
+2025-09-16 14:56:36	INFO	BeamManipulator::set+	  Position Angle : 40 deg
+2025-09-16 14:56:36	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:36	INFO	BeamManipulator::set	Beam parameters:  Major          : 5 arcmin
+2025-09-16 14:56:36	INFO	BeamManipulator::set+	  Minor          : 4 arcmin
+2025-09-16 14:56:36	INFO	BeamManipulator::set+	  Position Angle : 40 deg
+2025-09-16 14:56:36	INFO	name::	No table opened.
+2025-09-16 14:56:36	INFO	name::	No table opened.

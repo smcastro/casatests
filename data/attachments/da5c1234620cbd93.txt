@@ -1,0 +1,8 @@
+2025-09-16 14:57:05	INFO	ImageFactory::createImage	Created Paged image 'kjfasd.im' of shape [20, 20, 1] with float valued pixels.
+2025-09-16 14:57:05	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:05	INFO	CasacRegionManager::fromBCS	Using polarizations ALL
+2025-09-16 14:57:05	INFO	ImageRebinner::setFactors	Not all rebinning factors were specified, filling in those not specified with factors of 1, so will rebin according to factor=[5, 5, 1]
+2025-09-16 14:57:05	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:05	INFO	ImageRegion::fromRecord+	    [0, 0] to [3, 3]  (00:00:32.000, -00.08.00.000 to 23:59:32.000, +00.07.00.000)
+2025-09-16 14:57:05	INFO	name::	No table opened.
+2025-09-16 14:57:05	INFO	showcache::	The Table Cache is empty.

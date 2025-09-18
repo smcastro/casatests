@@ -1,0 +1,14 @@
+2025-09-16 14:56:53	INFO	ImageFactory::createImage	Created Temp image  of shape [20, 20, 1, 2] with float valued pixels.
+2025-09-16 14:56:53	INFO	image::_setrestoringbeam 	Will use dictionary specified in beam parameter to set the beam(s)
+2025-09-16 14:56:53	INFO	BeamManipulator::set	This image currently has no beams of any kind. Since channel and/or polarization were specified, a set of per plane beams, each equal to the specified beam, will be created.
+2025-09-16 14:56:53	INFO	BeamManipulator::set	Beam parameters:  Major          : 77.0275 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Minor          : 50.9008 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Position Angle : -83.4755 deg
+2025-09-16 14:56:53	INFO	image::_setrestoringbeam 	Will use dictionary specified in beam parameter to set the beam(s)
+2025-09-16 14:56:53	INFO	BeamManipulator::set	Beam parameters:  Major          : 10 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Minor          : 10 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Position Angle : 0 deg
+2025-09-16 14:56:53	INFO	image::_setrestoringbeam 	Will use dictionary specified in beam parameter to set the beam(s)
+2025-09-16 14:56:53	INFO	BeamManipulator::set	Beam parameters:  Major          : 12 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Minor          : 12 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Position Angle : 0 deg

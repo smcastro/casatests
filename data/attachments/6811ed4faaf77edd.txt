@@ -1,0 +1,1 @@
+2025-09-16 15:56:00	WARN	sdsmooth::::casa	created working directory: /scratch/scastro/casa/Tests/reports/e014b33a-4917-47c3-a98c-7a1547101473

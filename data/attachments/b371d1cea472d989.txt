@@ -1,0 +1,56 @@
+importfitsidi-unit-test : Success! Now checking output ...
+importfitsidi-unit-test :  table.f8 present.
+importfitsidi-unit-test :  FIELD/table.dat present.
+importfitsidi-unit-test :  table.f7 present.
+importfitsidi-unit-test :  POINTING/table.f0 present.
+importfitsidi-unit-test :  POLARIZATION/table.f0 present.
+importfitsidi-unit-test :  SPECTRAL_WINDOW/table.f0 present.
+importfitsidi-unit-test :  STATE/table.f0 present.
+importfitsidi-unit-test :  table.f4 present.
+importfitsidi-unit-test :  POINTING/table.dat present.
+importfitsidi-unit-test :  FLAG_CMD/table.dat present.
+importfitsidi-unit-test :  POLARIZATION/table.dat present.
+importfitsidi-unit-test :  table.f6 present.
+importfitsidi-unit-test :  table.f1 present.
+importfitsidi-unit-test :  FLAG_CMD/table.f0 present.
+importfitsidi-unit-test :  ANTENNA/table.f0 present.
+importfitsidi-unit-test :  HISTORY/table.dat present.
+importfitsidi-unit-test :  ANTENNA/table.dat present.
+importfitsidi-unit-test :  FIELD/table.f0 present.
+importfitsidi-unit-test :  OBSERVATION/table.dat present.
+importfitsidi-unit-test :  OBSERVATION/table.f0 present.
+importfitsidi-unit-test :  table.f5 present.
+importfitsidi-unit-test :  table.dat present.
+importfitsidi-unit-test :  SPECTRAL_WINDOW/table.dat present.
+importfitsidi-unit-test :  STATE/table.dat present.
+importfitsidi-unit-test :  PROCESSOR/table.dat present.
+importfitsidi-unit-test :  FEED/table.f0 present.
+importfitsidi-unit-test :  HISTORY/table.f0 present.
+importfitsidi-unit-test :  table.f3 present.
+importfitsidi-unit-test :  table.f2 present.
+importfitsidi-unit-test :  DATA_DESCRIPTION/table.dat present.
+importfitsidi-unit-test :  PROCESSOR/table.f0 present.
+importfitsidi-unit-test :  DATA_DESCRIPTION/table.f0 present.
+importfitsidi-unit-test :  FEED/table.dat present.
+importfitsidi-unit-test : MS exists. All tables present. Try opening as MS ...
+importfitsidi-unit-test : OK. Checking tables in detail ...
+importfitsidi-unit-test : comparing  ['UVW', 42, [0.0, 0.0, 0.0], 1e-08]
+importfitsidi-unit-test : comparing  ['EXPOSURE', 42, 2.0, 1e-08]
+importfitsidi-unit-test : comparing  ['DATA', 42, [[(1.06945515+7.91624188e-09j), (0.98315531+9.31322575e-10j), (1.0524447+5.77396486e-09j), (0.90496856+0j), (0.93005872-6.71682887e-09j), (0.80769897+0j), (0.93059886-6.97121116e-09j), (0.77081358+0j), (0.93020338-7.4505806e-09j), (0.83353537+0j), (0.91982168-5.54113422e-09j), (0.88411278-4.65661287e-10j), (1.02857709+5.7855063e-09j), (0.93398595+0j), (1.1388402+1.01289768e-08j), (2.49237108+0j)]], 1e-08]
+importfitsidi-unit-test : table  MAIN  as expected.
+importfitsidi-unit-test : comparing  ['UVW', 638, [171529.37575288, -786712.70341456, 210321.20978818], 1e-08]
+importfitsidi-unit-test : comparing  ['EXPOSURE', 638, 2.0, 1e-08]
+importfitsidi-unit-test : comparing  ['DATA', 638, [[(-0.00224198+0.00067056j), (-0.00475123+0.0024323j), (-0.00416393+0.00212671j), (-0.0056535+0.00340364j), (-0.00527357+0.00011977j), (-0.00292699+0.00131954j), (-0.00429945+0.00035823j), (-0.00545671-0.00033945j), (-0.00646004+0.00037293j), (-0.00419376-0.00115011j), (-0.00508117+0.00045939j), (-0.0050166-0.00047975j), (-0.00444734-0.00101535j), (-0.00384988-0.00102731j), (-0.00551326+0.00101364j), (-0.00337701+0.00080481j)]], 1e-08]
+importfitsidi-unit-test : table  MAIN  as expected.
+importfitsidi-unit-test : comparing  ['OFFSET', 1, [0.0, 0.0, 0.0], 0]
+importfitsidi-unit-test : comparing  ['POSITION', 1, [3370605.8469, 711917.6732, 5349830.8438], 0.0001]
+importfitsidi-unit-test : comparing  ['DISH_DIAMETER', 1, 0.0, 0.0]
+importfitsidi-unit-test : table  ANTENNA  as expected.
+importfitsidi-unit-test : comparing  ['NUM_CHAN', 7, 16, 0]
+importfitsidi-unit-test : comparing  ['TOTAL_BANDWIDTH', 7, 8000000.0, 0]
+importfitsidi-unit-test : comparing  ['CHAN_WIDTH', 7, [500000.0, 500000.0, 500000.0, 500000.0, 500000.0, 500000.0, 500000.0, 500000.0, 500000.0, 500000.0, 500000.0, 500000.0, 500000.0, 500000.0, 500000.0, 500000.0], 1e-08]
+importfitsidi-unit-test : comparing  ['CHAN_FREQ', 7, [43218490000.0, 43218990000.0, 43219490000.0, 43219990000.0, 43220490000.0, 43220990000.0, 43221490000.0, 43221990000.0, 43222490000.0, 43222990000.0, 43223490000.0, 43223990000.0, 43224490000.0, 43224990000.0, 43225490000.0, 43225990000.0], 1e-08]
+importfitsidi-unit-test : table  SPECTRAL_WINDOW  as expected.
+importfitsidi-unit-test : comparing  ['TIME_RANGE', 0, [4764708361.0, 4764708369.0], 1e-08]
+importfitsidi-unit-test : comparing  ['TIME_RANGE', 1, [4764708369.0, 4764708715.0], 1e-08]
+importfitsidi-unit-test : table  OBSERVATION  as expected.

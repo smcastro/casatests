@@ -1,0 +1,2 @@
+
+Comparing 27 pointings in 'simobserve_sc/simobserve_sc.aca.i.ptg.txt' with 'hex.aca.i.ptg.txt'

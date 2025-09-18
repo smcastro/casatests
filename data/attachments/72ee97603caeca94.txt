@@ -1,0 +1,20 @@
+_run_task::starts
+-- checking ZeroSum of data1 and data2.
+-- checking Zero --
+-- checking Time --
+-- checking Time --
+-- checking Time --
+-- checking Weight and Sigma --
+Weight Ref :1281.0
+Weight     :[1281.00012207 1281.00012207]
+Sigma      :[0.02793994 0.02793994]
+-- checking Weight and Sigma --
+Weight Ref :1281.0
+Weight     :[1281.00012207 1281.00012207]
+Sigma      :[0.02793994 0.02793994]
+-- checking Weight and Sigma --
+Weight Ref :1281.0
+Weight     :[1281.00012207 1281.00012207]
+Sigma      :[0.02793994 0.02793994]
+-- checking Output Record Count --
+tearDown::deleting MSs.

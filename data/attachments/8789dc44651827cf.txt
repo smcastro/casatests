@@ -1,0 +1,2 @@
+2025-09-16 16:25:23	SEVERE	imrebin::::casa	Task imrebin raised an exception of class RuntimeError with the following message: Exception: All binning factors must be positive..
+2025-09-16 16:25:23	SEVERE	imrebin::::casa+	... thrown by casac::image* casac::image::rebin(const string&, const std::vector<long int>&, const casac::variant&, const casac::variant&, bool, bool, bool, bool) at File: src/tools/image/image_cmpt.cc, line: 4940

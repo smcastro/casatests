@@ -1,0 +1,10 @@
+2025-09-16 14:57:04	INFO	ImageFactory::createImage	Created Temp image  of shape [113, 76, 1, 1] with float valued pixels.
+2025-09-16 14:57:04	INFO	SubImageFactory::createImage	Creating image 'maskim' of shape [113, 76, 1, 1]
+2025-09-16 14:57:04	INFO	FITSCoordinateUtil::fromFITSHeader	passing empty or nonexistant spectral Coordinate axis
+2025-09-16 14:57:04	SEVERE	image::pbcor (file src/tools/image/image_cmpt.cc, line 4289)	Exception Reported: The input image shape ([113, 76, 5, 2]) and mask shape ([113, 76, 1, 1]) are different, and it was specified that the mask should not be extended, so the mask cannot be applied to the (sub)image. Specifying that the mask should be extended may resolve the issue at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/SubImageFactory.tcc, line: 306
+2025-09-16 14:57:04	WARN	image::open (file src/tools/image/image_cmpt.cc, line 4208)	Another image is already open, closing first
+2025-09-16 14:57:04	INFO	FITSCoordinateUtil::fromFITSHeader	passing empty or nonexistant spectral Coordinate axis
+2025-09-16 14:57:04	INFO	SubImageFactory::createImage	Creating image 'blahblah' of shape [113, 76, 5, 2]
+2025-09-16 14:57:04	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:57:04	INFO	name::	No table opened.
+2025-09-16 14:57:04	INFO	showcache::	The Table Cache is empty.

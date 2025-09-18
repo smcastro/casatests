@@ -1,0 +1,32 @@
+2025-09-16 14:56:53	INFO	ImageFactory::createImage	Created Temp image  of shape [10, 10, 4, 10] with float valued pixels.
+2025-09-16 14:56:53	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:53	INFO	BeamManipulator::set	This image currently has no beams of any kind. Since channel and/or polarization were specified, a set of per plane beams, each equal to the specified beam, will be created.
+2025-09-16 14:56:53	INFO	BeamManipulator::set	Beam parameters:  Major          : 4 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Minor          : 3 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Position Angle : 10 deg
+2025-09-16 14:56:53	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:53	INFO	BeamManipulator::set	Beam parameters:  Major          : 10 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Minor          : 5 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Position Angle : 40 deg
+2025-09-16 14:56:53	SEVERE	image::restoringbeam (file src/tools/image/image_cmpt.cc, line 5289)	Exception Reported: Exception: polarization value must be less than the number of polarization planes in the image, which is 4.
+2025-09-16 14:56:53	SEVERE	image::restoringbeam (file src/tools/image/image_cmpt.cc, line 5289)+	... thrown by casac::record* casac::image::restoringbeam(long int, long int, const string&) at File: src/tools/image/image_cmpt.cc, line: 5354
+2025-09-16 14:56:53	SEVERE	image::restoringbeam (file src/tools/image/image_cmpt.cc, line 5289)	Exception Reported: Exception: channel value specified as 10 must be less than the number of channels in the image, which is 10.
+2025-09-16 14:56:53	SEVERE	image::restoringbeam (file src/tools/image/image_cmpt.cc, line 5289)+	... thrown by casac::record* casac::image::restoringbeam(long int, long int, const string&) at File: src/tools/image/image_cmpt.cc, line: 5346
+2025-09-16 14:56:53	SEVERE	image::restoringbeam (file src/tools/image/image_cmpt.cc, line 5289)	Exception Reported: Exception: channel value specified as 10 must be less than the number of channels in the image, which is 10.
+2025-09-16 14:56:53	SEVERE	image::restoringbeam (file src/tools/image/image_cmpt.cc, line 5289)+	... thrown by casac::record* casac::image::restoringbeam(long int, long int, const string&) at File: src/tools/image/image_cmpt.cc, line: 5346
+2025-09-16 14:56:53	INFO	ImageFactory::createImage	Created Temp image  of shape [10, 10, 4, 10] with Complex valued pixels.
+2025-09-16 14:56:53	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:53	INFO	BeamManipulator::set	This image currently has no beams of any kind. Since channel and/or polarization were specified, a set of per plane beams, each equal to the specified beam, will be created.
+2025-09-16 14:56:53	INFO	BeamManipulator::set	Beam parameters:  Major          : 4 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Minor          : 3 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Position Angle : 10 deg
+2025-09-16 14:56:53	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:53	INFO	BeamManipulator::set	Beam parameters:  Major          : 10 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Minor          : 5 arcsec
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Position Angle : 40 deg
+2025-09-16 14:56:53	SEVERE	image::restoringbeam (file src/tools/image/image_cmpt.cc, line 5289)	Exception Reported: Exception: polarization value must be less than the number of polarization planes in the image, which is 4.
+2025-09-16 14:56:53	SEVERE	image::restoringbeam (file src/tools/image/image_cmpt.cc, line 5289)+	... thrown by casac::record* casac::image::restoringbeam(long int, long int, const string&) at File: src/tools/image/image_cmpt.cc, line: 5354
+2025-09-16 14:56:53	SEVERE	image::restoringbeam (file src/tools/image/image_cmpt.cc, line 5289)	Exception Reported: Exception: channel value specified as 10 must be less than the number of channels in the image, which is 10.
+2025-09-16 14:56:53	SEVERE	image::restoringbeam (file src/tools/image/image_cmpt.cc, line 5289)+	... thrown by casac::record* casac::image::restoringbeam(long int, long int, const string&) at File: src/tools/image/image_cmpt.cc, line: 5346
+2025-09-16 14:56:53	SEVERE	image::restoringbeam (file src/tools/image/image_cmpt.cc, line 5289)	Exception Reported: Exception: channel value specified as 10 must be less than the number of channels in the image, which is 10.
+2025-09-16 14:56:53	SEVERE	image::restoringbeam (file src/tools/image/image_cmpt.cc, line 5289)+	... thrown by casac::record* casac::image::restoringbeam(long int, long int, const string&) at File: src/tools/image/image_cmpt.cc, line: 5346
