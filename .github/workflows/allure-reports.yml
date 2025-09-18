@@ -50,14 +50,14 @@ jobs:
           path: allure-report/
           retention-days: 30
 
-#      - name: Deploy to main branch
-#        uses: peaceiris/actions-gh-pages@v4
-#        if: always()
-#        with:
-#          github_token: ${{ secrets.GITHUB_TOKEN }}
-#          publish_dir: allure-report
-#          publish_branch: main
-#          #destination_dir: main
-#          keep_files: true
-#          force_orphan: false
+      - name: Deploy to main branch
+        uses: peaceiris/actions-gh-pages@v4
+        if: always()
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: allure-report
+          publish_branch: gh-pages
+          #destination_dir: main
+          keep_files: true
+          force_orphan: false
           
