@@ -18,7 +18,7 @@ digraph casacpp_deps {
                 wcslib
         }
 
-subgraph casa_deps {
+subgraph cluster_casa_deps {
 
 alma -> casacore
 alma -> "libxml++"
