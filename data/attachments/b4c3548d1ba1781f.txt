@@ -1,0 +1,7 @@
+test_task_virtualconcat : Now checking output MS  concatenated.ms
+test_task_virtualconcat : OK. Checking tables in detail ...
+test_task_virtualconcat : comparing  ['SOURCE_ID', 28, 13, 0]
+test_task_virtualconcat : comparing  ['SPECTRAL_WINDOW_ID', 28, 1, 0]
+test_task_virtualconcat : table  SOURCE  as expected.
+test_task_virtualconcat : comparing  ['NUM_CHAN', 1, 128, 0]
+test_task_virtualconcat : table  SPECTRAL_WINDOW  as expected.

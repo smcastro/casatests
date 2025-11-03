@@ -1,0 +1,4 @@
+
+Comparing image statistics of 'simobserve_comp/simobserve_comp.alma.out01.compskymodel' with reference 'ref_comp.alma.out01.compskymodel'
+Comparing 7 pointings in 'simobserve_comp/simobserve_comp.alma.out01.ptg.txt' with 'ref_comp.alma.out01.ptg.txt'
+Comparing MS statistics of 'simobserve_comp/simobserve_comp.alma.out01.ms' with reference 'ref_comp.alma.out01.ms'

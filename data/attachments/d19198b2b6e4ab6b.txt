@@ -1,0 +1,44 @@
+2025-09-16 14:58:04	INFO	test
+::MSFitsOutput::write	 nchan=3 startchan=0 stepchan=1 avgchan=1
+2025-09-16 14:58:04	INFO	test
+::MSFitsOutput::write	Converting MeasurementSet /casadata/repository/casatestdata/unittest/mstool/uvfits_test.ms to FITS file 'CAS-5492.uvfits'
+2025-09-16 14:58:04	INFO	test
+::MSFitsOutput::_writeMain	CORRECTED_DATA does not exist, writing DATA
+2025-09-16 14:58:04	INFO	test
+::MSFitsOutput::_writeMain	Frequency reference frame is LSRK
+2025-09-16 14:58:04	INFO	test
+::MSFitsOutput::write	Writing AIPS FQ table
+2025-09-16 14:58:04	INFO	test
+::MSFitsOutput::writeFQ	Found 2 spectral windows 
+2025-09-16 14:58:04	INFO	test
+::MSFitsOutput::write	Writing AIPS AN table
+2025-09-16 14:58:04	INFO	test
+::MSFitsOutput::writeAN	Using ITRF frame for antenna positions.
+2025-09-16 14:58:04	INFO	test
+::MSFitsOutput::writeAN	Found 8 antennas in array #1
+2025-09-16 14:58:04	INFO	test
+::MSFitsOutput::write	 nchan=3 startchan=0 stepchan=1 avgchan=1
+2025-09-16 14:58:04	SEVERE	test
+::ms::tofits	Exception Reported: Exception: Error in output file : File CAS-5492.uvfits exists, and the user does not want to remove it..
+2025-09-16 14:58:04	SEVERE	test
+::ms::tofits+	... thrown by void casacore::MSFitsOutput::write() const at File: /source/casa6/casatools/casacore/msfits/MSFits/MSFitsOutput.cc, line: 168
+2025-09-16 14:58:04	INFO	test
+::MSFitsOutput::write	 nchan=3 startchan=0 stepchan=1 avgchan=1
+2025-09-16 14:58:04	INFO	test
+::MSFitsOutput::write	Removing existing file CAS-5492.uvfits
+2025-09-16 14:58:04	INFO	test
+::MSFitsOutput::write	Converting MeasurementSet /casadata/repository/casatestdata/unittest/mstool/uvfits_test.ms to FITS file 'CAS-5492.uvfits'
+2025-09-16 14:58:04	INFO	test
+::MSFitsOutput::_writeMain	CORRECTED_DATA does not exist, writing DATA
+2025-09-16 14:58:04	INFO	test
+::MSFitsOutput::_writeMain	Frequency reference frame is LSRK
+2025-09-16 14:58:04	INFO	test
+::MSFitsOutput::write	Writing AIPS FQ table
+2025-09-16 14:58:04	INFO	test
+::MSFitsOutput::writeFQ	Found 2 spectral windows 
+2025-09-16 14:58:04	INFO	test
+::MSFitsOutput::write	Writing AIPS AN table
+2025-09-16 14:58:04	INFO	test
+::MSFitsOutput::writeAN	Using ITRF frame for antenna positions.
+2025-09-16 14:58:04	INFO	test
+::MSFitsOutput::writeAN	Found 8 antennas in array #1

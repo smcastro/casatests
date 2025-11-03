@@ -1,0 +1,3 @@
+2025-09-16 14:57:07	INFO	FITSCoordinateUtil::fromFITSHeader	passing empty or nonexistant spectral Coordinate axis
+2025-09-16 14:57:07	INFO	name::	No table opened.
+2025-09-16 14:57:07	INFO	showcache::	The Table Cache is empty.

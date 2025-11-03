@@ -1,0 +1,2 @@
+ :  channel, default start and width, LSRK
+[check_spec_frame] tstCubetest_chandefstdefwidth.image: Spec frame is LSRK with crval 999988750.3872563 (Pass : should be LSRK with expected crval 999988750 )

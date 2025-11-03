@@ -1,0 +1,333 @@
+2025-09-16 14:55:09	INFO	AgentFlagger::open	Table type is Measurement Set
+2025-09-16 14:55:09	INFO	AgentFlagger::initAgents	There are initially 1 agents in the list. Agents: unflag
+2025-09-16 14:55:09	INFO	AgentFlagger::initAgents	There are 1 valid agents in the list. Agents: unflag
+2025-09-16 14:55:09	INFO	FlagMSHandler::	Chunk = 1 [progress: 3%], Observation = 0, Array = 0, Scan = 30, Field = 1 (3C286_A), Spw = 0, Channels = 64, Corrs = [ RR RL LR LL ], Total Rows = 534
+2025-09-16 14:55:09	INFO	FlagMSHandler::	Chunk = 4 [progress: 12%], Observation = 0, Array = 0, Scan = 30, Field = 1 (3C286_A), Spw = 3, Channels = 64, Corrs = [ RR RL LR LL ], Total Rows = 534
+2025-09-16 14:55:09	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (546816/546816)
+2025-09-16 14:55:09	INFO	FlagMSHandler::	Chunk = 7 [progress: 21%], Observation = 0, Array = 0, Scan = 30, Field = 1 (3C286_A), Spw = 6, Channels = 64, Corrs = [ RR RL LR LL ], Total Rows = 534
+2025-09-16 14:55:09	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (410112/410112)
+2025-09-16 14:55:09	INFO	FlagMSHandler::	Chunk = 10 [progress: 31%], Observation = 0, Array = 0, Scan = 30, Field = 1 (3C286_A), Spw = 9, Channels = 64, Corrs = [ RR RL LR LL ], Total Rows = 534
+2025-09-16 14:55:09	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (410112/410112)
+2025-09-16 14:55:09	INFO	FlagMSHandler::	Chunk = 13 [progress: 40%], Observation = 0, Array = 0, Scan = 30, Field = 1 (3C286_A), Spw = 12, Channels = 64, Corrs = [ RR RL LR LL ], Total Rows = 534
+2025-09-16 14:55:09	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (410112/410112)
+2025-09-16 14:55:09	INFO	FlagMSHandler::	Chunk = 17 [progress: 52%], Observation = 0, Array = 0, Scan = 31, Field = 1 (3C286_A), Spw = 0, Channels = 64, Corrs = [ RR RL LR LL ], Total Rows = 540
+2025-09-16 14:55:09	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (548352/548352)
+2025-09-16 14:55:09	INFO	FlagMSHandler::	Chunk = 20 [progress: 62%], Observation = 0, Array = 0, Scan = 31, Field = 1 (3C286_A), Spw = 3, Channels = 64, Corrs = [ RR RL LR LL ], Total Rows = 540
+2025-09-16 14:55:09	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (414720/414720)
+2025-09-16 14:55:09	INFO	FlagMSHandler::	Chunk = 23 [progress: 71%], Observation = 0, Array = 0, Scan = 31, Field = 1 (3C286_A), Spw = 6, Channels = 64, Corrs = [ RR RL LR LL ], Total Rows = 540
+2025-09-16 14:55:09	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (414720/414720)
+2025-09-16 14:55:09	INFO	FlagMSHandler::	Chunk = 26 [progress: 81%], Observation = 0, Array = 0, Scan = 31, Field = 1 (3C286_A), Spw = 9, Channels = 64, Corrs = [ RR RL LR LL ], Total Rows = 540
+2025-09-16 14:55:09	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (414720/414720)
+2025-09-16 14:55:09	INFO	FlagMSHandler::	Chunk = 29 [progress: 90%], Observation = 0, Array = 0, Scan = 31, Field = 1 (3C286_A), Spw = 12, Channels = 64, Corrs = [ RR RL LR LL ], Total Rows = 540
+2025-09-16 14:55:09	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (414720/414720)
+2025-09-16 14:55:09	INFO	FlagMSHandler::	Chunk = 32 [progress: 100%], Observation = 0, Array = 0, Scan = 31, Field = 1 (3C286_A), Spw = 15, Channels = 64, Corrs = [ RR RL LR LL ], Total Rows = 540
+2025-09-16 14:55:09	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (414720/414720)
+2025-09-16 14:55:09	INFO	FlagMSHandler::nextChunk 	==================================================================================== 
+2025-09-16 14:55:09	INFO	Unflag::tableSummary	=> Percentage of data un-flagged in table selection: 100%
+2025-09-16 14:55:09	INFO	AgentFlagger::run	=> Writing flags to the MS
+2025-09-16 14:55:09	INFO	AgentFlagger::open	Table type is Measurement Set
+2025-09-16 14:55:09	INFO	AgentFlagger::initAgents	There are initially 4 agents in the list. Agents: unflag, manual, summary, display
+2025-09-16 14:55:09	INFO	Display::setAgentParameters 	 data column is DATA
+2025-09-16 14:55:09	INFO	Display::setAgentParameters 	 Visibility expression is ABS RR,RL,LR,LL
+2025-09-16 14:55:09	INFO	Display::setAgentParameters 	 pause is 0
+2025-09-16 14:55:09	INFO	Display::setAgentParameters 	 datadisplay is 1
+2025-09-16 14:55:09	INFO	Display::setAgentParameters 	 reportdisplay is 0
+2025-09-16 14:55:09	INFO	Display::setAgentParameters 	 format is screen
+2025-09-16 14:55:09	INFO	AgentFlagger::initAgents	There are 4 valid agents in the list. Agents: unflag, manual, summary, display
+2025-09-16 14:55:09	INFO	FlagDataHandler::preLoadColumn 	Setting row blocking to number of rows in selected table: 17184
+2025-09-16 14:55:09	INFO	FlagMSHandler::	Chunk = 1 [progress: 3%], Observation = 0, Array = 0, Scan = 30, Field = 1 (3C286_A), Spw = 0, Channels = 64, Corrs = [ RR RL LR LL ], Total Rows = 534
+2025-09-16 14:55:09	INFO	Display::getChunkInfo 	FlagAgentDisplay::getChunkInfo Field : 1 , 3C286_A Spw : 0 Scan : 30 : 30
+2025-09-16 14:55:09	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,1) 
+qt.qpa.xcb: could not connect to display localhost:10.0
+qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+
+Available platform plugins are: eglfs, linuxfb, minimal, minimalegl, offscreen, vnc, wayland-egl, wayland, wayland-xcomposite-egl, wayland-xcomposite-glx, xcb.
+
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,2) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,3) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,2) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,3) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (2,3) 
+2025-09-16 14:55:11	INFO	Display::getChunkInfo 	FlagAgentDisplay::getChunkInfo Field : 1 , 3C286_A Spw : 1 Scan : 30 : 30
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,1) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,2) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,3) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,2) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,3) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (2,3) 
+2025-09-16 14:55:11	INFO	Display::getChunkInfo 	FlagAgentDisplay::getChunkInfo Field : 1 , 3C286_A Spw : 2 Scan : 30 : 30
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,1) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,2) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,3) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,2) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,3) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (2,3) 
+2025-09-16 14:55:11	INFO	FlagMSHandler::	Chunk = 4 [progress: 12%], Observation = 0, Array = 0, Scan = 30, Field = 1 (3C286_A), Spw = 3, Channels = 64, Corrs = [ RR RL LR LL ], Total Rows = 534
+2025-09-16 14:55:11	INFO	Display::getChunkInfo 	FlagAgentDisplay::getChunkInfo Field : 1 , 3C286_A Spw : 3 Scan : 30 : 30
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,1) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,2) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,3) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,2) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,3) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (2,3) 
+2025-09-16 14:55:11	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (546816/546816)
+2025-09-16 14:55:11	INFO	Manual::chunkSummary	=> Data flagged so far 34.375% (187968/546816)
+2025-09-16 14:55:11	INFO	Display::getChunkInfo 	FlagAgentDisplay::getChunkInfo Field : 1 , 3C286_A Spw : 4 Scan : 30 : 30
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,1) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,2) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,3) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,2) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,3) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (2,3) 
+2025-09-16 14:55:11	INFO	Display::getChunkInfo 	FlagAgentDisplay::getChunkInfo Field : 1 , 3C286_A Spw : 5 Scan : 30 : 30
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,1) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,2) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,3) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,2) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,3) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (2,3) 
+2025-09-16 14:55:11	INFO	FlagMSHandler::	Chunk = 7 [progress: 21%], Observation = 0, Array = 0, Scan = 30, Field = 1 (3C286_A), Spw = 6, Channels = 64, Corrs = [ RR RL LR LL ], Total Rows = 534
+2025-09-16 14:55:11	INFO	Display::getChunkInfo 	FlagAgentDisplay::getChunkInfo Field : 1 , 3C286_A Spw : 6 Scan : 30 : 30
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,1) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,2) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,3) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,2) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,3) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (2,3) 
+2025-09-16 14:55:11	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (410112/410112)
+2025-09-16 14:55:11	INFO	Manual::chunkSummary	=> Data flagged so far 34.375% (140976/410112)
+2025-09-16 14:55:11	INFO	Display::getChunkInfo 	FlagAgentDisplay::getChunkInfo Field : 1 , 3C286_A Spw : 7 Scan : 30 : 30
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,1) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,2) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,3) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,2) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,3) 
+2025-09-16 14:55:11	INFO	Display::processAntennaPair 	 Going to process requested baseline (2,3) 
+2025-09-16 14:55:12	INFO	Display::getChunkInfo 	FlagAgentDisplay::getChunkInfo Field : 1 , 3C286_A Spw : 8 Scan : 30 : 30
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,1) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (2,3) 
+2025-09-16 14:55:12	INFO	FlagMSHandler::	Chunk = 10 [progress: 31%], Observation = 0, Array = 0, Scan = 30, Field = 1 (3C286_A), Spw = 9, Channels = 64, Corrs = [ RR RL LR LL ], Total Rows = 534
+2025-09-16 14:55:12	INFO	Display::getChunkInfo 	FlagAgentDisplay::getChunkInfo Field : 1 , 3C286_A Spw : 9 Scan : 30 : 30
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,1) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (2,3) 
+2025-09-16 14:55:12	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (410112/410112)
+2025-09-16 14:55:12	INFO	Manual::chunkSummary	=> Data flagged so far 34.375% (140976/410112)
+2025-09-16 14:55:12	INFO	Display::getChunkInfo 	FlagAgentDisplay::getChunkInfo Field : 1 , 3C286_A Spw : 10 Scan : 30 : 30
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,1) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (2,3) 
+2025-09-16 14:55:12	INFO	Display::getChunkInfo 	FlagAgentDisplay::getChunkInfo Field : 1 , 3C286_A Spw : 11 Scan : 30 : 30
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,1) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (2,3) 
+2025-09-16 14:55:12	INFO	FlagMSHandler::	Chunk = 13 [progress: 40%], Observation = 0, Array = 0, Scan = 30, Field = 1 (3C286_A), Spw = 12, Channels = 64, Corrs = [ RR RL LR LL ], Total Rows = 534
+2025-09-16 14:55:12	INFO	Display::getChunkInfo 	FlagAgentDisplay::getChunkInfo Field : 1 , 3C286_A Spw : 12 Scan : 30 : 30
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,1) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (2,3) 
+2025-09-16 14:55:12	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (410112/410112)
+2025-09-16 14:55:12	INFO	Manual::chunkSummary	=> Data flagged so far 34.375% (140976/410112)
+2025-09-16 14:55:12	INFO	Display::getChunkInfo 	FlagAgentDisplay::getChunkInfo Field : 1 , 3C286_A Spw : 13 Scan : 30 : 30
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,1) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (2,3) 
+2025-09-16 14:55:12	INFO	Display::getChunkInfo 	FlagAgentDisplay::getChunkInfo Field : 1 , 3C286_A Spw : 14 Scan : 30 : 30
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,1) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (2,3) 
+2025-09-16 14:55:12	INFO	Display::getChunkInfo 	FlagAgentDisplay::getChunkInfo Field : 1 , 3C286_A Spw : 15 Scan : 30 : 30
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,1) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (2,3) 
+2025-09-16 14:55:12	INFO	FlagMSHandler::	Chunk = 17 [progress: 52%], Observation = 0, Array = 0, Scan = 31, Field = 1 (3C286_A), Spw = 0, Channels = 64, Corrs = [ RR RL LR LL ], Total Rows = 540
+2025-09-16 14:55:12	INFO	Display::getChunkInfo 	FlagAgentDisplay::getChunkInfo Field : 1 , 3C286_A Spw : 0 Scan : 31 : 31
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,1) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (2,3) 
+2025-09-16 14:55:12	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (548352/548352)
+2025-09-16 14:55:12	INFO	Manual::chunkSummary	=> Data flagged so far 34.375% (188496/548352)
+2025-09-16 14:55:12	INFO	Display::getChunkInfo 	FlagAgentDisplay::getChunkInfo Field : 1 , 3C286_A Spw : 1 Scan : 31 : 31
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,1) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (2,3) 
+2025-09-16 14:55:12	INFO	Display::getChunkInfo 	FlagAgentDisplay::getChunkInfo Field : 1 , 3C286_A Spw : 2 Scan : 31 : 31
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,1) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (2,3) 
+2025-09-16 14:55:12	INFO	FlagMSHandler::	Chunk = 20 [progress: 62%], Observation = 0, Array = 0, Scan = 31, Field = 1 (3C286_A), Spw = 3, Channels = 64, Corrs = [ RR RL LR LL ], Total Rows = 540
+2025-09-16 14:55:12	INFO	Display::getChunkInfo 	FlagAgentDisplay::getChunkInfo Field : 1 , 3C286_A Spw : 3 Scan : 31 : 31
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,1) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (2,3) 
+2025-09-16 14:55:12	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (414720/414720)
+2025-09-16 14:55:12	INFO	Manual::chunkSummary	=> Data flagged so far 34.375% (142560/414720)
+2025-09-16 14:55:12	INFO	Display::getChunkInfo 	FlagAgentDisplay::getChunkInfo Field : 1 , 3C286_A Spw : 4 Scan : 31 : 31
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,1) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (2,3) 
+2025-09-16 14:55:12	INFO	Display::getChunkInfo 	FlagAgentDisplay::getChunkInfo Field : 1 , 3C286_A Spw : 5 Scan : 31 : 31
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,1) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (2,3) 
+2025-09-16 14:55:12	INFO	FlagMSHandler::	Chunk = 23 [progress: 71%], Observation = 0, Array = 0, Scan = 31, Field = 1 (3C286_A), Spw = 6, Channels = 64, Corrs = [ RR RL LR LL ], Total Rows = 540
+2025-09-16 14:55:12	INFO	Display::getChunkInfo 	FlagAgentDisplay::getChunkInfo Field : 1 , 3C286_A Spw : 6 Scan : 31 : 31
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,1) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (2,3) 
+2025-09-16 14:55:12	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (414720/414720)
+2025-09-16 14:55:12	INFO	Manual::chunkSummary	=> Data flagged so far 34.375% (142560/414720)
+2025-09-16 14:55:12	INFO	Display::getChunkInfo 	FlagAgentDisplay::getChunkInfo Field : 1 , 3C286_A Spw : 7 Scan : 31 : 31
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,1) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (2,3) 
+2025-09-16 14:55:12	INFO	Display::getChunkInfo 	FlagAgentDisplay::getChunkInfo Field : 1 , 3C286_A Spw : 8 Scan : 31 : 31
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,1) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (2,3) 
+2025-09-16 14:55:12	INFO	FlagMSHandler::	Chunk = 26 [progress: 81%], Observation = 0, Array = 0, Scan = 31, Field = 1 (3C286_A), Spw = 9, Channels = 64, Corrs = [ RR RL LR LL ], Total Rows = 540
+2025-09-16 14:55:12	INFO	Display::getChunkInfo 	FlagAgentDisplay::getChunkInfo Field : 1 , 3C286_A Spw : 9 Scan : 31 : 31
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,1) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (2,3) 
+2025-09-16 14:55:12	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (414720/414720)
+2025-09-16 14:55:12	INFO	Manual::chunkSummary	=> Data flagged so far 34.375% (142560/414720)
+2025-09-16 14:55:12	INFO	Display::getChunkInfo 	FlagAgentDisplay::getChunkInfo Field : 1 , 3C286_A Spw : 10 Scan : 31 : 31
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,1) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (2,3) 
+2025-09-16 14:55:12	INFO	Display::getChunkInfo 	FlagAgentDisplay::getChunkInfo Field : 1 , 3C286_A Spw : 11 Scan : 31 : 31
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,1) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (2,3) 
+2025-09-16 14:55:12	INFO	FlagMSHandler::	Chunk = 29 [progress: 90%], Observation = 0, Array = 0, Scan = 31, Field = 1 (3C286_A), Spw = 12, Channels = 64, Corrs = [ RR RL LR LL ], Total Rows = 540
+2025-09-16 14:55:12	INFO	Display::getChunkInfo 	FlagAgentDisplay::getChunkInfo Field : 1 , 3C286_A Spw : 12 Scan : 31 : 31
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,1) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,2) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,3) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (2,3) 
+2025-09-16 14:55:12	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (414720/414720)
+2025-09-16 14:55:12	INFO	Manual::chunkSummary	=> Data flagged so far 34.375% (142560/414720)
+2025-09-16 14:55:12	INFO	Display::getChunkInfo 	FlagAgentDisplay::getChunkInfo Field : 1 , 3C286_A Spw : 13 Scan : 31 : 31
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,1) 
+2025-09-16 14:55:12	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,2) 
+2025-09-16 14:55:13	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,3) 
+2025-09-16 14:55:13	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,2) 
+2025-09-16 14:55:13	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,3) 
+2025-09-16 14:55:13	INFO	Display::processAntennaPair 	 Going to process requested baseline (2,3) 
+2025-09-16 14:55:13	INFO	Display::getChunkInfo 	FlagAgentDisplay::getChunkInfo Field : 1 , 3C286_A Spw : 14 Scan : 31 : 31
+2025-09-16 14:55:13	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,1) 
+2025-09-16 14:55:13	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,2) 
+2025-09-16 14:55:13	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,3) 
+2025-09-16 14:55:13	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,2) 
+2025-09-16 14:55:13	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,3) 
+2025-09-16 14:55:13	INFO	Display::processAntennaPair 	 Going to process requested baseline (2,3) 
+2025-09-16 14:55:13	INFO	FlagMSHandler::	Chunk = 32 [progress: 100%], Observation = 0, Array = 0, Scan = 31, Field = 1 (3C286_A), Spw = 15, Channels = 64, Corrs = [ RR RL LR LL ], Total Rows = 540
+2025-09-16 14:55:13	INFO	Display::getChunkInfo 	FlagAgentDisplay::getChunkInfo Field : 1 , 3C286_A Spw : 15 Scan : 31 : 31
+2025-09-16 14:55:13	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,1) 
+2025-09-16 14:55:13	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,2) 
+2025-09-16 14:55:13	INFO	Display::processAntennaPair 	 Going to process requested baseline (0,3) 
+2025-09-16 14:55:13	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,2) 
+2025-09-16 14:55:13	INFO	Display::processAntennaPair 	 Going to process requested baseline (1,3) 
+2025-09-16 14:55:13	INFO	Display::processAntennaPair 	 Going to process requested baseline (2,3) 
+2025-09-16 14:55:13	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (414720/414720)
+2025-09-16 14:55:13	INFO	Manual::chunkSummary	=> Data flagged so far 34.375% (142560/414720)
+2025-09-16 14:55:13	INFO	FlagMSHandler::nextChunk 	==================================================================================== 
+2025-09-16 14:55:13	INFO	Unflag::tableSummary	=> Percentage of data un-flagged in table selection: 100%
+2025-09-16 14:55:13	INFO	Manual::tableSummary	=> Percentage of data flagged in table selection: 34.375%
+2025-09-16 14:55:13	INFO	AgentFlagger::run	=> Writing flags to the MS
+2025-09-16 14:55:13	INFO	Summary::getResult 	 observation 0 flagged: 1.51219e+06 total: 4.3991e+06 (34.4%)
+2025-09-16 14:55:13	INFO	Summary::getResult 	 scan 31 flagged: 760320 total: 2.21184e+06 (34.4%)
+2025-09-16 14:55:13	INFO	Summary::getResult 	 scan 30 flagged: 751872 total: 2.18726e+06 (34.4%)
+2025-09-16 14:55:13	INFO	Summary::getResult 	 antenna ea24 flagged: 756096 total: 2.19955e+06 (34.4%)
+2025-09-16 14:55:13	INFO	Summary::getResult 	 antenna ea19 flagged: 756096 total: 2.19955e+06 (34.4%)
+2025-09-16 14:55:13	INFO	Summary::getResult 	 antenna ea01 flagged: 756096 total: 2.19955e+06 (34.4%)
+2025-09-16 14:55:13	INFO	Summary::getResult 	 antenna ea11 flagged: 756096 total: 2.19955e+06 (34.4%)
+2025-09-16 14:55:13	INFO	Summary::getResult 	 field 3C286_A flagged: 1.51219e+06 total: 4.3991e+06 (34.4%)
+2025-09-16 14:55:13	INFO	Summary::getResult 	 spw 15 flagged: 94512 total: 274944 (34.4%)
+2025-09-16 14:55:13	INFO	Summary::getResult 	 spw 14 flagged: 94512 total: 274944 (34.4%)
+2025-09-16 14:55:13	INFO	Summary::getResult 	 spw 10 flagged: 94512 total: 274944 (34.4%)
+2025-09-16 14:55:13	INFO	Summary::getResult 	 spw 7 flagged: 94512 total: 274944 (34.4%)
+2025-09-16 14:55:13	INFO	Summary::getResult 	 spw 12 flagged: 94512 total: 274944 (34.4%)
+2025-09-16 14:55:13	INFO	Summary::getResult 	 spw 6 flagged: 94512 total: 274944 (34.4%)
+2025-09-16 14:55:13	INFO	Summary::getResult 	 spw 8 flagged: 94512 total: 274944 (34.4%)
+2025-09-16 14:55:13	INFO	Summary::getResult 	 spw 5 flagged: 94512 total: 274944 (34.4%)
+2025-09-16 14:55:13	INFO	Summary::getResult 	 spw 0 flagged: 94512 total: 274944 (34.4%)
+2025-09-16 14:55:13	INFO	Summary::getResult 	 spw 11 flagged: 94512 total: 274944 (34.4%)
+2025-09-16 14:55:13	INFO	Summary::getResult 	 spw 9 flagged: 94512 total: 274944 (34.4%)
+2025-09-16 14:55:13	INFO	Summary::getResult 	 spw 4 flagged: 94512 total: 274944 (34.4%)
+2025-09-16 14:55:13	INFO	Summary::getResult 	 spw 1 flagged: 94512 total: 274944 (34.4%)
+2025-09-16 14:55:13	INFO	Summary::getResult 	 spw 2 flagged: 94512 total: 274944 (34.4%)
+2025-09-16 14:55:13	INFO	Summary::getResult 	 spw 13 flagged: 94512 total: 274944 (34.4%)
+2025-09-16 14:55:13	INFO	Summary::getResult 	 spw 3 flagged: 94512 total: 274944 (34.4%)
+2025-09-16 14:55:13	INFO	Summary::getResult 	 correlation LL flagged: 378048 total: 1.09978e+06 (34.4%)
+2025-09-16 14:55:13	INFO	Summary::getResult 	 correlation LR flagged: 378048 total: 1.09978e+06 (34.4%)
+2025-09-16 14:55:13	INFO	Summary::getResult 	 correlation RR flagged: 378048 total: 1.09978e+06 (34.4%)
+2025-09-16 14:55:13	INFO	Summary::getResult 	 correlation RL flagged: 378048 total: 1.09978e+06 (34.4%)
+2025-09-16 14:55:13	INFO	Summary::getResult 	 array 0 flagged: 1.51219e+06 total: 4.3991e+06 (34.4%)
+2025-09-16 14:55:13	INFO	Summary::getResult 	 Total Flagged: 1.51219e+06 Total Counts: 4.3991e+06 (34.4%)
+2025-09-16 14:55:13	INFO	Display::displayReports 	Report Displays are turned OFF 

@@ -1,0 +1,114 @@
+ANTAB HAS NO FREQ INFORMATION DEFAULTING TO FREQ ID -1
+ANTAB HAS NO FREQ INFORMATION DEFAULTING TO FREQ ID -1
+ANTAB HAS NO FREQ INFORMATION DEFAULTING TO FREQ ID -1
+ANTAB HAS NO FREQ INFORMATION DEFAULTING TO FREQ ID -1
+ANTAB HAS NO FREQ INFORMATION DEFAULTING TO FREQ ID -1
+ANTAB HAS NO FREQ INFORMATION DEFAULTING TO FREQ ID -1
+ANTAB HAS NO FREQ INFORMATION DEFAULTING TO FREQ ID -1
+ANTAB HAS NO FREQ INFORMATION DEFAULTING TO FREQ ID -1
+ANTAB HAS NO FREQ INFORMATION DEFAULTING TO FREQ ID -1
+ANTAB HAS NO FREQ INFORMATION DEFAULTING TO SPW ID -1 and freq to [0, 0]
+ANTAB HAS NO FREQ INFORMATION DEFAULTING TO FREQ ID -1
+ANTAB HAS NO FREQ INFORMATION DEFAULTING TO FREQ ID -1
+ANTAB HAS NO FREQ INFORMATION DEFAULTING TO FREQ ID -1
+ANTAB HAS NO FREQ INFORMATION DEFAULTING TO FREQ ID -1
+ANTAB HAS NO FREQ INFORMATION DEFAULTING TO FREQ ID -1
+ANTAB HAS NO FREQ INFORMATION DEFAULTING TO FREQ ID -1
+ANTAB HAS NO FREQ INFORMATION DEFAULTING TO FREQ ID -1
+ANTAB HAS NO FREQ INFORMATION DEFAULTING TO FREQ ID -1
+ANTAB HAS NO FREQ INFORMATION DEFAULTING TO FREQ ID -1
+ANTAB HAS NO FREQ INFORMATION DEFAULTING TO FREQ ID -1
+ANTAB HAS NO FREQ INFORMATION DEFAULTING TO FREQ ID -1
+ANTAB HAS NO FREQ INFORMATION DEFAULTING TO FREQ ID -1
+ANTAB HAS NO FREQ INFORMATION DEFAULTING TO SPW ID -1 and freq to [0, 0]
+ANTAB HAS NO FREQ INFORMATION DEFAULTING TO FREQ ID -1
+ANTAB HAS NO FREQ INFORMATION DEFAULTING TO FREQ ID -1
+ANTAB HAS NO FREQ INFORMATION DEFAULTING TO FREQ ID -1
+antenna: 8 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 8 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 8 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 8 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 8 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 8 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 8 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 8 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 0 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 0 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 0 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 0 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 0 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 0 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 0 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 0 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 10 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 10 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 10 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 10 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 10 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 10 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 10 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 10 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 2 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 2 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 2 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 2 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 2 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 2 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 2 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 2 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 4 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 4 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 4 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 4 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 4 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 4 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 4 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 4 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 3 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 3 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 3 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 3 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 3 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 3 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 3 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 3 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 9 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 9 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 9 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 9 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 9 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 9 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 9 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 9 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 6 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 6 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 6 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 6 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 6 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 6 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 6 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 6 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 5 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 5 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 5 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 5 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 5 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 5 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 5 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 5 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 1 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 1 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 1 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 1 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 1 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 1 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 1 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 1 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 11 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 11 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 11 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 11 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 11 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 11 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 11 has data present for the time 4920700008.000002. The antab data for this value will be ignored
+antenna: 11 has data present for the time 4920700008.000002. The antab data for this value will be ignored

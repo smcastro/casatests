@@ -1,0 +1,14 @@
+2025-09-16 16:08:17	WARN	imcontsub::::casa	The linefile parameter is empty, consequently the spectral line image will NOT be
+2025-09-16 16:08:17	WARN	imcontsub::::casa+	saved on disk.
+2025-09-16 16:08:17	WARN	imcontsub::::casa	The contfile parameter is empty, consequently the continuum image will NOT be
+2025-09-16 16:08:17	WARN	imcontsub::::casa+	saved on disk.
+2025-09-16 16:08:17	SEVERE	regionmanager::frombcs	Exception Reported: Unable to open region file or region table description /scratch/scastro/casa/Tests/reports/garbage.rgn.
+2025-09-16 16:08:17	SEVERE	regionmanager::frombcs+	If it is supposed to be a text string its format is incorrect at File: /source/casa6/casatools/src/code/imageanalysis/Regions/CasacRegionManager.cc, line: 497
+2025-09-16 16:08:17	SEVERE	imcontsub::::casa	Task imcontsub raised an exception of class RuntimeError with the following message: Unable to open region file or region table description /scratch/scastro/casa/Tests/reports/garbage.rgn.
+2025-09-16 16:08:17	SEVERE	imcontsub::::casa+	If it is supposed to be a text string its format is incorrect at File: /source/casa6/casatools/src/code/imageanalysis/Regions/CasacRegionManager.cc, line: 497
+2025-09-16 16:08:17	WARN	imcontsub::::casa	The linefile parameter is empty, consequently the spectral line image will NOT be
+2025-09-16 16:08:17	WARN	imcontsub::::casa+	saved on disk.
+2025-09-16 16:08:17	WARN	imcontsub::::casa	The contfile parameter is empty, consequently the continuum image will NOT be
+2025-09-16 16:08:17	WARN	imcontsub::::casa+	saved on disk.
+2025-09-16 16:08:17	SEVERE	regionmanager::frombcs	Exception Reported: /scratch/scastro/casa/Tests/reports/garbage.rgn is neither a valid binary region file, nor a valid region text file. at File: /source/casa6/casatools/src/code/imageanalysis/Regions/CasacRegionManager.cc, line: 428
+2025-09-16 16:08:17	SEVERE	imcontsub::::casa	Task imcontsub raised an exception of class RuntimeError with the following message: /scratch/scastro/casa/Tests/reports/garbage.rgn is neither a valid binary region file, nor a valid region text file. at File: /source/casa6/casatools/src/code/imageanalysis/Regions/CasacRegionManager.cc, line: 428

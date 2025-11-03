@@ -1,0 +1,6 @@
+2025-09-16 14:56:36	SEVERE	coordsys::toworldmany	You must provide a vector of doubles.
+2025-09-16 14:56:36	SEVERE	coordsys::toworldmany	Exception Reported: 2025-09-16 14:56:36	SEVERE	coordsys::toworldmany	You must provide a vector of doubles.
+2025-09-16 14:56:36	INFO	name::	No table opened.
+2025-09-16 14:56:36	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:56:36	INFO	name::	No table opened.
+2025-09-16 14:56:36	INFO	name::	No table opened.

@@ -1,0 +1,6 @@
+Examining pol 0
+edge_delta [4.76201375e-05 7.89006551e-05]
+threshold = 0.00018854365500154985
+Examining pol 1
+edge_delta [4.76201375e-05 7.89006551e-05]
+threshold = 0.00018854365500154985

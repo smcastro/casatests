@@ -1,0 +1,5 @@
+2025-09-16 17:30:21	WARN	simanalyze::simanalyze::casa	The number of image pixel in x-axis, 58, is small to cover 8 x PSF. Setting x pixel number, 104.
+2025-09-16 17:30:21	WARN	simanalyze::simanalyze::casa	The number of image pixel in y-axis, 51, is small to cover 8 x PSF. Setting y pixel number, 104
+2025-09-16 17:30:21	WARN	simanalyze::simutil::casa	[108, 108] is not an acceptable imagesize,  using imsize=[108, 108] instead
+2025-09-16 17:30:21	WARN	simutil::ImageRegrid::regrid	You are regridding an image whose beam is not well sampled by the pixel size.  Total flux can be lost when regridding such images, especially when the new pixel size is larger than the old pixel size. It is recommended to check the total flux of your input and output image, and if necessary rebin the input to have smaller pixels.
+2025-09-16 17:30:21	WARN	simanalyze::simutil::casa	No image is generated in this run. Default MS, 'sim_interferometric/sim_interferometric.ms', does not exist -- uv and psf will not be plotted

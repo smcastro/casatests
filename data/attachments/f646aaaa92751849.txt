@@ -1,0 +1,16 @@
+2025-09-16 17:03:20	WARN	sdcal::calibrater::setvi(bool,bool)	Already using OLD VisibilityIterator.
+2025-09-16 17:03:20	SEVERE	sdcal::Calibrater::setapply(type, applypar)	Unknown interp type: 'sinusoid'!! Check inputs and try again.
+2025-09-16 17:03:20	SEVERE	sdcal::::	Exception Reported: Error in Calibrater::setapply.
+2025-09-16 17:03:20	SEVERE	sdcal::::casa	Traceback (most recent call last):
+2025-09-16 17:03:20	SEVERE	sdcal::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:03:20	SEVERE	sdcal::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdcal.py", line 121, in sdcal
+2025-09-16 17:03:20	SEVERE	sdcal::::casa+	    cb.setapply(table=_table, interp=interp, calwt=True)
+2025-09-16 17:03:20	SEVERE	sdcal::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/calibrater.py", line 212, in setapply
+2025-09-16 17:03:20	SEVERE	sdcal::::casa+	    return self._swigobj.setapply(type, t, table, field, interp, select, calwt, spwmap, opacity)
+2025-09-16 17:03:20	SEVERE	sdcal::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:03:20	SEVERE	sdcal::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/__casac__/calibrater.py", line 479, in setapply
+2025-09-16 17:03:20	SEVERE	sdcal::::casa+	    return _calibrater.calibrater_setapply(self, *args, **kwargs)
+2025-09-16 17:03:20	SEVERE	sdcal::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:03:20	SEVERE	sdcal::::casa+	RuntimeError: Error in Calibrater::setapply.
+2025-09-16 17:03:20	SEVERE	sdcal::::casa	Error in Calibrater::setapply.
+2025-09-16 17:03:20	SEVERE	sdcal::::casa	Task sdcal raised an exception of class RuntimeError with the following message: Error in Calibrater::setapply.

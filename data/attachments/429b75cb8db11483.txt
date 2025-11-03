@@ -1,0 +1,4 @@
+2025-09-16 15:35:11	SEVERE	exportfits::image::tofits (file src/tools/image/image_cmpt.cc, line 6301)	Exception Reported: Exception: fitsfile must be specified.
+2025-09-16 15:35:11	SEVERE	exportfits::image::tofits (file src/tools/image/image_cmpt.cc, line 6301)+	... thrown by bool casac::image::tofits(const string&, bool, bool, long int, double, double, const casac::variant&, const casac::variant&, bool, bool, bool, bool, bool, bool, bool, bool, bool) at File: src/tools/image/image_cmpt.cc, line: 6307
+2025-09-16 15:35:11	SEVERE	exportfits::::casa	Task exportfits raised an exception of class RuntimeError with the following message: Exception: fitsfile must be specified.
+2025-09-16 15:35:11	SEVERE	exportfits::::casa+	... thrown by bool casac::image::tofits(const string&, bool, bool, long int, double, double, const casac::variant&, const casac::variant&, bool, bool, bool, bool, bool, bool, bool, bool, bool) at File: src/tools/image/image_cmpt.cc, line: 6307

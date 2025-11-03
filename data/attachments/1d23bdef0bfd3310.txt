@@ -1,0 +1,2 @@
+
+Comparing image statistics of 'simobserve_sky/simobserve_sky.alma.out01.skymodel' with reference 'ref_sky.aca.tp.skymodel'

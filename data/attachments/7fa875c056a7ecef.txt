@@ -1,0 +1,5 @@
+*** start 
+*** got {'unit': 'deg', 'value': 20.000000000000018}
+*** exp {'unit': 'deg', 'value': 20.0}
+*** got {'unit': 'deg', 'value': -1.9489431240069859}
+*** exp {'unit': 'deg', 'value': -1.9489431240069859}

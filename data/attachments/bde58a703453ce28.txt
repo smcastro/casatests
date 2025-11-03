@@ -1,0 +1,12 @@
+2025-09-16 18:37:34	SEVERE	tclean::::casa	[ check_ret_structure ] Return dictionary struture check: type=reduced ( Pass : found all expected keys  ) 
+2025-09-16 18:37:34	SEVERE	tclean::::casa+	[ check_val ] peak res is 0.17712756991386414 ( Pass : should be 0.172, Epsilon: 0.05)
+2025-09-16 18:37:34	SEVERE	tclean::::casa+	[ check_val ] mod flux is 0.3233911097049713 ( Pass : should be 0.32, Epsilon: 0.05)
+2025-09-16 18:37:34	SEVERE	tclean::::casa+	[ check_val ] iterdone is 10 ( Pass : should be 10, Exact: True )
+2025-09-16 18:37:34	SEVERE	tclean::::casa+	[ check_ims ] Image made : ['tst.psf', 'tst.residual', 'tst.pb', 'tst.psf.tt0', 'tst.psf.tt1', 'tst.psf.tt2', 'tst.residual.tt0', 'tst.residual.tt1', 'tst.pb.tt0', 'tst.model.tt0', 'tst.model.tt1', 'tst.model'] =  [True, True, True, True, True, True, True, True, True, True, True, True] ( Pass : should all be True )
+2025-09-16 18:37:34	SEVERE	tclean::::casa+	All expected keywords in imageinfo, miscinfo, and coords found. (check_keywords)
+2025-09-16 18:37:34	SEVERE	tclean::::casa+	[check_history] All expected history entries found. (Pass)
+2025-09-16 18:37:34	SEVERE	tclean::::casa+	[ check_pix_val ] tst.psf.tt0 : Value is 1.0 at [256, 256, 0, 0] ( Pass : should be 1.0 , Epsilon: 0.05)
+2025-09-16 18:37:34	SEVERE	tclean::::casa+	[ check_pix_val ] tst.psf.tt1 : Value is -0.042671941220760345 at [256, 256, 0, 0] ( Pass : should be 0.0 , Epsilon: 0.05)
+2025-09-16 18:37:34	SEVERE	tclean::::casa+	[ check_pix_val ] tst.image.tt0 : Value is 0.4966224431991577 at [256, 256, 0, 0] ( Pass : should be 0.5 , Epsilon: 0.05)
+2025-09-16 18:37:34	SEVERE	tclean::::casa+	[ check_pix_val ] tst.alpha : Value is -0.5363782048225403 at [256, 256, 0, 0] ( Pass : should be -0.52 , Epsilon: 0.05)
+2025-09-16 18:37:34	SEVERE	tclean::::casa+	[check_tabcache] Fail: Found open tables after run 

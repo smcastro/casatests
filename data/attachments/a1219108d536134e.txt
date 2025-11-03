@@ -1,0 +1,1 @@
+Column DATA of split3.ms and col3.ms agree

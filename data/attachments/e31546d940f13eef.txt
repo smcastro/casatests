@@ -1,0 +1,14 @@
+2025-09-16 18:37:28	WARN	ImageRegridder::_doImagesOverlap	At least one of the images exceeds one degree on at one side, not checking for direction plane overlap.
+2025-09-16 18:37:28	WARN	ImageRegridder::_doImagesOverlap	At least one of the images exceeds one degree on at one side, not checking for direction plane overlap.
+2025-09-16 18:37:31	SEVERE	tclean::::casa	[ check_ret_structure ] Return dictionary struture check: type=reduced ( Pass : found all expected keys  ) 
+2025-09-16 18:37:31	SEVERE	tclean::::casa+	[ check_val ] peak res is 0.17677317559719086 ( Pass : should be 0.172, Epsilon: 0.05)
+2025-09-16 18:37:31	SEVERE	tclean::::casa+	[ check_val ] mod flux is 0.3229198753833771 ( Pass : should be 0.32, Epsilon: 0.05)
+2025-09-16 18:37:31	SEVERE	tclean::::casa+	[ check_val ] iterdone is 5 ( Pass : should be 5, Exact: True )
+2025-09-16 18:37:31	SEVERE	tclean::::casa+	[ check_ims ] Image made : ['tst.model', 'tst.model.tt0', 'tst.model.tt1'] =  [True, True, True] ( Pass : should all be True )
+2025-09-16 18:37:31	SEVERE	tclean::::casa+	All expected keywords in imageinfo, miscinfo, and coords found. (check_keywords)
+2025-09-16 18:37:31	SEVERE	tclean::::casa+	[check_history] All expected history entries found. (Pass)
+2025-09-16 18:37:31	SEVERE	tclean::::casa+	[ check_pix_val ] tst.psf.tt0 : Value is 1.0 at [256, 256, 0, 0] ( Pass : should be 1.0 , Epsilon: 0.05)
+2025-09-16 18:37:31	SEVERE	tclean::::casa+	[ check_pix_val ] tst.psf.tt1 : Value is -0.041876859962940216 at [256, 256, 0, 0] ( Pass : should be 0.0 , Epsilon: 0.05)
+2025-09-16 18:37:31	SEVERE	tclean::::casa+	[ check_pix_val ] tst.image.tt0 : Value is 0.49579155445098877 at [256, 256, 0, 0] ( Pass : should be 0.5 , Epsilon: 0.05)
+2025-09-16 18:37:31	SEVERE	tclean::::casa+	[ check_pix_val ] tst.alpha : Value is -0.5389148592948914 at [256, 256, 0, 0] ( Pass : should be -0.52 , Epsilon: 0.05)
+2025-09-16 18:37:31	SEVERE	tclean::::casa+	[check_tabcache] Fail: Found open tables after run 

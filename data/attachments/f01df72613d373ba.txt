@@ -1,0 +1,39 @@
+2025-09-16 15:35:04	WARN	MS2ASDM::writePolarization()	Duplicate row in MS Polarization table :1
+2025-09-16 15:35:04	WARN	MS2ASDM::writePolarization()	Duplicate row in MS Polarization table :2
+2025-09-16 15:35:04	WARN	MS2ASDM::writePolarization()	Duplicate row in MS Polarization table :3
+2025-09-16 15:35:04	WARN	MS2ASDM::writePolarization()	Duplicate row in MS Polarization table :4
+2025-09-16 15:35:04	WARN	MS2ASDM::writePolarization()	Duplicate row in MS Polarization table :5
+2025-09-16 15:35:04	WARN	MS2ASDM::writePolarization()	Duplicate row in MS Polarization table :6
+2025-09-16 15:35:04	WARN	MS2ASDM::writePolarization()	Duplicate row in MS Polarization table :7
+2025-09-16 15:35:04	WARN	MS2ASDM::writePolarization()	Duplicate row in MS Polarization table :8
+2025-09-16 15:35:04	WARN	MS2ASDM::writePolarization()	Duplicate row in MS Polarization table :9
+2025-09-16 15:35:04	WARN	MS2ASDM::writePolarization()	Duplicate row in MS Polarization table :10
+2025-09-16 15:35:04	WARN	MS2ASDM::writePolarization()	Duplicate row in MS Polarization table :11
+2025-09-16 15:35:04	WARN	MS2ASDM::writePolarization()	Duplicate row in MS Polarization table :12
+2025-09-16 15:35:04	WARN	MS2ASDM::writePolarization()	Duplicate row in MS Polarization table :13
+2025-09-16 15:35:04	WARN	MS2ASDM::writePolarization()	Duplicate row in MS Polarization table :14
+2025-09-16 15:35:04	WARN	MS2ASDM::writePolarization()	Duplicate row in MS Polarization table :15
+2025-09-16 15:35:04	WARN	MS2ASDM::writePolarization()	Duplicate row in MS Polarization table :16
+2025-09-16 15:35:04	WARN	MS2ASDM::writePolarization()	Duplicate row in MS Polarization table :17
+2025-09-16 15:35:04	WARN	MS2ASDM::writePolarization()	Duplicate row in MS Polarization table :18
+2025-09-16 15:35:04	WARN	MS2ASDM::writePolarization()	Duplicate row in MS Polarization table :19
+2025-09-16 15:35:04	WARN	MS2ASDM::writePolarization()	Duplicate row in MS Polarization table :20
+2025-09-16 15:35:04	WARN	MS2ASDM::writePolarization()	Duplicate row in MS Polarization table :21
+2025-09-16 15:35:04	WARN	MS2ASDM::writePolarization()	Duplicate row in MS Polarization table :22
+2025-09-16 15:35:04	WARN	MS2ASDM::writePolarization()	Duplicate row in MS Polarization table :23
+2025-09-16 15:35:04	WARN	MS2ASDM::writeProcessor()	MS Processor table is empty. Will try to proceed assuming a standard ALMA Correlator.
+2025-09-16 15:35:04	WARN	MS2ASDM::writeCorrelatorMode()	Unknown telescope name: SMA. Assuming ALMA_BASELINE.
+2025-09-16 15:35:04	WARN	MS2ASDM::writeFeed()	Setting receiver ID to zero (ALMA convention).
+2025-09-16 15:35:04	WARN	MS2ASDM::writeFeed()	Assuming single-feed receivers. Setting FeedNum to 1 (as for ALMA).
+2025-09-16 15:35:04	WARN	MS2ASDM::writeState()	MS State table is empty. Creating ASDM State table with one on-source entry.
+2025-09-16 15:35:04	WARN	MS2ASDM::writeSysCal()	MS SysCal table doesn't exist or is empty. Creating ASDM SysCal table with default entries.
+2025-09-16 15:35:04	WARN	MS2ASDM::writeConfigDesc()	MS Processor table is empty. Will assume processor type is CORRELATOR.
+2025-09-16 15:35:04	WARN	MS2ASDM::writeConfigDesc()	   Still, the MS Main table seems to refer to an existing processor id 0. Will try to proceed ...
+2025-09-16 15:35:04	WARN	MS2ASDM::writeSBSummaryAndExecBlockStubs()	Observation time range is zero length for obs ID 0 in MS Observation table.
+2025-09-16 15:35:04	WARN	MS2ASDM::writeSBSummaryAndExecBlockStubs()+	 Will try to proceed ...
+2025-09-16 15:35:04	WARN	MS2ASDM::writeSBSummaryAndExecBlockStubs()	There is more than one scheduling block necessary for the obsid - freqBand pair (0, 0).
+2025-09-16 15:35:04	WARN	MS2ASDM::writeSBSummaryAndExecBlockStubs()+	 This can presently not yet be handled properly.
+2025-09-16 15:35:04	WARN	MS2ASDM::writeSBSummaryAndExecBlockStubs()+	(MS Main table row 63)
+2025-09-16 15:35:04	SEVERE	MS2ASDM::writeSBSummaryAndExecBlockStubs()	Observation of different frequency bands at the same time and under the same observation ID is not supported by the ASDM.
+2025-09-16 15:35:04	SEVERE	MS2ASDM::writeSBSummaryAndExecBlockStubs()+	  Please split out the different spectral bands into individual MSs and process separately.
+2025-09-16 15:35:04	SEVERE	exportasdm::::casa	Task exportasdm raised an exception of class RuntimeError with the following message: The sdm tool method fromms failed

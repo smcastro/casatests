@@ -1,0 +1,14 @@
+2025-09-16 14:58:04	INFO	test
+::MSFitsInput::MSFitsInput	Converting FITS file '/casadata/repository/casatestdata/unittest/mstool/name10rows+000' to MeasurementSet 'CAS-7696.ms'
+2025-09-16 14:58:04	INFO	test
+::MSFitsInput::setupMeasurementSet	Using tile shape [4, 64, 512] for EVLA with obstype=0
+2025-09-16 14:58:04	INFO	test
+::MSFitsInput::fillMSMainTable	Reading and writing 1 visibility groups
+2025-09-16 14:58:04	INFO	test
+::MSFitsInput::readRandomGroupUVFits	extname=AIPS FQ  nrows=1 ncols=5 rowsize=204 pcount=0 gcount=1
+2025-09-16 14:58:04	INFO	test
+::MSFitsInput::readRandomGroupUVFits	extname=AIPS AN  nrows=28 ncols=13 rowsize=66 pcount=0 gcount=1
+2025-09-16 14:58:04	INFO	test
+::MSFitsInput::readRandomGroupUVFits	extname=AIPS SU  nrows=1 ncols=19 rowsize=496 pcount=0 gcount=1
+2025-09-16 14:58:04	INFO	test
+::MSFitsInput::fillExtraTables	Filling SOURCE table (this may take some time).

@@ -1,0 +1,2 @@
+line blfunc:sinusoid dirkernel:none spkernel:boxcar, chans:chanA, 0.0, 0.0, 0.0, 0.0
+cont blfunc:sinusoid dirkernel:none spkernel:boxcar, chans:chanA, 2.0, 0.0, 1.6, 2.0

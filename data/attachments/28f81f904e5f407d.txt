@@ -1,0 +1,9 @@
+
+Create a new local copy of the MS...
+Running multiple setjy with different parameters...
+!!!!! Run with standard="Perley-Butler 2010" !!!!!
+!!!!! Run with standard="Perley-Taylor 99" !!!!!
+!!!! Run with standard="manual", fluxdensity !!!!!
+!!!! Run with standard="manual", fluxdensity and spix !!!!!
+
+Removing a local copy of MS from the previous test...

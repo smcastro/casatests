@@ -1,0 +1,18 @@
+2025-09-16 14:58:41	INFO	test
+::msmetadata_cmpt.cc::open	Performing internal consistency checks on /casadata/repository/casatestdata/unittest/msmetadata/MSMetaData.ms...
+2025-09-16 14:58:41	SEVERE	test
+::msmetadata_cmpt.cc::namesforspws	Exception Reported: Exception: Spectral window ID must be nonnegative..
+2025-09-16 14:58:41	SEVERE	test
+::msmetadata_cmpt.cc::namesforspws+	... thrown by std::vector<std::__cxx11::basic_string<char> > casac::msmetadata::namesforspws(const casac::variant&) at File: src/tools/msmetadata/msmetadata_cmpt.cc, line: 1171
+2025-09-16 14:58:41	SEVERE	test
+::msmetadata_cmpt.cc::namesforspws	Exception Reported: Exception: All spectral window IDs must be nonnegative..
+2025-09-16 14:58:41	SEVERE	test
+::msmetadata_cmpt.cc::namesforspws+	... thrown by std::vector<std::__cxx11::basic_string<char> > casac::msmetadata::namesforspws(const casac::variant&) at File: src/tools/msmetadata/msmetadata_cmpt.cc, line: 1181
+2025-09-16 14:58:41	SEVERE	test
+::msmetadata_cmpt.cc::namesforspws	Exception Reported: Exception: Spectral window ID must be less than total number of spws.
+2025-09-16 14:58:41	SEVERE	test
+::msmetadata_cmpt.cc::namesforspws+	... thrown by std::vector<std::__cxx11::basic_string<char> > casac::msmetadata::namesforspws(const casac::variant&) at File: src/tools/msmetadata/msmetadata_cmpt.cc, line: 1172
+2025-09-16 14:58:41	SEVERE	test
+::msmetadata_cmpt.cc::namesforspws	Exception Reported: Exception: All spectral window IDs must be less than the total number of spws.
+2025-09-16 14:58:41	SEVERE	test
+::msmetadata_cmpt.cc::namesforspws+	... thrown by std::vector<std::__cxx11::basic_string<char> > casac::msmetadata::namesforspws(const casac::variant&) at File: src/tools/msmetadata/msmetadata_cmpt.cc, line: 1185

@@ -1,0 +1,4 @@
+2025-09-16 18:49:01	SEVERE	visstat::ms::statistics	Exception Reported: MSSelectionNullSelection : The selected table has zero rows.
+2025-09-16 18:49:01	SEVERE	visstat::::casa	Task visstat raised an exception of class RuntimeError with the following message: MSSelectionNullSelection : The selected table has zero rows.
+2025-09-16 18:49:01	SEVERE	visstat::ms::statistics	Exception Reported: MSSelectionNullSelection : The selected table has zero rows.
+2025-09-16 18:49:01	SEVERE	visstat::::casa	Task visstat raised an exception of class RuntimeError with the following message: MSSelectionNullSelection : The selected table has zero rows.

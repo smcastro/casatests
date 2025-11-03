@@ -1,0 +1,102 @@
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	Voltage patterns internally defined in CASA (* = global default for this telescope):
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps+	  Telescope: Class
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * ATCA_L1: INVERSE POLYNOMIAL
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * ATCA_L2: POLYNOMIAL
+2025-09-16 15:03:03	WARN	test
+::PBMath::pbMathInterfaceForCommonPB	ATCA_L3 not yet implemented defaulting to L2 version
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * ATCA_L3: POLYNOMIAL
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * ATCA_S: INVERSE POLYNOMIAL
+2025-09-16 15:03:03	INFO	test
+::PBMath1DIPoly::fillPBArray	Using wideband interpolated beam pattern
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * ATCA_C: INVERSE POLYNOMIAL
+2025-09-16 15:03:03	INFO	test
+::PBMath1DIPoly::fillPBArray	Using wideband interpolated beam pattern
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * ATCA_X: INVERSE POLYNOMIAL
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * GBT: POLYNOMIAL
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * GMRT: NUMERIC
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * HATCREEK: GAUSSIAN
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * NRAO12M: NUMERIC
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * UNKNOWN: NUMERIC
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * OVRO: NUMERIC
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * VLA: POLYNOMIAL
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * VLA_INVERSE: INVERSE POLYNOMIAL
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * VLA_NVSS: AIRY
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * VLA_2NULL: AIRY
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * VLA_4: AIRY
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * VLA_P: AIRY
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * VLA_L: AIRY
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * VLA_C: AIRY
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * VLA_X: AIRY
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * VLA_U: AIRY
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * VLA_K: AIRY
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * VLA_Q: AIRY
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * WSRT: COSINE POLYNOMIAL
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * WSRT_LOW: COSINE POLYNOMIAL
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * ALMA: AIRY
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * ALMASD: AIRY
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * ACA: AIRY
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * IRAMPDB: AIRY
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * IRAM30M: AIRY
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * SMA: NUMERIC
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * ATA: AIRY
+2025-09-16 15:03:03	INFO	test
+::PBMath::pbMathInterfaceForCommonPB	PBMath using 2011/10/22 5.5GHz PB
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * ATCA_C_RI: NUMERIC
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * ATCA: INVERSE POLYNOMIAL
+2025-09-16 15:03:03	INFO	test
+::PBMath1DIPoly::fillPBArray	Using wideband interpolated beam pattern
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * ATCA_16: INVERSE POLYNOMIAL
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * ATCA_K: INVERSE POLYNOMIAL
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * ATCA_Q: INVERSE POLYNOMIAL
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * ATCA_W: INVERSE POLYNOMIAL
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * EVLA: POLYNOMIAL
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	 * NGVLA: AIRY
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps	
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps+	Externally defined voltage patterns (* = global default for this telescope):
+2025-09-16 15:03:03	INFO	test
+::vpmanager::summarizevps		None

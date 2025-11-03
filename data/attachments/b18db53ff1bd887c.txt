@@ -1,0 +1,12 @@
+2025-09-16 18:47:44	SEVERE	getcell::WEIGHT_SPECTRUM	Exception Reported: Table DataManager error: Invalid operation: TSM: no array in row 0 of column WEIGHT_SPECTRUM in /scratch/scastro/casa/Tests/reports/PM04_A108.ms/table.f18
+2025-09-16 18:47:44	WARN	tsdimaging::::casa	Column WEIGHT_SPECTRUM in table PM04_A108.ms has no data. Accessing it will cause errors.
+2025-09-16 18:47:44	SEVERE	getcell::WEIGHT_SPECTRUM	Exception Reported: Table DataManager error: Invalid operation: TSM: no array in row 0 of column WEIGHT_SPECTRUM in /scratch/scastro/casa/Tests/reports/PM04_T704.ms/table.f18
+2025-09-16 18:47:44	WARN	tsdimaging::::casa	Column WEIGHT_SPECTRUM in table PM04_T704.ms has no data. Accessing it will cause errors.
+2025-09-16 18:47:44	SEVERE	getcell::WEIGHT_SPECTRUM	Exception Reported: Table DataManager error: Invalid operation: TSM: no array in row 0 of column WEIGHT_SPECTRUM in /scratch/scastro/casa/Tests/reports/PM04_A108.ms/table.f18
+2025-09-16 18:47:44	WARN	tsdimaging::::casa	Column WEIGHT_SPECTRUM in table PM04_A108.ms has no data. Accessing it will cause errors.
+2025-09-16 18:47:44	SEVERE	getcell::WEIGHT_SPECTRUM	Exception Reported: Table DataManager error: Invalid operation: TSM: no array in row 0 of column WEIGHT_SPECTRUM in /scratch/scastro/casa/Tests/reports/PM04_T704.ms/table.f18
+2025-09-16 18:47:44	WARN	tsdimaging::::casa	Column WEIGHT_SPECTRUM in table PM04_T704.ms has no data. Accessing it will cause errors.
+2025-09-16 18:47:44	WARN	tsdimaging::SynthesisParamsImage::buildCoordinateSystem (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisUtilMethods.cc, line 2565)	imsize with 11 pixels is not an efficient imagesize. Try 12 instead.
+2025-09-16 18:47:44	WARN	SplineInterpolation::init() (file /source/casa6/casatools/src/code/synthesis/Utilities/PointingDirectionCalculator.cc, line 1185)	INSUFFICIENT NUMBER OF POINTING DATA, must be ge. 4 Alternatively, Linear Interpolation will be used. 
+2025-09-16 18:47:44	WARN	tsdimaging::set_beam_size::casa	Invalid sampling=0.0 arcsec. Using the value of orthogonal direction=0.0 arcsec
+2025-09-16 18:47:44	WARN	tsdimaging::set_beam_size::casa	Could not detect valid raster sampling. Exiting without setting beam size to image

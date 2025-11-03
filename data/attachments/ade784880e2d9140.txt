@@ -1,0 +1,7 @@
+2025-09-16 14:57:14	INFO	ImageFactory::createImage	Created Paged image 'internally_excluded_region.im' of shape [100, 200, 110, 4] with float valued pixels.
+2025-09-16 14:57:15	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:15	INFO	CasacRegionManager::fromBCS	Using channel range(s) 
+2025-09-16 14:57:15	INFO	CasacRegionManager::fromBCS	Using polarizations IV
+2025-09-16 14:57:15	WARN		Stokes cannot be determined because this region type is not handled yet. But chances are very good this is no need to be alarmed.
+2025-09-16 14:57:15	INFO	name::	No table opened.
+2025-09-16 14:57:15	INFO	showcache::	The Table Cache is empty.

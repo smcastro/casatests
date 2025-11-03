@@ -1,0 +1,44 @@
+test_testconcat : Success! Now checking output ...
+test_testconcat :  table.f8 present.
+test_testconcat :  FIELD/table.dat present.
+test_testconcat :  table.f7 present.
+test_testconcat :  POINTING/table.f0 present.
+test_testconcat :  POLARIZATION/table.f0 present.
+test_testconcat :  SPECTRAL_WINDOW/table.f0 present.
+test_testconcat :  STATE/table.f0 present.
+test_testconcat :  table.f4 present.
+test_testconcat :  POINTING/table.dat present.
+test_testconcat :  FLAG_CMD/table.dat present.
+test_testconcat :  POLARIZATION/table.dat present.
+test_testconcat :  table.f6 present.
+test_testconcat :  table.f1 present.
+test_testconcat :  FLAG_CMD/table.f0 present.
+test_testconcat :  ANTENNA/table.f0 present.
+test_testconcat :  HISTORY/table.dat present.
+test_testconcat :  ANTENNA/table.dat present.
+test_testconcat :  FIELD/table.f0 present.
+test_testconcat :  OBSERVATION/table.dat present.
+test_testconcat :  OBSERVATION/table.f0 present.
+test_testconcat :  SOURCE/table.f0 present.
+test_testconcat :  table.f5 present.
+test_testconcat :  table.dat present.
+test_testconcat :  SPECTRAL_WINDOW/table.dat present.
+test_testconcat :  STATE/table.dat present.
+test_testconcat :  PROCESSOR/table.dat present.
+test_testconcat :  table.f0 present.
+test_testconcat :  FEED/table.f0 present.
+test_testconcat :  HISTORY/table.f0 present.
+test_testconcat :  table.f3 present.
+test_testconcat :  SOURCE/table.dat present.
+test_testconcat :  table.f2 present.
+test_testconcat :  DATA_DESCRIPTION/table.dat present.
+test_testconcat :  PROCESSOR/table.f0 present.
+test_testconcat :  DATA_DESCRIPTION/table.f0 present.
+test_testconcat :  FEED/table.dat present.
+test_testconcat : MS exists. All tables present.
+test_testconcat : OK. Checking tables in detail ...
+test_testconcat : comparing  ['SOURCE_ID', 28, 13, 0]
+test_testconcat : comparing  ['SPECTRAL_WINDOW_ID', 28, 1, 0]
+test_testconcat : table  SOURCE  as expected.
+test_testconcat : comparing  ['NUM_CHAN', 1, 128, 0]
+test_testconcat : table  SPECTRAL_WINDOW  as expected.

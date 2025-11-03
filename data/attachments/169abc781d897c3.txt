@@ -1,0 +1,2 @@
+
+Comparing 3 pointings in 'simobserve_comp/simobserve_comp.aca.i.ptg.txt' with 'hex.aca.i.ptg.txt'

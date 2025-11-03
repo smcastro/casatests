@@ -1,0 +1,24 @@
+2025-09-16 15:35:10	WARN	MS2ASDM::writeProcessor()	MS Processor table is empty. Will try to proceed assuming a standard ALMA Correlator.
+2025-09-16 15:35:10	WARN	MS2ASDM::writeFeed()	MS Feed table contains reference to a Beam table row 0 but a Beam table is not implemented in CASA. Ignoring.
+2025-09-16 15:35:10	WARN	MS2ASDM::writeFeed()	MS Feed table contains reference to a Beam table row 0 but a Beam table is not implemented in CASA. Ignoring.
+2025-09-16 15:35:10	WARN	MS2ASDM::writeFeed()	MS Feed table contains reference to a Beam table row 0 but a Beam table is not implemented in CASA. Ignoring.
+2025-09-16 15:35:10	WARN	MS2ASDM::writeFeed()	MS Feed table contains reference to a Beam table row 0 but a Beam table is not implemented in CASA. Ignoring.
+2025-09-16 15:35:10	WARN	MS2ASDM::writeFeed()	MS Feed table contains reference to a Beam table row 0 but a Beam table is not implemented in CASA. Ignoring.
+2025-09-16 15:35:10	WARN	MS2ASDM::writeFeed()	MS Feed table contains reference to a Beam table row 0 but a Beam table is not implemented in CASA. Ignoring.
+2025-09-16 15:35:10	WARN	MS2ASDM::writeFeed()	MS Feed table contains reference to a Beam table row 0 but a Beam table is not implemented in CASA. Ignoring.
+2025-09-16 15:35:10	WARN	MS2ASDM::writeFeed()	MS Feed table contains reference to a Beam table row 0 but a Beam table is not implemented in CASA. Ignoring.
+2025-09-16 15:35:10	WARN	MS2ASDM::writeFeed()	MS Feed table contains reference to a Beam table row 0 but a Beam table is not implemented in CASA. Ignoring.
+2025-09-16 15:35:10	WARN	MS2ASDM::writeFeed()	MS Feed table contains reference to a Beam table row 0 but a Beam table is not implemented in CASA. Ignoring.
+2025-09-16 15:35:10	WARN	MS2ASDM::writeFeed()	MS Feed table contains reference to a Beam table row 0 but a Beam table is not implemented in CASA. Ignoring.
+2025-09-16 15:35:10	WARN	MS2ASDM::writeFeed()	MS Feed table contains reference to a Beam table row 0 but a Beam table is not implemented in CASA. Ignoring.
+2025-09-16 15:35:10	WARN	MS2ASDM::writeFeed()	MS Feed table contains reference to a Beam table row 0 but a Beam table is not implemented in CASA. Ignoring.
+2025-09-16 15:35:10	WARN	MS2ASDM::writeFeed()	MS Feed table contains reference to a Beam table row 0 but a Beam table is not implemented in CASA. Ignoring.
+2025-09-16 15:35:10	WARN	MS2ASDM::writeFeed()	MS Feed table contains reference to a Beam table row 0 but a Beam table is not implemented in CASA. Ignoring.
+2025-09-16 15:35:10	WARN	MS2ASDM::writeFeed()	MS Feed table contains reference to a Beam table row 0 but a Beam table is not implemented in CASA. Ignoring.
+2025-09-16 15:35:10	WARN	MS2ASDM::writeState()	MS State table is empty. Creating ASDM State table with one on-source entry.
+2025-09-16 15:35:10	WARN	MS2ASDM::writeSysCal()	MS SysCal table doesn't exist or is empty. Creating ASDM SysCal table with default entries.
+2025-09-16 15:35:10	WARN	MS2ASDM::writeConfigDesc()	MS Processor table is empty. Will assume processor type is CORRELATOR.
+2025-09-16 15:35:10	WARN	MS2ASDM::writeConfigDesc()	   Still, the MS Main table seems to refer to an existing processor id 0. Will try to proceed ...
+2025-09-16 15:35:10	WARN	MS2ASDM::writePointing()	No ENCODER column in MS Pointing table. Will use DIRECTION instead.
+xmllint: using libxml version 20907
+   compiled with: Threads Tree Output Push Reader Patterns Writer SAXv1 FTP HTTP DTDValid HTML Legacy C14N Catalog XPath XPointer XInclude Iconv ISO8859X Unicode Regexps Automata Expr Schemas Schematron Modules Debug Zlib Lzma 

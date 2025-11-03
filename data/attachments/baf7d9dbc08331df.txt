@@ -1,0 +1,2 @@
+2025-09-16 16:26:58	SEVERE	imval::regionmanager::frombcs	Exception Reported: LCBox::LCBox - blc [0, 110, 0, 0] must be <= trc [0, 10, 0, 29]
+2025-09-16 16:26:58	SEVERE	imval::::casa	Task imval raised an exception of class RuntimeError with the following message: LCBox::LCBox - blc [0, 110, 0, 0] must be <= trc [0, 10, 0, 29]

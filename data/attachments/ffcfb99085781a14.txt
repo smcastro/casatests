@@ -1,0 +1,14 @@
+2025-09-16 14:56:56	INFO	StatImageCreator::_computeStat	Using rectangular region of specified dimensions 10.001 pix x 10.001 pix (because of centering and rounding to use whole pixels, actual dimensions of bounding box are 11 pix x 11 pix) to choose pixels for computing STDDEV using the classical algorithm around each of 64 grid points in 2 planes.
+2025-09-16 14:56:56	INFO	StatImageCreator::_doInterpolation	Interpolate using LINEAR algorithm.
+2025-09-16 14:56:56	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:56	INFO	ImageRegion::fromRecord+	    [5, 5, 0] to [85, 85, 1]  (00:03:00.021, -00.45.00.077, I to 23:57:39.990, +00.35.00.036, Q)
+2025-09-16 14:56:56	INFO	StatImageCreator::_computeStat	Using rectangular region of specified dimensions 10.001 pix x 10.001 pix (because of centering and rounding to use whole pixels, actual dimensions of bounding box are 11 pix x 11 pix) to choose pixels for computing STDDEV using the classical algorithm around each of 36 grid points in 2 planes.
+2025-09-16 14:56:56	INFO	StatImageCreator::_doInterpolation	Interpolate using LINEAR algorithm.
+2025-09-16 14:56:56	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:56	INFO	ImageRegion::fromRecord+	    [27, 27, 0] to [66, 66, 0]  (00:01:32.003, -00.23.00.010, I to 23:58:55.999, +00.16.00.003, I)
+2025-09-16 14:56:56	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:56	INFO	ImageRegion::fromRecord+	    [22, 22, 0] to [61, 61, 0]  (00:01:32.003, -00.23.00.010, I to 23:58:55.999, +00.16.00.003, I)
+2025-09-16 14:56:56	INFO	name::	No table opened.
+2025-09-16 14:56:56	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:56:56	INFO	name::	No table opened.
+2025-09-16 14:56:56	INFO	name::	No table opened.

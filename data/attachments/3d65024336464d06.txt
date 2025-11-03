@@ -1,0 +1,12 @@
+2025-09-16 14:58:41	INFO	test
+::msmetadata_cmpt.cc::open	Performing internal consistency checks on /casadata/repository/casatestdata/unittest/msmetadata/MSMetaData.ms...
+2025-09-16 14:58:41	INFO	test
+::MSMetaData::_computeScanAndSubScanProperties 	Computing scan and subscan properties...
+2025-09-16 14:58:41	SEVERE	test
+::msmetadata_cmpt.cc::antennasforscan	Exception Reported: Exception: No matching scans found.
+2025-09-16 14:58:41	SEVERE	test
+::msmetadata_cmpt.cc::antennasforscan+	... thrown by std::set<casacore::ScanKey> casac::msmetadata::_getScanKeys(long int, long int, long int) const at File: src/tools/msmetadata/msmetadata_cmpt.cc, line: 2485
+2025-09-16 14:58:41	SEVERE	test
+::msmetadata_cmpt.cc::antennasforscan	Exception Reported: Exception: No matching scans found.
+2025-09-16 14:58:41	SEVERE	test
+::msmetadata_cmpt.cc::antennasforscan+	... thrown by std::set<casacore::ScanKey> casac::msmetadata::_getScanKeys(long int, long int, long int) const at File: src/tools/msmetadata/msmetadata_cmpt.cc, line: 2485

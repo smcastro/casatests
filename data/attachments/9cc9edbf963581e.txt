@@ -1,0 +1,16 @@
+### gridmeta [[[], [], []], [[], [], [('clipping_3rows_suprious.ms', 0), ('clipping_3rows_suprious.ms', 1), ('clipping_3rows_suprious.ms', 2)]], [[], [], []]]
+### ira 1 idec 2 data [[ 1.e+10]
+ [ 1.e+01]
+ [-1.e+10]]
+### ira 1 idec 2 argmin 2 argmax 0
+### clip clipping_3rows_suprious.ms row 2 chan 0 data [[-1.e+10]]
+### flag (before) [[False]]
+### flag (after) [[ True]]
+### clip clipping_3rows_suprious.ms row 0 chan 0 data [[1.e+10]]
+### flag (before) [[False]]
+### flag (after) [[ True]]
+### result [ 0.  0.  0.  0.  0. 10.  0.  0.  0.]
+### mask [False False False False False  True False False False]
+### reference [ 0.  0.  0.  0.  0. 10.  0.  0.  0.]
+### mask [False False False False False  True False False False]
+err = [0.] (max 0.0 min 0.0)

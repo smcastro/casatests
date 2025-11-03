@@ -1,0 +1,11 @@
+2025-09-16 14:56:49	INFO	ImageFactory::createImage	Created Temp image  of shape [20, 20, 20] with float valued pixels.
+2025-09-16 14:56:49	INFO	CasacRegionManager::fromBCS	Using specified box(es) 0, 0, 9, 9
+2025-09-16 14:56:49	INFO	CasacRegionManager::fromBCS	Using specified box(es) 10, 10, 19, 19
+2025-09-16 14:56:49	INFO	ImageDecimator::decimate	Original Temporary_Image size => [20, 20, 20]
+2025-09-16 14:56:49	INFO	ImageDecimator::decimate	New mregions.im size => [20, 20, 10]
+2025-09-16 14:56:49	INFO	SubImageFactory::createImage	Creating image 'mregions.im' of shape [20, 20, 10]
+2025-09-16 14:56:49	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:49	INFO	name::	No table opened.
+2025-09-16 14:56:49	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:56:49	INFO	name::	No table opened.
+2025-09-16 14:56:49	INFO	name::	No table opened.

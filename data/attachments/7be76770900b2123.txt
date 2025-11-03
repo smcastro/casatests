@@ -1,0 +1,15 @@
+2025-09-16 14:56:26	INFO	calibrater::open	****Using NEW VI2-driven calibrater tool****
+2025-09-16 14:56:26	INFO	calibrater::open	Opening MS: gaincaltest2.ms for calibration.
+2025-09-16 14:56:26	INFO		Clearing all model records in MS header.
+2025-09-16 14:56:26	INFO	VisSetUtil::addScrCols	Adding MODEL_DATA and CORRECTED_DATA column(s).
+2025-09-16 14:56:27	INFO	VisSetUtil::initScrCols	Initializing MODEL_DATA to (unity).
+2025-09-16 14:56:27	INFO	VisSetUtil::initScrCols	Initialized 328860 rows.
+2025-09-16 14:56:27	INFO	Calibrater::	Initializing nominal selection to the whole MS.
+2025-09-16 14:56:27	INFO	calibrater::specifycal	Beginning specifycal-----------------------
+2025-09-16 14:56:27	INFO		Creating G Jones table from specified parameters.
+2025-09-16 14:56:27	INFO		Generating 'G' corrections.
+2025-09-16 14:56:27	INFO		Specified parameter(s) (per spw and pol) repeated on all antennas.
+2025-09-16 14:56:27	INFO		Specified parameter(s) (per spw and antenna) repeated on all polarizations.
+2025-09-16 14:56:27	INFO		spwId=1 antId=<all> polId=<all> parameter= 3   (ip0,ip1 = [0, 0, 0],[1, 0, 9])
+2025-09-16 14:56:27	INFO		Writing solutions to table: testcalout.cal
+2025-09-16 14:56:27	WARN	calibrater::setvi(bool,bool)	Already using NEW VisibilityIterator.

@@ -1,0 +1,28 @@
+2025-09-16 14:56:55	SEVERE	image::open (file src/tools/image/image_cmpt.cc, line 4208)	Exception Reported: Exception: File mybogus.im does not exist..
+2025-09-16 14:56:55	SEVERE	image::open (file src/tools/image/image_cmpt.cc, line 4208)+	... thrown by static void casa::ImageFactory::_checkInfile(const casacore::String&) at File: /source/casa6/casatools/src/code/imageanalysis/ImageAnalysis/ImageFactory2.cc, line: 375
+2025-09-16 14:56:55	INFO	FITSCoordinateUtil::fromFITSHeader	Neither SPECSYS nor VELREF keyword given, spectral reference frame not defined ...
+2025-09-16 14:56:55	SEVERE	image::collapse (file src/tools/image/image_cmpt.cc, line 712)	Exception Reported: Exception: Aggregate function name is not specified and it must be..
+2025-09-16 14:56:55	SEVERE	image::collapse (file src/tools/image/image_cmpt.cc, line 712)+	... thrown by static casa::ImageCollapserData::AggregateType casa::ImageCollapserData::aggregateType(const casacore::String&) at File: /source/casa6/casatools/src/code/imageanalysis/ImageAnalysis/ImageCollapserData.cc, line: 65
+2025-09-16 14:56:55	INFO	FITSCoordinateUtil::fromFITSHeader	Neither SPECSYS nor VELREF keyword given, spectral reference frame not defined ...
+2025-09-16 14:56:55	SEVERE	image::collapse (file src/tools/image/image_cmpt.cc, line 712)	Exception Reported: Unknown aggregate function specified by bogus function at File: /source/casa6/casatools/src/code/imageanalysis/ImageAnalysis/ImageCollapserData.cc, line: 84
+2025-09-16 14:56:55	INFO	FITSCoordinateUtil::fromFITSHeader	Neither SPECSYS nor VELREF keyword given, spectral reference frame not defined ...
+2025-09-16 14:56:55	WARN		/scratch/scastro/casa/Tests/reports/collapse_in.fits is not a valid or readable table
+2025-09-16 14:56:55	SEVERE		Cannot read image /scratch/scastro/casa/Tests/reports/collapse_in.fits to get region bogus_region
+2025-09-16 14:56:55	SEVERE	image::collapse (file src/tools/image/image_cmpt.cc, line 712)	Exception Reported: Unable to open region file or region table description bogus_region in image /scratch/scastro/casa/Tests/reports/collapse_in.fits at File: /source/casa6/casatools/src/code/imageanalysis/Regions/CasacRegionManager.cc, line: 486
+2025-09-16 14:56:55	INFO	FITSCoordinateUtil::fromFITSHeader	Neither SPECSYS nor VELREF keyword given, spectral reference frame not defined ...
+2025-09-16 14:56:55	SEVERE	image::collapse (file src/tools/image/image_cmpt.cc, line 712)	Exception Reported: Exception: box not specified correctly.
+2025-09-16 14:56:55	SEVERE	image::collapse (file src/tools/image/image_cmpt.cc, line 712)+	... thrown by casacore::Record casa::CasacRegionManager::fromBCS(casacore::String&, casacore::uInt&, casacore::String&, const casacore::Record* const&, const casacore::String&, const casacore::String&, casa::CasacRegionManager::StokesControl, const casacore::String&, const casacore::IPosition&, const casacore::String&, casacore::Bool) at File: /source/casa6/casatools/src/code/imageanalysis/Regions/CasacRegionManager.cc, line: 232
+2025-09-16 14:56:55	INFO	FITSCoordinateUtil::fromFITSHeader	Neither SPECSYS nor VELREF keyword given, spectral reference frame not defined ...
+2025-09-16 14:56:55	INFO	CasacRegionManager::_fromBCS	dAxisNum0=0 dAxisNum1=1x=1000 imShape[0]=3 y=1000 imShape[1]=3
+2025-09-16 14:56:55	SEVERE	CasacRegionManager::_fromBCS	trc in box spec is greater than or equal to number of direction coordinate pixels in the image
+2025-09-16 14:56:55	SEVERE	image::collapse (file src/tools/image/image_cmpt.cc, line 712)	Exception Reported: 2025-09-16 14:56:55	SEVERE	CasacRegionManager::_fromBCS	trc in box spec is greater than or equal to number of direction coordinate pixels in the image
+2025-09-16 14:56:55	INFO	FITSCoordinateUtil::fromFITSHeader	Neither SPECSYS nor VELREF keyword given, spectral reference frame not defined ...
+2025-09-16 14:56:55	SEVERE	CoordinateSystem::getWorldAxesOrder (file /source/casa6/casatools/casacore/coordinates/Coordinates/CoordinateSystem.cc, line 4665)	Multiple axes [right ascension,declination,frequency,stokes] match requested axis 
+2025-09-16 14:56:55	SEVERE	image::collapse (file src/tools/image/image_cmpt.cc, line 712)	Exception Reported: 2025-09-16 14:56:55	SEVERE	CoordinateSystem::getWorldAxesOrder (file /source/casa6/casatools/casacore/coordinates/Coordinates/CoordinateSystem.cc, line 4665)	Multiple axes [right ascension,declination,frequency,stokes] match requested axis 
+2025-09-16 14:56:55	INFO	FITSCoordinateUtil::fromFITSHeader	Neither SPECSYS nor VELREF keyword given, spectral reference frame not defined ...
+2025-09-16 14:56:55	SEVERE	image::collapse (file src/tools/image/image_cmpt.cc, line 712)	Exception Reported: Exception: Specified zero-based axis (10) must be less than the number of axes in /scratch/scastro/casa/Tests/reports/collapse_in.fits(4).
+2025-09-16 14:56:55	SEVERE	image::collapse (file src/tools/image/image_cmpt.cc, line 712)+	... thrown by void casa::ImageCollapser<T>::_finishConstruction() [with T = float] at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/ImageCollapser.tcc, line: 559
+2025-09-16 14:56:55	INFO	name::	No table opened.
+2025-09-16 14:56:55	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:56:55	INFO	name::	No table opened.
+2025-09-16 14:56:55	INFO	name::	No table opened.

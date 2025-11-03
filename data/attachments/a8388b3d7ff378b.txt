@@ -1,0 +1,2 @@
+ :  doppler, start={'m0': {'unit': 'm/s', 'value': 11994336.49363042}, 'refer': 'RADIO', 'type': 'doppler'}, default width, LSRK
+[check_spec_frame] tstCubetest_stdopdefwd.image: Spec frame is LSRK with crval 1199989152.1620603 (Pass : should be LSRK with expected crval 1199989152.0 )

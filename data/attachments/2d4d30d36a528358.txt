@@ -1,0 +1,42 @@
+importfitsidi-unit-test : Success! Now checking output ...
+importfitsidi-unit-test :  table.f8 present.
+importfitsidi-unit-test :  FIELD/table.dat present.
+importfitsidi-unit-test :  table.f7 present.
+importfitsidi-unit-test :  POINTING/table.f0 present.
+importfitsidi-unit-test :  POLARIZATION/table.f0 present.
+importfitsidi-unit-test :  SPECTRAL_WINDOW/table.f0 present.
+importfitsidi-unit-test :  STATE/table.f0 present.
+importfitsidi-unit-test :  table.f4 present.
+importfitsidi-unit-test :  POINTING/table.dat present.
+importfitsidi-unit-test :  FLAG_CMD/table.dat present.
+importfitsidi-unit-test :  POLARIZATION/table.dat present.
+importfitsidi-unit-test :  table.f6 present.
+importfitsidi-unit-test :  table.f1 present.
+importfitsidi-unit-test :  FLAG_CMD/table.f0 present.
+importfitsidi-unit-test :  ANTENNA/table.f0 present.
+importfitsidi-unit-test :  HISTORY/table.dat present.
+importfitsidi-unit-test :  ANTENNA/table.dat present.
+importfitsidi-unit-test :  FIELD/table.f0 present.
+importfitsidi-unit-test :  OBSERVATION/table.dat present.
+importfitsidi-unit-test :  OBSERVATION/table.f0 present.
+importfitsidi-unit-test :  table.f5 present.
+importfitsidi-unit-test :  table.dat present.
+importfitsidi-unit-test :  EARTH_ORIENTATION/table.f0 present.
+importfitsidi-unit-test :  SPECTRAL_WINDOW/table.dat present.
+importfitsidi-unit-test :  STATE/table.dat present.
+importfitsidi-unit-test :  PROCESSOR/table.dat present.
+importfitsidi-unit-test :  FEED/table.f0 present.
+importfitsidi-unit-test :  HISTORY/table.f0 present.
+importfitsidi-unit-test :  table.f3 present.
+importfitsidi-unit-test :  table.f2 present.
+importfitsidi-unit-test :  DATA_DESCRIPTION/table.dat present.
+importfitsidi-unit-test :  PROCESSOR/table.f0 present.
+importfitsidi-unit-test :  DATA_DESCRIPTION/table.f0 present.
+importfitsidi-unit-test :  FEED/table.dat present.
+importfitsidi-unit-test : MS exists. All tables present. Try opening as MS ...
+importfitsidi-unit-test : OK. Checking tables in detail ...
+importfitsidi-unit-test : comparing  ['TIME', 4, 5108572800, 0]
+importfitsidi-unit-test : comparing  ['OBSERVATION_ID', 4, 0, 0]
+importfitsidi-unit-test : comparing  ['UT1_UTC', 4, -0.172797, 1e-08]
+importfitsidi-unit-test : comparing  ['PM', 4, [9.20370292e-07, 1.55251885e-06], 1e-14]
+importfitsidi-unit-test : table  EARTH_ORIENTATION  as expected.

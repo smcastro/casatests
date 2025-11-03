@@ -1,0 +1,40 @@
+importfitsidi-unit-test : Success! Now checking output ...
+importfitsidi-unit-test :  table.f8 present.
+importfitsidi-unit-test :  FIELD/table.dat present.
+importfitsidi-unit-test :  table.f7 present.
+importfitsidi-unit-test :  POINTING/table.f0 present.
+importfitsidi-unit-test :  POLARIZATION/table.f0 present.
+importfitsidi-unit-test :  SPECTRAL_WINDOW/table.f0 present.
+importfitsidi-unit-test :  STATE/table.f0 present.
+importfitsidi-unit-test :  table.f4 present.
+importfitsidi-unit-test :  POINTING/table.dat present.
+importfitsidi-unit-test :  FLAG_CMD/table.dat present.
+importfitsidi-unit-test :  POLARIZATION/table.dat present.
+importfitsidi-unit-test :  table.f6 present.
+importfitsidi-unit-test :  table.f1 present.
+importfitsidi-unit-test :  FLAG_CMD/table.f0 present.
+importfitsidi-unit-test :  ANTENNA/table.f0 present.
+importfitsidi-unit-test :  HISTORY/table.dat present.
+importfitsidi-unit-test :  ANTENNA/table.dat present.
+importfitsidi-unit-test :  FIELD/table.f0 present.
+importfitsidi-unit-test :  OBSERVATION/table.dat present.
+importfitsidi-unit-test :  OBSERVATION/table.f0 present.
+importfitsidi-unit-test :  table.f5 present.
+importfitsidi-unit-test :  table.dat present.
+importfitsidi-unit-test :  SPECTRAL_WINDOW/table.dat present.
+importfitsidi-unit-test :  STATE/table.dat present.
+importfitsidi-unit-test :  PROCESSOR/table.dat present.
+importfitsidi-unit-test :  FEED/table.f0 present.
+importfitsidi-unit-test :  HISTORY/table.f0 present.
+importfitsidi-unit-test :  table.f3 present.
+importfitsidi-unit-test :  table.f2 present.
+importfitsidi-unit-test :  DATA_DESCRIPTION/table.dat present.
+importfitsidi-unit-test :  PROCESSOR/table.f0 present.
+importfitsidi-unit-test :  DATA_DESCRIPTION/table.f0 present.
+importfitsidi-unit-test :  FEED/table.dat present.
+importfitsidi-unit-test : MS exists. All tables present. Try opening as MS ...
+importfitsidi-unit-test : OK. Checking tables in detail ...
+importfitsidi-unit-test : comparing  ['UVW', 15, [828914.03079271, 439115.74358212, -3087211.83269717], 1e-08]
+importfitsidi-unit-test : comparing  ['EXPOSURE', 15, 2.0971519947052, 1e-08]
+importfitsidi-unit-test : comparing  ['DATA', 15, [[(-0.0005048021+0.0006272711j), (0.0004651772-0.0004499542j), (0.0002667628-0.0001897688j), (-0.0009842832-0.0005429656j), (-0.0001268085-0.0007897264j), (-0.0004823971-0.0002412655j), (0.0009139312+0.0002414373j), (6.49303e-05-0.001232001j), (-0.0002075107-0.0009946608j), (-0.0004472813+0.0009435851j), (0.0011783736-0.0003215929j), (0.0003143105-0.000239311j), (-0.000747297-0.0006453455j), (-0.0002369661-9.27994e-05j), (0.0007526718+0.0009522775j), (0.0006285428-0.0002970326j)]], 1e-08]
+importfitsidi-unit-test : table  MAIN  as expected.

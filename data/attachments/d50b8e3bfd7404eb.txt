@@ -1,0 +1,14 @@
+2025-09-16 18:40:37	WARN	AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]	Setting up for weights accumulation during gridding to compute sensitivity pattern.
+2025-09-16 18:40:37	WARN	AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]+	Consequently, the first gridding cycle will be slower than the subsequent ones.
+2025-09-16 18:40:38	WARN	AWProjectFT::finalizeToSky	time to massage data 0.33
+2025-09-16 18:40:38	WARN	AWProjectFT::finalizeToSky	time gridding 0.38
+2025-09-16 18:40:39	WARN	task_tclean::AWProjectFT::finalizeToSky	time to massage data 0.27
+2025-09-16 18:40:39	WARN	task_tclean::AWProjectFT::finalizeToSky	time gridding 0.04
+2025-09-16 18:40:40	WARN	task_tclean::SIImageStore::restore (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SIImageStore.cc, line 2345)	Restoring with an empty model image. Only residuals will be processed to form the output restored image.
+2025-09-16 18:40:41	WARN	task_tclean::AWProjectFT::finalizeToSky	time to massage data 0.28
+2025-09-16 18:40:41	WARN	task_tclean::AWProjectFT::finalizeToSky	time gridding 0.1
+2025-09-16 18:40:42	WARN	task_tclean::AWProjectFT::finalizeToSky	time to massage data 0.26
+2025-09-16 18:40:42	WARN	task_tclean::AWProjectFT::finalizeToSky	time gridding 0.07
+2025-09-16 18:40:45	WARN	task_tclean::AWProjectFT::finalizeToVis	Time degrid 0.06
+2025-09-16 18:40:45	WARN	task_tclean::AWProjectFT::finalizeToSky	time to massage data 0.2
+2025-09-16 18:40:45	WARN	task_tclean::AWProjectFT::finalizeToSky	time gridding 0.06

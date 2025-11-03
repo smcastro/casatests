@@ -1,0 +1,2 @@
+2025-09-16 14:56:51	INFO		Created ComponentListImage jm.im of shape [20, 20, 20].
+2025-09-16 14:56:51	INFO	ComponentListImage::_computePointSourcePixelValues	Found 1 of 1 point sources located within the image and cached their pixel coordinates.

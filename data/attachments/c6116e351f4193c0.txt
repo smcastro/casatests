@@ -1,0 +1,17 @@
+2025-09-16 17:06:58	WARN	sdimaging::::casa	The sdimaging task is deprecated and will be removed in future releases. Please use tsdimaging instead.
+2025-09-16 17:06:58	WARN	SubMS::convertGridPars	 *** Requested new channel width is smaller than smallest original channel width
+2025-09-16 17:06:58	WARN	SubMS::convertGridPars+	     which is 2441.41 Hz
+2025-09-16 17:06:58	SEVERE	sdimaging::::casa	Traceback (most recent call last):
+2025-09-16 17:06:58	SEVERE	sdimaging::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:06:58	SEVERE	sdimaging::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdimaging.py", line 32, in sdimaging
+2025-09-16 17:06:58	SEVERE	sdimaging::::casa+	    worker.execute()
+2025-09-16 17:06:58	SEVERE	sdimaging::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdimaging.py", line 916, in execute
+2025-09-16 17:06:58	SEVERE	sdimaging::::casa+	    self._configure_map_property()
+2025-09-16 17:06:58	SEVERE	sdimaging::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdimaging.py", line 851, in _configure_map_property
+2025-09-16 17:06:58	SEVERE	sdimaging::::casa+	    (imnchan, imstart, imwidth) = imhelper.setChannelizeDefault(
+2025-09-16 17:06:58	SEVERE	sdimaging::::casa+	                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:06:58	SEVERE	sdimaging::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdimaging.py", line 326, in setChannelizeDefault
+2025-09-16 17:06:58	SEVERE	sdimaging::::casa+	    raise TypeError( "Output frequency grid cannot be calculated: " +
+2025-09-16 17:06:58	SEVERE	sdimaging::::casa+	TypeError: Output frequency grid cannot be calculated:  please check start and width parameters
+2025-09-16 17:06:58	SEVERE	sdimaging::::casa	Output frequency grid cannot be calculated:  please check start and width parameters
+2025-09-16 17:06:58	SEVERE	sdimaging::::casa	Task sdimaging raised an exception of class TypeError with the following message: Output frequency grid cannot be calculated:  please check start and width parameters

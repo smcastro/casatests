@@ -1,0 +1,31 @@
+....10....20....30....40....50....60....70....80....90....100%
+
+0%....10....20....30....40....50....60....70....80....90....100%
+
+0%....10....20....30....40....50....60....70....80....90....100%
+
+0%....10....20....30....40....50....60....70....80....90....100%
+2025-09-17 16:27:56	WARN	SDAlgorithmMSClean::takeOneStep (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SDAlgorithmMSClean.cc, line 185)	MSClean minor cycle stopped at large scale negative or diverging
+
+0%....10....20....30....40....50....60....70....80....90....100%
+2025-09-17 16:28:50	WARN	SDAlgorithmMSClean::takeOneStep (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SDAlgorithmMSClean.cc, line 185)	MSClean minor cycle stopped at large scale negative or diverging
+
+0%....10....20....30....40....50....60....70....80....90....100%
+2025-09-17 16:30:34	WARN	SDAlgorithmMSClean::takeOneStep (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SDAlgorithmMSClean.cc, line 185)	MSClean minor cycle stopped at large scale negative or diverging
+
+0%....10....20....30....40....50....60....70....80....90....100%
+2025-09-17 16:34:54	WARN	SDAlgorithmMSClean::takeOneStep (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SDAlgorithmMSClean.cc, line 185)	MSClean minor cycle stopped at large scale negative or diverging
+
+0%....10....20....30....40....50....60....70....80....90....100%
+2025-09-17 16:37:13	WARN	SDAlgorithmMSClean::takeOneStep (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SDAlgorithmMSClean.cc, line 185)	MSClean minor cycle stopped at large scale negative or diverging
+
+0%....10....20....30....40....50....60....70....80....90....100%
+
+0%....10....20....30....40....50....60....70....80....90....100%
+
+0%....10....20....30....40....50....60....70....80....90....100%
+2025-09-17 16:40:19	WARN	SDAlgorithmMSClean::takeOneStep (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SDAlgorithmMSClean.cc, line 185)	MSClean minor cycle stopped at large scale negative or diverging
+
+0%....10....20....30....40....50....60....70....80....90....100%
+
+0%....10....20....30....40....50....60....70....80....90....100%

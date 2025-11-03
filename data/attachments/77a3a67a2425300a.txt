@@ -1,0 +1,1 @@
+2025-09-16 16:25:21	SEVERE	impv::::casa	Task impv raised an exception of class UnboundLocalError with the following message: cannot access local variable 'myia' where it is not associated with a value

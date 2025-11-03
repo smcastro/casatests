@@ -1,0 +1,24 @@
+2025-09-16 17:00:15	SEVERE	sdatmcor::::casa	Spw Expression: No match found for 99, 
+2025-09-16 17:00:15	SEVERE	sdatmcor::::casa	Traceback (most recent call last):
+2025-09-16 17:00:15	SEVERE	sdatmcor::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:00:15	SEVERE	sdatmcor::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdatmcor.py", line 685, in sdatmcor
+2025-09-16 17:00:15	SEVERE	sdatmcor::::casa+	    config = get_configuration_for_atmcor(
+2025-09-16 17:00:15	SEVERE	sdatmcor::::casa+	             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:00:15	SEVERE	sdatmcor::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdatmcor.py", line 519, in get_configuration_for_atmcor
+2025-09-16 17:00:15	SEVERE	sdatmcor::::casa+	    spws_param = parse_spw(infile, spw)
+2025-09-16 17:00:15	SEVERE	sdatmcor::::casa+	                 ^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:00:15	SEVERE	sdatmcor::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdatmcor.py", line 195, in parse_spw
+2025-09-16 17:00:15	SEVERE	sdatmcor::::casa+	    spws_sel = get_selected_spws(msname, spw)
+2025-09-16 17:00:15	SEVERE	sdatmcor::::casa+	               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:00:15	SEVERE	sdatmcor::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdatmcor.py", line 173, in get_selected_spws
+2025-09-16 17:00:15	SEVERE	sdatmcor::::casa+	    sel = ms.msseltoindex(msname, spw=spwsel)
+2025-09-16 17:00:15	SEVERE	sdatmcor::::casa+	          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:00:15	SEVERE	sdatmcor::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/ms.py", line 771, in msseltoindex
+2025-09-16 17:00:15	SEVERE	sdatmcor::::casa+	    return self._swigobj.msseltoindex(vis, spw, field, baseline, time, scan, uvrange, observation, polarization, taql)
+2025-09-16 17:00:15	SEVERE	sdatmcor::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:00:15	SEVERE	sdatmcor::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/__casac__/ms.py", line 2073, in msseltoindex
+2025-09-16 17:00:15	SEVERE	sdatmcor::::casa+	    return _ms.ms_msseltoindex(self, *args, **kwargs)
+2025-09-16 17:00:15	SEVERE	sdatmcor::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:00:15	SEVERE	sdatmcor::::casa+	RuntimeError: Spw Expression: No match found for 99, 
+2025-09-16 17:00:15	SEVERE	sdatmcor::::casa	Spw Expression: No match found for 99, 
+2025-09-16 17:00:15	SEVERE	sdatmcor::::casa	Task sdatmcor raised an exception of class RuntimeError with the following message: Spw Expression: No match found for 99, 

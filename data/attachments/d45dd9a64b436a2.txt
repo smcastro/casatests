@@ -1,0 +1,7 @@
+2025-09-16 16:12:07	SEVERE	importasap::::casa	Traceback (most recent call last):
+2025-09-16 16:12:07	SEVERE	importasap::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 16:12:07	SEVERE	importasap::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_importasap.py", line 33, in importasap
+2025-09-16 16:12:07	SEVERE	importasap::::casa+	    raise RuntimeError('%s exists.' % (outputvis))
+2025-09-16 16:12:07	SEVERE	importasap::::casa+	RuntimeError: importasap_test.ms exists.
+2025-09-16 16:12:07	SEVERE	importasap::::casa	importasap_test.ms exists.
+2025-09-16 16:12:07	SEVERE	importasap::::casa	Task importasap raised an exception of class RuntimeError with the following message: importasap_test.ms exists.

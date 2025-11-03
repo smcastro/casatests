@@ -1,0 +1,1 @@
+Antenna MK not present in the Measurement Set. MK values will be ignored.

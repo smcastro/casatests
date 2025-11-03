@@ -1,0 +1,10 @@
+2025-09-16 17:08:50	WARN	sdimaging::::casa	The sdimaging task is deprecated and will be removed in future releases. Please use tsdimaging instead.
+2025-09-16 17:08:50	SEVERE	getcell::WEIGHT_SPECTRUM	Exception Reported: Table DataManager error: Invalid operation: TSM: no array in row 0 of column WEIGHT_SPECTRUM in /scratch/scastro/casa/Tests/reports/PM04_A108.ms/table.f18
+2025-09-16 17:08:50	WARN	sdimaging::::casa	Column WEIGHT_SPECTRUM in table PM04_A108.ms has no data. Accessing it will cause errors.
+2025-09-16 17:08:50	SEVERE	getcell::WEIGHT_SPECTRUM	Exception Reported: Table DataManager error: Invalid operation: TSM: no array in row 0 of column WEIGHT_SPECTRUM in /scratch/scastro/casa/Tests/reports/PM04_T704.ms/table.f18
+2025-09-16 17:08:50	WARN	sdimaging::::casa	Column WEIGHT_SPECTRUM in table PM04_T704.ms has no data. Accessing it will cause errors.
+2025-09-16 17:08:50	WARN	sdimaging::::casa	Beam size definition for 'BOX' kernel is experimental.
+2025-09-16 17:08:50	WARN	sdimaging::::casa	You may want to take careful look at the restoring beam in the image.
+2025-09-16 17:08:50	WARN	SplineInterpolation::init() (file /source/casa6/casatools/src/code/synthesis/Utilities/PointingDirectionCalculator.cc, line 1185)	INSUFFICIENT NUMBER OF POINTING DATA, must be ge. 4 Alternatively, Linear Interpolation will be used. 
+2025-09-16 17:08:50	WARN	sdimaging::::casa	Invalid sampling=0.0 arcsec. Using the value of orthogonal direction=0.0 arcsec
+2025-09-16 17:08:50	WARN	sdimaging::::casa	Could not detect valid raster sampling. Exitting without setting beam size to image

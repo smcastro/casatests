@@ -1,0 +1,1 @@
+2025-09-16 16:37:55	SEVERE	phaseshift::::casa	Task phaseshift raised an exception of class ValueError with the following message: phasecenter parameter must be specified

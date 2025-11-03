@@ -1,0 +1,2 @@
+ :  frequency, default start, width='100MHz'(2 x chanwidth), TOPO
+[check_spec_frame] tstCubetest_freqdefstwd2.image: Spec frame is TOPO with crval 1025000000.0 (Pass : should be TOPO with expected crval 1025000000.0 )

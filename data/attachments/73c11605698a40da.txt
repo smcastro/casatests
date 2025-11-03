@@ -1,0 +1,17 @@
+2025-09-16 16:58:53	WARN	SingleDishMS::setSelection (file /source/casa6/casatools/src/code/singledish/SingleDish/SingleDishMS.cc, line 212)	No valid selection parameter is set.
+2025-09-16 16:58:53	SEVERE	SDAtmosphereCorrectionTVI::initializeAtmosphereModel (file /source/casa6/casatools/src/code/mstransform/TVI/SDAtmosphereCorrectionTVI.cc, line 609)	ERROR: list length of layerboundaries and layertemperature should be the same.
+2025-09-16 16:58:53	SEVERE	singledishms::atmcor (file src/tools/singledishms/singledishms_cmpt.cc, line 481)	Exception Reported: 2025-09-16 16:58:53	SEVERE	SDAtmosphereCorrectionTVI::initializeAtmosphereModel (file /source/casa6/casatools/src/code/mstransform/TVI/SDAtmosphereCorrectionTVI.cc, line 609)	ERROR: list length of layerboundaries and layertemperature should be the same.
+2025-09-16 16:58:53	SEVERE	sdatmcor::::casa	2025-09-16 16:58:53	SEVERE	SDAtmosphereCorrectionTVI::initializeAtmosphereModel (file /source/casa6/casatools/src/code/mstransform/TVI/SDAtmosphereCorrectionTVI.cc, line 609)	ERROR: list length of layerboundaries and layertemperature should be the same.
+2025-09-16 16:58:53	SEVERE	sdatmcor::::casa	Traceback (most recent call last):
+2025-09-16 16:58:53	SEVERE	sdatmcor::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 16:58:53	SEVERE	sdatmcor::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdatmcor.py", line 693, in sdatmcor
+2025-09-16 16:58:53	SEVERE	sdatmcor::::casa+	    sdms.atmcor(config=config, datacolumn=datacolumn, outfile=outfile)
+2025-09-16 16:58:53	SEVERE	sdatmcor::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/singledishms.py", line 110, in atmcor
+2025-09-16 16:58:53	SEVERE	sdatmcor::::casa+	    return self._swigobj.atmcor(config, datacolumn, outfile)
+2025-09-16 16:58:53	SEVERE	sdatmcor::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 16:58:53	SEVERE	sdatmcor::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/__casac__/singledishms.py", line 569, in atmcor
+2025-09-16 16:58:53	SEVERE	sdatmcor::::casa+	    return _singledishms.singledishms_atmcor(self, *args, **kwargs)
+2025-09-16 16:58:53	SEVERE	sdatmcor::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 16:58:53	SEVERE	sdatmcor::::casa+	RuntimeError: 2025-09-16 16:58:53	SEVERE	SDAtmosphereCorrectionTVI::initializeAtmosphereModel (file /source/casa6/casatools/src/code/mstransform/TVI/SDAtmosphereCorrectionTVI.cc, line 609)	ERROR: list length of layerboundaries and layertemperature should be the same.
+2025-09-16 16:58:53	SEVERE	sdatmcor::::casa	2025-09-16 16:58:53	SEVERE	SDAtmosphereCorrectionTVI::initializeAtmosphereModel (file /source/casa6/casatools/src/code/mstransform/TVI/SDAtmosphereCorrectionTVI.cc, line 609)	ERROR: list length of layerboundaries and layertemperature should be the same.
+2025-09-16 16:58:53	SEVERE	sdatmcor::::casa	Task sdatmcor raised an exception of class RuntimeError with the following message: 2025-09-16 16:58:53	SEVERE	SDAtmosphereCorrectionTVI::initializeAtmosphereModel (file /source/casa6/casatools/src/code/mstransform/TVI/SDAtmosphereCorrectionTVI.cc, line 609)	ERROR: list length of layerboundaries and layertemperature should be the same.

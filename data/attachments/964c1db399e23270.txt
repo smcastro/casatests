@@ -1,0 +1,12 @@
+Processing request for geometries from observatory ALMA, antenna type DV
+**Writing ALMA Apertures for Pol 9 to disk
+Done writing apertures to disk
+Processing request for geometries from observatory ALMA, antenna type DA
+**Writing ALMA Apertures for Pol 9 to disk
+Done writing apertures to disk
+Processing request for geometries from observatory ALMA, antenna type PM
+**Writing ALMA Apertures for Pol 9 to disk
+Done writing apertures to disk
+Processing request for geometries from observatory ALMA, antenna type CM
+**Writing ALMA Apertures for Pol 9 to disk
+Done writing apertures to disk

@@ -1,0 +1,48 @@
+2025-09-16 14:56:53	INFO	ImageFactory::createImage	Created Temp image  of shape [200, 200, 4, 10] with float valued pixels.
+2025-09-16 14:56:53	SEVERE	image::restoringbeam (file src/tools/image/image_cmpt.cc, line 5289)	Exception Reported: Exception: mbret='matrix' only makes sense if the image has per-plane beams. This image does not.
+2025-09-16 14:56:53	SEVERE	image::restoringbeam (file src/tools/image/image_cmpt.cc, line 5289)+	... thrown by casac::record* casac::image::restoringbeam(long int, long int, const string&) at File: src/tools/image/image_cmpt.cc, line: 5300
+2025-09-16 14:56:53	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:53	INFO	BeamManipulator::set	Setting (global) restoring beam.
+2025-09-16 14:56:53	INFO	BeamManipulator::set	Beam parameters:  Major          : 3 arcmin
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Minor          : 1 arcmin
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Position Angle : 40 deg
+2025-09-16 14:56:53	SEVERE	image::restoringbeam (file src/tools/image/image_cmpt.cc, line 5289)	Exception Reported: Exception: mbret='matrix' only makes sense if the image has per-plane beams. This image does not.
+2025-09-16 14:56:53	SEVERE	image::restoringbeam (file src/tools/image/image_cmpt.cc, line 5289)+	... thrown by casac::record* casac::image::restoringbeam(long int, long int, const string&) at File: src/tools/image/image_cmpt.cc, line: 5300
+2025-09-16 14:56:53	INFO	image::_setrestoringbeam 	Will remove any existing beams from image
+2025-09-16 14:56:53	INFO		Deleted restoring beam(s)
+2025-09-16 14:56:53	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:53	INFO	BeamManipulator::set	This image currently has no beams of any kind. Since channel and/or polarization were specified, a set of per plane beams, each equal to the specified beam, will be created.
+2025-09-16 14:56:53	INFO	BeamManipulator::set	Beam parameters:  Major          : 3 arcmin
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Minor          : 1 arcmin
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Position Angle : 40 deg
+2025-09-16 14:56:53	SEVERE	image::restoringbeam (file src/tools/image/image_cmpt.cc, line 5289)	Exception Reported: Exception: mbret='matrix' only makes sense if both channel and polarization are negative.
+2025-09-16 14:56:53	SEVERE	image::restoringbeam (file src/tools/image/image_cmpt.cc, line 5289)+	... thrown by casac::record* casac::image::restoringbeam(long int, long int, const string&) at File: src/tools/image/image_cmpt.cc, line: 5305
+2025-09-16 14:56:53	SEVERE	image::restoringbeam (file src/tools/image/image_cmpt.cc, line 5289)	Exception Reported: Exception: mbret='matrix' only makes sense if both channel and polarization are negative.
+2025-09-16 14:56:53	SEVERE	image::restoringbeam (file src/tools/image/image_cmpt.cc, line 5289)+	... thrown by casac::record* casac::image::restoringbeam(long int, long int, const string&) at File: src/tools/image/image_cmpt.cc, line: 5305
+2025-09-16 14:56:53	INFO	ImageFactory::createImage	Created Temp image  of shape [20, 20, 4] with float valued pixels.
+2025-09-16 14:56:53	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:53	INFO	BeamManipulator::set	This image currently has no beams of any kind. Since channel and/or polarization were specified, a set of per plane beams, each equal to the specified beam, will be created.
+2025-09-16 14:56:53	INFO	BeamManipulator::set	Beam parameters:  Major          : 3 arcmin
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Minor          : 1 arcmin
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Position Angle : 40 deg
+2025-09-16 14:56:53	INFO	ImageFactory::createImage	Created Temp image  of shape [20, 20, 10] with float valued pixels.
+2025-09-16 14:56:53	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:53	INFO	BeamManipulator::set	This image currently has no beams of any kind. Since channel and/or polarization were specified, a set of per plane beams, each equal to the specified beam, will be created.
+2025-09-16 14:56:53	INFO	BeamManipulator::set	Beam parameters:  Major          : 3 arcmin
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Minor          : 1 arcmin
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Position Angle : 40 deg
+2025-09-16 14:56:53	SEVERE	image::restoringbeam (file src/tools/image/image_cmpt.cc, line 5289)	Exception Reported: Exception: channel value specified as 15 must be less than the number of channels in the image, which is 10.
+2025-09-16 14:56:53	SEVERE	image::restoringbeam (file src/tools/image/image_cmpt.cc, line 5289)+	... thrown by casac::record* casac::image::restoringbeam(long int, long int, const string&) at File: src/tools/image/image_cmpt.cc, line: 5346
+2025-09-16 14:56:53	INFO	ImageFactory::createImage	Created Temp image  of shape [20, 20, 4, 10] with float valued pixels.
+2025-09-16 14:56:53	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:53	INFO	BeamManipulator::set	This image currently has no beams of any kind. Since channel and/or polarization were specified, a set of per plane beams, each equal to the specified beam, will be created.
+2025-09-16 14:56:53	INFO	BeamManipulator::set	Beam parameters:  Major          : 3 arcmin
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Minor          : 1 arcmin
+2025-09-16 14:56:53	INFO	BeamManipulator::set+	  Position Angle : 40 deg
+2025-09-16 14:56:53	SEVERE	image::restoringbeam (file src/tools/image/image_cmpt.cc, line 5289)	Exception Reported: Exception: polarization value must be less than the number of polarization planes in the image, which is 4.
+2025-09-16 14:56:53	SEVERE	image::restoringbeam (file src/tools/image/image_cmpt.cc, line 5289)+	... thrown by casac::record* casac::image::restoringbeam(long int, long int, const string&) at File: src/tools/image/image_cmpt.cc, line: 5354
+2025-09-16 14:56:53	SEVERE	image::restoringbeam (file src/tools/image/image_cmpt.cc, line 5289)	Exception Reported: Exception: In the case of an image with both a nondegenerate spectral axis and a nondegenerate polarization axis either both channel and polarization must be positive, or both must be negative.
+2025-09-16 14:56:53	SEVERE	image::restoringbeam (file src/tools/image/image_cmpt.cc, line 5289)+	... thrown by casac::record* casac::image::restoringbeam(long int, long int, const string&) at File: src/tools/image/image_cmpt.cc, line: 5366
+2025-09-16 14:56:53	SEVERE	image::restoringbeam (file src/tools/image/image_cmpt.cc, line 5289)	Exception Reported: Exception: In the case of an image with both a nondegenerate spectral axis and a nondegenerate polarization axis either both channel and polarization must be positive, or both must be negative.
+2025-09-16 14:56:53	SEVERE	image::restoringbeam (file src/tools/image/image_cmpt.cc, line 5289)+	... thrown by casac::record* casac::image::restoringbeam(long int, long int, const string&) at File: src/tools/image/image_cmpt.cc, line: 5366
+2025-09-16 14:56:53	SEVERE	image::restoringbeam (file src/tools/image/image_cmpt.cc, line 5289)	Exception Reported: Unsupported mbret value bogus at File: src/tools/image/image_cmpt.cc, line: 5379

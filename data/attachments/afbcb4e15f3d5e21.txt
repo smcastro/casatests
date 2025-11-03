@@ -1,0 +1,20 @@
+2025-09-16 16:11:45	SEVERE	imagepol::open	Exception Reported: This Stokes coordinate has only one of Q and U. This is not useful at File: /source/casa6/casatools/src/code/imageanalysis/ImageAnalysis/ImagePolarimetry.cc, line: 1139
+2025-09-16 16:11:45	SEVERE	immath::::casa	Error running immath
+2025-09-16 16:11:45	SEVERE	immath::::casa	Exception caught was: This Stokes coordinate has only one of Q and U. This is not useful at File: /source/casa6/casatools/src/code/imageanalysis/ImageAnalysis/ImagePolarimetry.cc, line: 1139
+2025-09-16 16:11:45	SEVERE	immath::::casa	Task immath raised an exception of class RuntimeError with the following message: This Stokes coordinate has only one of Q and U. This is not useful at File: /source/casa6/casatools/src/code/imageanalysis/ImageAnalysis/ImagePolarimetry.cc, line: 1139
+2025-09-16 16:11:45	SEVERE	imagepol::open	Exception Reported: This Stokes coordinate has only one of Q and U. This is not useful at File: /source/casa6/casatools/src/code/imageanalysis/ImageAnalysis/ImagePolarimetry.cc, line: 1139
+2025-09-16 16:11:45	SEVERE	immath::::casa	Error running immath
+2025-09-16 16:11:45	SEVERE	immath::::casa	Exception caught was: This Stokes coordinate has only one of Q and U. This is not useful at File: /source/casa6/casatools/src/code/imageanalysis/ImageAnalysis/ImagePolarimetry.cc, line: 1139
+2025-09-16 16:11:45	SEVERE	immath::::casa	Task immath raised an exception of class RuntimeError with the following message: This Stokes coordinate has only one of Q and U. This is not useful at File: /source/casa6/casatools/src/code/imageanalysis/ImageAnalysis/ImagePolarimetry.cc, line: 1139
+2025-09-16 16:11:45	SEVERE	imagepol::open	Exception Reported: This Stokes coordinate has only one of Q and U. This is not useful at File: /source/casa6/casatools/src/code/imageanalysis/ImageAnalysis/ImagePolarimetry.cc, line: 1139
+2025-09-16 16:11:45	SEVERE	immath::::casa	Error running immath
+2025-09-16 16:11:45	SEVERE	immath::::casa	Exception caught was: This Stokes coordinate has only one of Q and U. This is not useful at File: /source/casa6/casatools/src/code/imageanalysis/ImageAnalysis/ImagePolarimetry.cc, line: 1139
+2025-09-16 16:11:45	SEVERE	immath::::casa	Task immath raised an exception of class RuntimeError with the following message: This Stokes coordinate has only one of Q and U. This is not useful at File: /source/casa6/casatools/src/code/imageanalysis/ImageAnalysis/ImagePolarimetry.cc, line: 1139
+2025-09-16 16:11:46	SEVERE	imagepol::open	Exception Reported: This Stokes coordinate has only one of Q and U. This is not useful at File: /source/casa6/casatools/src/code/imageanalysis/ImageAnalysis/ImagePolarimetry.cc, line: 1139
+2025-09-16 16:11:46	SEVERE	immath::::casa	Error running immath
+2025-09-16 16:11:46	SEVERE	immath::::casa	Exception caught was: This Stokes coordinate has only one of Q and U. This is not useful at File: /source/casa6/casatools/src/code/imageanalysis/ImageAnalysis/ImagePolarimetry.cc, line: 1139
+2025-09-16 16:11:46	SEVERE	immath::::casa	Task immath raised an exception of class RuntimeError with the following message: This Stokes coordinate has only one of Q and U. This is not useful at File: /source/casa6/casatools/src/code/imageanalysis/ImageAnalysis/ImagePolarimetry.cc, line: 1139
+2025-09-16 16:11:46	SEVERE	imagepol::open	Exception Reported: This Stokes coordinate has only one of Q and U. This is not useful at File: /source/casa6/casatools/src/code/imageanalysis/ImageAnalysis/ImagePolarimetry.cc, line: 1139
+2025-09-16 16:11:46	SEVERE	immath::::casa	Error running immath
+2025-09-16 16:11:46	SEVERE	immath::::casa	Exception caught was: This Stokes coordinate has only one of Q and U. This is not useful at File: /source/casa6/casatools/src/code/imageanalysis/ImageAnalysis/ImagePolarimetry.cc, line: 1139
+2025-09-16 16:11:46	SEVERE	immath::::casa	Task immath raised an exception of class RuntimeError with the following message: This Stokes coordinate has only one of Q and U. This is not useful at File: /source/casa6/casatools/src/code/imageanalysis/ImageAnalysis/ImagePolarimetry.cc, line: 1139

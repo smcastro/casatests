@@ -1,0 +1,2 @@
+The CalTable is already around, just unflag
+Expected error: MSSelectionNullSelection : The selected table has zero rows.

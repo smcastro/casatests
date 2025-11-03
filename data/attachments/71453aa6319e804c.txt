@@ -1,0 +1,428 @@
+2025-09-16 14:54:55	INFO	AgentFlagger::open	Table type is Calibration
+2025-09-16 14:54:55	INFO	FlagCalTableHandler::selectData 	Selection not applicable, using entire MS
+2025-09-16 14:54:55	INFO	FlagCalTableHandler::selectData 	Original CalTable has 9750 rows, and selected CalTable has 9750 rows
+2025-09-16 14:54:55	INFO	AgentFlagger::initAgents	There are initially 1 agents in the list. Agents: unflag
+2025-09-16 14:54:55	INFO	AgentFlagger::initAgents	There are 1 valid agents in the list. Agents: unflag
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 1 [progress: 2%], Observation = 0~0, Scan = -1~-1, Field = 2 (3C286_A), Spw = 0, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 260
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (33280/33280)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 2 [progress: 5%], Observation = 0~0, Scan = -1~-1, Field = 2 (3C286_A), Spw = 1, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 260
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (33280/33280)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 3 [progress: 8%], Observation = 0~0, Scan = -1~-1, Field = 2 (3C286_A), Spw = 2, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 260
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (33280/33280)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 4 [progress: 10%], Observation = 0~0, Scan = -1~-1, Field = 2 (3C286_A), Spw = 3, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 260
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (33280/33280)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 5 [progress: 13%], Observation = 0~0, Scan = -1~-1, Field = 2 (3C286_A), Spw = 4, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 260
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (33280/33280)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 6 [progress: 16%], Observation = 0~0, Scan = -1~-1, Field = 2 (3C286_A), Spw = 5, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 260
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (33280/33280)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 7 [progress: 18%], Observation = 0~0, Scan = -1~-1, Field = 2 (3C286_A), Spw = 6, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 260
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (33280/33280)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 8 [progress: 21%], Observation = 0~0, Scan = -1~-1, Field = 2 (3C286_A), Spw = 7, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 260
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (33280/33280)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 9 [progress: 24%], Observation = 0~0, Scan = -1~-1, Field = 2 (3C286_A), Spw = 9, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 260
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (33280/33280)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 10 [progress: 26%], Observation = 0~0, Scan = -1~-1, Field = 2 (3C286_A), Spw = 10, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 260
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (33280/33280)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 11 [progress: 29%], Observation = 0~0, Scan = -1~-1, Field = 2 (3C286_A), Spw = 11, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 260
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (33280/33280)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 12 [progress: 32%], Observation = 0~0, Scan = -1~-1, Field = 2 (3C286_A), Spw = 12, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 260
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (33280/33280)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 13 [progress: 34%], Observation = 0~0, Scan = -1~-1, Field = 2 (3C286_A), Spw = 13, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 260
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (33280/33280)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 14 [progress: 37%], Observation = 0~0, Scan = -1~-1, Field = 2 (3C286_A), Spw = 14, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 260
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (33280/33280)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 15 [progress: 40%], Observation = 0~0, Scan = -1~-1, Field = 2 (3C286_A), Spw = 15, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 260
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (33280/33280)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 16 [progress: 41%], Observation = 0~0, Scan = -1~-1, Field = 3 (3C286_C), Spw = 0, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 17 [progress: 42%], Observation = 0~0, Scan = -1~-1, Field = 3 (3C286_C), Spw = 1, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 18 [progress: 44%], Observation = 0~0, Scan = -1~-1, Field = 3 (3C286_C), Spw = 2, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 19 [progress: 45%], Observation = 0~0, Scan = -1~-1, Field = 3 (3C286_C), Spw = 3, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 20 [progress: 46%], Observation = 0~0, Scan = -1~-1, Field = 3 (3C286_C), Spw = 4, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 21 [progress: 48%], Observation = 0~0, Scan = -1~-1, Field = 3 (3C286_C), Spw = 5, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 22 [progress: 49%], Observation = 0~0, Scan = -1~-1, Field = 3 (3C286_C), Spw = 6, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 23 [progress: 50%], Observation = 0~0, Scan = -1~-1, Field = 3 (3C286_C), Spw = 7, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 24 [progress: 52%], Observation = 0~0, Scan = -1~-1, Field = 3 (3C286_C), Spw = 9, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 25 [progress: 53%], Observation = 0~0, Scan = -1~-1, Field = 3 (3C286_C), Spw = 10, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 26 [progress: 54%], Observation = 0~0, Scan = -1~-1, Field = 3 (3C286_C), Spw = 11, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 27 [progress: 56%], Observation = 0~0, Scan = -1~-1, Field = 3 (3C286_C), Spw = 12, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 28 [progress: 57%], Observation = 0~0, Scan = -1~-1, Field = 3 (3C286_C), Spw = 13, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 29 [progress: 58%], Observation = 0~0, Scan = -1~-1, Field = 3 (3C286_C), Spw = 14, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 30 [progress: 60%], Observation = 0~0, Scan = -1~-1, Field = 3 (3C286_C), Spw = 15, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 31 [progress: 61%], Observation = 0~0, Scan = -1~-1, Field = 4 (3C286_B), Spw = 0, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 32 [progress: 62%], Observation = 0~0, Scan = -1~-1, Field = 4 (3C286_B), Spw = 1, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 33 [progress: 64%], Observation = 0~0, Scan = -1~-1, Field = 4 (3C286_B), Spw = 2, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 34 [progress: 65%], Observation = 0~0, Scan = -1~-1, Field = 4 (3C286_B), Spw = 3, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 35 [progress: 66%], Observation = 0~0, Scan = -1~-1, Field = 4 (3C286_B), Spw = 4, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 36 [progress: 68%], Observation = 0~0, Scan = -1~-1, Field = 4 (3C286_B), Spw = 5, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 37 [progress: 69%], Observation = 0~0, Scan = -1~-1, Field = 4 (3C286_B), Spw = 6, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 38 [progress: 70%], Observation = 0~0, Scan = -1~-1, Field = 4 (3C286_B), Spw = 7, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 39 [progress: 72%], Observation = 0~0, Scan = -1~-1, Field = 4 (3C286_B), Spw = 9, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 40 [progress: 73%], Observation = 0~0, Scan = -1~-1, Field = 4 (3C286_B), Spw = 10, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 41 [progress: 74%], Observation = 0~0, Scan = -1~-1, Field = 4 (3C286_B), Spw = 11, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 42 [progress: 76%], Observation = 0~0, Scan = -1~-1, Field = 4 (3C286_B), Spw = 12, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 43 [progress: 77%], Observation = 0~0, Scan = -1~-1, Field = 4 (3C286_B), Spw = 13, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 44 [progress: 78%], Observation = 0~0, Scan = -1~-1, Field = 4 (3C286_B), Spw = 14, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 45 [progress: 80%], Observation = 0~0, Scan = -1~-1, Field = 4 (3C286_B), Spw = 15, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 46 [progress: 81%], Observation = 0~0, Scan = -1~-1, Field = 5 (3C286_D), Spw = 0, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 47 [progress: 82%], Observation = 0~0, Scan = -1~-1, Field = 5 (3C286_D), Spw = 1, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 48 [progress: 84%], Observation = 0~0, Scan = -1~-1, Field = 5 (3C286_D), Spw = 2, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 49 [progress: 85%], Observation = 0~0, Scan = -1~-1, Field = 5 (3C286_D), Spw = 3, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 50 [progress: 86%], Observation = 0~0, Scan = -1~-1, Field = 5 (3C286_D), Spw = 4, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 51 [progress: 88%], Observation = 0~0, Scan = -1~-1, Field = 5 (3C286_D), Spw = 5, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 52 [progress: 89%], Observation = 0~0, Scan = -1~-1, Field = 5 (3C286_D), Spw = 6, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 53 [progress: 90%], Observation = 0~0, Scan = -1~-1, Field = 5 (3C286_D), Spw = 7, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 54 [progress: 92%], Observation = 0~0, Scan = -1~-1, Field = 5 (3C286_D), Spw = 9, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 55 [progress: 93%], Observation = 0~0, Scan = -1~-1, Field = 5 (3C286_D), Spw = 10, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 56 [progress: 94%], Observation = 0~0, Scan = -1~-1, Field = 5 (3C286_D), Spw = 11, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 57 [progress: 96%], Observation = 0~0, Scan = -1~-1, Field = 5 (3C286_D), Spw = 12, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 58 [progress: 97%], Observation = 0~0, Scan = -1~-1, Field = 5 (3C286_D), Spw = 13, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 59 [progress: 98%], Observation = 0~0, Scan = -1~-1, Field = 5 (3C286_D), Spw = 14, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 60 [progress: 100%], Observation = 0~0, Scan = -1~-1, Field = 5 (3C286_D), Spw = 15, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Unflag::chunkSummary	=> Data unflagged so far 100% (16640/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::nextChunk 	==================================================================================== 
+2025-09-16 14:54:56	INFO	Unflag::tableSummary	=> Percentage of data un-flagged in table selection: 100%
+2025-09-16 14:54:56	INFO	AgentFlagger::run	=> Writing flags to the MS
+2025-09-16 14:54:56	INFO	AgentFlagger::open	Table type is Calibration
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::selectData 	Selection not applicable, using entire MS
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::selectData 	Original CalTable has 9750 rows, and selected CalTable has 9750 rows
+2025-09-16 14:54:56	INFO	AgentFlagger::initAgents	There are initially 2 agents in the list. Agents: rflag, summary
+2025-09-16 14:54:56	INFO	Rflag::setAgentParameters 	 data column is CPARAM
+2025-09-16 14:54:56	INFO	Rflag::setAgentParameters 	 Visibility expression is SOL2
+2025-09-16 14:54:56	INFO	Rflag::setAgentParameters	 (writeflags OR display)=(1,none), will apply flags on modified flag cube 
+2025-09-16 14:54:56	INFO	Rflag::setAgentParameters	 winsize is 3
+2025-09-16 14:54:56	INFO	Rflag::setAgentParameters	 spectralmax is 1e+06
+2025-09-16 14:54:56	INFO	Rflag::setAgentParameters	 spectralmin is 0
+2025-09-16 14:54:56	INFO	Rflag::setAgentParameters	 timedevscale is 5
+2025-09-16 14:54:56	INFO	Rflag::setAgentParameters	 freqdevscale is 5
+2025-09-16 14:54:56	INFO	Rflag::setAgentParameters	No timedev value given. Will Use automatically computed values if applying flags.
+2025-09-16 14:54:56	INFO	Rflag::setAgentParameters	No freqdev value given. Will Use automatically computed values if applying flags.
+2025-09-16 14:54:56	INFO	AgentFlagger::initAgents	There are 2 valid agents in the list. Agents: rflag, summary
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 1 [progress: 2%], Observation = 0~0, Scan = -1~-1, Field = 2 (3C286_A), Spw = 0, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 260
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 1.44231% (480/33280)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 2 [progress: 5%], Observation = 0~0, Scan = -1~-1, Field = 2 (3C286_A), Spw = 1, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 260
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 0.564904% (188/33280)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 3 [progress: 8%], Observation = 0~0, Scan = -1~-1, Field = 2 (3C286_A), Spw = 2, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 260
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 0.348558% (116/33280)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 4 [progress: 10%], Observation = 0~0, Scan = -1~-1, Field = 2 (3C286_A), Spw = 3, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 260
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 0.510817% (170/33280)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 5 [progress: 13%], Observation = 0~0, Scan = -1~-1, Field = 2 (3C286_A), Spw = 4, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 260
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 0.835337% (278/33280)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 6 [progress: 16%], Observation = 0~0, Scan = -1~-1, Field = 2 (3C286_A), Spw = 5, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 260
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 0.889423% (296/33280)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 7 [progress: 18%], Observation = 0~0, Scan = -1~-1, Field = 2 (3C286_A), Spw = 6, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 260
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 0.0540865% (18/33280)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 8 [progress: 21%], Observation = 0~0, Scan = -1~-1, Field = 2 (3C286_A), Spw = 7, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 260
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 0.594952% (198/33280)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 9 [progress: 24%], Observation = 0~0, Scan = -1~-1, Field = 2 (3C286_A), Spw = 9, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 260
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 1.98317% (660/33280)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 10 [progress: 26%], Observation = 0~0, Scan = -1~-1, Field = 2 (3C286_A), Spw = 10, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 260
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 1.71875% (572/33280)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 11 [progress: 29%], Observation = 0~0, Scan = -1~-1, Field = 2 (3C286_A), Spw = 11, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 260
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 1.67668% (558/33280)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 12 [progress: 32%], Observation = 0~0, Scan = -1~-1, Field = 2 (3C286_A), Spw = 12, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 260
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 1.44531% (481/33280)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 13 [progress: 34%], Observation = 0~0, Scan = -1~-1, Field = 2 (3C286_A), Spw = 13, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 260
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 1.98317% (660/33280)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 14 [progress: 37%], Observation = 0~0, Scan = -1~-1, Field = 2 (3C286_A), Spw = 14, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 260
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 1.36719% (455/33280)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 15 [progress: 40%], Observation = 0~0, Scan = -1~-1, Field = 2 (3C286_A), Spw = 15, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 260
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 1.20793% (402/33280)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 16 [progress: 41%], Observation = 0~0, Scan = -1~-1, Field = 3 (3C286_C), Spw = 0, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 1.21995% (203/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 17 [progress: 42%], Observation = 0~0, Scan = -1~-1, Field = 3 (3C286_C), Spw = 1, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 18 [progress: 44%], Observation = 0~0, Scan = -1~-1, Field = 3 (3C286_C), Spw = 2, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 19 [progress: 45%], Observation = 0~0, Scan = -1~-1, Field = 3 (3C286_C), Spw = 3, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 20 [progress: 46%], Observation = 0~0, Scan = -1~-1, Field = 3 (3C286_C), Spw = 4, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 1.73678% (289/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 21 [progress: 48%], Observation = 0~0, Scan = -1~-1, Field = 3 (3C286_C), Spw = 5, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 0.853365% (142/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 22 [progress: 49%], Observation = 0~0, Scan = -1~-1, Field = 3 (3C286_C), Spw = 6, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 0.00600962% (1/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 23 [progress: 50%], Observation = 0~0, Scan = -1~-1, Field = 3 (3C286_C), Spw = 7, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 0.600962% (100/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 24 [progress: 52%], Observation = 0~0, Scan = -1~-1, Field = 3 (3C286_C), Spw = 9, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 0.913462% (152/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 25 [progress: 53%], Observation = 0~0, Scan = -1~-1, Field = 3 (3C286_C), Spw = 10, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 1.58053% (263/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 26 [progress: 54%], Observation = 0~0, Scan = -1~-1, Field = 3 (3C286_C), Spw = 11, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 1.40024% (233/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 27 [progress: 56%], Observation = 0~0, Scan = -1~-1, Field = 3 (3C286_C), Spw = 12, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 1.08774% (181/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 28 [progress: 57%], Observation = 0~0, Scan = -1~-1, Field = 3 (3C286_C), Spw = 13, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 1.32212% (220/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 29 [progress: 58%], Observation = 0~0, Scan = -1~-1, Field = 3 (3C286_C), Spw = 14, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 0.342548% (57/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 30 [progress: 60%], Observation = 0~0, Scan = -1~-1, Field = 3 (3C286_C), Spw = 15, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 31 [progress: 61%], Observation = 0~0, Scan = -1~-1, Field = 4 (3C286_B), Spw = 0, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 1.39423% (232/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 32 [progress: 62%], Observation = 0~0, Scan = -1~-1, Field = 4 (3C286_B), Spw = 1, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 33 [progress: 64%], Observation = 0~0, Scan = -1~-1, Field = 4 (3C286_B), Spw = 2, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 0.0180288% (3/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 34 [progress: 65%], Observation = 0~0, Scan = -1~-1, Field = 4 (3C286_B), Spw = 3, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 35 [progress: 66%], Observation = 0~0, Scan = -1~-1, Field = 4 (3C286_B), Spw = 4, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 0.216346% (36/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 36 [progress: 68%], Observation = 0~0, Scan = -1~-1, Field = 4 (3C286_B), Spw = 5, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 0.46274% (77/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 37 [progress: 69%], Observation = 0~0, Scan = -1~-1, Field = 4 (3C286_B), Spw = 6, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 38 [progress: 70%], Observation = 0~0, Scan = -1~-1, Field = 4 (3C286_B), Spw = 7, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 39 [progress: 72%], Observation = 0~0, Scan = -1~-1, Field = 4 (3C286_B), Spw = 9, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 0.841346% (140/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 40 [progress: 73%], Observation = 0~0, Scan = -1~-1, Field = 4 (3C286_B), Spw = 10, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 1.61058% (268/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 41 [progress: 74%], Observation = 0~0, Scan = -1~-1, Field = 4 (3C286_B), Spw = 11, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 0.378606% (63/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 42 [progress: 76%], Observation = 0~0, Scan = -1~-1, Field = 4 (3C286_B), Spw = 12, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 0.504808% (84/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 43 [progress: 77%], Observation = 0~0, Scan = -1~-1, Field = 4 (3C286_B), Spw = 13, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 0.889423% (148/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 44 [progress: 78%], Observation = 0~0, Scan = -1~-1, Field = 4 (3C286_B), Spw = 14, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 0.192308% (32/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 45 [progress: 80%], Observation = 0~0, Scan = -1~-1, Field = 4 (3C286_B), Spw = 15, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 46 [progress: 81%], Observation = 0~0, Scan = -1~-1, Field = 5 (3C286_D), Spw = 0, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 2.25361% (375/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 47 [progress: 82%], Observation = 0~0, Scan = -1~-1, Field = 5 (3C286_D), Spw = 1, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 1.47236% (245/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 48 [progress: 84%], Observation = 0~0, Scan = -1~-1, Field = 5 (3C286_D), Spw = 2, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 1.38822% (231/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 49 [progress: 85%], Observation = 0~0, Scan = -1~-1, Field = 5 (3C286_D), Spw = 3, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 1.17188% (195/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 50 [progress: 86%], Observation = 0~0, Scan = -1~-1, Field = 5 (3C286_D), Spw = 4, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 2.71635% (452/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 51 [progress: 88%], Observation = 0~0, Scan = -1~-1, Field = 5 (3C286_D), Spw = 5, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 5.57692% (928/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 52 [progress: 89%], Observation = 0~0, Scan = -1~-1, Field = 5 (3C286_D), Spw = 6, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 0.961538% (160/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 53 [progress: 90%], Observation = 0~0, Scan = -1~-1, Field = 5 (3C286_D), Spw = 7, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 1.28005% (213/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 54 [progress: 92%], Observation = 0~0, Scan = -1~-1, Field = 5 (3C286_D), Spw = 9, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 2.1274% (354/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 55 [progress: 93%], Observation = 0~0, Scan = -1~-1, Field = 5 (3C286_D), Spw = 10, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 1.26803% (211/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 56 [progress: 94%], Observation = 0~0, Scan = -1~-1, Field = 5 (3C286_D), Spw = 11, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 0.883413% (147/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 57 [progress: 96%], Observation = 0~0, Scan = -1~-1, Field = 5 (3C286_D), Spw = 12, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 1.97716% (329/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 58 [progress: 97%], Observation = 0~0, Scan = -1~-1, Field = 5 (3C286_D), Spw = 13, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 2.30168% (383/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 59 [progress: 98%], Observation = 0~0, Scan = -1~-1, Field = 5 (3C286_D), Spw = 14, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 1.65865% (276/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	------------------------------------------------------------------------------------ 
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::	Chunk = 60 [progress: 100%], Observation = 0~0, Scan = -1~-1, Field = 5 (3C286_D), Spw = 15, Channels = 64, CalSolutions = [ Sol1 Sol2 ], Total Rows = 130
+2025-09-16 14:54:56	INFO	Rflag::chunkSummary	=> Data flagged so far 1.45433% (242/16640)
+2025-09-16 14:54:56	INFO	FlagCalTableHandler::nextChunk 	==================================================================================== 
+2025-09-16 14:54:56	INFO	Rflag::tableSummary	=> Percentage of data flagged in table selection: 1.05745%
+2025-09-16 14:54:56	INFO	AgentFlagger::run	=> Writing flags to the MS
+2025-09-16 14:54:56	INFO	Summary::getResult 	 observation 0 flagged: 13197 total: 1.248e+06 (1.06%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 scan -1 flagged: 13197 total: 1.248e+06 (1.06%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 antenna ea27 flagged: 1536 total: 48000 (3.2%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 antenna ea25 flagged: 602 total: 48000 (1.25%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 antenna ea24 flagged: 177 total: 48000 (0.369%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 antenna ea23 flagged: 435 total: 48000 (0.906%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 antenna ea22 flagged: 452 total: 48000 (0.942%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 antenna ea18 flagged: 187 total: 48000 (0.39%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 antenna ea07 flagged: 214 total: 48000 (0.446%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 antenna ea03 flagged: 339 total: 48000 (0.706%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 antenna ea01 flagged: 206 total: 48000 (0.429%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 antenna ea15 flagged: 286 total: 48000 (0.596%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 antenna ea28 flagged: 4584 total: 48000 (9.55%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 antenna ea16 flagged: 514 total: 48000 (1.07%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 antenna ea02 flagged: 526 total: 48000 (1.1%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 antenna ea09 flagged: 423 total: 48000 (0.881%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 antenna ea20 flagged: 0 total: 48000 (0%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 antenna ea17 flagged: 8 total: 48000 (0.0167%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 antenna ea10 flagged: 239 total: 48000 (0.498%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 antenna ea21 flagged: 327 total: 48000 (0.681%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 antenna ea19 flagged: 243 total: 48000 (0.506%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 antenna ea04 flagged: 256 total: 48000 (0.533%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 antenna ea08 flagged: 247 total: 48000 (0.515%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 antenna ea11 flagged: 392 total: 48000 (0.817%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 antenna ea12 flagged: 452 total: 48000 (0.942%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 antenna ea13 flagged: 122 total: 48000 (0.254%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 antenna ea05 flagged: 286 total: 48000 (0.596%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 antenna ea14 flagged: 144 total: 48000 (0.3%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 field 3C286_D flagged: 4741 total: 249600 (1.9%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 field 3C286_B flagged: 1083 total: 249600 (0.434%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 field 3C286_A flagged: 5532 total: 499200 (1.11%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 field 3C286_C flagged: 1841 total: 249600 (0.738%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 spw 15 flagged: 644 total: 83200 (0.774%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 spw 14 flagged: 820 total: 83200 (0.986%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 spw 10 flagged: 1314 total: 83200 (1.58%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 spw 7 flagged: 511 total: 83200 (0.614%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 spw 12 flagged: 1075 total: 83200 (1.29%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 spw 6 flagged: 179 total: 83200 (0.215%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 spw 5 flagged: 1443 total: 83200 (1.73%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 spw 0 flagged: 1290 total: 83200 (1.55%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 spw 11 flagged: 1001 total: 83200 (1.2%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 spw 9 flagged: 1306 total: 83200 (1.57%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 spw 4 flagged: 1055 total: 83200 (1.27%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 spw 1 flagged: 433 total: 83200 (0.52%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 spw 2 flagged: 350 total: 83200 (0.421%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 spw 13 flagged: 1411 total: 83200 (1.7%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 spw 3 flagged: 365 total: 83200 (0.439%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 correlation Sol2 flagged: 13197 total: 624000 (2.11%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 correlation Sol1 flagged: 0 total: 624000 (0%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 array -1 flagged: 13197 total: 1.248e+06 (1.06%)
+2025-09-16 14:54:56	INFO	Summary::getResult 	 Total Flagged: 13197 Total Counts: 1.248e+06 (1.06%)

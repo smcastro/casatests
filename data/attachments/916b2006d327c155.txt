@@ -1,0 +1,16 @@
+Copying  shortpart2.ms
+/casadata/repository/casatestdata/unittest/virtualconcat/shortpart2.ms
+Copying  shortpart4.ms
+/casadata/repository/casatestdata/unittest/virtualconcat/shortpart4.ms
+Copying  shortpart1.ms
+/casadata/repository/casatestdata/unittest/virtualconcat/shortpart1.ms
+Copying  shortpart3.ms
+/casadata/repository/casatestdata/unittest/virtualconcat/shortpart3.ms
+Copying  shortpart5.ms
+/casadata/repository/casatestdata/unittest/virtualconcat/shortpart5.ms
+test_task_virtualconcat : Now checking output ...
+test_task_virtualconcat : OK. Checking tables in detail ...
+test_task_virtualconcat : comparing  ['CAL', 0, 0, 0]
+test_task_virtualconcat : comparing  ['SIG', 0, 1, 0]
+test_task_virtualconcat : comparing  ['SUB_SCAN', 2, 1, 0]
+test_task_virtualconcat : table  STATE  as expected.

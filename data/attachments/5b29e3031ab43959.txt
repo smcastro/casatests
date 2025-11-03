@@ -1,0 +1,2 @@
+[check_tfmask]  T/F mask name for tst.image is : ['mask0'] (Pass : should be ['mask0']) 
+

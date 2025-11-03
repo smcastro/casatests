@@ -1,0 +1,4 @@
+
+Comparing image statistics of 'simobserve_sc/simobserve_sc.alma.out01.skymodel.flat' with reference 'ref_sky.aca.tp.skymodel.flat'
+Comparing 7 pointings in 'simobserve_sc/simobserve_sc.alma.out01.ptg.txt' with 'ref_sky.alma.out01.ptg.txt'
+Comparing MS statistics of 'simobserve_sc/simobserve_sc.alma.out01.ms' with reference 'ref_sky.alma.out01.ms'

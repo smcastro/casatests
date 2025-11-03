@@ -1,0 +1,7 @@
+2025-09-16 14:56:53	INFO	ImageRotator::rotate	Rotating DirectionCoordinate holding axes [0, 1]
+2025-09-16 14:56:53	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:53	INFO	ImageMaskAttacher::makeMask	Created and initialized mask `mask0'
+2025-09-16 14:56:53	WARN	ImageRegridder::_doImagesOverlap	At least one of the images exceeds one degree on at one side, not checking for direction plane overlap.
+2025-09-16 14:56:53	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:53	INFO	image::_casaQuantityFromVar 	Using position angle rotation 45deg
+2025-09-16 14:56:53	WARN	image::open (file src/tools/image/image_cmpt.cc, line 4208)	Another image is already open, closing first

@@ -1,0 +1,4 @@
+2025-09-16 14:56:53	INFO	ImageFactory::createImage	Created Paged image 'zz' of shape [20, 20] with float valued pixels.
+2025-09-16 14:56:53	INFO	ImageFactory::_rename	Successfully renamed file /scratch/scastro/casa/Tests/reports/zz to xx.im
+2025-09-16 14:56:53	INFO	name::	No table opened.
+2025-09-16 14:56:53	INFO	showcache::	The Table Cache is empty.

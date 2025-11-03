@@ -1,0 +1,17 @@
+2025-09-16 14:57:06	INFO	ImageFactory::createImage	Created Temp image  of shape [100, 100, 20] with float valued pixels.
+2025-09-16 14:57:06	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:06	INFO	BeamManipulator::set	This image currently has no beams of any kind. Since channel and/or polarization were specified, a set of per plane beams, each equal to the specified beam, will be created.
+2025-09-16 14:57:06	INFO	BeamManipulator::set	Beam parameters:  Major          : 20 arcsec
+2025-09-16 14:57:06	INFO	BeamManipulator::set+	  Minor          : 20 arcsec
+2025-09-16 14:57:06	INFO	BeamManipulator::set+	  Position Angle : 0 deg
+2025-09-16 14:57:06	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:06	INFO	BeamManipulator::set	Beam parameters:  Major          : 30 arcsec
+2025-09-16 14:57:06	INFO	BeamManipulator::set+	  Minor          : 30 arcsec
+2025-09-16 14:57:06	INFO	BeamManipulator::set+	  Position Angle : 0 deg
+2025-09-16 14:57:06	SEVERE	image::regrid	Exception Reported: Exception: An image with multiple beams cannot be regridded along the spectral axis. You may wish to convolve all channels to a common resolution and retry.
+2025-09-16 14:57:06	SEVERE	image::regrid+	... thrown by std::shared_ptr<casacore::ImageInterface<T> > casa::ImageRegridder<T>::regrid() const [with T = float] at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/ImageRegridder.tcc, line: 83
+2025-09-16 14:57:06	SEVERE	image::regrid	Exception Reported: Exception: An image with multiple beams cannot be regridded along the spectral axis. You may wish to convolve all channels to a common resolution and retry.
+2025-09-16 14:57:06	SEVERE	image::regrid+	... thrown by std::shared_ptr<casacore::ImageInterface<T> > casa::ImageRegridder<T>::regrid() const [with T = float] at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/ImageRegridder.tcc, line: 97
+2025-09-16 14:57:06	INFO	ImageMaskAttacher::makeMask	Created and initialized mask `mask0'
+2025-09-16 14:57:06	WARN	ImageRegridder::_doImagesOverlap	At least one of the images exceeds one degree on at one side, not checking for direction plane overlap.
+2025-09-16 14:57:06	WARN	ImageRegrid::regrid	You are regridding an image whose beam is not well sampled by the pixel size.  Total flux can be lost when regridding such images, especially when the new pixel size is larger than the old pixel size. It is recommended to check the total flux of your input and output image, and if necessary rebin the input to have smaller pixels.

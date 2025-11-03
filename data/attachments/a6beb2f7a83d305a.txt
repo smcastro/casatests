@@ -1,0 +1,277 @@
+2025-09-16 14:56:36	INFO	ImageFactory::createImage	Created Paged image 'test_gen.im' of shape [1, 1, 13] with float valued pixels.
+2025-09-16 14:56:36	SEVERE	image::boxcar	Exception Reported: Exception: The selected region of the image must have at least 3 pixels along the axis to be smoothed..
+2025-09-16 14:56:36	SEVERE	image::boxcar+	... thrown by std::shared_ptr<casacore::ImageInterface<T> > casa::Image1DSmoother<T>::smooth() const [with T = float] at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/Image1DSmoother.tcc, line: 39
+2025-09-16 14:56:36	SEVERE	image::boxcar	Exception Reported: Exception: The selected region of the image must have at least 4 pixels along the axis to be smoothed..
+2025-09-16 14:56:36	SEVERE	image::boxcar+	... thrown by std::shared_ptr<casacore::ImageInterface<T> > casa::Image1DSmoother<T>::smooth() const [with T = float] at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/Image1DSmoother.tcc, line: 39
+2025-09-16 14:56:36	SEVERE	image::boxcar	Exception Reported: Exception: The selected region of the image must have at least 3 pixels along the axis to be smoothed..
+2025-09-16 14:56:36	SEVERE	image::boxcar+	... thrown by std::shared_ptr<casacore::ImageInterface<T> > casa::Image1DSmoother<T>::smooth() const [with T = float] at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/Image1DSmoother.tcc, line: 39
+2025-09-16 14:56:36	SEVERE	image::boxcar	Exception Reported: Exception: The selected region of the image must have at least 4 pixels along the axis to be smoothed..
+2025-09-16 14:56:36	SEVERE	image::boxcar+	... thrown by std::shared_ptr<casacore::ImageInterface<T> > casa::Image1DSmoother<T>::smooth() const [with T = float] at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/Image1DSmoother.tcc, line: 39
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 1]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 1]
+2025-09-16 14:56:36	SEVERE	image::boxcar	Exception Reported: Exception: The convolution axis of selected image region must have length of at least 2*width when using the mean decimation function.
+2025-09-16 14:56:36	SEVERE	image::boxcar+	... thrown by std::shared_ptr<casacore::ImageInterface<T> > casa::ImageBoxcarSmoother<T>::_smooth(const casacore::ImageInterface<T>&) const [with T = float] at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/ImageBoxcarSmoother.tcc, line: 22
+2025-09-16 14:56:36	SEVERE	image::boxcar	Exception Reported: Exception: The selected region of the image must have at least 4 pixels along the axis to be smoothed..
+2025-09-16 14:56:36	SEVERE	image::boxcar+	... thrown by std::shared_ptr<casacore::ImageInterface<T> > casa::Image1DSmoother<T>::smooth() const [with T = float] at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/Image1DSmoother.tcc, line: 39
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 2]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 1]
+2025-09-16 14:56:36	SEVERE	image::boxcar	Exception Reported: Exception: The convolution axis of selected image region must have length of at least 2*width when using the mean decimation function.
+2025-09-16 14:56:36	SEVERE	image::boxcar+	... thrown by std::shared_ptr<casacore::ImageInterface<T> > casa::ImageBoxcarSmoother<T>::_smooth(const casacore::ImageInterface<T>&) const [with T = float] at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/ImageBoxcarSmoother.tcc, line: 22
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 1]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 1]
+2025-09-16 14:56:36	SEVERE	image::boxcar	Exception Reported: Exception: The convolution axis of selected image region must have length of at least 2*width when using the mean decimation function.
+2025-09-16 14:56:36	SEVERE	image::boxcar+	... thrown by std::shared_ptr<casacore::ImageInterface<T> > casa::ImageBoxcarSmoother<T>::_smooth(const casacore::ImageInterface<T>&) const [with T = float] at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/ImageBoxcarSmoother.tcc, line: 22
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 3]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 1]
+2025-09-16 14:56:36	SEVERE	image::boxcar	Exception Reported: Exception: The convolution axis of selected image region must have length of at least 2*width when using the mean decimation function.
+2025-09-16 14:56:36	SEVERE	image::boxcar+	... thrown by std::shared_ptr<casacore::ImageInterface<T> > casa::ImageBoxcarSmoother<T>::_smooth(const casacore::ImageInterface<T>&) const [with T = float] at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/ImageBoxcarSmoother.tcc, line: 22
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 2]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 1]
+2025-09-16 14:56:36	SEVERE	image::boxcar	Exception Reported: Exception: The convolution axis of selected image region must have length of at least 2*width when using the mean decimation function.
+2025-09-16 14:56:36	SEVERE	image::boxcar+	... thrown by std::shared_ptr<casacore::ImageInterface<T> > casa::ImageBoxcarSmoother<T>::_smooth(const casacore::ImageInterface<T>&) const [with T = float] at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/ImageBoxcarSmoother.tcc, line: 22
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 4]
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 2]
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:36	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:36	INFO	ImageRegion::fromRecord+	    [0, 0, 0] to [0, 0, 2]  (00:00:00.000, +00.00.00.000, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 1]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 3]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 1]
+2025-09-16 14:56:36	SEVERE	image::boxcar	Exception Reported: Exception: The convolution axis of selected image region must have length of at least 2*width when using the mean decimation function.
+2025-09-16 14:56:36	SEVERE	image::boxcar+	... thrown by std::shared_ptr<casacore::ImageInterface<T> > casa::ImageBoxcarSmoother<T>::_smooth(const casacore::ImageInterface<T>&) const [with T = float] at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/ImageBoxcarSmoother.tcc, line: 22
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 5]
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 2]
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:36	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:36	INFO	ImageRegion::fromRecord+	    [0, 0, 0] to [0, 0, 2]  (00:00:00.000, +00.00.00.000, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 1]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 4]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 1]
+2025-09-16 14:56:36	SEVERE	image::boxcar	Exception Reported: Exception: The convolution axis of selected image region must have length of at least 2*width when using the mean decimation function.
+2025-09-16 14:56:36	SEVERE	image::boxcar+	... thrown by std::shared_ptr<casacore::ImageInterface<T> > casa::ImageBoxcarSmoother<T>::_smooth(const casacore::ImageInterface<T>&) const [with T = float] at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/ImageBoxcarSmoother.tcc, line: 22
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 6]
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 2]
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:36	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:36	INFO	ImageRegion::fromRecord+	    [0, 0, 0] to [0, 0, 2]  (00:00:00.000, +00.00.00.000, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:36	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:36	INFO	ImageRegion::fromRecord+	    [0, 0, 3] to [0, 0, 5]  (00:00:00.000, +00.00.00.000, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 2]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 5]
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 2]
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:36	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:36	INFO	ImageRegion::fromRecord+	    [0, 0, 0] to [0, 0, 3]  (00:00:00.000, +00.00.00.000, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 1]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 7]
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 3]
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:36	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:36	INFO	ImageRegion::fromRecord+	    [0, 0, 0] to [0, 0, 2]  (00:00:00.000, +00.00.00.000, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:36	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:36	INFO	ImageRegion::fromRecord+	    [0, 0, 3] to [0, 0, 5]  (00:00:00.000, +00.00.00.000, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 2]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 6]
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 2]
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:36	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:36	INFO	ImageRegion::fromRecord+	    [0, 0, 0] to [0, 0, 3]  (00:00:00.000, +00.00.00.000, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 1]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 8]
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 3]
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:36	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:36	INFO	ImageRegion::fromRecord+	    [0, 0, 0] to [0, 0, 2]  (00:00:00.000, +00.00.00.000, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:36	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:36	INFO	ImageRegion::fromRecord+	    [0, 0, 3] to [0, 0, 5]  (00:00:00.000, +00.00.00.000, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 2]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 7]
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 2]
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:36	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:36	INFO	ImageRegion::fromRecord+	    [0, 0, 0] to [0, 0, 3]  (00:00:00.000, +00.00.00.000, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 1]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 9]
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 3]
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:36	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:36	INFO	ImageRegion::fromRecord+	    [0, 0, 0] to [0, 0, 2]  (00:00:00.000, +00.00.00.000, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:36	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:36	INFO	ImageRegion::fromRecord+	    [0, 0, 3] to [0, 0, 5]  (00:00:00.000, +00.00.00.000, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:36	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:36	INFO	ImageRegion::fromRecord+	    [0, 0, 6] to [0, 0, 8]  (00:00:00.000, +00.00.00.000, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 3]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 8]
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:36	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 2]
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:36	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:36	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:36	INFO	ImageRegion::fromRecord+	    [0, 0, 0] to [0, 0, 3]  (00:00:00.000, +00.00.00.000, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:36	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:36	INFO	ImageRegion::fromRecord+	    [0, 0, 4] to [0, 0, 7]  (00:00:00.000, +00.00.00.000, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:37	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:37	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 2]
+2025-09-16 14:56:37	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:37	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 10]
+2025-09-16 14:56:37	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:37	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:37	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:37	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 4]
+2025-09-16 14:56:37	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:37	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:37	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:37	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:37	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:37	INFO	ImageRegion::fromRecord+	    [0, 0, 0] to [0, 0, 2]  (00:00:00.000, +00.00.00.000, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:37	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:37	INFO	ImageRegion::fromRecord+	    [0, 0, 3] to [0, 0, 5]  (00:00:00.000, +00.00.00.000, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:37	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:37	INFO	ImageRegion::fromRecord+	    [0, 0, 6] to [0, 0, 8]  (00:00:00.000, +00.00.00.000, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:37	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:37	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 3]
+2025-09-16 14:56:37	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:37	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 9]
+2025-09-16 14:56:37	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:37	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:37	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:37	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 3]
+2025-09-16 14:56:37	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:37	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:37	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:37	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:37	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:37	INFO	ImageRegion::fromRecord+	    [0, 0, 0] to [0, 0, 3]  (00:00:00.000, +00.00.00.000, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:37	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:37	INFO	ImageRegion::fromRecord+	    [0, 0, 4] to [0, 0, 7]  (00:00:00.000, +00.00.00.000, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:37	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:37	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 2]
+2025-09-16 14:56:37	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:37	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 11]
+2025-09-16 14:56:37	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:37	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:37	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:37	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 4]
+2025-09-16 14:56:37	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:37	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:37	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:37	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:37	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:37	INFO	ImageRegion::fromRecord+	    [0, 0, 0] to [0, 0, 2]  (00:00:00.000, +00.00.00.000, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:37	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:37	INFO	ImageRegion::fromRecord+	    [0, 0, 3] to [0, 0, 5]  (00:00:00.000, +00.00.00.000, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:37	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:37	INFO	ImageRegion::fromRecord+	    [0, 0, 6] to [0, 0, 8]  (00:00:00.000, +00.00.00.000, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:37	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:37	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 3]
+2025-09-16 14:56:37	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:37	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 10]
+2025-09-16 14:56:37	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:37	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:37	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:37	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 3]
+2025-09-16 14:56:37	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:37	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:37	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:37	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:37	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:37	INFO	ImageRegion::fromRecord+	    [0, 0, 0] to [0, 0, 3]  (00:00:00.000, +00.00.00.000, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:37	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:37	INFO	ImageRegion::fromRecord+	    [0, 0, 4] to [0, 0, 7]  (00:00:00.000, +00.00.00.000, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:37	INFO	ImageBoxcarSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 13]
+2025-09-16 14:56:37	INFO	ImageBoxcarSmoother::smooth	New  size => [1, 1, 2]
+2025-09-16 14:56:37	INFO	name::	No table opened.
+2025-09-16 14:56:37	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:56:37	INFO	name::	No table opened.
+2025-09-16 14:56:37	INFO	name::	No table opened.

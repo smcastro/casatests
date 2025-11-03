@@ -1,0 +1,3 @@
+ :  spw with channel selection( 0:4~13 ), default start, LSRK nearest
+/casadata/repository/casatestdata/unittest/deconvolve/
+refim_point

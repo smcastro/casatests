@@ -1,0 +1,5 @@
+### result [0. 0. 0. 0. 1. 0. 0. 0. 0.]
+### mask [False False False False  True False False False False]
+### reference [0. 0. 0. 0. 1. 0. 0. 0. 0.]
+### mask [False False False False  True False False False False]
+err = [0.] (max 0.0 min 0.0)

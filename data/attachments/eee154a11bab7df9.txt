@@ -1,0 +1,12 @@
+importfitsidi-unit-test : Success! Now checking output ...
+importfitsidi-unit-test : MS exists. All tables present. Try opening as MS ...
+importfitsidi-unit-test : OK. Checking tables in detail ...
+importfitsidi-unit-test : comparing  ['OBSERVATION_ID', 638, 0, 0]
+importfitsidi-unit-test : comparing  ['UVW', 638, [171529.37575288, -786712.70341456, 210321.20978818], 1e-08]
+importfitsidi-unit-test : comparing  ['EXPOSURE', 638, 2.0, 1e-08]
+importfitsidi-unit-test : comparing  ['DATA', 638, [[(-0.00224198+0.00067056j), (-0.00475123+0.0024323j), (-0.00416393+0.00212671j), (-0.0056535+0.00340364j), (-0.00527357+0.00011977j), (-0.00292699+0.00131954j), (-0.00429945+0.00035823j), (-0.00545671-0.00033945j), (-0.00646004+0.00037293j), (-0.00419376-0.00115011j), (-0.00508117+0.00045939j), (-0.0050166-0.00047975j), (-0.00444734-0.00101535j), (-0.00384988-0.00102731j), (-0.00551326+0.00101364j), (-0.00337701+0.00080481j)]], 1e-08]
+importfitsidi-unit-test : comparing  ['OBSERVATION_ID', 8511, 1, 0]
+importfitsidi-unit-test : comparing  ['UVW', 8511, [828914.03079271, 439115.74358212, -3087211.83269717], 1e-08]
+importfitsidi-unit-test : comparing  ['EXPOSURE', 8511, 2.0971519947052, 1e-08]
+importfitsidi-unit-test : comparing  ['DATA', 8511, [[(-0.0005048021+0.0006272711j), (0.0004651772-0.0004499542j), (0.0002667628-0.0001897688j), (-0.0009842832-0.0005429656j), (-0.0001268085-0.0007897264j), (-0.0004823971-0.0002412655j), (0.0009139312+0.0002414373j), (6.49303e-05-0.001232001j), (-0.0002075107-0.0009946608j), (-0.0004472813+0.0009435851j), (0.0011783736-0.0003215929j), (0.0003143105-0.000239311j), (-0.000747297-0.0006453455j), (-0.0002369661-9.27994e-05j), (0.0007526718+0.0009522775j), (0.0006285428-0.0002970326j)]], 1e-08]
+importfitsidi-unit-test : table  MAIN  as expected.

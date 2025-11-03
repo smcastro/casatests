@@ -1,0 +1,10 @@
+test_tool_sdm_toms : testing SDM columns in alma_numbin_mixed  writing to  alma_numbin_mixed.ms
+test_tool_sdm_toms : testing SDM columns in alma_numbin_mixed  writing to  alma_numbin_mixed.numbin.ms
+test_tool_sdm_toms : using SpectralWindow.xml.numBin for SpectralWindow.xml
+test_tool_sdm_toms : restored original SpectralWindow.xml
+test_tool_sdm_toms : testing SDM columns in alma_numbin_mixed  writing to  alma_numbin_mixed.faked.ms
+test_tool_sdm_toms : using SpectralWindow.xml.faked for SpectralWindow.xml
+test_tool_sdm_toms : restored original SpectralWindow.xml
+test_tool_sdm_toms : testing SDM columns in alma_numbin_mixed  writing to  alma_numbin_mixed.faked.numBin.ms
+test_tool_sdm_toms : using SpectralWindow.xml.faked.numBin for SpectralWindow.xml
+test_tool_sdm_toms : restored original SpectralWindow.xml

@@ -1,0 +1,7 @@
+2025-09-16 18:43:10	SEVERE	task_tclean::FTMachine::initMaps	number of pixels 6 on x axis is smaller that the gridding support 6 Please use a larger value 
+2025-09-16 18:43:10	WARN	task_tclean::SynthesisImagerVi2::CubeMajorCycle (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/CubeMajorCycleAlgorithm.cc, line 353)	Exception for chan range [0, 9] ---   Error in making PSF : 2025-09-16 18:43:10	SEVERE	task_tclean::FTMachine::initMaps	number of pixels 6 on x axis is smaller that the gridding support 6 Please use a larger value 
+##################################
+#############################
+Exception: Error in making PSF : 2025-09-16 18:43:10	SEVERE	task_tclean::FTMachine::initMaps	number of pixels 6 on x axis is smaller that the gridding support 6 Please use a larger value 
+2025-09-16 18:43:10	SEVERE	task_tclean::SynthesisImagerVi2::runCubeGridding (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisImagerVi2.cc, line 1693)	remainder rank 0 failed 
+2025-09-16 18:43:10	SEVERE	tclean::::casa	Task tclean raised an exception of class RuntimeError with the following message: Error in making PSF : One or more  of the cube section failed in de/gridding. Return values for the sections: [0]

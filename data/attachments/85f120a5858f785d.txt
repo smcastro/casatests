@@ -1,0 +1,8 @@
+2025-09-16 14:56:51	INFO	ImageFactory::createImage	Created Temp image  of shape [10, 10] with float valued pixels.
+2025-09-16 14:56:51	INFO	::::ImageFactory::createImage	Created Temp image  of shape [10, 10] with float valued pixels.
+2025-09-16 14:56:51	INFO	::::image::fromshape	Ran ia.fromshape
+2025-09-16 14:56:51	INFO	::::image::fromshape	ia.fromshape(outfile="", shape=[10,10], csys={...}, linear=false, overwrite=false, log=true, type="f")
+2025-09-16 14:56:51	INFO	name::	No table opened.
+2025-09-16 14:56:51	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:56:51	INFO	name::	No table opened.
+2025-09-16 14:56:51	INFO	name::	No table opened.

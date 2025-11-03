@@ -1,0 +1,2 @@
+ :  frequency, start='1.5GHz', width='-50MHz', TOPO
+[check_spec_frame] tstCubetest_freqst10wdm.image: Spec frame is TOPO with crval 1500000000.0 (Pass : should be TOPO with expected crval 1500000000.0 )

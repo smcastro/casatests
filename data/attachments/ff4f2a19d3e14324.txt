@@ -1,0 +1,68 @@
+2025-09-16 16:26:27	WARN	imsmooth::::casa	The IMAGENAME parameter tests will cause errors to occur, do not be alarmed
+2025-09-16 16:26:27	WARN	imsmooth::::casa	The OUTFILE parameter tests will cause errors to occur, do not be alarmed
+2025-09-16 16:26:27	SEVERE	imsmooth::ImageInputProcessor::_process	Replaceable flag is false and there is already a file or directory named input_test1 so the output image will not be written
+2025-09-16 16:26:27	SEVERE	imsmooth::image::_convolve2d (file src/tools/image/image_cmpt.cc, line 1212)	Exception Reported: 2025-09-16 16:26:27	SEVERE	imsmooth::ImageInputProcessor::_process	Replaceable flag is false and there is already a file or directory named input_test1 so the output image will not be written
+2025-09-16 16:26:27	SEVERE	imsmooth::::casa	Task imsmooth raised an exception of class RuntimeError with the following message: 2025-09-16 16:26:27	SEVERE	imsmooth::ImageInputProcessor::_process	Replaceable flag is false and there is already a file or directory named input_test1 so the output image will not be written
+2025-09-16 16:26:27	WARN	imsmooth::::casa	The KERNEL parameter tests will cause errors to occur, do not be alarmed
+2025-09-16 16:26:27	WARN	imsmooth::::casa	The MAJOR parameter tests will cause errors to occur, do not be alarmed
+2025-09-16 16:26:27	WARN	imsmooth::Image2DConvolver::_dealWithRestoringBeam	Convolving kernel has minor axis 2.42407e-06 rad which is less than the pixel diagonal length of 3.42815e-06 rad. Thus, the kernel is poorly sampled, and so the output of this application may not be what you expect. You should consider increasing the kernel size or regridding the image to a smaller pixel size
+2025-09-16 16:26:27	SEVERE	imsmooth::image::_convolve2d (file src/tools/image/image_cmpt.cc, line 1212)	Exception Reported: Exception: Major axis is less than minor axis.
+2025-09-16 16:26:27	SEVERE	imsmooth::image::_convolve2d (file src/tools/image/image_cmpt.cc, line 1212)+	... thrown by void casa::Image2DConvolver<T>::setKernel(const casacore::String&, const Quantity&, const Quantity&, const Quantity&) [with T = float; casacore::Quantity = casacore::Quantum<double>] at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/Image2DConvolver.tcc, line: 134
+2025-09-16 16:26:27	SEVERE	imsmooth::::casa	Task imsmooth raised an exception of class RuntimeError with the following message: Exception: Major axis is less than minor axis.
+2025-09-16 16:26:27	SEVERE	imsmooth::::casa+	... thrown by void casa::Image2DConvolver<T>::setKernel(const casacore::String&, const Quantity&, const Quantity&, const Quantity&) [with T = float; casacore::Quantity = casacore::Quantum<double>] at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/Image2DConvolver.tcc, line: 134
+2025-09-16 16:26:27	WARN	imsmooth::::casa	The REGION parameter tests will cause errors to occur, do not be alarmed
+2025-09-16 16:26:27	WARN	imsmooth::::casa	The outfile paramter is empty, consequently the smoothed image will be
+2025-09-16 16:26:27	WARN	imsmooth::::casa+	saved on disk in file, imsmooth_results.im
+2025-09-16 16:26:27	SEVERE	regionmanager::frombcs	Exception Reported: Unrecognized type int for region, must be either string or region dictionary at File: src/tools/regionmanager/regionmanager_cmpt.cc, line: 887
+2025-09-16 16:26:27	SEVERE	imsmooth::::casa	Task imsmooth raised an exception of class RuntimeError with the following message: Unrecognized type int for region, must be either string or region dictionary at File: src/tools/regionmanager/regionmanager_cmpt.cc, line: 887
+2025-09-16 16:26:28	WARN	imsmooth::::casa	The outfile paramter is empty, consequently the smoothed image will be
+2025-09-16 16:26:28	WARN	imsmooth::::casa+	saved on disk in file, imsmooth_results.im
+2025-09-16 16:26:28	SEVERE	regionmanager::frombcs	Exception Reported: Unable to open region file or region table description garbage.rgn.
+2025-09-16 16:26:28	SEVERE	regionmanager::frombcs+	If it is supposed to be a text string its format is incorrect at File: /source/casa6/casatools/src/code/imageanalysis/Regions/CasacRegionManager.cc, line: 497
+2025-09-16 16:26:28	SEVERE	imsmooth::::casa	Task imsmooth raised an exception of class RuntimeError with the following message: Unable to open region file or region table description garbage.rgn.
+2025-09-16 16:26:28	SEVERE	imsmooth::::casa+	If it is supposed to be a text string its format is incorrect at File: /source/casa6/casatools/src/code/imageanalysis/Regions/CasacRegionManager.cc, line: 497
+2025-09-16 16:26:28	WARN	imsmooth::::casa	The outfile paramter is empty, consequently the smoothed image will be
+2025-09-16 16:26:28	WARN	imsmooth::::casa+	saved on disk in file, imsmooth_results.im
+2025-09-16 16:26:28	SEVERE	regionmanager::frombcs	Exception Reported: /scratch/scastro/casa/Tests/reports/garbage.rgn is neither a valid binary region file, nor a valid region text file. at File: /source/casa6/casatools/src/code/imageanalysis/Regions/CasacRegionManager.cc, line: 428
+2025-09-16 16:26:28	SEVERE	imsmooth::::casa	Task imsmooth raised an exception of class RuntimeError with the following message: /scratch/scastro/casa/Tests/reports/garbage.rgn is neither a valid binary region file, nor a valid region text file. at File: /source/casa6/casatools/src/code/imageanalysis/Regions/CasacRegionManager.cc, line: 428
+2025-09-16 16:26:29	WARN	imsmooth::::casa	The BOX parameter tests will cause errors to occur, do not be alarmed
+2025-09-16 16:26:29	WARN	imsmooth::::casa	The outfile paramter is empty, consequently the smoothed image will be
+2025-09-16 16:26:29	WARN	imsmooth::::casa+	saved on disk in file, imsmooth_results.im
+2025-09-16 16:26:29	SEVERE	CasacRegionManager::_fromBCS	blc in box spec is less than 0
+2025-09-16 16:26:29	SEVERE	regionmanager::frombcs	Exception Reported: 2025-09-16 16:26:29	SEVERE	CasacRegionManager::_fromBCS	blc in box spec is less than 0
+2025-09-16 16:26:29	SEVERE	imsmooth::::casa	Task imsmooth raised an exception of class RuntimeError with the following message: 2025-09-16 16:26:29	SEVERE	CasacRegionManager::_fromBCS	blc in box spec is less than 0
+2025-09-16 16:26:29	WARN	imsmooth::::casa	The CHANS parameter tests will cause errors to occur, do not be alarmed
+2025-09-16 16:26:29	WARN	imsmooth::::casa	The outfile paramter is empty, consequently the smoothed image will be
+2025-09-16 16:26:29	WARN	imsmooth::::casa+	saved on disk in file, imsmooth_results.im
+2025-09-16 16:26:29	SEVERE	regionmanager::frombcs	Exception Reported: Invalid channel specification in -5 of spec -5 at File: /source/casa6/casatools/src/code/imageanalysis/IO/ParameterParser.cc, line: 173
+2025-09-16 16:26:29	SEVERE	imsmooth::::casa	Task imsmooth raised an exception of class RuntimeError with the following message: Invalid channel specification in -5 of spec -5 at File: /source/casa6/casatools/src/code/imageanalysis/IO/ParameterParser.cc, line: 173
+2025-09-16 16:26:29	WARN	imsmooth::::casa	The outfile paramter is empty, consequently the smoothed image will be
+2025-09-16 16:26:29	WARN	imsmooth::::casa+	saved on disk in file, imsmooth_results.im
+2025-09-16 16:26:29	SEVERE	regionmanager::frombcs	Exception Reported: Invalid channel specification in -2 of spec -2 at File: /source/casa6/casatools/src/code/imageanalysis/IO/ParameterParser.cc, line: 173
+2025-09-16 16:26:29	SEVERE	imsmooth::::casa	Task imsmooth raised an exception of class RuntimeError with the following message: Invalid channel specification in -2 of spec -2 at File: /source/casa6/casatools/src/code/imageanalysis/IO/ParameterParser.cc, line: 173
+2025-09-16 16:26:29	WARN	imsmooth::::casa	The outfile paramter is empty, consequently the smoothed image will be
+2025-09-16 16:26:29	WARN	imsmooth::::casa+	saved on disk in file, imsmooth_results.im
+2025-09-16 16:26:29	SEVERE	regionmanager::frombcs	Exception Reported: Invalid channel specification in -18 of spec -18 at File: /source/casa6/casatools/src/code/imageanalysis/IO/ParameterParser.cc, line: 173
+2025-09-16 16:26:29	SEVERE	imsmooth::::casa	Task imsmooth raised an exception of class RuntimeError with the following message: Invalid channel specification in -18 of spec -18 at File: /source/casa6/casatools/src/code/imageanalysis/IO/ParameterParser.cc, line: 173
+2025-09-16 16:26:29	WARN	imsmooth::::casa	The outfile paramter is empty, consequently the smoothed image will be
+2025-09-16 16:26:29	WARN	imsmooth::::casa+	saved on disk in file, imsmooth_results.im
+2025-09-16 16:26:29	SEVERE	regionmanager::frombcs	Exception Reported: Exception: Zero-based max channel 45 must be less than the total number of channels (40) in the channel specification 45.
+2025-09-16 16:26:29	SEVERE	regionmanager::frombcs+	... thrown by static std::vector<unsigned int> casa::ParameterParser::spectralRangesFromChans(casacore::uInt&, const casacore::String&, casacore::uInt) at File: /source/casa6/casatools/src/code/imageanalysis/IO/ParameterParser.cc, line: 183
+2025-09-16 16:26:29	SEVERE	imsmooth::::casa	Task imsmooth raised an exception of class RuntimeError with the following message: Exception: Zero-based max channel 45 must be less than the total number of channels (40) in the channel specification 45.
+2025-09-16 16:26:29	SEVERE	imsmooth::::casa+	... thrown by static std::vector<unsigned int> casa::ParameterParser::spectralRangesFromChans(casacore::uInt&, const casacore::String&, casacore::uInt) at File: /source/casa6/casatools/src/code/imageanalysis/IO/ParameterParser.cc, line: 183
+2025-09-16 16:26:29	WARN	imsmooth::::casa	The outfile paramter is empty, consequently the smoothed image will be
+2025-09-16 16:26:29	WARN	imsmooth::::casa+	saved on disk in file, imsmooth_results.im
+2025-09-16 16:26:29	SEVERE	regionmanager::frombcs	Exception Reported: Exception: Zero-based max channel 40 must be less than the total number of channels (40) in the channel specification 40.
+2025-09-16 16:26:29	SEVERE	regionmanager::frombcs+	... thrown by static std::vector<unsigned int> casa::ParameterParser::spectralRangesFromChans(casacore::uInt&, const casacore::String&, casacore::uInt) at File: /source/casa6/casatools/src/code/imageanalysis/IO/ParameterParser.cc, line: 183
+2025-09-16 16:26:29	SEVERE	imsmooth::::casa	Task imsmooth raised an exception of class RuntimeError with the following message: Exception: Zero-based max channel 40 must be less than the total number of channels (40) in the channel specification 40.
+2025-09-16 16:26:29	SEVERE	imsmooth::::casa+	... thrown by static std::vector<unsigned int> casa::ParameterParser::spectralRangesFromChans(casacore::uInt&, const casacore::String&, casacore::uInt) at File: /source/casa6/casatools/src/code/imageanalysis/IO/ParameterParser.cc, line: 183
+2025-09-16 16:26:35	WARN	imsmooth::::casa	The STOKES parameter tests will cause errors to occur, do not be alarmed
+2025-09-16 16:26:35	WARN	imsmooth::::casa	The outfile paramter is empty, consequently the smoothed image will be
+2025-09-16 16:26:35	WARN	imsmooth::::casa+	saved on disk in file, imsmooth_results.im
+2025-09-16 16:26:35	SEVERE	regionmanager::frombcs	Exception Reported: LCBox::LCBox - blc [0, 0, 0, 0] must be <= trc [511, 511, -2147483648, 39]
+2025-09-16 16:26:35	SEVERE	imsmooth::::casa	Task imsmooth raised an exception of class RuntimeError with the following message: LCBox::LCBox - blc [0, 0, 0, 0] must be <= trc [511, 511, -2147483648, 39]
+2025-09-16 16:26:35	WARN	imsmooth::::casa	The outfile paramter is empty, consequently the smoothed image will be
+2025-09-16 16:26:35	WARN	imsmooth::::casa+	saved on disk in file, imsmooth_results.im
+2025-09-16 16:26:35	SEVERE	CasacRegionManager::_setPolarizationRanges	(Sub)String YELLOW in stokes specification part YELLOW does not match a known polarization.
+2025-09-16 16:26:35	SEVERE	regionmanager::frombcs	Exception Reported: 2025-09-16 16:26:35	SEVERE	CasacRegionManager::_setPolarizationRanges	(Sub)String YELLOW in stokes specification part YELLOW does not match a known polarization.
+2025-09-16 16:26:35	SEVERE	imsmooth::::casa	Task imsmooth raised an exception of class RuntimeError with the following message: 2025-09-16 16:26:35	SEVERE	CasacRegionManager::_setPolarizationRanges	(Sub)String YELLOW in stokes specification part YELLOW does not match a known polarization.

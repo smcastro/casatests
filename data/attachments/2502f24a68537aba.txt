@@ -1,0 +1,4 @@
+The MS is already around, just unflag
+(3) Finished flagcmd test : using tdevfile, fdevfile in the cmd (test 1)) :  5971.0
+(4) Finished flagcmd test : using cmd arrays :  5971.0
+(5) Finished flagcmd test : using outcmd.txt from flagdata (test 2) :  39504.0

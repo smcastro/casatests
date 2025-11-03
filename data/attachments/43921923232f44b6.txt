@@ -1,0 +1,76 @@
+test_tool_sdm_toms: Success! Now checking output ...
+test_tool_sdm_toms: table.f4 present.
+test_tool_sdm_toms: ANTENNA/table.f0 present.
+test_tool_sdm_toms: SYSCAL/table.f0 present.
+test_tool_sdm_toms: STATE/table.dat present.
+test_tool_sdm_toms: SPECTRAL_WINDOW/table.f0 present.
+test_tool_sdm_toms: SPECTRAL_WINDOW/table.dat present.
+test_tool_sdm_toms: table.f3 present.
+test_tool_sdm_toms: table.f8 present.
+test_tool_sdm_toms: FLAG_CMD/table.f0 present.
+test_tool_sdm_toms: table.f2 present.
+test_tool_sdm_toms: table.dat present.
+test_tool_sdm_toms: STATE/table.f0 present.
+test_tool_sdm_toms: SOURCE/table.f0 present.
+test_tool_sdm_toms: FEED/table.dat present.
+test_tool_sdm_toms: POINTING/table.f0 present.
+test_tool_sdm_toms: SYSCAL/table.dat present.
+test_tool_sdm_toms: table.f7 present.
+test_tool_sdm_toms: SOURCE/table.dat present.
+test_tool_sdm_toms: FLAG_CMD/table.dat present.
+test_tool_sdm_toms: FEED/table.f0 present.
+test_tool_sdm_toms: table.f5 present.
+test_tool_sdm_toms: DATA_DESCRIPTION/table.dat present.
+test_tool_sdm_toms: HISTORY/table.dat present.
+test_tool_sdm_toms: table.f6 present.
+test_tool_sdm_toms: PROCESSOR/table.dat present.
+test_tool_sdm_toms: DATA_DESCRIPTION/table.f0 present.
+test_tool_sdm_toms: ANTENNA/table.dat present.
+test_tool_sdm_toms: POLARIZATION/table.dat present.
+test_tool_sdm_toms: HISTORY/table.f0 present.
+test_tool_sdm_toms: OBSERVATION/table.f0 present.
+test_tool_sdm_toms: FIELD/table.f0 present.
+test_tool_sdm_toms: table.f1 present.
+test_tool_sdm_toms: FIELD/table.dat present.
+test_tool_sdm_toms: OBSERVATION/table.dat present.
+test_tool_sdm_toms: POLARIZATION/table.f0 present.
+test_tool_sdm_toms: POINTING/table.dat present.
+test_tool_sdm_toms: PROCESSOR/table.f0 present.
+test_tool_sdm_toms: MS exists. All tables present. Try opening as MS ...
+test_tool_sdm_toms: OK. Checking tables in detail ...
+test_tool_sdm_toms: comparing ['UVW', 42, [0.0, 0.0, 0.0], 2e-07]
+test_tool_sdm_toms: comparing ['EXPOSURE', 42, 1.008, 0]
+test_tool_sdm_toms: comparing ['DATA', 42, [[(10.5526886+0j)]], 1e-07]
+test_tool_sdm_toms: table MAIN as expected.
+test_tool_sdm_toms: comparing ['UVW', 638, [-65.14758508, 1.13423277, -33.51712451], 2e-07]
+test_tool_sdm_toms: comparing ['EXPOSURE', 638, 1.008, 0]
+test_tool_sdm_toms: comparing ['DATA', 638, [[(0.00362284+0.00340279j)]], 1e-08]
+test_tool_sdm_toms: table MAIN as expected.
+test_tool_sdm_toms: comparing ['OFFSET', 1, [0.0, 0.0, 0.0], 0]
+test_tool_sdm_toms: comparing ['POSITION', 1, [2202242.552, -5445215.157, -2485305.092], 0.0001]
+test_tool_sdm_toms: comparing ['DISH_DIAMETER', 1, 12.0, 0]
+test_tool_sdm_toms: table ANTENNA as expected.
+test_tool_sdm_toms: comparing ['DIRECTION', 10, [[1.94681283], [1.19702955]], 1e-08]
+test_tool_sdm_toms: comparing ['INTERVAL', 10, 0.048, 0]
+test_tool_sdm_toms: comparing ['TARGET', 10, [[1.94681283], [1.19702955]], 1e-08]
+test_tool_sdm_toms: comparing ['TIME', 10, 4758823736.016, 1e-06]
+test_tool_sdm_toms: comparing ['TIME_ORIGIN', 10, 0.0, 0]
+test_tool_sdm_toms: comparing ['POINTING_OFFSET', 10, [[0.0], [0.0]], 0]
+test_tool_sdm_toms: comparing ['ENCODER', 10, [1.94851533, 1.19867576], 1e-08]
+test_tool_sdm_toms: table POINTING as expected.
+test_tool_sdm_toms: comparing ['FLAG_ROW', 0, False, 0]
+test_tool_sdm_toms: comparing ['MODE_ID', 0, 0, 0]
+test_tool_sdm_toms: comparing ['TYPE', 0, 'CORRELATOR', 0]
+test_tool_sdm_toms: comparing ['TYPE_ID', 0, -1, 0]
+test_tool_sdm_toms: comparing ['SUB_TYPE', 0, 'ALMA_BASELINE', 0]
+test_tool_sdm_toms: table PROCESSOR as expected.
+
+>>>> Test of exportasdm: input MS  is M51.ms
+(a simulated input MS with pointing table)
+Verifying asdm M51.ms.asdm
+Note: xml validation not possible since ASDM DTDs (schemas) not yet online.
+Reimporting the created ASDM ....
+Testing existence of reimported MS ....
+Testing equivalence of the original and the reimported MS.
+Original MS contains 4320 integrations.
+Reimported MS contains 4320 integrations.

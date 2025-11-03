@@ -1,0 +1,20 @@
+Copying  X39a.pm03.scan3.ms
+/casadata/repository/casatestdata/unittest/virtualconcat/X39a.pm03.scan3.ms
+Copying  X425.pm04.scan4.ms
+/casadata/repository/casatestdata/unittest/virtualconcat/X425.pm04.scan4.ms
+Copying  X425.pm03.scan4.ms
+/casadata/repository/casatestdata/unittest/virtualconcat/X425.pm03.scan4.ms
+test_task_virtualconcat : Now checking output MS  concatenated.ms
+test_task_virtualconcat : OK. Checking tables in detail ...
+test_task_virtualconcat : comparing  ['SOURCE_ID', 41, 13, 0]
+test_task_virtualconcat : comparing  ['SPECTRAL_WINDOW_ID', 41, 2, 0]
+test_task_virtualconcat : table  SOURCE  as expected.
+test_task_virtualconcat : comparing  ['NUM_CHAN', 2, 128, 0]
+test_task_virtualconcat : table  SPECTRAL_WINDOW  as expected.
+test_task_virtualconcat : comparing  ['WEIGHT', 0, array([11.86871839]), 1e-06]
+test_task_virtualconcat : comparing  ['WEIGHT', 23813, array([19.3635335]), 1e-06]
+test_task_virtualconcat : comparing  ['WEIGHT', 23814, array([7.91247892]), 1e-06]
+test_task_virtualconcat : comparing  ['WEIGHT', 47627, array([12.90902233]), 1e-06]
+test_task_virtualconcat : comparing  ['WEIGHT', 47628, array([3.95623946]), 1e-06]
+test_task_virtualconcat : comparing  ['WEIGHT', 71441, array([6.45451117]), 1e-06]
+test_task_virtualconcat : table  MAIN  as expected.

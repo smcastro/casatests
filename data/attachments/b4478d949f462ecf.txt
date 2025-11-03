@@ -1,0 +1,4 @@
+Test beamarea of tst0.image (natural) is greater than beamarea of tst.image (uniform)
+Test beamarea of tst2.image (briggs -2) is greater than beamarea of tst.image (uniform)
+Test beamarea of tst3.image (briggs 0.5) is greater than beamarea of tst2.image (briggs -2))
+Test beamarea of tst4.image (briggs 2) is greater than beamarea of tst3.image (briggs 0.5))

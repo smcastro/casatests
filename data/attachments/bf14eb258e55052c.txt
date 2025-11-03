@@ -1,0 +1,3 @@
+ :  frequency, start='1.1GHz', default width, spw=0:4~19, TOPO
+/casadata/repository/casatestdata/unittest/deconvolve/
+refim_point

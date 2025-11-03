@@ -1,0 +1,5 @@
+_run_task::starts
+numOfScan =61, numOfState=3
+-- checking Output Record Count --
+tearDown::deleting MSs.
+tearDownClass::deleting work-MS.

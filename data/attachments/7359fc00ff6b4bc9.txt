@@ -1,0 +1,4 @@
+2025-09-16 14:58:05	INFO	test
+::MSFitsInput::MSFitsInput	Converting FITS file '/casadata/repository/casatestdata/unittest/mstool/1331+305_I.UVFITS' to MeasurementSet 'my.ms'
+2025-09-16 14:58:05	SEVERE	test
+::ms::fromfits	Stokes I cannot be decomposed into proper correlation types without making assumptions. This functionality is not supported at File: /source/casa6/casatools/casacore/msfits/MSFits/MSFitsInput.cc, line: 744 at File: /source/casa6/casatools/casacore/msfits/MSFits/MSFitsInput.cc, line: 597

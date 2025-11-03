@@ -1,0 +1,53 @@
+2025-09-16 14:56:51	INFO	ImageFactory::createImage	Created Paged image 'test_gen.im' of shape [1, 1, 6] with float valued pixels.
+2025-09-16 14:56:51	SEVERE	image::hanning	Exception Reported: Exception: The selected region of the image must have at least 3 pixels along the axis to be smoothed..
+2025-09-16 14:56:51	SEVERE	image::hanning+	... thrown by std::shared_ptr<casacore::ImageInterface<T> > casa::Image1DSmoother<T>::smooth() const [with T = float] at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/Image1DSmoother.tcc, line: 39
+2025-09-16 14:56:51	SEVERE	image::hanning	Exception Reported: Exception: The selected region of the image must have at least 3 pixels along the axis to be smoothed..
+2025-09-16 14:56:51	SEVERE	image::hanning+	... thrown by std::shared_ptr<casacore::ImageInterface<T> > casa::Image1DSmoother<T>::smooth() const [with T = float] at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/Image1DSmoother.tcc, line: 39
+2025-09-16 14:56:51	INFO	HanningSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 6]
+2025-09-16 14:56:51	INFO	HanningSmoother::smooth	New  size => [1, 1, 3]
+2025-09-16 14:56:51	INFO	HanningSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 6]
+2025-09-16 14:56:51	INFO	HanningSmoother::smooth	New  size => [1, 1, 1]
+2025-09-16 14:56:51	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:51	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:51	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:51	INFO	ImageRegion::fromRecord+	    [0, 0, 0] to [0, 0, 1]  (00:00:00.000, +00.00.00.000, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:51	INFO	HanningSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 6]
+2025-09-16 14:56:51	INFO	HanningSmoother::smooth	New  size => [1, 1, 1]
+2025-09-16 14:56:51	INFO	HanningSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 6]
+2025-09-16 14:56:51	INFO	HanningSmoother::smooth	New  size => [1, 1, 4]
+2025-09-16 14:56:51	INFO	HanningSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 6]
+2025-09-16 14:56:51	INFO	HanningSmoother::smooth	New  size => [1, 1, 1]
+2025-09-16 14:56:51	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:51	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:51	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:51	INFO	ImageRegion::fromRecord+	    [0, 0, 0] to [0, 0, 1]  (00:00:00.000, +00.00.00.000, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:51	INFO	HanningSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 6]
+2025-09-16 14:56:51	INFO	HanningSmoother::smooth	New  size => [1, 1, 1]
+2025-09-16 14:56:51	INFO	HanningSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 6]
+2025-09-16 14:56:51	INFO	HanningSmoother::smooth	New  size => [1, 1, 5]
+2025-09-16 14:56:51	INFO	HanningSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 6]
+2025-09-16 14:56:51	INFO	HanningSmoother::smooth	New  size => [1, 1, 2]
+2025-09-16 14:56:51	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:51	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:51	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:51	INFO	ImageRegion::fromRecord+	    [0, 0, 0] to [0, 0, 1]  (00:00:00.000, +00.00.00.000, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:51	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:51	INFO	ImageRegion::fromRecord+	    [0, 0, 2] to [0, 0, 3]  (00:00:00.000, +00.00.00.000, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:51	INFO	HanningSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 6]
+2025-09-16 14:56:51	INFO	HanningSmoother::smooth	New  size => [1, 1, 2]
+2025-09-16 14:56:51	INFO	HanningSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 6]
+2025-09-16 14:56:51	INFO	HanningSmoother::smooth	New  size => [1, 1, 6]
+2025-09-16 14:56:51	INFO	HanningSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 6]
+2025-09-16 14:56:51	INFO	HanningSmoother::smooth	New  size => [1, 1, 2]
+2025-09-16 14:56:51	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:51	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:51	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:51	INFO	ImageRegion::fromRecord+	    [0, 0, 0] to [0, 0, 1]  (00:00:00.000, +00.00.00.000, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:51	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:51	INFO	ImageRegion::fromRecord+	    [0, 0, 2] to [0, 0, 3]  (00:00:00.000, +00.00.00.000, 1.415e+09Hz to 00:00:00.000, +00.00.00.000, 1.415e+09Hz)
+2025-09-16 14:56:51	INFO	HanningSmoother::smooth	Original /scratch/scastro/casa/Tests/reports/test_gen.im size => [1, 1, 6]
+2025-09-16 14:56:51	INFO	HanningSmoother::smooth	New  size => [1, 1, 2]
+2025-09-16 14:56:51	INFO	name::	No table opened.
+2025-09-16 14:56:51	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:56:51	INFO	name::	No table opened.
+2025-09-16 14:56:51	INFO	name::	No table opened.

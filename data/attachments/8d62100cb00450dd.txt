@@ -1,0 +1,5 @@
+2025-09-16 14:56:51	INFO	ImageFactory::createImage	Created Paged image 'ia.fromarray.image' of shape [5, 10] with float valued pixels.
+2025-09-16 14:56:51	SEVERE	image::histograms (file src/tools/image/image_cmpt.cc, line 3089)	Exception Reported: Exception: Invalid cursor axes.
+2025-09-16 14:56:51	SEVERE	image::histograms (file src/tools/image/image_cmpt.cc, line 3089)+	... thrown by casacore::Record casa::ImageHistogramsCalculator<T>::compute() const [with T = float] at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/ImageHistogramsCalculator.tcc, line: 61
+2025-09-16 14:56:51	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:51	INFO	ImageRegion::fromRecord+	    [0, 0] to [4, 4]  (00:00:08.000, -00.05.00.000 to 23:59:52.000, -00.01.00.000)

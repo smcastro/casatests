@@ -1,0 +1,5 @@
+2025-09-16 16:39:39	SEVERE		Error in QuantumHolder::fromString with input string "xxh53m50": Illegal input units or format
+2025-09-16 16:39:39	SEVERE	+	 in converting quantity from string 
+2025-09-16 16:39:39	SEVERE		Exception Reported: Empty QuantumHolder argument for asQuantumDouble
+2025-09-16 16:39:39	SEVERE		Exception Reports: Empty QuantumHolder argument for asQuantumDouble
+2025-09-16 16:39:39	SEVERE	imstat::::casa	*** Error measures.direction() failed for phasecenter string: BOGUS xxh53m50 40d06m00 when interpreting parameter 'phasecenter': 

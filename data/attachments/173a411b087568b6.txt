@@ -1,0 +1,5 @@
+2025-09-16 16:30:26	WARN	MSTransformRegridder::calcChanFreqs	 *** Requested new channel width (1182.5 Hz) is smaller than smallest original channel width
+2025-09-16 16:30:26	WARN	MSTransformRegridder::calcChanFreqs+	     which is 61039.5 Hz
+2025-09-16 16:30:26	WARN	MSTransformRegridder::calcChanFreqs+	     or 51.6189 m/s
+2025-09-16 16:30:26	SEVERE	MSTransformRegridder::calcChanFreqs	calcChanFreqs failed, check input start and width parameters
+2025-09-16 16:30:26	SEVERE	ParallelDataHelper::::casa	Task mstransform raised an exception of class RuntimeError with the following message: 2025-09-16 16:30:26	SEVERE	MSTransformRegridder::calcChanFreqs	calcChanFreqs failed, check input start and width parameters

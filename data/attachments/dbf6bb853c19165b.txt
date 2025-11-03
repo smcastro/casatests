@@ -1,0 +1,2 @@
+2025-09-16 16:11:16	SEVERE	image::fitcomponents (file src/tools/image/image_cmpt.cc, line 1829)	Exception Reported: Exception: No valid estmates were found in file ./empty.txt.
+2025-09-16 16:11:16	SEVERE	image::fitcomponents (file src/tools/image/image_cmpt.cc, line 1829)+	... thrown by void casa::FitterEstimatesFileParser::_parseFile(const casacore::RegularFile&) at File: /source/casa6/casatools/src/code/imageanalysis/IO/FitterEstimatesFileParser.cc, line: 178
