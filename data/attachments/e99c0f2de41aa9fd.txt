@@ -1,0 +1,9 @@
+_run_task::starts
+-- checking Zero --
+-- checking Time --
+-- checking Weight and Sigma --
+Weight Ref :3843
+Weight     :[3842.99975586 3842.99975586]
+Sigma      :[0.01613113 0.01613113]
+-- checking Output Record Count --
+tearDown::deleting MSs.

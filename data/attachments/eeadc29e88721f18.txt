@@ -1,0 +1,15 @@
+2025-09-16 18:43:22	SEVERE	tsdimaging::::casa	Traceback (most recent call last):
+2025-09-16 18:43:22	SEVERE	tsdimaging::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 18:43:22	SEVERE	tsdimaging::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_tsdimaging.py", line 1112, in tsdimaging
+2025-09-16 18:43:22	SEVERE	tsdimaging::::casa+	    imager.initializeImagers()
+2025-09-16 18:43:22	SEVERE	tsdimaging::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/imagerhelpers/imager_base.py", line 105, in initializeImagers
+2025-09-16 18:43:22	SEVERE	tsdimaging::::casa+	    self.SItool.selectdata(self.allselpars[mss])
+2025-09-16 18:43:22	SEVERE	tsdimaging::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/synthesisimager.py", line 26, in selectdata
+2025-09-16 18:43:22	SEVERE	tsdimaging::::casa+	    return self._swigobj.selectdata(selpars)
+2025-09-16 18:43:22	SEVERE	tsdimaging::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 18:43:22	SEVERE	tsdimaging::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/__casac__/synthesisimager.py", line 130, in selectdata
+2025-09-16 18:43:22	SEVERE	tsdimaging::::casa+	    return _synthesisimager.synthesisimager_selectdata(self, *args, **kwargs)
+2025-09-16 18:43:22	SEVERE	tsdimaging::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 18:43:22	SEVERE	tsdimaging::::casa+	RuntimeError: Error in selectData() : No match found for the antenna specificion [ID(s): [99]] 
+2025-09-16 18:43:22	SEVERE	tsdimaging::::casa	Error in selectData() : No match found for the antenna specificion [ID(s): [99]] 
+2025-09-16 18:43:22	SEVERE	tsdimaging::::casa	Task tsdimaging raised an exception of class RuntimeError with the following message: Error in selectData() : No match found for the antenna specificion [ID(s): [99]] 

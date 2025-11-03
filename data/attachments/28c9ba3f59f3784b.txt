@@ -1,0 +1,16 @@
+
+Checking WEIGHT and SIGMA after ('data', '1', '0s').
+
+Checking WEIGHT and SIGMA after ('corrected', '1', '0s').
+
+Checking WEIGHT and SIGMA after ('data', '2', '0s').
+
+Checking WEIGHT and SIGMA after ('data', '1', '60s').
+
+Checking WEIGHT and SIGMA after ('data', '1', '30s').
+
+Checking WEIGHT and SIGMA after ('corrected', '2', '0s').
+
+Checking WEIGHT and SIGMA after ('corrected', '1', '30s').
+
+Checking WEIGHT and SIGMA after ('corrected', '1', '60s').

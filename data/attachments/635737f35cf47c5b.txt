@@ -1,0 +1,2 @@
+('diff for a_0 for field 4: diff_spidx0=', np.float64(5.43954403484929e-10))
+('diff for a_3 for field 4: diff_spidx3=', np.float64(-9.84382546222947e-10))

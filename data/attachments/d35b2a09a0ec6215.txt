@@ -1,0 +1,550 @@
+2025-09-16 14:57:32	INFO	test
+::ms::listhistory	History table entries: 274
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	AIPS HEADER4  OBSCHANS =         128      /AIPS Catalog Header Keyword
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	AIPS HEADER3  CORRMODE = '2AC     '       /AIPS Catalog Header Keyword
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	AIPS HEADER4  SELCHANS =         127      /AIPS Catalog Header Keyword
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	AIPS HEADER3  VLAIFS   = 'AC      '       /AIPS Catalog Header Keyword
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	 / Where baseline = 256*ant1 + ant2 + (array#-1)/100
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	/--------------------------------------------------------------------
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	/Begin "HISTORY" information found in FITS tape header by FITLD
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BLOCKED =                    T /Tape may be blocked
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	 / Where baseline = 256*ant1 + ant2 + (array#-1)/100
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	FILLM / Image created by user 1102 at 03-MAY-1995   16:10:25
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	FILLM OUTNAME='13/04/95    '   OUTCLASS='LINE  '
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	FILLM OUTSEQ=    2   OUTDISK=  2
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	FILLM  INTAPE =  3, NFILES =    0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	FILLM  BAND = 'L', QUAL =     0,  CALC = '     '
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	FILLM  VLAMODE ='  '
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	FILLM  / Control program ID =
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	FILLM  / VLA conf. = D
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	FILLM  / correlator mode = 2AC
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	FILLM  / AP options = H
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	FILLM /TIMERANG = beginning to end
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	FILLM  BCHAN =    1 ECHAN =  127 / Spectral channels
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	FILLM  CPARM(1) =  0.000 / Integration (sec)
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	FILLM  CPARM(3) =   3. / Max. IF stat. to pass
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	FILLM  CPARM(4) =   0. / .lt. 0 => no shadow flag
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	FILLM  CPARM(6) =   0. / Subarray
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	FILLM  CPARM(7) =     0.000 / FQ entry tolerance
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	FILLM  CPARM(8) =   5.00 / CL table time increment
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	FILLM  / Telescope = VLA      Program = TEST
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	FILLM  RELEASE = '15JUL95 '
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP Release ='15JUL95 '  /********* Start 08-MAY-1995   15:37:41
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP INNAME='13/04/95    '   INCLASS='CH 0  '
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP INSEQ=    2   INDISK=  2
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP  INEXT='CL' INVERS=   2 OUTVERS=   0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP  NCOUNT=    0 /Number of tables to copy
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP  / Warning: No tables copied
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP Release ='15JUL95 '  /********* Start 08-MAY-1995   15:38:44
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP INNAME='13/04/95    '   INCLASS='CH 0  '
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP INSEQ=    2   INDISK=  2
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP  INEXT='CL' INVERS=   2 OUTVERS=   0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP  NCOUNT=    1 /Number of tables to copy
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP  / Copied      1 tables
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS Release ='15JUL95 '  /********* Start 08-MAY-1995   15:42:16
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  /Calibrators included:
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  CALSOUR = '1331+30500002   ','                '
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  QUAL =   -1 CALCODE =
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  UVRANGE(1)= 0.00000E+00 /Min. uv used
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  UVRANGE(2)= 0.00000E+00 /Max. uv used
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS IN2NAME='            '   IN2CLASS='      '
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS IN2SEQ=    0   IN2DISK=  0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  INVER =     2 /CC file version no.
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  NMAPS =   0 /Number of clean images used
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS /TIMERANG = beginning to end
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  SOLINT = 0.0 /Scan average
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  SUBARRAY =   0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  REFANT =    0 /Reference antenna
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  BCHAN =    1 ECHAN =  127 /Start and stop channels
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  Dividing data by channel 0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  Ch. 0 Avgd: Start, Stop, Inc    1 127   1
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  ANTWT=  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0 /Ant. wt
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS         1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS         1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS         1.0  1.0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS Release ='15JUL95 '  /********* Start 09-MAY-1995   10:58:53
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  /Calibrators included:
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  CALSOUR = '1331+30500002   ','                '
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  QUAL =   -1 CALCODE =
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  UVRANGE(1)= 0.00000E+00 /Min. uv used
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  UVRANGE(2)= 0.00000E+00 /Max. uv used
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS IN2NAME='            '   IN2CLASS='      '
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS IN2SEQ=    0   IN2DISK=  0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  INVER =     1 /CC file version no.
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  NMAPS =   0 /Number of clean images used
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS /TIMERANG = beginning to end
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  SOLINT = 0.0 /Scan average
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  SUBARRAY =   0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  REFANT =    0 /Reference antenna
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  BCHAN =    1 ECHAN =  127 /Start and stop channels
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  Dividing data by channel 0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  Ch. 0 Avgd: Start, Stop, Inc    1 127   1
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  ANTWT=  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0 /Ant. wt
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS         1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS         1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS         1.0  1.0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS Release ='15JAN95 '  /********* Start 09-MAY-1995   11:02:55
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  /Calibrators included:
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  CALSOUR = '1331+30500002   ','                '
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  QUAL =   -1 CALCODE =
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  UVRANGE(1)= 0.00000E+00 /Min. uv used
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  UVRANGE(2)= 0.00000E+00 /Max. uv used
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS IN2NAME='            '   IN2CLASS='      '
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS IN2SEQ=    0   IN2DISK=  0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  INVER =     1 /CC file version no.
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  NMAPS =   0 /Number of clean images used
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS /TIMERANG = beginning to end
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  SOLINT = 0.0 /Scan average
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  SUBARRAY =   0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  REFANT =    0 /Reference antenna
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  BCHAN =    1 ECHAN =  127 /Start and stop channels
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  Dividing data by channel 0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  Ch. 0 Avgd: Start, Stop, Inc    1 127   1
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  ANTWT=  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0 /Ant. wt
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS         1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS         1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS         1.0  1.0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS Release ='15JUL95 '  /********* Start 09-MAY-1995   13:58:27
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  /Calibrators included:
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  CALSOUR = '1331+30500002   ','                '
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  QUAL =   -1 CALCODE =
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  UVRANGE(1)= 0.00000E+00 /Min. uv used
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  UVRANGE(2)= 0.00000E+00 /Max. uv used
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS IN2NAME='            '   IN2CLASS='      '
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS IN2SEQ=    0   IN2DISK=  0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  INVER =     1 /CC file version no.
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  NMAPS =   0 /Number of clean images used
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS /TIMERANG = beginning to end
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  SOLINT = 0.0 /Scan average
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  SUBARRAY =   0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  REFANT =    0 /Reference antenna
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  BCHAN =    1 ECHAN =  127 /Start and stop channels
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  Dividing data by channel 0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  Ch. 0 Avgd: Start, Stop, Inc    1 127   1
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  ANTWT=  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0 /Ant. wt
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS         1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS         1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS         1.0  1.0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	ALTDEF RESTFREQ=  1.4204057500E+09      /Rest frequency in Hz
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	ALTDEF CRVAL2  =  1.480000000E+06   CRPIX2  =  640.000
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	ALTDEF AXREFTYPE ='HELOPT  '            /Velocity ref. types
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	AIPS   IMNAME='13/04/95    ' IMCLASS='LINE  ' IMSEQ=   2     /
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	AIPS   USERNO= 1102            /
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	AIPS   SORT ORDER = 'TB'
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	      / Where T means TIME (IAT)
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	      / Where B means BASELINE NUM
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	AIPS WTSCAL =  1.00000000000E+00 / CMPLX WTS=WTSCAL*(TAPE*BSCALE+BZERO)
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	/End FITS tape header "HISTORY" information
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	FITLD RELEASE= '15OCT98 ' /--------------------------------------------
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	FITLD OUTNAME='13/04/95    '   OUTCLASS='LINE  '
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	FITLD OUTSEQ=    2   OUTDISK=  4
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	FITLD RELEASE= '15OCT98 ' /--------------------------------------------
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	RENAM INNAME='13/04/95    '   INCLASS='LINE  '
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	RENAM INSEQ=    2   INDISK=  4
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	RENAM OUTNAME='13/04/95    '   OUTCLASS='LINE  '
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	RENAM OUTSEQ=    1   OUTDISK=  4
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	AVSPC RELEASE ='15OCT98 '  /********* Start 15-JUN-1998   15:34:17
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	AVSPC INNAME='13/04/95    '   INCLASS='LINE  '
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	AVSPC INSEQ=    1   INDISK=  4
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	AVSPC OUTNAME='13/04/95    '   OUTCLASS='LINE  '
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	AVSPC OUTSEQ=    2   OUTDISK=  4
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	AVSPC  CHANSEL =
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	AVSPC    1 127   1 / Avgd: Start, Stop, Inc
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	AVSPC    0   0   1 / Avgd: Start, Stop, Inc
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	AVSPC    0   0   1 / Avgd: Start, Stop, Inc
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	AVSPC    0   0   1 / Avgd: Start, Stop, Inc
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	AVSPC    0   0   1 / Avgd: Start, Stop, Inc
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	AVSPC    0   0   1 / Avgd: Start, Stop, Inc
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	AVSPC    0   0   1 / Avgd: Start, Stop, Inc
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	AVSPC    0   0   1 / Avgd: Start, Stop, Inc
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	AVSPC    0   0   1 / Avgd: Start, Stop, Inc
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	AVSPC    0   0   1 / Avgd: Start, Stop, Inc
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	AVSPC  AVOPTION='SUBS' BIF=  1 EIF=  1
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	AVSPC  AVOPT='SUBS' Chns avgd =    2 # o/p chns =   63
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	RENAM INNAME='13/04/95    '   INCLASS='LINE  '
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	RENAM INSEQ=    2   INDISK=  4
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	RENAM OUTNAME='13/04/95    '   OUTCLASS='LINE  '
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	RENAM OUTSEQ=    1   OUTDISK=  4
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	ALTDEF RESTFREQ=  1.4204057520E+09      /Rest frequency in Hz
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	ALTDEF CRVAL2  =  1.480000000E+06   CRPIX2  =  322.500
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	ALTDEF AXREFTYPE ='HELOPT  '            /Velocity ref. types
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP Release ='15OCT98 '  /********* Start 15-JUN-1998   17:19:12
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP INNAME='13/04/95    '   INCLASS='CH 0  '
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP INSEQ=    1   INDISK=  4
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP  INEXT='CC' INVERS=   2 OUTVERS=   0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP  NCOUNT=   -1 /Number of tables to copy
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP  / Warning: No tables copied
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP Release ='15OCT98 '  /********* Start 15-JUN-1998   17:19:21
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP INNAME='13/04/95    '   INCLASS='CH 0  '
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP INSEQ=    1   INDISK=  4
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP  INEXT='CL' INVERS=   2 OUTVERS=   0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP  NCOUNT=    1 /Number of tables to copy
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP  / Copied      1 tables
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP Release ='15OCT98 '  /********* Start 15-JUN-1998   17:19:25
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP INNAME='13/04/95    '   INCLASS='CH 0  '
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP INSEQ=    1   INDISK=  4
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP  INEXT='FG' INVERS=   1 OUTVERS=   0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP  NCOUNT=    1 /Number of tables to copy
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP  / Copied      1 tables
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS Release ='15OCT98 '  /********* Start 15-JUN-1998   17:22:42
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  /Calibrators included:
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  CALSOUR = '1331+30500002   ','1445+09900002   '
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  QUAL =   -1 CALCODE =
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  FLAGVER =   1 /Flagging table used
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  UVRANGE(1)= 0.00000E+00 /Min. uv used
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  UVRANGE(2)= 0.00000E+00 /Max. uv used
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS IN2NAME='            '   IN2CLASS='      '
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS IN2SEQ=    0   IN2DISK=  0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  INVER =     1 /CC file version no.
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  NMAPS =   0 /Number of clean images used
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS /TIMERANG = beginning to end
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  SOLINT = 0.0 /Scan average
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  SUBARRAY =   0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  REFANT =   15 /Reference antenna
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  Dividing data by channel 0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  External channel 0 filename:
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS IN3NAME='13/04/95    '   IN3CLASS='CH 0  '
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS IN3SEQ=    1   IN3DISK=  4
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  ANTWT=  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0 /Ant. wt
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS         1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS         1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS         1.0  1.0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP Release ='15OCT98 '  /********* Start 15-JUN-1998   17:26:32
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP INNAME='13/04/95    '   INCLASS='CH 0  '
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP INSEQ=    1   INDISK=  4
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP  INEXT='FG' INVERS=   1 OUTVERS=   0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP  NCOUNT=    1 /Number of tables to copy
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP  / Copied      1 tables
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP Release ='15OCT98 '  /********* Start 15-JUN-1998   17:26:35
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP INNAME='13/04/95    '   INCLASS='CH 0  '
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP INSEQ=    1   INDISK=  4
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP  INEXT='CL' INVERS=   2 OUTVERS=   0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP  NCOUNT=    1 /Number of tables to copy
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	TACOP  / Copied      1 tables
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS Release ='15OCT98 '  /********* Start 15-JUN-1998   17:27:37
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  /Calibrators included:
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  CALSOUR = '1331+30500002   ','1445+09900002   '
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  QUAL =   -1 CALCODE =
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  FLAGVER =   1 /Flagging table used
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  UVRANGE(1)= 0.00000E+00 /Min. uv used
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  UVRANGE(2)= 0.00000E+00 /Max. uv used
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS IN2NAME='            '   IN2CLASS='      '
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS IN2SEQ=    0   IN2DISK=  0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  INVER =     1 /CC file version no.
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  NMAPS =   0 /Number of clean images used
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS /TIMERANG = beginning to end
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  SOLINT = 0.0 /Scan average
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  SUBARRAY =   0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  REFANT =   15 /Reference antenna
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  Dividing data by channel 0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  External channel 0 filename:
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS IN3NAME='13/04/95    '   IN3CLASS='CH 0  '
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS IN3SEQ=    1   IN3DISK=  4
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  ANTWT=  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0 /Ant. wt
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS         1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS         1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS         1.0  1.0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS Release ='15OCT98 '  /********* Start 15-JUN-1998   17:33:41
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  /Calibrators included:
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  CALSOUR = '1331+30500002   ','                '
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  QUAL =   -1 CALCODE =
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  FLAGVER =   1 /Flagging table used
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  UVRANGE(1)= 0.00000E+00 /Min. uv used
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  UVRANGE(2)= 0.00000E+00 /Max. uv used
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS IN2NAME='            '   IN2CLASS='      '
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS IN2SEQ=    0   IN2DISK=  0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  INVER =     1 /CC file version no.
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  NMAPS =   0 /Number of clean images used
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS /TIMERANG = beginning to end
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  SOLINT = 0.0 /Scan average
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  SUBARRAY =   0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  REFANT =   15 /Reference antenna
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  Dividing data by channel 0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  External channel 0 filename:
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS IN3NAME='13/04/95    '   IN3CLASS='CH 0  '
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS IN3SEQ=    1   IN3DISK=  4
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS  ANTWT=  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0 /Ant. wt
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS         1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS         1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	BPASS         1.0  1.0
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	POSSM  VERSION=  1  / plot file created 15-JUN-1998 17:37:18
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	POSSM  VERSION=  2  / plot file created 15-JUN-1998 17:37:43
+1995-04-13 00:00:00	INFO	test
+::::MSFitsInput::fillObsTables	POSSM  VERSION=  3  / plot file created 15-JUN-1998 17:38:24
+2010-02-22 16:55:31	INFO	test
+::::importuvfits	taskname     = importuvfits
+2010-02-22 16:55:31	INFO	test
+::::importuvfits	fitsfile     = "/opt/casa/data/regression/ngc5921/ngc5921.fits"
+2010-02-22 16:55:31	INFO	test
+::::importuvfits	vis          = "ngc5921_ut.ms"
+2010-02-22 16:55:31	INFO	test
+::::importuvfits	antnamescheme= "old"

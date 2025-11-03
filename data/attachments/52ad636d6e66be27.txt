@@ -1,0 +1,20 @@
+2025-09-16 17:02:55	WARN	sdcal::calibrater::setvi(bool,bool)	Already using OLD VisibilityIterator.
+2025-09-16 17:02:55	SEVERE	sdcal::sdcal::casa	could not convert string to float: 'auto'
+2025-09-16 17:02:55	SEVERE	sdcal::::casa	Traceback (most recent call last):
+2025-09-16 17:02:55	SEVERE	sdcal::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdcal.py", line 187, in to_numeric_fraction
+2025-09-16 17:02:55	SEVERE	sdcal::::casa+	    fraction_numeric = float(fraction)
+2025-09-16 17:02:55	SEVERE	sdcal::::casa+	                       ^^^^^^^^^^^^^^^
+2025-09-16 17:02:55	SEVERE	sdcal::::casa+	ValueError: could not convert string to float: 'auto'
+2025-09-16 17:02:55	SEVERE	sdcal::::casa+	
+2025-09-16 17:02:55	SEVERE	sdcal::::casa+	During handling of the above exception, another exception occurred:
+2025-09-16 17:02:55	SEVERE	sdcal::::casa+	
+2025-09-16 17:02:55	SEVERE	sdcal::::casa+	Traceback (most recent call last):
+2025-09-16 17:02:55	SEVERE	sdcal::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:02:55	SEVERE	sdcal::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdcal.py", line 149, in sdcal
+2025-09-16 17:02:55	SEVERE	sdcal::::casa+	    fraction_numeric = to_numeric_fraction(fraction)
+2025-09-16 17:02:55	SEVERE	sdcal::::casa+	                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:02:55	SEVERE	sdcal::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdcal.py", line 192, in to_numeric_fraction
+2025-09-16 17:02:55	SEVERE	sdcal::::casa+	    raise RuntimeError('Invalid fraction value (original error message: "%s")' % (str(e)))
+2025-09-16 17:02:55	SEVERE	sdcal::::casa+	RuntimeError: Invalid fraction value (original error message: "could not convert string to float: 'auto'")
+2025-09-16 17:02:55	SEVERE	sdcal::::casa	Invalid fraction value (original error message: "could not convert string to float: 'auto'")
+2025-09-16 17:02:55	SEVERE	sdcal::::casa	Task sdcal raised an exception of class RuntimeError with the following message: Invalid fraction value (original error message: "could not convert string to float: 'auto'")

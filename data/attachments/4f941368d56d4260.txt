@@ -1,0 +1,2 @@
+masked region: blc=[0,0,0], trc=[3,3,99]
+verifying plotmasked parameter: axes 32 plotmasked zero

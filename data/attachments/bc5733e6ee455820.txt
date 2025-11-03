@@ -1,0 +1,11 @@
+2025-09-16 18:43:21	SEVERE	getcell::WEIGHT_SPECTRUM	Exception Reported: Table DataManager error: Invalid operation: TSM: no array in row 0 of column WEIGHT_SPECTRUM in /scratch/scastro/casa/Tests/reports/shortpart1.ms/table.f20
+2025-09-16 18:43:21	WARN	testconcat::::casa	Column WEIGHT_SPECTRUM in table shortpart1.ms has no data. Accessing it will cause errors.
+2025-09-16 18:43:21	SEVERE	getcell::WEIGHT_SPECTRUM	Exception Reported: Table DataManager error: Invalid operation: TSM: no array in row 0 of column WEIGHT_SPECTRUM in /scratch/scastro/casa/Tests/reports/shortpart2.ms/table.f20
+2025-09-16 18:43:21	WARN	testconcat::::casa	Column WEIGHT_SPECTRUM in table shortpart2.ms has no data. Accessing it will cause errors.
+2025-09-16 18:43:21	SEVERE	getcell::WEIGHT_SPECTRUM	Exception Reported: Table DataManager error: Invalid operation: TSM: no array in row 0 of column WEIGHT_SPECTRUM in /scratch/scastro/casa/Tests/reports/shortpart3.ms/table.f20
+2025-09-16 18:43:21	WARN	testconcat::::casa	Column WEIGHT_SPECTRUM in table shortpart3.ms has no data. Accessing it will cause errors.
+2025-09-16 18:43:21	SEVERE	getcell::WEIGHT_SPECTRUM	Exception Reported: Table DataManager error: Invalid operation: TSM: no array in row 0 of column WEIGHT_SPECTRUM in /scratch/scastro/casa/Tests/reports/shortpart4.ms/table.f20
+2025-09-16 18:43:21	WARN	testconcat::::casa	Column WEIGHT_SPECTRUM in table shortpart4.ms has no data. Accessing it will cause errors.
+2025-09-16 18:43:21	SEVERE	getcell::WEIGHT_SPECTRUM	Exception Reported: Table DataManager error: Invalid operation: TSM: no array in row 0 of column WEIGHT_SPECTRUM in /scratch/scastro/casa/Tests/reports/shortpart5.ms/table.f20
+2025-09-16 18:43:21	WARN	testconcat::::casa	Column WEIGHT_SPECTRUM in table shortpart5.ms has no data. Accessing it will cause errors.
+2025-09-16 18:43:21	SEVERE	getcell::SOURCE_ID	Exception Reported: TableProxy::getCell: no such row

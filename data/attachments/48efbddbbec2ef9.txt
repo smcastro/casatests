@@ -1,0 +1,21 @@
+Editing weight
+    irow = 0
+    weight (before) [1. 1.]
+    weight (after) [1. 2.]
+    irow = 1
+    weight (before) [1. 1.]
+    weight (after) [1. 2.]
+    irow = 2
+    weight (before) [1. 1.]
+    weight (after) [1. 2.]
+    irow = 3
+    weight (before) [1. 1.]
+    weight (after) [1. 2.]
+mode='stokes'
+result='{'cent': [[[3999.96899414, 0.21372241], [4999.83251953, 0.10374781]]], 'peak': [[[4.99722147, 0.00435965], [5.00837851, 0.01061607]]], 'fwhm': [[[499.88922119, 0.50524592], [99.83950806, 0.24461892]]], 'nfit': [2]}'
+cent (result)=[3999.96899414 4999.83251953]
+cent (expected)=[4000. 5000.]
+fwhm (result)=[499.88922119  99.83950806]
+fwhm (expected)=[500. 100.]
+peak (result)=[4.99722147 5.00837851]
+peak (expected)=[5. 5.]

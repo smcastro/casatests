@@ -1,0 +1,28 @@
+2025-09-16 14:56:30	INFO	calibrater::open	****Using NEW VI2-driven calibrater tool****
+2025-09-16 14:56:30	INFO	calibrater::open	Opening MS: gaincaltest2.ms for calibration.
+2025-09-16 14:56:30	INFO		Clearing all model records in MS header.
+2025-09-16 14:56:30	INFO	VisSetUtil::addScrCols	Adding MODEL_DATA and CORRECTED_DATA column(s).
+2025-09-16 14:56:31	INFO	VisSetUtil::initScrCols	Initializing MODEL_DATA to (unity).
+2025-09-16 14:56:32	INFO	VisSetUtil::initScrCols	Initialized 328860 rows.
+2025-09-16 14:56:32	INFO	Calibrater::	Initializing nominal selection to the whole MS.
+2025-09-16 14:56:32	INFO	name::	No table opened.
+2025-09-16 14:56:32	INFO	showcache::	The Table Cache has the following 16 entries:
+2025-09-16 14:56:32	INFO	showcache::	    0: "/scratch/scastro/casa/Tests/reports/gaincaltest2.ms"
+2025-09-16 14:56:32	INFO	showcache::	    1: "/scratch/scastro/casa/Tests/reports/gaincaltest2.ms/ANTENNA"
+2025-09-16 14:56:32	INFO	showcache::	    2: "/scratch/scastro/casa/Tests/reports/gaincaltest2.ms/DATA_DESCRIPTION"
+2025-09-16 14:56:32	INFO	showcache::	    3: "/scratch/scastro/casa/Tests/reports/gaincaltest2.ms/FEED"
+2025-09-16 14:56:32	INFO	showcache::	    4: "/scratch/scastro/casa/Tests/reports/gaincaltest2.ms/FIELD"
+2025-09-16 14:56:32	INFO	showcache::	    5: "/scratch/scastro/casa/Tests/reports/gaincaltest2.ms/FLAG_CMD"
+2025-09-16 14:56:32	INFO	showcache::	    6: "/scratch/scastro/casa/Tests/reports/gaincaltest2.ms/HISTORY"
+2025-09-16 14:56:32	INFO	showcache::	    7: "/scratch/scastro/casa/Tests/reports/gaincaltest2.ms/OBSERVATION"
+2025-09-16 14:56:32	INFO	showcache::	    8: "/scratch/scastro/casa/Tests/reports/gaincaltest2.ms/POINTING"
+2025-09-16 14:56:32	INFO	showcache::	    9: "/scratch/scastro/casa/Tests/reports/gaincaltest2.ms/POLARIZATION"
+2025-09-16 14:56:32	INFO	showcache::	    10: "/scratch/scastro/casa/Tests/reports/gaincaltest2.ms/PROCESSOR"
+2025-09-16 14:56:32	INFO	showcache::	    11: "/scratch/scastro/casa/Tests/reports/gaincaltest2.ms/SOURCE"
+2025-09-16 14:56:32	INFO	showcache::	    12: "/scratch/scastro/casa/Tests/reports/gaincaltest2.ms/SPECTRAL_WINDOW"
+2025-09-16 14:56:32	INFO	showcache::	    13: "/scratch/scastro/casa/Tests/reports/gaincaltest2.ms/STATE"
+2025-09-16 14:56:32	INFO	showcache::	    14: "/scratch/scastro/casa/Tests/reports/gaincaltest2.ms/SYSCAL"
+2025-09-16 14:56:32	INFO	showcache::	    15: "/scratch/scastro/casa/Tests/reports/gaincaltest2.ms/WEATHER"
+2025-09-16 14:56:32	INFO	name::	No table opened.
+2025-09-16 14:56:32	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:56:32	WARN	calibrater::setvi(bool,bool)	Already using NEW VisibilityIterator.

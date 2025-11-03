@@ -1,0 +1,9 @@
+2025-09-16 15:11:34	WARN	calibrater::setvi(bool,bool)	Forcing use of OLD VisibilityIterator.
+2025-09-16 15:11:38	WARN	clearcal::calibrater::setvi(bool,bool)	Forcing use of OLD VisibilityIterator.
+2025-09-16 15:11:39	WARN	clearcal::calibrater::setvi(bool,bool)	Forcing use of OLD VisibilityIterator.
+2025-09-16 15:11:41	WARN	clearcal::calibrater::setvi(bool,bool)	Forcing use of OLD VisibilityIterator.
+2025-09-16 15:11:43	WARN	clearcal::calibrater::setvi(bool,bool)	Forcing use of OLD VisibilityIterator.
+2025-09-16 15:11:44	WARN	clearcal::calibrater::setvi(bool,bool)	Forcing use of OLD VisibilityIterator.
+2025-09-16 15:11:46	WARN	clearcal::calibrater::setvi(bool,bool)	Forcing use of OLD VisibilityIterator.
+2025-09-16 15:11:47	WARN	clearcal::calibrater::setvi(bool,bool)	Forcing use of OLD VisibilityIterator.
+2025-09-16 15:11:49	WARN	clearcal::calibrater::setvi(bool,bool)	Forcing use of OLD VisibilityIterator.

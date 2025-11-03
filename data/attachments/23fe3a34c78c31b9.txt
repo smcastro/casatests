@@ -1,0 +1,1 @@
+2025-09-16 15:42:15	SEVERE	fixplanets::::casa	Task fixplanets raised an exception of class RuntimeError with the following message: Cannot find any POINTING table rows for antenna 0 within 3 seconds of TIME 5009920724.544001

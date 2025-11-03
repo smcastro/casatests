@@ -1,0 +1,8 @@
+  1. Checking that metadata agree.
+  - Comparing all non-floats in listing (ignore spaces)
+  Metadata agree
+  2. Checking that data agree to within allowed imprecision...
+     Allowed visibility imprecision is 1.000
+  - Comparing float content of output.
+  - Writing to compare.5.diffAmpPhsFloat
+  Data agree

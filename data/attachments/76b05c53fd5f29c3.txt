@@ -1,0 +1,19 @@
+2025-09-16 14:56:46	INFO	ImageFactory::createImage	Created Paged image 'tbeam1.im' of shape [100, 100] with float valued pixels.
+2025-09-16 14:56:46	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:56:46	INFO	BeamManipulator::set	Setting (global) restoring beam.
+2025-09-16 14:56:46	INFO	BeamManipulator::set	Beam parameters:  Major          : 6 arcsec
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Minor          : 3 arcsec
+2025-09-16 14:56:46	INFO	BeamManipulator::set+	  Position Angle : 0 deg
+2025-09-16 14:56:46	INFO	Image2DConvolver::_dealWithRestoringBeam	You are convolving the sky
+2025-09-16 14:56:46	INFO	Image2DConvolver::_dealWithRestoringBeam	Scaling pixel values by inverse of area of convolution kernel in pixels (0.0275795) times the ratio of the beam areas (2.77778) = 0.0766096
+2025-09-16 14:56:46	INFO	Image2DConvolver::_dealWithRestoringBeam	Original /scratch/scastro/casa/Tests/reports/tbeam1.im resolution major: 6 arcsec, minor: 3 arcsec, pa: 0 deg
+2025-09-16 14:56:46	INFO	Image2DConvolver::_dealWithRestoringBeam	Output convolve2d resolution major: 10 arcsec, minor: 5 arcsec, pa: -0 deg
+2025-09-16 14:56:46	INFO	SubImageFactory::createImage	Creating image 'convolve2d' of shape [100, 100]
+2025-09-16 14:56:46	WARN	image::open (file src/tools/image/image_cmpt.cc, line 4208)	Another image is already open, closing first
+2025-09-16 14:56:46	INFO	Image2DConvolver::_dealWithRestoringBeam	You are convolving the sky
+2025-09-16 14:56:46	INFO	Image2DConvolver::_dealWithRestoringBeam	Scaling pixel values by inverse of area of convolution kernel in pixels (0.0275795) times the ratio of the beam areas (2.77778) = 0.0766096
+2025-09-16 14:56:46	INFO	Image2DConvolver::_dealWithRestoringBeam	Original /scratch/scastro/casa/Tests/reports/tbeam1.im resolution major: 6 arcsec, minor: 3 arcsec, pa: 0 deg
+2025-09-16 14:56:46	INFO	Image2DConvolver::_dealWithRestoringBeam	Output convolve2d resolution major: 10 arcsec, minor: 5 arcsec, pa: -0 deg
+2025-09-16 14:56:46	INFO	SubImageFactory::createImage	Creating image 'convolve2d' of shape [100, 100]
+2025-09-16 14:56:46	INFO	name::	No table opened.
+2025-09-16 14:56:46	INFO	showcache::	The Table Cache is empty.

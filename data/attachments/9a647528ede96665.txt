@@ -1,0 +1,6 @@
+2025-09-16 15:15:48	WARN	calibrater::setvi(bool,bool)	Forcing use of OLD VisibilityIterator.
+2025-09-16 15:15:48	WARN	clearcal::calibrater::setvi(bool,bool)	Forcing use of OLD VisibilityIterator.
+2025-09-16 15:15:48	SEVERE	clearcal::Calibrater::selectvis (file /source/casa6/casatools/src/code/synthesis/MeasurementComponents/Calibrater.cc, line 4222)	Caught exception: Spw Expression: No match found for 100, 
+2025-09-16 15:15:48	SEVERE	clearcal::::	Exception Reported: Error in data selection specification: Spw Expression: No match found for 100, 
+2025-09-16 15:15:48	SEVERE	clearcal::::casa	Task clearcal raised an exception of class RuntimeError with the following message: Error in data selection specification: Spw Expression: No match found for 100, 
+2025-09-16 15:15:48	WARN	clearcal::calibrater::setvi(bool,bool)	Forcing use of OLD VisibilityIterator.

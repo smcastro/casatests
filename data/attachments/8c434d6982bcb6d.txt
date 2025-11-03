@@ -1,0 +1,7 @@
+2025-09-16 14:56:36	INFO	ImageFactory::createImage	Created Temp image  of shape [10, 10] with float valued pixels.
+2025-09-16 14:56:36	INFO	image::_adddegaxes 	Creating (temp)image of shape [10, 10, 1]
+2025-09-16 14:56:36	INFO	::::ImageFactory::createImage	Created Temp image  of shape [10, 10] with float valued pixels.
+2025-09-16 14:56:36	INFO	::::image::fromshape	Ran ia.fromshape
+2025-09-16 14:56:36	INFO	::::image::fromshape	ia.fromshape(outfile="", shape=[10,10], csys={...}, linear=false, overwrite=false, log=true, type="f")
+2025-09-16 14:56:36	INFO	::::image::adddegaxes	Ran ia.adddegaxes
+2025-09-16 14:56:36	INFO	::::image::adddegaxes	ia.adddegaxes(outfile="", direction=false, spectral=true, stokes="", linear=false, tabular=false, overwrite=false, silent=false)

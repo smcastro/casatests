@@ -1,0 +1,14 @@
+2025-09-16 17:27:17	SEVERE	sdsmooth::singledishms::smooth (file src/tools/singledishms/singledishms_cmpt.cc, line 463)	Exception Reported: Spw Expression: No match found for 3, 
+2025-09-16 17:27:17	SEVERE	sdsmooth::::casa	Traceback (most recent call last):
+2025-09-16 17:27:17	SEVERE	sdsmooth::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:27:17	SEVERE	sdsmooth::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdsmooth.py", line 37, in sdsmooth
+2025-09-16 17:27:17	SEVERE	sdsmooth::::casa+	    sdms.smooth(type=kernel, width=kwidth, datacolumn=datacolumn, outfile=outfile)
+2025-09-16 17:27:17	SEVERE	sdsmooth::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/singledishms.py", line 104, in smooth
+2025-09-16 17:27:17	SEVERE	sdsmooth::::casa+	    return self._swigobj.smooth(type, width, datacolumn, outfile)
+2025-09-16 17:27:17	SEVERE	sdsmooth::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:27:17	SEVERE	sdsmooth::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/__casac__/singledishms.py", line 543, in smooth
+2025-09-16 17:27:17	SEVERE	sdsmooth::::casa+	    return _singledishms.singledishms_smooth(self, *args, **kwargs)
+2025-09-16 17:27:17	SEVERE	sdsmooth::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:27:17	SEVERE	sdsmooth::::casa+	RuntimeError: Spw Expression: No match found for 3, 
+2025-09-16 17:27:17	SEVERE	sdsmooth::::casa	Spw Expression: No match found for 3, 
+2025-09-16 17:27:17	SEVERE	sdsmooth::::casa	Task sdsmooth raised an exception of class RuntimeError with the following message: Spw Expression: No match found for 3, 

@@ -1,0 +1,17 @@
+2025-09-16 14:57:15	INFO	ImageFactory::createImage	Created Paged image 'mask1.im' of shape [20, 30, 4, 10] with float valued pixels.
+2025-09-16 14:57:15	INFO	ImageFactory::createImage	Created Paged image 'mask2.im' of shape [20, 30, 4, 1] with float valued pixels.
+2025-09-16 14:57:15	INFO	ImageFactory::createImage	Created Paged image 'mask3.im' of shape [20, 30, 4, 2] with float valued pixels.
+2025-09-16 14:57:15	INFO	ImageFactory::createImage	Created Paged image 'xx.im' of shape [20, 30, 4, 10] with float valued pixels.
+2025-09-16 14:57:15	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:57:15	INFO	name::	No table opened.
+2025-09-16 14:57:15	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:57:15	SEVERE	image::_detached (file src/tools/image/image_cmpt.cc, line 1653)	Image is detached - cannot perform operation.
+2025-09-16 14:57:15	SEVERE	image::_detached (file src/tools/image/image_cmpt.cc, line 1653)+	Call image.open('filename') to reattach.
+2025-09-16 14:57:15	SEVERE	image::_detached (file src/tools/image/image_cmpt.cc, line 1653)	Exception Reported: Exception: Unable to create image.
+2025-09-16 14:57:15	SEVERE	image::_detached (file src/tools/image/image_cmpt.cc, line 1653)+	... thrown by casac::image* casac::image::subimage(const string&, const casac::variant&, const casac::variant&, bool, bool, bool, bool, bool, const std::vector<long int>&) at File: src/tools/image/image_cmpt.cc, line: 6163
+2025-09-16 14:57:15	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:57:15	INFO	name::	No table opened.
+2025-09-16 14:57:15	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:57:15	SEVERE	image::subimage (file src/tools/image/image_cmpt.cc, line 6162)	Exception Reported: Unable to extend mask: ExtendSpecifier - new nor stretch axes given at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/SubImageFactory.tcc, line: 313
+2025-09-16 14:57:15	INFO	name::	No table opened.
+2025-09-16 14:57:15	INFO	showcache::	The Table Cache is empty.

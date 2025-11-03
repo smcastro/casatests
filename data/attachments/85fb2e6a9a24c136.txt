@@ -1,0 +1,105 @@
+Oversampling set to 5
+2025-09-16 18:33:30	WARN	SynthesisImagerVi2::dryGridding (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisImagerVi2.cc, line 3148)	Making a "blank" CFCache
+2025-09-16 18:33:30	WARN	AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]	Setting up for weights accumulation during gridding to compute sensitivity pattern.
+2025-09-16 18:33:30	WARN	AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]+	Consequently, the first gridding cycle will be slower than the subsequent ones.
+2025-09-16 18:33:30	WARN	SynthesisImagerVi2::fillCFCache (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisImagerVi2.cc, line 3232)	Re-loading the "blank" CFCache for filling
+2025-09-16 18:33:30	WARN	crustaceans::makeConvFunction2[R&D]	Filling CFs for baseline type 0, PA slot 0
+Oversampling set to 5
+Oversampling set to 5
+Oversampling set to 5
+Oversampling set to 5
+Oversampling set to 5
+Oversampling set to 5
+Oversampling set to 5
+2025-09-16 18:33:35	WARN	AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]	Setting up for weights accumulation during gridding to compute sensitivity pattern.
+2025-09-16 18:33:35	WARN	AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]+	Consequently, the first gridding cycle will be slower than the subsequent ones.
+2025-09-16 18:33:36	WARN	AWProjectFT::finalizeToSky	time to massage data 0.09
+2025-09-16 18:33:36	WARN	AWProjectFT::finalizeToSky	time gridding 0.09
+Oversampling set to 5
+2025-09-16 18:33:40	WARN	task_tclean::AWProjectFT::finalizeToSky	time to massage data 0.11
+2025-09-16 18:33:40	WARN	task_tclean::AWProjectFT::finalizeToSky	time gridding 0.01
+2025-09-16 18:33:42	WARN	task_tclean::SIImageStore::restore (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SIImageStore.cc, line 2345)	Restoring with an empty model image. Only residuals will be processed to form the output restored image.
+Oversampling set to 5
+2025-09-16 18:33:43	WARN	SynthesisImagerVi2::dryGridding (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisImagerVi2.cc, line 3148)	Making a "blank" CFCache
+2025-09-16 18:33:43	WARN	AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]	Setting up for weights accumulation during gridding to compute sensitivity pattern.
+2025-09-16 18:33:43	WARN	AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]+	Consequently, the first gridding cycle will be slower than the subsequent ones.
+2025-09-16 18:33:43	WARN	SynthesisImagerVi2::fillCFCache (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisImagerVi2.cc, line 3232)	Re-loading the "blank" CFCache for filling
+2025-09-16 18:33:43	WARN	crustaceans::makeConvFunction2[R&D]	Filling CFs for baseline type 0, PA slot 0
+Oversampling set to 5
+Oversampling set to 5
+Oversampling set to 5
+Oversampling set to 5
+Oversampling set to 5
+Oversampling set to 5
+Oversampling set to 5
+2025-09-16 18:33:49	WARN	AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]	Setting up for weights accumulation during gridding to compute sensitivity pattern.
+2025-09-16 18:33:49	WARN	AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]+	Consequently, the first gridding cycle will be slower than the subsequent ones.
+2025-09-16 18:33:49	WARN	AWProjectFT::finalizeToSky	time to massage data 0.14
+2025-09-16 18:33:49	WARN	AWProjectFT::finalizeToSky	time gridding 0.14
+Oversampling set to 5
+2025-09-16 18:33:53	WARN	task_tclean::AWProjectFT::finalizeToSky	time to massage data 0.13
+2025-09-16 18:33:53	WARN	task_tclean::AWProjectFT::finalizeToSky	time gridding 0.02
+2025-09-16 18:33:56	WARN	task_tclean::SIImageStore::restore (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SIImageStore.cc, line 2345)	Restoring with an empty model image. Only residuals will be processed to form the output restored image.
+Oversampling set to 5
+2025-09-16 18:33:56	WARN	SynthesisImagerVi2::dryGridding (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisImagerVi2.cc, line 3148)	Making a "blank" CFCache
+2025-09-16 18:33:56	WARN	AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]	Setting up for weights accumulation during gridding to compute sensitivity pattern.
+2025-09-16 18:33:56	WARN	AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]+	Consequently, the first gridding cycle will be slower than the subsequent ones.
+2025-09-16 18:33:56	WARN	SynthesisImagerVi2::fillCFCache (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisImagerVi2.cc, line 3232)	Re-loading the "blank" CFCache for filling
+2025-09-16 18:33:56	WARN	crustaceans::makeConvFunction2[R&D]	Filling CFs for baseline type 0, PA slot 0
+Oversampling set to 5
+Oversampling set to 5
+Oversampling set to 5
+Oversampling set to 5
+Oversampling set to 5
+Oversampling set to 5
+Oversampling set to 5
+2025-09-16 18:34:02	WARN	AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]	Setting up for weights accumulation during gridding to compute sensitivity pattern.
+2025-09-16 18:34:02	WARN	AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]+	Consequently, the first gridding cycle will be slower than the subsequent ones.
+2025-09-16 18:34:02	WARN	AWProjectFT::finalizeToSky	time to massage data 0.09
+2025-09-16 18:34:02	WARN	AWProjectFT::finalizeToSky	time gridding 0.02
+Oversampling set to 5
+2025-09-16 18:34:06	WARN	task_tclean::AWProjectFT::finalizeToSky	time to massage data 0.09
+2025-09-16 18:34:06	WARN	task_tclean::AWProjectFT::finalizeToSky	time gridding 0.01
+2025-09-16 18:34:09	WARN	task_tclean::SIImageStore::restore (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SIImageStore.cc, line 2345)	Restoring with an empty model image. Only residuals will be processed to form the output restored image.
+Oversampling set to 5
+2025-09-16 18:34:09	WARN	SynthesisImagerVi2::dryGridding (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisImagerVi2.cc, line 3148)	Making a "blank" CFCache
+2025-09-16 18:34:09	WARN	AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]	Setting up for weights accumulation during gridding to compute sensitivity pattern.
+2025-09-16 18:34:09	WARN	AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]+	Consequently, the first gridding cycle will be slower than the subsequent ones.
+2025-09-16 18:34:09	WARN	SynthesisImagerVi2::fillCFCache (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisImagerVi2.cc, line 3232)	Re-loading the "blank" CFCache for filling
+2025-09-16 18:34:09	WARN	crustaceans::makeConvFunction2[R&D]	Filling CFs for baseline type 0, PA slot 0
+Oversampling set to 5
+Oversampling set to 5
+Oversampling set to 5
+Oversampling set to 5
+Oversampling set to 5
+Oversampling set to 5
+Oversampling set to 5
+2025-09-16 18:34:15	WARN	AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]	Setting up for weights accumulation during gridding to compute sensitivity pattern.
+2025-09-16 18:34:15	WARN	AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]+	Consequently, the first gridding cycle will be slower than the subsequent ones.
+2025-09-16 18:34:15	WARN	AWProjectFT::finalizeToSky	time to massage data 0.1
+2025-09-16 18:34:15	WARN	AWProjectFT::finalizeToSky	time gridding 0.03
+Oversampling set to 5
+2025-09-16 18:34:20	WARN	task_tclean::AWProjectFT::finalizeToSky	time to massage data 0.1
+2025-09-16 18:34:20	WARN	task_tclean::AWProjectFT::finalizeToSky	time gridding 0
+2025-09-16 18:34:22	WARN	task_tclean::SIImageStore::restore (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SIImageStore.cc, line 2345)	Restoring with an empty model image. Only residuals will be processed to form the output restored image.
+Oversampling set to 5
+2025-09-16 18:34:22	WARN	SynthesisImagerVi2::dryGridding (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisImagerVi2.cc, line 3148)	Making a "blank" CFCache
+2025-09-16 18:34:22	WARN	AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]	Setting up for weights accumulation during gridding to compute sensitivity pattern.
+2025-09-16 18:34:22	WARN	AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]+	Consequently, the first gridding cycle will be slower than the subsequent ones.
+2025-09-16 18:34:23	WARN	SynthesisImagerVi2::fillCFCache (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SynthesisImagerVi2.cc, line 3232)	Re-loading the "blank" CFCache for filling
+2025-09-16 18:34:23	WARN	crustaceans::makeConvFunction2[R&D]	Filling CFs for baseline type 0, PA slot 0
+Oversampling set to 5
+Oversampling set to 5
+Oversampling set to 5
+Oversampling set to 5
+Oversampling set to 5
+Oversampling set to 5
+Oversampling set to 5
+2025-09-16 18:34:28	WARN	AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]	Setting up for weights accumulation during gridding to compute sensitivity pattern.
+2025-09-16 18:34:28	WARN	AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]+	Consequently, the first gridding cycle will be slower than the subsequent ones.
+2025-09-16 18:34:28	WARN	AWProjectFT::finalizeToSky	time to massage data 0.13
+2025-09-16 18:34:28	WARN	AWProjectFT::finalizeToSky	time gridding 0.06
+Oversampling set to 5
+2025-09-16 18:34:33	WARN	task_tclean::AWProjectFT::finalizeToSky	time to massage data 0.11
+2025-09-16 18:34:33	WARN	task_tclean::AWProjectFT::finalizeToSky	time gridding 0.03
+2025-09-16 18:34:35	WARN	task_tclean::SIImageStore::restore (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SIImageStore.cc, line 2345)	Restoring with an empty model image. Only residuals will be processed to form the output restored image.

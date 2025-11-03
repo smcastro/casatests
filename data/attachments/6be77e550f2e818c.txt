@@ -1,0 +1,3 @@
+
+Create a new local copy of the MS...
+ret={'12': {'0': {'fluxd': array([0.99137115, 0.        , 0.        , 0.        ])}, '1': {'fluxd': array([0.99131727, 0.        , 0.        , 0.        ])}, 'fieldName': '0542+498_1'}, 'format': "{field Id: {spw Id: {fluxd: [I,Q,U,V] in Jy}, 'fieldName':field name }}"}

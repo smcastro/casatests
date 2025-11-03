@@ -1,0 +1,2 @@
+2025-09-16 15:34:25	SEVERE	deconvolve::deconvolve::casa	Exception from deconvolve : The parameter nsigma>0 (1.5) requires a .pb image to be available.
+2025-09-16 15:34:25	SEVERE	deconvolve::::casa	Task deconvolve raised an exception of class RuntimeError with the following message: Exception from deconvolve : The parameter nsigma>0 (1.5) requires a .pb image to be available.

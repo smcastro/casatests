@@ -1,0 +1,10 @@
+2025-09-16 14:56:53	INFO	ImageFactory::createImage	Created Paged image 'maskim' of shape [200, 200, 1, 1] with float valued pixels.
+2025-09-16 14:56:53	INFO	ImageFactory::createImage	Created Temp image  of shape [200, 200, 1, 20] with float valued pixels.
+2025-09-16 14:56:53	SEVERE	image::sepconvolve (file src/tools/image/image_cmpt.cc, line 5512)	Exception Reported: The input image shape ([200, 200, 1, 20]) and mask shape ([200, 200, 1, 1]) are different, and it was specified that the mask should not be extended, so the mask cannot be applied to the (sub)image. Specifying that the mask should be extended may resolve the issue at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/SubImageFactory.tcc, line: 306
+2025-09-16 14:56:53	INFO	SepImageConvolverTask::convolve	Original image shape: [200, 200, 1, 20]
+2025-09-16 14:56:53	INFO	SepImageConvolverTask::convolve	Kernel types: [gauss]
+2025-09-16 14:56:53	INFO	SepImageConvolverTask::convolve	Kernel widths: [2 pix]
+2025-09-16 14:56:53	INFO	SepImageConvolverTask::convolve	Axis 0 : kernel shape = 200
+2025-09-16 14:56:53	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:53	INFO	SepImageConvolverTask::convolve	Axis 1 : setting width 2 pix
+2025-09-16 14:56:53	INFO	SepImageConvolverTask::convolve+	Convolving axis 1

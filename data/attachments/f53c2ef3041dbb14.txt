@@ -1,0 +1,2 @@
+The following MS spws have no corresponding cal spws in squares.dec60_cs.edges_fraction_0.1.ms_caltable: 0 1 2 3 
+The following MS spws have no corresponding cal spws in __sdcal_composite_mode_otf_057.tab: 0 1 2 3 

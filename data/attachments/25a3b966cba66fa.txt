@@ -1,0 +1,8 @@
+FREQ_GROUP_NAME ERROR in finding truth value
+FIELD_NAME ERROR in finding truth value
+FIELD_CODE ERROR in finding truth value
+SOURCE_NAME ERROR in finding truth value
+SOURCE_CODE ERROR in finding truth value
+POLY_TYPE ERROR in finding truth value
+POLY_MODE ERROR in finding truth value
+PHASE_UNITS ERROR in finding truth value

@@ -1,0 +1,4 @@
+The MS is already around, just unflag
+After flagging antenna 2 there were 5252.0 flags
+After flagging antenna 2 and 3 there were 10302.0 flags
+After restoring pre-antenna 2 flagging, there are 5252.0 flags; should be 5252.0

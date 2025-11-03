@@ -1,0 +1,2 @@
+
+Comparing 17 pointings in 'simobserve_comp/simobserve_comp.alma.out01.ptg.txt' with 'alma.alma.out01.ptg.txt'

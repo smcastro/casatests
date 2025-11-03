@@ -1,0 +1,3 @@
+ :  doppler, start={'m0': {'unit': 'm/s', 'value': 11994336.49363042}, 'refer': 'RADIO', 'type': 'doppler'}, default width, LSRK
+/casadata/repository/casatestdata/unittest/deconvolve/
+refim_point

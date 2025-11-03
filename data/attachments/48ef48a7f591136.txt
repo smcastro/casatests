@@ -1,0 +1,12 @@
+2025-09-16 17:03:13	WARN	sdcal::::casa	Intent selection for 'otf' or 'otfraster' should be 'OBSERVE_TARGET#ON_SOURCE'. 
+2025-09-16 17:03:13	WARN	sdcal::::casa+	However, the task is not allowed to set global intent selection since calmode contains 'tsys'. 
+2025-09-16 17:03:13	WARN	sdcal::::casa+	As a workaround, set intent selection locally when 'otf' or 'otfraster' calibration is performed.
+2025-09-16 17:03:13	WARN	sdcal::calibrater::setvi(bool,bool)	Already using OLD VisibilityIterator.
+2025-09-16 17:03:13	WARN	sdcal::calibrater::setvi(bool,bool)	Already using OLD VisibilityIterator.
+2025-09-16 17:03:13	WARN	sdcal::calibrater::setvi(bool,bool)	Already using OLD VisibilityIterator.
+2025-09-16 17:03:13	WARN	sdcal::CTPatchedInterp::interpolate	In caltable __sdcal_composite_mode_otf_095.tab (SDSKY_OTF):
+2025-09-16 17:03:13	WARN	sdcal::CTPatchedInterp::interpolate+	 Insufficient solution channel sampling (nchan=1) for frequency-dependent LINEAR interpolation 
+2025-09-16 17:03:13	WARN	sdcal::CTPatchedInterp::interpolate+	 of calibration for MS spw=4; using NEAREST instead.
+2025-09-16 17:03:13	WARN	sdcal::CTPatchedInterp::interpolate	In caltable __sdcal_composite_mode_tsys_017.tab (B TSYS):
+2025-09-16 17:03:13	WARN	sdcal::CTPatchedInterp::interpolate+	 Insufficient solution channel sampling (nchan=1) for frequency-dependent LINEAR interpolation 
+2025-09-16 17:03:13	WARN	sdcal::CTPatchedInterp::interpolate+	 of calibration for MS spw=4; using NEAREST instead.

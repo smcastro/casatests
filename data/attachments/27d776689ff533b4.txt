@@ -1,0 +1,4 @@
+2025-09-16 16:58:40	SEVERE	predictcomp::::	Error in QuantumHolder::fromString with input string "120BadUnit": Illegal input units or format
+2025-09-16 16:58:40	SEVERE	predictcomp::::+	 in converting quantity 
+2025-09-16 16:58:40	SEVERE	predictcomp::::	Exception Reported: Error in QuantumHolder::fromString with input string "120BadUnit": Illegal input units or format
+2025-09-16 16:58:40	SEVERE	predictcomp::::+	 in converting quantity

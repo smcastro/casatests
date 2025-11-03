@@ -1,0 +1,36 @@
+2025-09-16 16:11:29	WARN	ImageExprCalculator::compute2	Overwriting pixel values of the currently attached image
+2025-09-16 16:11:29	WARN	ImageFitter::_finishConstruction	Unrecognized intensity unit . Will assume Jy/pixel
+2025-09-16 16:11:29	WARN	ImageFitter::clearNoiseFWHM	noiseFWHM not specified and image has no beam, using uncorrelated noise expressions to calculate uncertainties
+2025-09-16 16:11:29	WARN	SkyCompRep::convertToJy	Cannot convert units of brightness to Jy - will assume Jy
+2025-09-16 16:11:29	WARN	SkyCompRep::peakToIntegralFlux()	There are no image brightness units, assuming Jy/pixel
+2025-09-16 16:11:29	WARN	SkyCompRep::integralToPeakFlux()	There are no image brightness units, assuming Jy/pixel
+2025-09-16 16:11:29	WARN	ImageExprCalculator::compute2	Overwriting pixel values of the currently attached image
+2025-09-16 16:11:29	WARN	ImageFitter::_finishConstruction	Unrecognized intensity unit . Will assume Jy/pixel
+2025-09-16 16:11:29	WARN	ImageFitter::clearNoiseFWHM	noiseFWHM not specified and image has no beam, using uncorrelated noise expressions to calculate uncertainties
+2025-09-16 16:11:29	WARN	SkyCompRep::convertToJy	Cannot convert units of brightness to Jy - will assume Jy
+2025-09-16 16:11:29	WARN	SkyCompRep::peakToIntegralFlux()	There are no image brightness units, assuming Jy/pixel
+2025-09-16 16:11:29	WARN	SkyCompRep::integralToPeakFlux()	There are no image brightness units, assuming Jy/pixel
+2025-09-16 16:11:29	WARN	ImageExprCalculator::compute2	Overwriting pixel values of the currently attached image
+2025-09-16 16:11:29	WARN	ImageFitter::_finishConstruction	Unrecognized intensity unit . Will assume Jy/pixel
+2025-09-16 16:11:29	WARN	ImageFitter::clearNoiseFWHM	noiseFWHM not specified and image has no beam, using uncorrelated noise expressions to calculate uncertainties
+2025-09-16 16:11:29	WARN	SkyCompRep::convertToJy	Cannot convert units of brightness to Jy - will assume Jy
+2025-09-16 16:11:29	WARN	SkyCompRep::peakToIntegralFlux()	There are no image brightness units, assuming Jy/pixel
+2025-09-16 16:11:29	WARN	SkyCompRep::integralToPeakFlux()	There are no image brightness units, assuming Jy/pixel
+2025-09-16 16:11:29	WARN	ImageExprCalculator::compute2	Overwriting pixel values of the currently attached image
+2025-09-16 16:11:29	WARN	imfit::ImageFitter::_finishConstruction	Unrecognized intensity unit . Will assume Jy/pixel
+2025-09-16 16:11:29	WARN	imfit::ImageFitter::clearNoiseFWHM	noiseFWHM not specified and image has no beam, using uncorrelated noise expressions to calculate uncertainties
+2025-09-16 16:11:29	WARN	imfit::SkyCompRep::convertToJy	Cannot convert units of brightness to Jy - will assume Jy
+2025-09-16 16:11:29	WARN	imfit::SkyCompRep::peakToIntegralFlux()	There are no image brightness units, assuming Jy/pixel
+2025-09-16 16:11:29	WARN	imfit::SkyCompRep::integralToPeakFlux()	There are no image brightness units, assuming Jy/pixel
+2025-09-16 16:11:29	WARN	ImageExprCalculator::compute2	Overwriting pixel values of the currently attached image
+2025-09-16 16:11:29	WARN	imfit::ImageFitter::_finishConstruction	Unrecognized intensity unit . Will assume Jy/pixel
+2025-09-16 16:11:29	WARN	imfit::ImageFitter::clearNoiseFWHM	noiseFWHM not specified and image has no beam, using uncorrelated noise expressions to calculate uncertainties
+2025-09-16 16:11:29	WARN	imfit::SkyCompRep::convertToJy	Cannot convert units of brightness to Jy - will assume Jy
+2025-09-16 16:11:29	WARN	imfit::SkyCompRep::peakToIntegralFlux()	There are no image brightness units, assuming Jy/pixel
+2025-09-16 16:11:29	WARN	imfit::SkyCompRep::integralToPeakFlux()	There are no image brightness units, assuming Jy/pixel
+2025-09-16 16:11:29	WARN	ImageExprCalculator::compute2	Overwriting pixel values of the currently attached image
+2025-09-16 16:11:29	WARN	imfit::ImageFitter::_finishConstruction	Unrecognized intensity unit . Will assume Jy/pixel
+2025-09-16 16:11:29	WARN	imfit::ImageFitter::clearNoiseFWHM	noiseFWHM not specified and image has no beam, using uncorrelated noise expressions to calculate uncertainties
+2025-09-16 16:11:29	WARN	imfit::SkyCompRep::convertToJy	Cannot convert units of brightness to Jy - will assume Jy
+2025-09-16 16:11:29	WARN	imfit::SkyCompRep::peakToIntegralFlux()	There are no image brightness units, assuming Jy/pixel
+2025-09-16 16:11:29	WARN	imfit::SkyCompRep::integralToPeakFlux()	There are no image brightness units, assuming Jy/pixel

@@ -1,0 +1,7 @@
+2025-09-16 14:57:05	INFO	ImageFactory::createImage	Created Paged image 'xxyy.im' of shape [20, 20, 20] with float valued pixels.
+2025-09-16 14:57:05	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:05	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:05	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:57:05	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:57:05	INFO	name::	No table opened.
+2025-09-16 14:57:05	INFO	showcache::	The Table Cache is empty.

@@ -1,0 +1,2 @@
+2025-09-16 15:45:46	WARN	AgentFlagger::initAgents	Cannot create agent Quack: Parameter 'quackinterval' must be greater than zero.
+2025-09-16 15:45:46	SEVERE	AgentFlagger::run	There is no agent to run in list

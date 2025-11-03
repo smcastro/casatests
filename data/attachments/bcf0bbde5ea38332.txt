@@ -1,0 +1,13 @@
+2025-09-16 14:56:49	INFO	ImageFactory::createImage	Created Temp image  of shape [20, 20, 20] with float valued pixels.
+2025-09-16 14:56:49	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:49	INFO	CasacRegionManager::fromBCS	Using all spectral channels.
+2025-09-16 14:56:49	WARN	ImageDecimator::decimate	A decimation factor of 1 has been specified which means no planes will be removed. The resulting image will be a straight copy of the selected image.
+2025-09-16 14:56:49	INFO	::::ImageFactory::createImage	Created Temp image  of shape [20, 20, 20] with float valued pixels.
+2025-09-16 14:56:49	INFO	::::image::fromshape	Ran ia.fromshape
+2025-09-16 14:56:49	INFO	::::image::fromshape	ia.fromshape(outfile="", shape=[20,20,20], csys={...}, linear=false, overwrite=false, log=true, type="f")
+2025-09-16 14:56:49	INFO	::::image::_decimate	Ran ia.decimate
+2025-09-16 14:56:49	INFO	::::image::_decimate	ia.decimate(outfile="", axis=0, factor=1, method="copy", region="", mask="", overwrite=false, stretch=false)
+2025-09-16 14:56:49	INFO	name::	No table opened.
+2025-09-16 14:56:49	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:56:49	INFO	name::	No table opened.
+2025-09-16 14:56:49	INFO	name::	No table opened.

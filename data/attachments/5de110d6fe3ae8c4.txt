@@ -1,0 +1,17 @@
+2025-09-16 14:57:06	INFO	ImageFactory::createImage	Created Paged image 'ia.fromshape.image1' of shape [32, 32, 32] with float valued pixels.
+2025-09-16 14:57:06	INFO	ImageMaskAttacher::makeMask	Created and initialized mask `mask0'
+2025-09-16 14:57:06	SEVERE	image::regrid	Exception Reported: (/source/casa6/casatools/casacore/coordinates/Coordinates/CoordinateSystem.cc : 925) Failed AlwaysAssert axisInCoordinateSystem < nPixelAxes()
+2025-09-16 14:57:06	WARN	ImageRegrid<T>::makeCoordinateSystem (file /source/casa6/casatools/casacore/casacore/images/Images/ImageRegrid.tcc, line 631)	Direction coordinate is not present  in the output coordinate system, so it cannot be regridded
+2025-09-16 14:57:06	WARN	ImageRegrid<T>::makeCoordinateSystem (file /source/casa6/casatools/casacore/casacore/images/Images/ImageRegrid.tcc, line 631)	Spectral coordinate is not present  in the output coordinate system, so it cannot be regridded
+2025-09-16 14:57:06	SEVERE	image::regrid	Exception Reported: Exception: The number of pixel axes in the output shape and Coordinate System must be the same. Shape has size 4. Output coordinate system has 3 axes.
+2025-09-16 14:57:06	SEVERE	image::regrid+	... thrown by std::shared_ptr<casacore::ImageInterface<T> > casa::ImageRegridder<T>::_regrid() const [with T = float] at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/ImageRegridder.tcc, line: 136
+2025-09-16 14:57:06	SEVERE	image::regrid	Exception Reported: Unknown interpolation method doggies
+2025-09-16 14:57:06	WARN	ImageRegrid<T>::makeCoordinateSystem (file /source/casa6/casatools/casacore/casacore/images/Images/ImageRegrid.tcc, line 631)	Direction coordinate is not present  in the output coordinate system, so it cannot be regridded
+2025-09-16 14:57:06	WARN	ImageRegrid<T>::makeCoordinateSystem (file /source/casa6/casatools/casacore/casacore/images/Images/ImageRegrid.tcc, line 631)	Spectral coordinate is not present  in the output coordinate system, so it cannot be regridded
+2025-09-16 14:57:06	INFO	ImageMaskAttacher::makeMask	Created and initialized mask `mask0'
+2025-09-16 14:57:06	WARN	ImageRegrid<T>::makeCoordinateSystem (file /source/casa6/casatools/casacore/casacore/images/Images/ImageRegrid.tcc, line 631)	Direction coordinate is not present  in the output coordinate system, so it cannot be regridded
+2025-09-16 14:57:06	INFO	ImageMaskAttacher::makeMask	Created and initialized mask `mask0'
+2025-09-16 14:57:06	WARN	ImageRegrid<T>::makeCoordinateSystem (file /source/casa6/casatools/casacore/casacore/images/Images/ImageRegrid.tcc, line 631)	Spectral coordinate is not present  in the output coordinate system, so it cannot be regridded
+2025-09-16 14:57:06	INFO	ImageMaskAttacher::makeMask	Created and initialized mask `mask0'
+2025-09-16 14:57:06	INFO	name::	No table opened.
+2025-09-16 14:57:06	INFO	showcache::	The Table Cache is empty.

@@ -1,0 +1,38 @@
+2025-09-16 14:57:47	INFO	test
+::ms::regridspw	Starting spectral frame transformation / regridding ...
+2025-09-16 14:57:47	INFO	test
+::SubMS::regridSpw()	Using tabulated observatory position for VLA:
+2025-09-16 14:57:47	INFO	test
+::SubMS::regridSpw()	   Position: [-1.60119e+06, -5.04198e+06, 3.55488e+06] (ITRF)
+2025-09-16 14:57:47	INFO	test
+::SubMS::regridSpw()	Regridded spectral window 0 will be created for field 0 with parameters 
+2025-09-16 14:57:47	INFO	test
+::SubMS::regridSpw()+	input frame = LSRK, output frame = LSRK
+2025-09-16 14:57:47	INFO	test
+::SubMS::regridSpw()+	 New channels defined based on original channels
+2025-09-16 14:57:47	INFO	test
+::SubMS::regridSpw()+	 Central channel contains original channel 24
+2025-09-16 14:57:47	INFO	test
+::SubMS::regridSpw()+	 Channel width = 2 original channels
+2025-09-16 14:57:47	INFO	test
+::SubMS::regridSpw()+	 Total width of SPW = 32 original channels == 16 new channels
+2025-09-16 14:57:47	INFO	test
+::SubMS::regridSpw()+	 Total width of SPW (in output frame) = 781250 Hz
+2025-09-16 14:57:47	INFO	test
+::SubMS::regridSpw()+	 Lower edge = 1.41285e+09 Hz, upper edge = 1.41363e+09 Hz
+2025-09-16 14:57:47	INFO	test
+::SubMS::regridSpw()+	 Interpolation Method = linear
+2025-09-16 14:57:47	INFO	test
+::SubMS::regridSpw()	Added 1 new rows to the DATA_DESCRIPTION table and deleted 1 old ones.
+2025-09-16 14:57:47	INFO	test
+::SubMS::regridSpw()+	Added 1 rows to the SPECTRAL_WINDOW table and deleted 1 old ones.
+2025-09-16 14:57:47	INFO	test
+::SubMS::regridSpw()+	Added 3 rows to the SOURCE table and deleted 3 old ones.
+2025-09-16 14:57:47	INFO	test
+::SubMS::regridSpw()	Main table data array columns will be rewritten.
+2025-09-16 14:57:47	INFO	test
+::SubMS::regridSpw()	The following columns will be Hanning-smoothed before regridding: 
+2025-09-16 14:57:47	INFO	test
+::SubMS::regridSpw()	 DATA 
+2025-09-16 14:57:47	INFO	test
+::ms::regridspw	Spectral frame transformation/regridding completed.

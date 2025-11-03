@@ -1,0 +1,576 @@
+Testing with data /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ...
+['TIME', 'TIME_EXTRA_PREC', 'INTERVAL', 'ANTENNA1', 'FEED1', 'FIELD_ID', 'ARRAY_ID', 'OBSERVATION_ID', 'SCAN_NUMBER', 'PROCESSOR_ID', 'STATE_ID', 'PHASE_ID', 'PULSAR_BIN', 'PULSAR_GATE_ID', 'FREQ_GROUP', 'FREQ_GROUP_NAME', 'FIELD_NAME', 'FIELD_CODE', 'SOURCE_NAME', 'SOURCE_CODE', 'CALIBRATION_GROUP', 'GAIN', 'POLY_TYPE', 'POLY_MODE', 'N_KNOTS_AMP', 'N_KNOTS_PHASE', 'SPLINE_KNOTS_AMP', 'SPLINE_KNOTS_PHASE', 'SCALE_FACTOR', 'VALID_DOMAIN', 'N_POLY_AMP', 'N_POLY_PHASE', 'POLY_COEFF_AMP', 'POLY_COEFF_PHASE', 'PHASE_UNITS', 'REF_ANT', 'REF_FEED', 'REF_RECEPTOR', 'REF_FREQUENCY', 'MEAS_FREQ_REF', 'REF_DIRECTION', 'MEAS_DIR_REF', 'CAL_DESC_ID', 'CAL_HISTORY_ID', 'TOTAL_SOLUTION_OK', 'TOTAL_FIT', 'TOTAL_FIT_WEIGHT', 'SOLUTION_OK', 'FIT', 'FIT_WEIGHT', 'FLAG', 'SNR', 'amp', 'amplitude', 'phase', 'imag', 'imaginary', 'real']
+Trying these column names ['time', 'time_extra_prec', 'interval', 'antenna1', 'feed1', 'field_id', 'array_id', 'observation_id', 'scan_number', 'processor_id', 'state_id', 'phase_id', 'pulsar_bin', 'pulsar_gate_id', 'freq_group', 'calibration_group', 'n_knots_amp', 'n_knots_phase', 'spline_knots_amp', 'spline_knots_phase', 'n_poly_amp', 'n_poly_phase', 'poly_coeff_amp', 'poly_coeff_phase', 'ref_ant', 'ref_feed', 'ref_receptor', 'ref_frequency', 'meas_freq_ref', 'ref_direction', 'meas_dir_ref', 'cal_desc_id', 'cal_history_id', 'total_solution_ok', 'total_fit', 'total_fit_weight', 'solution_ok', 'fit', 'fit_weight', 'flag', 'snr', 'amp', 'amplitude', 'phase', 'imag', 'imaginary', 'real']
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = time ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = time_extra_prec ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = interval ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = antenna1 ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = feed1 ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = field_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = array_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = observation_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = scan_number ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = processor_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = state_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = phase_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = pulsar_bin ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = pulsar_gate_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = freq_group ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = calibration_group ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = n_knots_amp ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = n_knots_phase ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = spline_knots_amp ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = spline_knots_phase ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = n_poly_amp ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = n_poly_phase ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = poly_coeff_amp ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = poly_coeff_phase ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = ref_ant ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = ref_feed ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = ref_receptor ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = ref_frequency ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = meas_freq_ref ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = ref_direction ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = meas_dir_ref ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = cal_desc_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = cal_history_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = total_solution_ok ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = total_fit ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = total_fit_weight ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = solution_ok ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = fit ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = fit_weight ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = flag ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = snr ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = amp ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = amp ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = amplitude ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = amplitude ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = phase ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = phase ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = imag ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = imag ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = imaginary ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = imaginary ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = real ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.amp.gcal ; axis = real ; datacolumn = scale_factor
+Testing with data /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ...
+['TIME', 'TIME_EXTRA_PREC', 'INTERVAL', 'ANTENNA1', 'FEED1', 'FIELD_ID', 'ARRAY_ID', 'OBSERVATION_ID', 'SCAN_NUMBER', 'PROCESSOR_ID', 'STATE_ID', 'PHASE_ID', 'PULSAR_BIN', 'PULSAR_GATE_ID', 'FREQ_GROUP', 'FREQ_GROUP_NAME', 'FIELD_NAME', 'FIELD_CODE', 'SOURCE_NAME', 'SOURCE_CODE', 'CALIBRATION_GROUP', 'GAIN', 'POLY_TYPE', 'POLY_MODE', 'SCALE_FACTOR', 'VALID_DOMAIN', 'N_POLY_AMP', 'N_POLY_PHASE', 'POLY_COEFF_AMP', 'POLY_COEFF_PHASE', 'PHASE_UNITS', 'SIDEBAND_REF', 'REF_ANT', 'REF_FEED', 'REF_RECEPTOR', 'REF_FREQUENCY', 'MEAS_FREQ_REF', 'REF_DIRECTION', 'MEAS_DIR_REF', 'CAL_DESC_ID', 'CAL_HISTORY_ID', 'TOTAL_SOLUTION_OK', 'TOTAL_FIT', 'TOTAL_FIT_WEIGHT', 'SOLUTION_OK', 'FIT', 'FIT_WEIGHT', 'FLAG', 'SNR', 'amp', 'amplitude', 'phase', 'imag', 'imaginary', 'real']
+Trying these column names ['time', 'time_extra_prec', 'interval', 'antenna1', 'feed1', 'field_id', 'array_id', 'observation_id', 'scan_number', 'processor_id', 'state_id', 'phase_id', 'pulsar_bin', 'pulsar_gate_id', 'freq_group', 'calibration_group', 'n_poly_amp', 'n_poly_phase', 'poly_coeff_amp', 'poly_coeff_phase', 'ref_ant', 'ref_feed', 'ref_receptor', 'ref_frequency', 'meas_freq_ref', 'ref_direction', 'meas_dir_ref', 'cal_desc_id', 'cal_history_id', 'total_solution_ok', 'total_fit', 'total_fit_weight', 'solution_ok', 'fit', 'fit_weight', 'flag', 'snr', 'amp', 'amplitude', 'phase', 'imag', 'imaginary', 'real']
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = time ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = time_extra_prec ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = interval ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = antenna1 ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = feed1 ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = field_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = array_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = observation_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = scan_number ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = processor_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = state_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = phase_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = pulsar_bin ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = pulsar_gate_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = freq_group ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = calibration_group ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = n_poly_amp ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = n_poly_phase ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = poly_coeff_amp ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = poly_coeff_phase ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = ref_ant ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = ref_feed ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = ref_receptor ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = ref_frequency ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = meas_freq_ref ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = ref_direction ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = meas_dir_ref ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = cal_desc_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = cal_history_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = total_solution_ok ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = total_fit ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = total_fit_weight ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = solution_ok ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = fit ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = fit_weight ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = flag ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = snr ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = amp ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = amp ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = amplitude ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = amplitude ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = phase ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = phase ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = imag ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = imag ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = imaginary ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = imaginary ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = real ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.bpoly ; axis = real ; datacolumn = scale_factor
+Testing with data /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ...
+['TIME', 'TIME_EXTRA_PREC', 'INTERVAL', 'ANTENNA1', 'FEED1', 'FIELD_ID', 'ARRAY_ID', 'OBSERVATION_ID', 'SCAN_NUMBER', 'PROCESSOR_ID', 'STATE_ID', 'PHASE_ID', 'PULSAR_BIN', 'PULSAR_GATE_ID', 'FREQ_GROUP', 'FREQ_GROUP_NAME', 'FIELD_NAME', 'FIELD_CODE', 'SOURCE_NAME', 'SOURCE_CODE', 'CALIBRATION_GROUP', 'GAIN', 'POLY_TYPE', 'POLY_MODE', 'N_KNOTS_AMP', 'N_KNOTS_PHASE', 'SPLINE_KNOTS_AMP', 'SPLINE_KNOTS_PHASE', 'SCALE_FACTOR', 'VALID_DOMAIN', 'N_POLY_AMP', 'N_POLY_PHASE', 'POLY_COEFF_AMP', 'POLY_COEFF_PHASE', 'PHASE_UNITS', 'REF_ANT', 'REF_FEED', 'REF_RECEPTOR', 'REF_FREQUENCY', 'MEAS_FREQ_REF', 'REF_DIRECTION', 'MEAS_DIR_REF', 'CAL_DESC_ID', 'CAL_HISTORY_ID', 'TOTAL_SOLUTION_OK', 'TOTAL_FIT', 'TOTAL_FIT_WEIGHT', 'SOLUTION_OK', 'FIT', 'FIT_WEIGHT', 'FLAG', 'SNR', 'amp', 'amplitude', 'phase', 'imag', 'imaginary', 'real']
+Trying these column names ['time', 'time_extra_prec', 'interval', 'antenna1', 'feed1', 'field_id', 'array_id', 'observation_id', 'scan_number', 'processor_id', 'state_id', 'phase_id', 'pulsar_bin', 'pulsar_gate_id', 'freq_group', 'calibration_group', 'n_knots_amp', 'n_knots_phase', 'spline_knots_amp', 'spline_knots_phase', 'n_poly_amp', 'n_poly_phase', 'poly_coeff_amp', 'poly_coeff_phase', 'ref_ant', 'ref_feed', 'ref_receptor', 'ref_frequency', 'meas_freq_ref', 'ref_direction', 'meas_dir_ref', 'cal_desc_id', 'cal_history_id', 'total_solution_ok', 'total_fit', 'total_fit_weight', 'solution_ok', 'fit', 'fit_weight', 'flag', 'snr', 'amp', 'amplitude', 'phase', 'imag', 'imaginary', 'real']
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = time ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = time_extra_prec ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = interval ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = antenna1 ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = feed1 ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = field_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = array_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = observation_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = scan_number ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = processor_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = state_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = phase_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = pulsar_bin ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = pulsar_gate_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = freq_group ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = calibration_group ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = n_knots_amp ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = n_knots_phase ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = spline_knots_amp ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = spline_knots_phase ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = n_poly_amp ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = n_poly_phase ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = poly_coeff_amp ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = poly_coeff_phase ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = ref_ant ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = ref_feed ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = ref_receptor ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = ref_frequency ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = meas_freq_ref ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = ref_direction ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = meas_dir_ref ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = cal_desc_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = cal_history_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = total_solution_ok ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = total_fit ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = total_fit_weight ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = solution_ok ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = fit ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = fit_weight ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = flag ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = snr ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = amp ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = amp ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = amplitude ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = amplitude ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = phase ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = phase ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = imag ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = imag ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = imaginary ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = imaginary ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = real ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal ; axis = real ; datacolumn = scale_factor
+Testing with data /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ...
+Expected = {'SPLINE_KNOTS_PHASE': {'rms': 4362063360.0, 'medabsdevmed': 13056.0, 'min': 4362050048.0, 'max': 4362076160.0, 'sum': 872412620800.0, 'quartile': 26112.0, 'median': 4362063104.0, 'sumsq': 3.80551890468e+21, 'stddev': 11866.4301499, 'var': 140812164.503, 'npts': 200, 'mean': 4362063104.0}}
+Got =  {'SPLINE_KNOTS_PHASE': {'max': 4362076160.0, 'mean': 4362063104.0, 'medabsdevmed': 13056.0, 'median': 4362063104.0, 'min': 4362050048.0, 'npts': 200.0, 'quartile': 26112.0, 'rms': 4362063052.780308, 'stddev': 11868.428183052352, 'sum': 872412620800.0, 'sumsq': 3.8055188152862114e+21, 'var': 140859587.53627136}}
+Checking rms: 4362063360.0 vs 4362063052.780308
+Checking medabsdevmed: 13056.0 vs 13056.0
+Checking min: 4362050048.0 vs 4362050048.0
+Checking max: 4362076160.0 vs 4362076160.0
+Checking sum: 872412620800.0 vs 872412620800.0
+Checking quartile: 26112.0 vs 26112.0
+Checking median: 4362063104.0 vs 4362063104.0
+Checking sumsq: 3.80551890468e+21 vs 3.8055188152862114e+21
+Checking stddev: 11866.4301499 vs 11868.428183052352
+Ignoring this known problem on 64bit!
+Checking var: 140812164.503 vs 140859587.53627136
+Ignoring this known problem on 64bit!
+Checking npts: 200 vs 200.0
+Checking mean: 4362063104.0 vs 4362063104.0
+['TIME', 'TIME_EXTRA_PREC', 'INTERVAL', 'ANTENNA1', 'FEED1', 'FIELD_ID', 'ARRAY_ID', 'OBSERVATION_ID', 'SCAN_NUMBER', 'PROCESSOR_ID', 'STATE_ID', 'PHASE_ID', 'PULSAR_BIN', 'PULSAR_GATE_ID', 'FREQ_GROUP', 'FREQ_GROUP_NAME', 'FIELD_NAME', 'FIELD_CODE', 'SOURCE_NAME', 'SOURCE_CODE', 'CALIBRATION_GROUP', 'GAIN', 'POLY_TYPE', 'POLY_MODE', 'N_KNOTS_AMP', 'N_KNOTS_PHASE', 'SPLINE_KNOTS_AMP', 'SPLINE_KNOTS_PHASE', 'SCALE_FACTOR', 'VALID_DOMAIN', 'N_POLY_AMP', 'N_POLY_PHASE', 'POLY_COEFF_AMP', 'POLY_COEFF_PHASE', 'PHASE_UNITS', 'REF_ANT', 'REF_FEED', 'REF_RECEPTOR', 'REF_FREQUENCY', 'MEAS_FREQ_REF', 'REF_DIRECTION', 'MEAS_DIR_REF', 'CAL_DESC_ID', 'CAL_HISTORY_ID', 'TOTAL_SOLUTION_OK', 'TOTAL_FIT', 'TOTAL_FIT_WEIGHT', 'SOLUTION_OK', 'FIT', 'FIT_WEIGHT', 'FLAG', 'SNR', 'amp', 'amplitude', 'phase', 'imag', 'imaginary', 'real']
+Trying these column names ['time', 'time_extra_prec', 'interval', 'antenna1', 'feed1', 'field_id', 'array_id', 'observation_id', 'scan_number', 'processor_id', 'state_id', 'phase_id', 'pulsar_bin', 'pulsar_gate_id', 'freq_group', 'calibration_group', 'n_knots_amp', 'n_knots_phase', 'spline_knots_amp', 'spline_knots_phase', 'n_poly_amp', 'n_poly_phase', 'poly_coeff_amp', 'poly_coeff_phase', 'ref_ant', 'ref_feed', 'ref_receptor', 'ref_frequency', 'meas_freq_ref', 'ref_direction', 'meas_dir_ref', 'cal_desc_id', 'cal_history_id', 'total_solution_ok', 'total_fit', 'total_fit_weight', 'solution_ok', 'fit', 'fit_weight', 'flag', 'snr', 'amp', 'amplitude', 'phase', 'imag', 'imaginary', 'real']
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = time ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = time_extra_prec ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = interval ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = antenna1 ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = feed1 ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = field_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = array_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = observation_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = scan_number ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = processor_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = state_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = phase_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = pulsar_bin ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = pulsar_gate_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = freq_group ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = calibration_group ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = n_knots_amp ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = n_knots_phase ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = spline_knots_amp ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = spline_knots_phase ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = n_poly_amp ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = n_poly_phase ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = poly_coeff_amp ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = poly_coeff_phase ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = ref_ant ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = ref_feed ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = ref_receptor ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = ref_frequency ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = meas_freq_ref ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = ref_direction ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = meas_dir_ref ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = cal_desc_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = cal_history_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = total_solution_ok ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = total_fit ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = total_fit_weight ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = solution_ok ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = fit ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = fit_weight ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = flag ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = snr ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = amp ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = amp ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = amplitude ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = amplitude ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = phase ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = phase ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = imag ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = imag ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = imaginary ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = imaginary ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = real ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.1mm.ph.gcal0 ; axis = real ; datacolumn = scale_factor
+Testing with data /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ...
+['TIME', 'TIME_EXTRA_PREC', 'INTERVAL', 'ANTENNA1', 'FEED1', 'FIELD_ID', 'ARRAY_ID', 'OBSERVATION_ID', 'SCAN_NUMBER', 'PROCESSOR_ID', 'STATE_ID', 'PHASE_ID', 'PULSAR_BIN', 'PULSAR_GATE_ID', 'FREQ_GROUP', 'FREQ_GROUP_NAME', 'FIELD_NAME', 'FIELD_CODE', 'SOURCE_NAME', 'SOURCE_CODE', 'CALIBRATION_GROUP', 'GAIN', 'POLY_TYPE', 'POLY_MODE', 'N_KNOTS_AMP', 'N_KNOTS_PHASE', 'SPLINE_KNOTS_AMP', 'SPLINE_KNOTS_PHASE', 'SCALE_FACTOR', 'VALID_DOMAIN', 'N_POLY_AMP', 'N_POLY_PHASE', 'POLY_COEFF_AMP', 'POLY_COEFF_PHASE', 'PHASE_UNITS', 'REF_ANT', 'REF_FEED', 'REF_RECEPTOR', 'REF_FREQUENCY', 'MEAS_FREQ_REF', 'REF_DIRECTION', 'MEAS_DIR_REF', 'CAL_DESC_ID', 'CAL_HISTORY_ID', 'TOTAL_SOLUTION_OK', 'TOTAL_FIT', 'TOTAL_FIT_WEIGHT', 'SOLUTION_OK', 'FIT', 'FIT_WEIGHT', 'FLAG', 'SNR', 'amp', 'amplitude', 'phase', 'imag', 'imaginary', 'real']
+Trying these column names ['time', 'time_extra_prec', 'interval', 'antenna1', 'feed1', 'field_id', 'array_id', 'observation_id', 'scan_number', 'processor_id', 'state_id', 'phase_id', 'pulsar_bin', 'pulsar_gate_id', 'freq_group', 'calibration_group', 'n_knots_amp', 'n_knots_phase', 'spline_knots_amp', 'spline_knots_phase', 'n_poly_amp', 'n_poly_phase', 'poly_coeff_amp', 'poly_coeff_phase', 'ref_ant', 'ref_feed', 'ref_receptor', 'ref_frequency', 'meas_freq_ref', 'ref_direction', 'meas_dir_ref', 'cal_desc_id', 'cal_history_id', 'total_solution_ok', 'total_fit', 'total_fit_weight', 'solution_ok', 'fit', 'fit_weight', 'flag', 'snr', 'amp', 'amplitude', 'phase', 'imag', 'imaginary', 'real']
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = time ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = time_extra_prec ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = interval ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = antenna1 ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = feed1 ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = field_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = array_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = observation_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = scan_number ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = processor_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = state_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = phase_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = pulsar_bin ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = pulsar_gate_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = freq_group ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = calibration_group ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = n_knots_amp ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = n_knots_phase ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = spline_knots_amp ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = spline_knots_phase ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = n_poly_amp ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = n_poly_phase ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = poly_coeff_amp ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = poly_coeff_phase ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = ref_ant ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = ref_feed ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = ref_receptor ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = ref_frequency ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = meas_freq_ref ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = ref_direction ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = meas_dir_ref ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = cal_desc_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = cal_history_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = total_solution_ok ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = total_fit ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = total_fit_weight ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = solution_ok ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = fit ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = fit_weight ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = flag ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = snr ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = amp ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = amp ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = amplitude ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = amplitude ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = phase ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = phase ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = imag ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = imag ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = imaginary ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = imaginary ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = real ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.amp.gcal ; axis = real ; datacolumn = scale_factor
+Testing with data /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ...
+['TIME', 'TIME_EXTRA_PREC', 'INTERVAL', 'ANTENNA1', 'FEED1', 'FIELD_ID', 'ARRAY_ID', 'OBSERVATION_ID', 'SCAN_NUMBER', 'PROCESSOR_ID', 'STATE_ID', 'PHASE_ID', 'PULSAR_BIN', 'PULSAR_GATE_ID', 'FREQ_GROUP', 'FREQ_GROUP_NAME', 'FIELD_NAME', 'FIELD_CODE', 'SOURCE_NAME', 'SOURCE_CODE', 'CALIBRATION_GROUP', 'GAIN', 'POLY_TYPE', 'POLY_MODE', 'SCALE_FACTOR', 'VALID_DOMAIN', 'N_POLY_AMP', 'N_POLY_PHASE', 'POLY_COEFF_AMP', 'POLY_COEFF_PHASE', 'PHASE_UNITS', 'SIDEBAND_REF', 'REF_ANT', 'REF_FEED', 'REF_RECEPTOR', 'REF_FREQUENCY', 'MEAS_FREQ_REF', 'REF_DIRECTION', 'MEAS_DIR_REF', 'CAL_DESC_ID', 'CAL_HISTORY_ID', 'TOTAL_SOLUTION_OK', 'TOTAL_FIT', 'TOTAL_FIT_WEIGHT', 'SOLUTION_OK', 'FIT', 'FIT_WEIGHT', 'FLAG', 'SNR', 'amp', 'amplitude', 'phase', 'imag', 'imaginary', 'real']
+Trying these column names ['time', 'time_extra_prec', 'interval', 'antenna1', 'feed1', 'field_id', 'array_id', 'observation_id', 'scan_number', 'processor_id', 'state_id', 'phase_id', 'pulsar_bin', 'pulsar_gate_id', 'freq_group', 'calibration_group', 'n_poly_amp', 'n_poly_phase', 'poly_coeff_amp', 'poly_coeff_phase', 'ref_ant', 'ref_feed', 'ref_receptor', 'ref_frequency', 'meas_freq_ref', 'ref_direction', 'meas_dir_ref', 'cal_desc_id', 'cal_history_id', 'total_solution_ok', 'total_fit', 'total_fit_weight', 'solution_ok', 'fit', 'fit_weight', 'flag', 'snr', 'amp', 'amplitude', 'phase', 'imag', 'imaginary', 'real']
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = time ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = time_extra_prec ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = interval ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = antenna1 ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = feed1 ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = field_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = array_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = observation_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = scan_number ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = processor_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = state_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = phase_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = pulsar_bin ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = pulsar_gate_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = freq_group ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = calibration_group ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = n_poly_amp ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = n_poly_phase ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = poly_coeff_amp ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = poly_coeff_phase ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = ref_ant ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = ref_feed ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = ref_receptor ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = ref_frequency ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = meas_freq_ref ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = ref_direction ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = meas_dir_ref ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = cal_desc_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = cal_history_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = total_solution_ok ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = total_fit ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = total_fit_weight ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = solution_ok ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = fit ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = fit_weight ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = flag ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = snr ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = amp ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = amp ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = amplitude ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = amplitude ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = phase ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = phase ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = imag ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = imag ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = imaginary ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = imaginary ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = real ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.bpoly ; axis = real ; datacolumn = scale_factor
+Testing with data /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ...
+['TIME', 'TIME_EXTRA_PREC', 'INTERVAL', 'ANTENNA1', 'FEED1', 'FIELD_ID', 'ARRAY_ID', 'OBSERVATION_ID', 'SCAN_NUMBER', 'PROCESSOR_ID', 'STATE_ID', 'PHASE_ID', 'PULSAR_BIN', 'PULSAR_GATE_ID', 'FREQ_GROUP', 'FREQ_GROUP_NAME', 'FIELD_NAME', 'FIELD_CODE', 'SOURCE_NAME', 'SOURCE_CODE', 'CALIBRATION_GROUP', 'GAIN', 'POLY_TYPE', 'POLY_MODE', 'N_KNOTS_AMP', 'N_KNOTS_PHASE', 'SPLINE_KNOTS_AMP', 'SPLINE_KNOTS_PHASE', 'SCALE_FACTOR', 'VALID_DOMAIN', 'N_POLY_AMP', 'N_POLY_PHASE', 'POLY_COEFF_AMP', 'POLY_COEFF_PHASE', 'PHASE_UNITS', 'REF_ANT', 'REF_FEED', 'REF_RECEPTOR', 'REF_FREQUENCY', 'MEAS_FREQ_REF', 'REF_DIRECTION', 'MEAS_DIR_REF', 'CAL_DESC_ID', 'CAL_HISTORY_ID', 'TOTAL_SOLUTION_OK', 'TOTAL_FIT', 'TOTAL_FIT_WEIGHT', 'SOLUTION_OK', 'FIT', 'FIT_WEIGHT', 'FLAG', 'SNR', 'amp', 'amplitude', 'phase', 'imag', 'imaginary', 'real']
+Trying these column names ['time', 'time_extra_prec', 'interval', 'antenna1', 'feed1', 'field_id', 'array_id', 'observation_id', 'scan_number', 'processor_id', 'state_id', 'phase_id', 'pulsar_bin', 'pulsar_gate_id', 'freq_group', 'calibration_group', 'n_knots_amp', 'n_knots_phase', 'spline_knots_amp', 'spline_knots_phase', 'n_poly_amp', 'n_poly_phase', 'poly_coeff_amp', 'poly_coeff_phase', 'ref_ant', 'ref_feed', 'ref_receptor', 'ref_frequency', 'meas_freq_ref', 'ref_direction', 'meas_dir_ref', 'cal_desc_id', 'cal_history_id', 'total_solution_ok', 'total_fit', 'total_fit_weight', 'solution_ok', 'fit', 'fit_weight', 'flag', 'snr', 'amp', 'amplitude', 'phase', 'imag', 'imaginary', 'real']
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = time ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = time_extra_prec ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = interval ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = antenna1 ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = feed1 ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = field_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = array_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = observation_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = scan_number ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = processor_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = state_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = phase_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = pulsar_bin ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = pulsar_gate_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = freq_group ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = calibration_group ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = n_knots_amp ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = n_knots_phase ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = spline_knots_amp ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = spline_knots_phase ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = n_poly_amp ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = n_poly_phase ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = poly_coeff_amp ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = poly_coeff_phase ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = ref_ant ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = ref_feed ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = ref_receptor ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = ref_frequency ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = meas_freq_ref ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = ref_direction ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = meas_dir_ref ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = cal_desc_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = cal_history_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = total_solution_ok ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = total_fit ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = total_fit_weight ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = solution_ok ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = fit ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = fit_weight ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = flag ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = snr ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = amp ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = amp ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = amplitude ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = amplitude ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = phase ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = phase ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = imag ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = imag ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = imaginary ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = imaginary ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = real ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal ; axis = real ; datacolumn = scale_factor
+Testing with data /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ...
+Expected = {'SPLINE_KNOTS_PHASE': {'rms': 4362063360.0, 'medabsdevmed': 13056.0, 'min': 4362050048.0, 'max': 4362076160.0, 'sum': 872412620800.0, 'quartile': 26112.0, 'median': 4362063104.0, 'sumsq': 3.80551890468e+21, 'stddev': 11866.4301499, 'var': 140812164.503, 'npts': 200, 'mean': 4362063104.0}}
+Got =  {'SPLINE_KNOTS_PHASE': {'max': 4362076160.0, 'mean': 4362063104.0, 'medabsdevmed': 13056.0, 'median': 4362063104.0, 'min': 4362050048.0, 'npts': 200.0, 'quartile': 26112.0, 'rms': 4362063052.780308, 'stddev': 11868.428183052352, 'sum': 872412620800.0, 'sumsq': 3.8055188152862114e+21, 'var': 140859587.53627136}}
+Checking rms: 4362063360.0 vs 4362063052.780308
+Checking medabsdevmed: 13056.0 vs 13056.0
+Checking min: 4362050048.0 vs 4362050048.0
+Checking max: 4362076160.0 vs 4362076160.0
+Checking sum: 872412620800.0 vs 872412620800.0
+Checking quartile: 26112.0 vs 26112.0
+Checking median: 4362063104.0 vs 4362063104.0
+Checking sumsq: 3.80551890468e+21 vs 3.8055188152862114e+21
+Checking stddev: 11866.4301499 vs 11868.428183052352
+Ignoring this known problem on 64bit!
+Checking var: 140812164.503 vs 140859587.53627136
+Ignoring this known problem on 64bit!
+Checking npts: 200 vs 200.0
+Checking mean: 4362063104.0 vs 4362063104.0
+['TIME', 'TIME_EXTRA_PREC', 'INTERVAL', 'ANTENNA1', 'FEED1', 'FIELD_ID', 'ARRAY_ID', 'OBSERVATION_ID', 'SCAN_NUMBER', 'PROCESSOR_ID', 'STATE_ID', 'PHASE_ID', 'PULSAR_BIN', 'PULSAR_GATE_ID', 'FREQ_GROUP', 'FREQ_GROUP_NAME', 'FIELD_NAME', 'FIELD_CODE', 'SOURCE_NAME', 'SOURCE_CODE', 'CALIBRATION_GROUP', 'GAIN', 'POLY_TYPE', 'POLY_MODE', 'N_KNOTS_AMP', 'N_KNOTS_PHASE', 'SPLINE_KNOTS_AMP', 'SPLINE_KNOTS_PHASE', 'SCALE_FACTOR', 'VALID_DOMAIN', 'N_POLY_AMP', 'N_POLY_PHASE', 'POLY_COEFF_AMP', 'POLY_COEFF_PHASE', 'PHASE_UNITS', 'REF_ANT', 'REF_FEED', 'REF_RECEPTOR', 'REF_FREQUENCY', 'MEAS_FREQ_REF', 'REF_DIRECTION', 'MEAS_DIR_REF', 'CAL_DESC_ID', 'CAL_HISTORY_ID', 'TOTAL_SOLUTION_OK', 'TOTAL_FIT', 'TOTAL_FIT_WEIGHT', 'SOLUTION_OK', 'FIT', 'FIT_WEIGHT', 'FLAG', 'SNR', 'amp', 'amplitude', 'phase', 'imag', 'imaginary', 'real']
+Trying these column names ['time', 'time_extra_prec', 'interval', 'antenna1', 'feed1', 'field_id', 'array_id', 'observation_id', 'scan_number', 'processor_id', 'state_id', 'phase_id', 'pulsar_bin', 'pulsar_gate_id', 'freq_group', 'calibration_group', 'n_knots_amp', 'n_knots_phase', 'spline_knots_amp', 'spline_knots_phase', 'n_poly_amp', 'n_poly_phase', 'poly_coeff_amp', 'poly_coeff_phase', 'ref_ant', 'ref_feed', 'ref_receptor', 'ref_frequency', 'meas_freq_ref', 'ref_direction', 'meas_dir_ref', 'cal_desc_id', 'cal_history_id', 'total_solution_ok', 'total_fit', 'total_fit_weight', 'solution_ok', 'fit', 'fit_weight', 'flag', 'snr', 'amp', 'amplitude', 'phase', 'imag', 'imaginary', 'real']
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = time ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = time_extra_prec ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = interval ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = antenna1 ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = feed1 ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = field_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = array_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = observation_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = scan_number ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = processor_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = state_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = phase_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = pulsar_bin ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = pulsar_gate_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = freq_group ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = calibration_group ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = n_knots_amp ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = n_knots_phase ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = spline_knots_amp ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = spline_knots_phase ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = n_poly_amp ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = n_poly_phase ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = poly_coeff_amp ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = poly_coeff_phase ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = ref_ant ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = ref_feed ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = ref_receptor ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = ref_frequency ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = meas_freq_ref ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = ref_direction ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = meas_dir_ref ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = cal_desc_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = cal_history_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = total_solution_ok ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = total_fit ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = total_fit_weight ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = solution_ok ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = fit ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = fit_weight ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = flag ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = snr ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = amp ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = amp ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = amplitude ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = amplitude ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = phase ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = phase ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = imag ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = imag ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = imaginary ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = imaginary ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = real ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.3mm.ph.gcal0 ; axis = real ; datacolumn = scale_factor
+Testing with data /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ...
+['TIME', 'TIME_EXTRA_PREC', 'INTERVAL', 'ANTENNA1', 'FEED1', 'FIELD_ID', 'ARRAY_ID', 'OBSERVATION_ID', 'SCAN_NUMBER', 'PROCESSOR_ID', 'STATE_ID', 'PHASE_ID', 'PULSAR_BIN', 'PULSAR_GATE_ID', 'FREQ_GROUP', 'FREQ_GROUP_NAME', 'FIELD_NAME', 'FIELD_CODE', 'SOURCE_NAME', 'SOURCE_CODE', 'CALIBRATION_GROUP', 'GAIN', 'POLY_TYPE', 'POLY_MODE', 'SCALE_FACTOR', 'VALID_DOMAIN', 'N_POLY_AMP', 'N_POLY_PHASE', 'POLY_COEFF_AMP', 'POLY_COEFF_PHASE', 'PHASE_UNITS', 'SIDEBAND_REF', 'REF_ANT', 'REF_FEED', 'REF_RECEPTOR', 'REF_FREQUENCY', 'MEAS_FREQ_REF', 'REF_DIRECTION', 'MEAS_DIR_REF', 'CAL_DESC_ID', 'CAL_HISTORY_ID', 'TOTAL_SOLUTION_OK', 'TOTAL_FIT', 'TOTAL_FIT_WEIGHT', 'SOLUTION_OK', 'FIT', 'FIT_WEIGHT', 'FLAG', 'SNR', 'amp', 'amplitude', 'phase', 'imag', 'imaginary', 'real']
+Trying these column names ['time', 'time_extra_prec', 'interval', 'antenna1', 'feed1', 'field_id', 'array_id', 'observation_id', 'scan_number', 'processor_id', 'state_id', 'phase_id', 'pulsar_bin', 'pulsar_gate_id', 'freq_group', 'calibration_group', 'n_poly_amp', 'n_poly_phase', 'poly_coeff_amp', 'poly_coeff_phase', 'ref_ant', 'ref_feed', 'ref_receptor', 'ref_frequency', 'meas_freq_ref', 'ref_direction', 'meas_dir_ref', 'cal_desc_id', 'cal_history_id', 'total_solution_ok', 'total_fit', 'total_fit_weight', 'solution_ok', 'fit', 'fit_weight', 'flag', 'snr', 'amp', 'amplitude', 'phase', 'imag', 'imaginary', 'real']
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = time ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = time_extra_prec ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = interval ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = antenna1 ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = feed1 ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = field_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = array_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = observation_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = scan_number ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = processor_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = state_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = phase_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = pulsar_bin ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = pulsar_gate_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = freq_group ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = calibration_group ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = n_poly_amp ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = n_poly_phase ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = poly_coeff_amp ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = poly_coeff_phase ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = ref_ant ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = ref_feed ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = ref_receptor ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = ref_frequency ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = meas_freq_ref ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = ref_direction ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = meas_dir_ref ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = cal_desc_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = cal_history_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = total_solution_ok ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = total_fit ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = total_fit_weight ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = solution_ok ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = fit ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = fit_weight ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = flag ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = snr ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = amp ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = amp ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = amplitude ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = amplitude ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = phase ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = phase ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = imag ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = imag ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = imaginary ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = imaginary ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = real ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.co.bpoly ; axis = real ; datacolumn = scale_factor
+Testing with data /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ...
+['TIME', 'TIME_EXTRA_PREC', 'INTERVAL', 'ANTENNA1', 'FEED1', 'FIELD_ID', 'ARRAY_ID', 'OBSERVATION_ID', 'SCAN_NUMBER', 'PROCESSOR_ID', 'STATE_ID', 'PHASE_ID', 'PULSAR_BIN', 'PULSAR_GATE_ID', 'FREQ_GROUP', 'FREQ_GROUP_NAME', 'FIELD_NAME', 'FIELD_CODE', 'SOURCE_NAME', 'SOURCE_CODE', 'CALIBRATION_GROUP', 'GAIN', 'POLY_TYPE', 'POLY_MODE', 'SCALE_FACTOR', 'VALID_DOMAIN', 'N_POLY_AMP', 'N_POLY_PHASE', 'POLY_COEFF_AMP', 'POLY_COEFF_PHASE', 'PHASE_UNITS', 'SIDEBAND_REF', 'REF_ANT', 'REF_FEED', 'REF_RECEPTOR', 'REF_FREQUENCY', 'MEAS_FREQ_REF', 'REF_DIRECTION', 'MEAS_DIR_REF', 'CAL_DESC_ID', 'CAL_HISTORY_ID', 'TOTAL_SOLUTION_OK', 'TOTAL_FIT', 'TOTAL_FIT_WEIGHT', 'SOLUTION_OK', 'FIT', 'FIT_WEIGHT', 'FLAG', 'SNR', 'amp', 'amplitude', 'phase', 'imag', 'imaginary', 'real']
+Trying these column names ['time', 'time_extra_prec', 'interval', 'antenna1', 'feed1', 'field_id', 'array_id', 'observation_id', 'scan_number', 'processor_id', 'state_id', 'phase_id', 'pulsar_bin', 'pulsar_gate_id', 'freq_group', 'calibration_group', 'n_poly_amp', 'n_poly_phase', 'poly_coeff_amp', 'poly_coeff_phase', 'ref_ant', 'ref_feed', 'ref_receptor', 'ref_frequency', 'meas_freq_ref', 'ref_direction', 'meas_dir_ref', 'cal_desc_id', 'cal_history_id', 'total_solution_ok', 'total_fit', 'total_fit_weight', 'solution_ok', 'fit', 'fit_weight', 'flag', 'snr', 'amp', 'amplitude', 'phase', 'imag', 'imaginary', 'real']
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = time ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = time_extra_prec ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = interval ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = antenna1 ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = feed1 ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = field_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = array_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = observation_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = scan_number ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = processor_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = state_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = phase_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = pulsar_bin ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = pulsar_gate_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = freq_group ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = calibration_group ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = n_poly_amp ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = n_poly_phase ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = poly_coeff_amp ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = poly_coeff_phase ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = ref_ant ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = ref_feed ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = ref_receptor ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = ref_frequency ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = meas_freq_ref ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = ref_direction ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = meas_dir_ref ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = cal_desc_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = cal_history_id ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = total_solution_ok ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = total_fit ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = total_fit_weight ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = solution_ok ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = fit ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = fit_weight ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = flag ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = snr ; datacolumn = 
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = amp ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = amp ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = amplitude ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = amplitude ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = phase ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = phase ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = imag ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = imag ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = imaginary ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = imaginary ; datacolumn = scale_factor
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = real ; datacolumn = gain
+Call with caltable = /casadata/repository/casatestdata/unittest/calstat/ggtau.hco.bpoly ; axis = real ; datacolumn = scale_factor

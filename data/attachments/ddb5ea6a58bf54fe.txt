@@ -1,0 +1,14 @@
+IGS files required for: ['2010/04/26']
+
+For 2010/04/26, the required IGS file is called: igsg1160.10i
+Attempting retrieval of IGS Final product file: igsg1160.10i.Z
+FILENAME:  igsg1160.10i.Z
+Transforming IONEX data format to a TEC/DTEC array for 2010/04/26
+Making image: tdem0003gencal.ms.IGS_TEC.im
+Making image: tdem0003gencal.ms.IGS_RMS_TEC.im
+The following TEC map was generated: tdem0003gencal.ms.IGS_TEC.im & tdem0003gencal.ms.IGS_RMS_TEC.im
+
+For 2023/12/01, the required IGS file is called: IGS0OPSFIN_20233350000_01D_02H_GIM.INX
+Attempting retrieval of IGS Final product file: IGS0OPSFIN_20233350000_01D_02H_GIM.INX.gz
+FILENAME:  IGS0OPSFIN_20233350000_01D_02H_GIM.INX.gz
+Transforming IONEX data format to a TEC/DTEC array for 2023/12/01

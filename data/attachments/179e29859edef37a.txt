@@ -1,0 +1,2 @@
+Caught expected Exception Exception: Invalid cursor axes.
+... thrown by casacore::Record casa::ImageHistogramsCalculator<T>::compute() const [with T = float] at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/ImageHistogramsCalculator.tcc, line: 61

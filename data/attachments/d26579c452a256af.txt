@@ -1,0 +1,4 @@
+/casadata/repository/casatestdata/unittest/deconvolve/
+refim_twochan
+/casadata/repository/casatestdata/unittest/deconvolve/
+refim_twochan

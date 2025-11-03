@@ -1,0 +1,8 @@
+2025-09-16 16:24:13	WARN	FitsIDItoMS::fillAntennaTable	ARRAY_GEOMETRY input table does not contain dish DIAMETER column.
+2025-09-16 16:24:13	WARN	FitsIDItoMS::fillAntennaTable+	 Will assume default diameter for TELESCOPE EVN which is 0 m.
+2025-09-16 16:24:13	WARN	FitsIDItoMS::fillAntennaTable	ARRAY_GEOMETRY input table does not contain dish DIAMETER column.
+2025-09-16 16:24:13	WARN	FitsIDItoMS::fillAntennaTable+	 Will assume default diameter for TELESCOPE EVN which is 0 m.
+2025-09-16 16:24:13	WARN	MSConcat::concatenate (file /source/casa6/casatools/casacore/ms/MSOper/MSConcat.cc, line 1000)	Zero or negative scan numbers in MS. May lead to duplicate scan numbers in concatenated MS.
+2025-09-16 16:24:13	WARN	FitsIDItoMS::fillAntennaTable	ARRAY_GEOMETRY input table does not contain dish DIAMETER column.
+2025-09-16 16:24:13	WARN	FitsIDItoMS::fillAntennaTable+	 Will assume default diameter for TELESCOPE EVN which is 0 m.
+2025-09-16 16:24:13	WARN	MSConcat::concatenate (file /source/casa6/casatools/casacore/ms/MSOper/MSConcat.cc, line 1000)	Zero or negative scan numbers in MS. May lead to duplicate scan numbers in concatenated MS.

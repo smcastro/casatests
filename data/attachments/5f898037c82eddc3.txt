@@ -1,0 +1,2 @@
+ :  channel, default start and width, TOPO
+[check_spec_frame] tstCubetest_chandefstdefwidthtopo.image: Spec frame is TOPO with crval 999999999.9999999 (Pass : should be TOPO with expected crval 999999990.0 )

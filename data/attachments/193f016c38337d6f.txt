@@ -1,0 +1,5 @@
+
+STARTING: iter0 routine
+Copying iter0 files to iter1
+STARTING: iter1 routine
+Closing ia tool

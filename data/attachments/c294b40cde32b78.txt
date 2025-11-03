@@ -1,0 +1,1 @@
+2025-09-16 15:56:47	WARN	imbaseline::SingleDishMS::setSelection (file /source/casa6/casatools/src/code/singledish/SingleDish/SingleDishMS.cc, line 212)	No valid selection parameter is set.

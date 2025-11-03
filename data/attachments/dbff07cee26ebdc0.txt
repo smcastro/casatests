@@ -1,0 +1,12 @@
+2025-09-16 16:11:46	WARN	ImageExprCalculator::compute	image beams are not the same: Axis Lengths: [1, 1]  (NB: Matrix in Row/Column order)
+2025-09-16 16:11:46	WARN	ImageExprCalculator::compute+	[major: 3.235 arcmin, minor: 1 arcmin, pa: 0 deg]
+2025-09-16 16:11:46	WARN	ImageExprCalculator::compute+	 vs Axis Lengths: [1, 1]  (NB: Matrix in Row/Column order)
+2025-09-16 16:11:46	WARN	ImageExprCalculator::compute+	[major: 3.234 arcmin, minor: 1 arcmin, pa: 0 deg]
+2025-09-16 16:11:46	WARN	ImageExprCalculator::compute	image beams are not the same: Axis Lengths: [1, 1]  (NB: Matrix in Row/Column order)
+2025-09-16 16:11:46	WARN	ImageExprCalculator::compute+	[major: 3.234568 arcmin, minor: 1 arcmin, pa: 0 deg]
+2025-09-16 16:11:46	WARN	ImageExprCalculator::compute+	 vs Axis Lengths: [1, 1]  (NB: Matrix in Row/Column order)
+2025-09-16 16:11:46	WARN	ImageExprCalculator::compute+	[major: 3.234567 arcmin, minor: 1 arcmin, pa: 0 deg]
+2025-09-16 16:11:46	WARN	ImageExprCalculator::compute	image beams are not the same: Axis Lengths: [1, 1]  (NB: Matrix in Row/Column order)
+2025-09-16 16:11:46	WARN	ImageExprCalculator::compute+	[major: 3.23456789027778 arcmin, minor: 1 arcmin, pa: 0 deg]
+2025-09-16 16:11:46	WARN	ImageExprCalculator::compute+	 vs Axis Lengths: [1, 1]  (NB: Matrix in Row/Column order)
+2025-09-16 16:11:46	WARN	ImageExprCalculator::compute+	[major: 3.23456789017778 arcmin, minor: 1 arcmin, pa: 0 deg]

@@ -1,0 +1,6 @@
+2025-09-16 14:57:15	INFO	ImageFITSConverter::readBeamsTable	Loading multiple beams from BEAMS table
+2025-09-16 14:57:15	SEVERE	imagepol::fourierRotationMeasure (file /source/casa6/casatools/src/code/imageanalysis/ImageAnalysis/ImagePolProxy.cc, line 623)	Cannot run fourierRotationMeasure on an image with multiple beams
+2025-09-16 14:57:15	SEVERE	imagepol::fourierrotationmeasure	Exception Reported: 2025-09-16 14:57:15	SEVERE	imagepol::fourierRotationMeasure (file /source/casa6/casatools/src/code/imageanalysis/ImageAnalysis/ImagePolProxy.cc, line 623)	Cannot run fourierRotationMeasure on an image with multiple beams
+2025-09-16 14:57:15	INFO	ImageFITSConverter::readBeamsTable	Loading multiple beams from BEAMS table
+2025-09-16 14:57:15	SEVERE	imagepol::fourierRotationMeasure (file /source/casa6/casatools/src/code/imageanalysis/ImageAnalysis/ImagePolProxy.cc, line 623)	Cannot run fourierRotationMeasure on an image with multiple beams
+2025-09-16 14:57:15	SEVERE	imagepol::fourierrotationmeasure	Exception Reported: 2025-09-16 14:57:15	SEVERE	imagepol::fourierRotationMeasure (file /source/casa6/casatools/src/code/imageanalysis/ImageAnalysis/ImagePolProxy.cc, line 623)	Cannot run fourierRotationMeasure on an image with multiple beams

@@ -1,0 +1,43 @@
+2025-09-16 14:56:49	INFO	ImageFactory::createImage	Created Temp image  of shape [20, 20, 20] with float valued pixels.
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord+	    [2, 3, 4] to [17, 16, 15]  (00:00:32.000, -00.07.00.000, 1.41499e+09Hz to 23:59:32.000, +00.06.00.000, 1.415e+09Hz)
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	Original Temporary_Image size => [20, 20, 20]
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	New  size => [16, 14, 12]
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord+	    [2, 0, 0] to [17, 19, 19]  (00:00:32.000, -00.10.00.001, 1.41499e+09Hz to 23:59:32.000, +00.09.00.001, 1.41501e+09Hz)
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	Original Temporary_Image size => [20, 20, 20]
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	New  size => [16, 20, 20]
+2025-09-16 14:56:49	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord+	    [0, 3, 0] to [19, 16, 19]  (00:00:40.000, -00.07.00.000, 1.41499e+09Hz to 23:59:24.000, +00.06.00.000, 1.41501e+09Hz)
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	Original Temporary_Image size => [20, 20, 20]
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	New  size => [20, 14, 20]
+2025-09-16 14:56:49	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord+	    [0, 0, 4] to [19, 19, 15]  (00:00:40.000, -00.10.00.001, 1.41499e+09Hz to 23:59:24.000, +00.09.00.001, 1.415e+09Hz)
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	Original Temporary_Image size => [20, 20, 20]
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	New  size => [20, 20, 12]
+2025-09-16 14:56:49	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord+	    [2, 3, 0] to [17, 16, 19]  (00:00:32.000, -00.07.00.000, 1.41499e+09Hz to 23:59:32.000, +00.06.00.000, 1.41501e+09Hz)
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	Original Temporary_Image size => [20, 20, 20]
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	New  size => [16, 14, 20]
+2025-09-16 14:56:49	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord+	    [2, 0, 4] to [17, 19, 15]  (00:00:32.000, -00.10.00.001, 1.41499e+09Hz to 23:59:32.000, +00.09.00.001, 1.415e+09Hz)
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	Original Temporary_Image size => [20, 20, 20]
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	New  size => [16, 20, 12]
+2025-09-16 14:56:49	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord+	    [0, 3, 4] to [19, 16, 15]  (00:00:40.000, -00.07.00.000, 1.41499e+09Hz to 23:59:24.000, +00.06.00.000, 1.415e+09Hz)
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	Original Temporary_Image size => [20, 20, 20]
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	New  size => [20, 14, 12]
+2025-09-16 14:56:49	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord+	    [2, 3, 4] to [17, 16, 15]  (00:00:32.000, -00.07.00.000, 1.41499e+09Hz to 23:59:32.000, +00.06.00.000, 1.415e+09Hz)
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	Original Temporary_Image size => [20, 20, 20]
+2025-09-16 14:56:49	INFO	ImageRegion::fromRecord	New  size => [16, 14, 12]
+2025-09-16 14:56:49	INFO	name::	No table opened.
+2025-09-16 14:56:49	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:56:49	INFO	name::	No table opened.
+2025-09-16 14:56:49	INFO	name::	No table opened.

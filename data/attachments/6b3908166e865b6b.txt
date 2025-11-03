@@ -1,0 +1,4 @@
+2025-09-16 15:03:03	INFO	test
+::vp::createantresp	Found 6 response images in directory /scratch/scastro/casa/Tests/reports/mydir3
+2025-09-16 15:03:03	SEVERE	test
+::vp::createantresp	Image ALMA_0_DV__0._0._360._0._45._90._80._100._110._GHz_ticra2007_EFP.im has band definition inconsistent with the available bands.

@@ -1,0 +1,2 @@
+2025-09-16 17:03:27	WARN	sdfit::SingleDishMS::fitLine (file /source/casa6/casatools/src/code/singledish/SingleDish/SingleDishMS.cc, line 2445)	Fitter did not converge on any fit components.
+2025-09-16 17:03:27	WARN	sdfit::SingleDishMS::fitLine (file /source/casa6/casatools/src/code/singledish/SingleDish/SingleDishMS.cc, line 2445)	Fitter did not converge on any fit components.

@@ -1,0 +1,6 @@
+Test: FLOAT_DATA
+- reindex=True
+- reindex=False
+Test: CORRECTED
+- reindex=True
+- reindex=False

@@ -1,0 +1,3 @@
+2025-09-16 17:31:59	WARN	noise::CTPatchedInterp::interpolate	In caltable noise_sd.aca.tp.noisy.sd.T.cal_sim_temp (Tf Jones):
+2025-09-16 17:31:59	WARN	noise::CTPatchedInterp::interpolate+	 Insufficient solution channel sampling (nchan=1) for frequency-dependent LINEAR interpolation 
+2025-09-16 17:31:59	WARN	noise::CTPatchedInterp::interpolate+	 of calibration for MS spw=0; using NEAREST instead.

@@ -1,0 +1,2 @@
+2025-09-16 17:32:52	SEVERE		Exception Reports: Table /scratch/scastro/casa/Tests/reports/fred.tbl does not exist
+2025-09-16 17:32:52	SEVERE	slsearch::::casa	Failure in test_exceptions testing bogus input table name

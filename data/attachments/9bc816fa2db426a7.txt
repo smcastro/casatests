@@ -1,0 +1,4 @@
+2025-09-16 16:24:36	WARN	MSFitsInput::fillAntennaTable	XYZHAND keyword not found in AN table. Will assume antenna coordinate system is right handed.
+2025-09-16 16:24:36	SEVERE	MSFitsInput::MSFitsInput	Error in output file: File test_set.ms exists, and the user does not want to remove it.
+2025-09-16 16:24:36	SEVERE	ms::fromfits	2025-09-16 16:24:36	SEVERE	MSFitsInput::MSFitsInput	Error in output file: File test_set.ms exists, and the user does not want to remove it.
+2025-09-16 16:24:36	SEVERE	importuvfits::::casa	Task importuvfits raised an exception of class RuntimeError with the following message: 2025-09-16 16:24:36	SEVERE	MSFitsInput::MSFitsInput	Error in output file: File test_set.ms exists, and the user does not want to remove it.

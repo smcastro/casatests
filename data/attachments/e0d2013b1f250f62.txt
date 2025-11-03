@@ -1,0 +1,1 @@
+task param: {'pol': 'YY', 'spw': '6:0~59;61~127,7:0~79;81~127', 'infile': 'analytic_type1.bl.ms', 'outfile': 'baselined.ms', 'maskmode': 'list', 'blmode': 'fit', 'dosubtract': True, 'blfunc': 'poly', 'order': 1}

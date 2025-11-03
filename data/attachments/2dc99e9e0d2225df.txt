@@ -1,0 +1,8 @@
+Peak Res at start of step : 1.533765554428
+Flux at start of step : 0.000000000000
+MAX RES at end : 12.940931320190
+peakres : 12.940931320190    model : 6.005132675171
+Peak Res at start of step : 0.833884477615
+Flux at start of step : 6.005132675171
+MAX RES at end : 12.705291748047
+peakres : 12.705291748047    model : 6.982515811920

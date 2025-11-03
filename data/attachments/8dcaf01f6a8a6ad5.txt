@@ -1,0 +1,159 @@
+test19
+{'Name': ['CM01', 'CM02', 'DA41', 'DA42', 'DV02', 'DV03', 'DV04', 'DV05', 'DV06', 'DV08', 'DV09', 'DV11', 'DV12', 'DV13', 'DV14', 'PM02', 'PM03', 'PM04'], 'WVR': [False, False, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True], 'Flag': [True, True, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False], 'Frac_unflagged': [0.0, 0.0, np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0)], 'RMS_um': [41.7, 41.7, 48.2, 49.5, 314.0, 38.7, 44.6, 40.4, 42.4, 40.8, 40.5, 39.6, 40.4, 40.3, 37.5, 49.7, 41.3, 41.8], 'Disc_um': [62.7, 63.7, 63.8, 80.1, 34.1, 75.9, 69.9, 84.0, 65.0, 66.8, 96.9, 86.7, 64.2, 80.9, 89.9, 75.7, 79.3, 59.0], 'rval': 0, 'success': True}
+
+Testing column TIME
+Column TIME PASSED
+
+Testing column FIELD_ID
+Column FIELD_ID PASSED
+
+Testing column SPECTRAL_WINDOW_ID
+Column SPECTRAL_WINDOW_ID PASSED
+
+Testing column ANTENNA1
+Column ANTENNA1 PASSED
+
+Testing column ANTENNA2
+Column ANTENNA2 PASSED
+
+Testing column INTERVAL
+Column INTERVAL PASSED
+
+Testing column SCAN_NUMBER
+Column SCAN_NUMBER PASSED
+
+Testing column OBSERVATION_ID
+Column OBSERVATION_ID PASSED
+
+Testing column PARAMERR
+Column PARAMERR PASSED
+
+Testing column FLAG
+Column FLAG PASSED
+
+Testing column SNR
+Column SNR PASSED
+Found field  0
+Found field  1
+Found field  2
+Found field  3
+FIELD averages ant 0:  {np.int64(0): np.float64(5.3809754616402), np.int64(1): np.float64(-0.49468487163435526), np.int64(2): np.float64(8.723658291574308), np.int64(3): np.float64(-4.140766192627382)}
+Ant 0 Max diff (deg) 0.07094936678905128
+Ant 0 Min diff (deg) -0.059937868815802986
+Found field  0
+Found field  1
+Found field  2
+Found field  3
+FIELD averages ant 1:  {np.int64(0): np.float64(5.383148465971798), np.int64(1): np.float64(-0.49486125068549214), np.int64(2): np.float64(8.728259062022829), np.int64(3): np.float64(-4.1417366401052504)}
+Ant 1 Max diff (deg) 0.07079282208434279
+Ant 1 Min diff (deg) -0.059788887231635
+Found field  0
+Found field  1
+Found field  3
+FIELD averages ant 2:  {np.int64(0): np.float64(5.375187833991607), np.int64(1): np.float64(-0.4929330966412717), np.int64(3): np.float64(-4.128988848992815)}
+Ant 2 Max diff (deg) 0.06634281019507782
+Ant 2 Min diff (deg) -0.015680844939385707
+Found field  0
+Found field  1
+Found field  2
+Found field  3
+FIELD averages ant 3:  {np.int64(0): np.float64(4.135733080138788), np.int64(1): np.float64(-0.35776979342459825), np.int64(2): np.float64(6.727570702518202), np.int64(3): np.float64(-2.9460444992717214)}
+Ant 3 Max diff (deg) 0.05270291026866403
+Ant 3 Min diff (deg) -0.06610905315604221
+Found field  0
+Found field  1
+Found field  2
+Found field  3
+FIELD averages ant 4:  {np.int64(0): np.float64(11.290918392350063), np.int64(1): np.float64(-1.1899746090463257), np.int64(2): np.float64(18.52970903263177), np.int64(3): np.float64(-10.273369365576457)}
+Ant 4 Max diff (deg) 0.16735544599173124
+Ant 4 Min diff (deg) -0.12772658594440855
+Found field  0
+Found field  1
+Found field  2
+Found field  3
+FIELD averages ant 5:  {np.int64(0): np.float64(5.355103743427909), np.int64(1): np.float64(-0.49333761482661487), np.int64(2): np.float64(8.695009136817596), np.int64(3): np.float64(-4.128852788551388)}
+Ant 5 Max diff (deg) 0.0689218325788552
+Ant 5 Min diff (deg) -0.07133971916536908
+Found field  0
+Found field  1
+Found field  2
+Found field  3
+FIELD averages ant 6:  {np.int64(0): np.float64(5.477092349683408), np.int64(1): np.float64(-0.5032706103039146), np.int64(2): np.float64(8.893978022553906), np.int64(3): np.float64(-4.193564605772508)}
+Ant 6 Max diff (deg) 0.06605162524006403
+Ant 6 Min diff (deg) -0.04662029615154495
+Found field  0
+Found field  1
+Found field  2
+Found field  3
+FIELD averages ant 7:  {np.int64(0): np.float64(5.2974911445506825), np.int64(1): np.float64(-0.485029858118434), np.int64(2): np.float64(8.576960972821311), np.int64(3): np.float64(-4.065472977027547)}
+Ant 7 Max diff (deg) 0.06972322794739938
+Ant 7 Min diff (deg) -0.04152834218707646
+Found field  0
+Found field  1
+Found field  2
+Found field  3
+FIELD averages ant 8:  {np.int64(0): np.float64(5.361667323948946), np.int64(1): np.float64(-0.49163557562412663), np.int64(2): np.float64(8.690023867992457), np.int64(3): np.float64(-4.114253709979678)}
+Ant 8 Max diff (deg) 0.06786309962608073
+Ant 8 Min diff (deg) -0.03741204091415007
+Found field  0
+Found field  1
+Found field  2
+Found field  3
+FIELD averages ant 9:  {np.int64(0): np.float64(5.356724648260372), np.int64(1): np.float64(-0.492440509238385), np.int64(2): np.float64(8.68384395264635), np.int64(3): np.float64(-4.126506408900557)}
+Ant 9 Max diff (deg) 0.07199714573045313
+Ant 9 Min diff (deg) -0.0639371232184498
+Found field  0
+Found field  1
+Found field  2
+Found field  3
+FIELD averages ant 10:  {np.int64(0): np.float64(5.260326844754022), np.int64(1): np.float64(-0.4820691383318447), np.int64(2): np.float64(8.540971478477681), np.int64(3): np.float64(-4.037574285358929)}
+Ant 10 Max diff (deg) 0.061862479206311605
+Ant 10 Min diff (deg) -0.06028897473406225
+Found field  0
+Found field  1
+Found field  2
+Found field  3
+FIELD averages ant 11:  {np.int64(0): np.float64(5.384399600598304), np.int64(1): np.float64(-0.4921230585987111), np.int64(2): np.float64(8.696387165266367), np.int64(3): np.float64(-4.131609923125485)}
+Ant 11 Max diff (deg) 0.07375203356174964
+Ant 11 Min diff (deg) -0.057150423795048866
+Found field  0
+Found field  1
+Found field  2
+Found field  3
+FIELD averages ant 12:  {np.int64(0): np.float64(5.3463283955132646), np.int64(1): np.float64(-0.49077263645090596), np.int64(2): np.float64(8.634818586374159), np.int64(3): np.float64(-4.120538310190028)}
+Ant 12 Max diff (deg) 0.060058734184821105
+Ant 12 Min diff (deg) -0.05352046709277225
+Found field  0
+Found field  1
+Found field  2
+Found field  3
+FIELD averages ant 13:  {np.int64(0): np.float64(5.17118250813359), np.int64(1): np.float64(-0.4749368814849504), np.int64(2): np.float64(8.40814577158509), np.int64(3): np.float64(-3.975992237207006)}
+Ant 13 Max diff (deg) 0.06398502635721215
+Ant 13 Min diff (deg) -0.04997440401994879
+Found field  0
+Found field  1
+Found field  2
+Found field  3
+FIELD averages ant 14:  {np.int64(0): np.float64(5.360129154099179), np.int64(1): np.float64(-0.4948302626222212), np.int64(2): np.float64(8.69524947563528), np.int64(3): np.float64(-4.149397831557181)}
+Ant 14 Max diff (deg) 0.0697502714064484
+Ant 14 Min diff (deg) -0.058961239233759954
+Found field  0
+Found field  1
+Found field  3
+FIELD averages ant 15:  {np.int64(0): np.float64(5.428796367564207), np.int64(1): np.float64(-0.49479207892278865), np.int64(3): np.float64(-4.156775984187465)}
+Ant 15 Max diff (deg) 0.059862045184207346
+Ant 15 Min diff (deg) -0.017030106254065203
+Found field  0
+Found field  1
+Found field  2
+Found field  3
+FIELD averages ant 16:  {np.int64(0): np.float64(5.452774093535961), np.int64(1): np.float64(-0.5006846710012969), np.int64(2): np.float64(8.833881062035685), np.int64(3): np.float64(-4.190488388035519)}
+Ant 16 Max diff (deg) 0.06808991952131294
+Ant 16 Min diff (deg) -0.06775461505662328
+Found field  0
+Found field  1
+Found field  2
+Found field  3
+FIELD averages ant 17:  {np.int64(0): np.float64(5.376311157465281), np.int64(1): np.float64(-0.4944159549304423), np.int64(2): np.float64(8.70944587763595), np.int64(3): np.float64(-4.1399699234045215)}
+Ant 17 Max diff (deg) 0.07153538241988144
+Ant 17 Min diff (deg) -0.05938269463561774

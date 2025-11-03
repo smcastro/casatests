@@ -1,0 +1,30 @@
+2025-09-16 14:56:49	INFO	ImageFactory::createImage	Created Temp image  of shape [100, 100] with float valued pixels.
+2025-09-16 14:56:49	INFO	ImageFFTer::fft	FFT the direction coordinate
+2025-09-16 14:56:49	INFO	ImageFFTer::fft	Creating image 'real.imf'
+2025-09-16 14:56:49	INFO	ImageFFTer::fft	Creating image 'imag.imf'
+2025-09-16 14:56:49	INFO	ImageFFTer::fft	Creating image 'amp.imf'
+2025-09-16 14:56:49	INFO	ImageFFTer::fft	Creating image 'phase.imf'
+2025-09-16 14:56:49	INFO	ImageFFTer::fft	Creating image 'complex.imf'
+2025-09-16 14:56:49	WARN	image::open (file src/tools/image/image_cmpt.cc, line 4208)	Another image is already open, closing first
+2025-09-16 14:56:49	INFO		deleted table /scratch/scastro/casa/Tests/reports/real.imf
+2025-09-16 14:56:49	INFO		deleted table /scratch/scastro/casa/Tests/reports/imag.imf
+2025-09-16 14:56:49	INFO		deleted table /scratch/scastro/casa/Tests/reports/amp.imf
+2025-09-16 14:56:49	INFO		deleted table /scratch/scastro/casa/Tests/reports/phase.imf
+2025-09-16 14:56:49	INFO		deleted table /scratch/scastro/casa/Tests/reports/complex.imf
+2025-09-16 14:56:49	INFO	ImageFactory::createImage	Created Temp image  of shape [100, 100] with Complex valued pixels.
+2025-09-16 14:56:49	INFO	ImageFFTer::fft	FFT the direction coordinate
+2025-09-16 14:56:49	INFO	ImageFFTer::fft	Creating image 'real.imc'
+2025-09-16 14:56:49	INFO	ImageFFTer::fft	Creating image 'imag.imc'
+2025-09-16 14:56:49	INFO	ImageFFTer::fft	Creating image 'amp.imc'
+2025-09-16 14:56:49	INFO	ImageFFTer::fft	Creating image 'phase.imc'
+2025-09-16 14:56:49	INFO	ImageFFTer::fft	Creating image 'complex.imc'
+2025-09-16 14:56:49	WARN	image::open (file src/tools/image/image_cmpt.cc, line 4208)	Another image is already open, closing first
+2025-09-16 14:56:49	INFO		deleted table /scratch/scastro/casa/Tests/reports/real.imc
+2025-09-16 14:56:49	INFO		deleted table /scratch/scastro/casa/Tests/reports/imag.imc
+2025-09-16 14:56:49	INFO		deleted table /scratch/scastro/casa/Tests/reports/amp.imc
+2025-09-16 14:56:49	INFO		deleted table /scratch/scastro/casa/Tests/reports/phase.imc
+2025-09-16 14:56:49	INFO		deleted table /scratch/scastro/casa/Tests/reports/complex.imc
+2025-09-16 14:56:49	INFO	name::	No table opened.
+2025-09-16 14:56:49	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:56:49	INFO	name::	No table opened.
+2025-09-16 14:56:49	INFO	name::	No table opened.

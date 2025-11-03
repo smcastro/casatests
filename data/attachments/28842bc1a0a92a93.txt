@@ -1,0 +1,3 @@
+[check_tfmask]  T/F mask name for tst_uid___A001_X1234a_X56cb.s19_0.J2253+1608_bp.more-dash.virtspw19.mfs.I.iter0.hoghbom.image is : ['mask0'] (Pass : should be ['mask0']) 
+[check_tfmask]  T/F mask name for tst_uid___A001_X1234a_X56cb.s19_0.J2253+1608_bp.more-dash.virtspw19.mfs.I.iter0.hoghbom.pb is : ['mask0'] (Pass : should be ['mask0']) 
+

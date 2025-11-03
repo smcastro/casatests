@@ -1,0 +1,18 @@
+2025-09-16 14:56:47	INFO	ImageFactory::createImage	Created Temp image  of shape [20, 20, 1] with double valued pixels.
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	You are convolving the sky
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Scaling pixel values by 0.0551589
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Original Temporary_Image has no beam
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Output  has no beam
+2025-09-16 14:56:47	INFO	ImageFactory::createImage	Created Temp image  of shape [20, 20, 1] with Complex valued pixels.
+2025-09-16 14:56:47	SEVERE	image::convolve2d (file src/tools/image/image_cmpt.cc, line 1079)	Exception Reported: Exception: convolve2d only supports real-valued images.
+2025-09-16 14:56:47	SEVERE	image::convolve2d (file src/tools/image/image_cmpt.cc, line 1079)+	... thrown by casac::image* casac::image::convolve2d(const string&, const std::vector<long int>&, const string&, const casac::variant&, const casac::variant&, const casac::variant&, double, const casac::variant&, const casac::variant&, bool, bool, bool, const casac::record&) at File: src/tools/image/image_cmpt.cc, line: 1083
+2025-09-16 14:56:47	INFO	ImageFactory::createImage	Created Temp image  of shape [20, 20, 1] with float valued pixels.
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	You are convolving the sky
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Scaling pixel values by 0.0551589
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Original Temporary_Image has no beam
+2025-09-16 14:56:47	INFO	Image2DConvolver::_dealWithRestoringBeam	Output  has no beam
+2025-09-16 14:56:47	INFO	ImageFactory::createImage	Created Temp image  of shape [20, 20, 1] with DComplex valued pixels.
+2025-09-16 14:56:47	SEVERE	image::convolve2d (file src/tools/image/image_cmpt.cc, line 1079)	Exception Reported: Exception: convolve2d only supports real-valued images.
+2025-09-16 14:56:47	SEVERE	image::convolve2d (file src/tools/image/image_cmpt.cc, line 1079)+	... thrown by casac::image* casac::image::convolve2d(const string&, const std::vector<long int>&, const string&, const casac::variant&, const casac::variant&, const casac::variant&, double, const casac::variant&, const casac::variant&, bool, bool, bool, const casac::record&) at File: src/tools/image/image_cmpt.cc, line: 1083
+2025-09-16 14:56:47	INFO	name::	No table opened.
+2025-09-16 14:56:47	INFO	showcache::	The Table Cache is empty.

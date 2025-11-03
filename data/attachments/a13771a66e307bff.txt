@@ -1,0 +1,1 @@
+2025-09-16 15:56:00	WARN	sdbaseline::::casa	created working directory: /scratch/scastro/casa/Tests/reports/cc6e790a-91e3-42fe-862d-fc948f18d05e

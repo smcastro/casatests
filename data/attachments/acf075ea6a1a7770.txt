@@ -1,0 +1,6 @@
+2025-09-16 18:48:25	SEVERE	getcell::TIME	Exception Reported: TableProxy::getCell: no such row
+2025-09-16 18:48:25	SEVERE	getcell::WEIGHT_SPECTRUM	Exception Reported: Table DataManager error: Invalid operation: TSM: no array in row 0 of column WEIGHT_SPECTRUM in /scratch/scastro/casa/Tests/reports/A2256LC2_4.5s-1.ms/table.f20
+2025-09-16 18:48:25	WARN	virtualconcat::::casa	Column WEIGHT_SPECTRUM in table A2256LC2_4.5s-1.ms has no data. Accessing it will cause errors.
+2025-09-16 18:48:25	SEVERE	getcell::TIME	Exception Reported: TableProxy::getCell: no such row
+2025-09-16 18:48:25	SEVERE	getcell::WEIGHT_SPECTRUM	Exception Reported: Table DataManager error: Invalid operation: TSM: no array in row 0 of column WEIGHT_SPECTRUM in /scratch/scastro/casa/Tests/reports/A2256LC2_4.5s-2b.ms/table.f20
+2025-09-16 18:48:25	WARN	virtualconcat::::casa	Column WEIGHT_SPECTRUM in table A2256LC2_4.5s-2b.ms has no data. Accessing it will cause errors.

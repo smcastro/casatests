@@ -1,0 +1,3 @@
+test_importasdm: importasdm success. Checking that filled MS can be opened as MS ...
+test_importasdm : OK, doing flagzero
+test_importasdm : Checking flags

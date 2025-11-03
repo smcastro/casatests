@@ -1,0 +1,34 @@
+2025-09-16 16:08:13	WARN	imcontsub::::casa	The linefile parameter is empty, consequently the spectral line image will NOT be
+2025-09-16 16:08:13	WARN	imcontsub::::casa+	saved on disk.
+2025-09-16 16:08:13	WARN	imcontsub::::casa	The contfile parameter is empty, consequently the continuum image will NOT be
+2025-09-16 16:08:13	WARN	imcontsub::::casa+	saved on disk.
+2025-09-16 16:08:13	SEVERE	regionmanager::selectedchannels	Exception Reported: Invalid channel specification in -5 of spec -5 at File: /source/casa6/casatools/src/code/imageanalysis/IO/ParameterParser.cc, line: 173
+2025-09-16 16:08:13	SEVERE	imcontsub::::casa	Task imcontsub raised an exception of class RuntimeError with the following message: Invalid channel specification in -5 of spec -5 at File: /source/casa6/casatools/src/code/imageanalysis/IO/ParameterParser.cc, line: 173
+2025-09-16 16:08:13	WARN	imcontsub::::casa	The linefile parameter is empty, consequently the spectral line image will NOT be
+2025-09-16 16:08:13	WARN	imcontsub::::casa+	saved on disk.
+2025-09-16 16:08:13	WARN	imcontsub::::casa	The contfile parameter is empty, consequently the continuum image will NOT be
+2025-09-16 16:08:13	WARN	imcontsub::::casa+	saved on disk.
+2025-09-16 16:08:13	SEVERE	regionmanager::selectedchannels	Exception Reported: Invalid channel specification in -2 of spec -2 at File: /source/casa6/casatools/src/code/imageanalysis/IO/ParameterParser.cc, line: 173
+2025-09-16 16:08:13	SEVERE	imcontsub::::casa	Task imcontsub raised an exception of class RuntimeError with the following message: Invalid channel specification in -2 of spec -2 at File: /source/casa6/casatools/src/code/imageanalysis/IO/ParameterParser.cc, line: 173
+2025-09-16 16:08:13	WARN	imcontsub::::casa	The linefile parameter is empty, consequently the spectral line image will NOT be
+2025-09-16 16:08:13	WARN	imcontsub::::casa+	saved on disk.
+2025-09-16 16:08:13	WARN	imcontsub::::casa	The contfile parameter is empty, consequently the continuum image will NOT be
+2025-09-16 16:08:13	WARN	imcontsub::::casa+	saved on disk.
+2025-09-16 16:08:13	SEVERE	regionmanager::selectedchannels	Exception Reported: Invalid channel specification in -18 of spec -18 at File: /source/casa6/casatools/src/code/imageanalysis/IO/ParameterParser.cc, line: 173
+2025-09-16 16:08:13	SEVERE	imcontsub::::casa	Task imcontsub raised an exception of class RuntimeError with the following message: Invalid channel specification in -18 of spec -18 at File: /source/casa6/casatools/src/code/imageanalysis/IO/ParameterParser.cc, line: 173
+2025-09-16 16:08:13	WARN	imcontsub::::casa	The linefile parameter is empty, consequently the spectral line image will NOT be
+2025-09-16 16:08:13	WARN	imcontsub::::casa+	saved on disk.
+2025-09-16 16:08:13	WARN	imcontsub::::casa	The contfile parameter is empty, consequently the continuum image will NOT be
+2025-09-16 16:08:13	WARN	imcontsub::::casa+	saved on disk.
+2025-09-16 16:08:13	SEVERE	regionmanager::selectedchannels	Exception Reported: Exception: Zero-based max channel 45 must be less than the total number of channels (40) in the channel specification 45.
+2025-09-16 16:08:13	SEVERE	regionmanager::selectedchannels+	... thrown by static std::vector<unsigned int> casa::ParameterParser::spectralRangesFromChans(casacore::uInt&, const casacore::String&, casacore::uInt) at File: /source/casa6/casatools/src/code/imageanalysis/IO/ParameterParser.cc, line: 183
+2025-09-16 16:08:13	SEVERE	imcontsub::::casa	Task imcontsub raised an exception of class RuntimeError with the following message: Exception: Zero-based max channel 45 must be less than the total number of channels (40) in the channel specification 45.
+2025-09-16 16:08:13	SEVERE	imcontsub::::casa+	... thrown by static std::vector<unsigned int> casa::ParameterParser::spectralRangesFromChans(casacore::uInt&, const casacore::String&, casacore::uInt) at File: /source/casa6/casatools/src/code/imageanalysis/IO/ParameterParser.cc, line: 183
+2025-09-16 16:08:13	WARN	imcontsub::::casa	The linefile parameter is empty, consequently the spectral line image will NOT be
+2025-09-16 16:08:13	WARN	imcontsub::::casa+	saved on disk.
+2025-09-16 16:08:13	WARN	imcontsub::::casa	The contfile parameter is empty, consequently the continuum image will NOT be
+2025-09-16 16:08:13	WARN	imcontsub::::casa+	saved on disk.
+2025-09-16 16:08:13	SEVERE	regionmanager::selectedchannels	Exception Reported: Exception: Zero-based max channel 40 must be less than the total number of channels (40) in the channel specification 40.
+2025-09-16 16:08:13	SEVERE	regionmanager::selectedchannels+	... thrown by static std::vector<unsigned int> casa::ParameterParser::spectralRangesFromChans(casacore::uInt&, const casacore::String&, casacore::uInt) at File: /source/casa6/casatools/src/code/imageanalysis/IO/ParameterParser.cc, line: 183
+2025-09-16 16:08:13	SEVERE	imcontsub::::casa	Task imcontsub raised an exception of class RuntimeError with the following message: Exception: Zero-based max channel 40 must be less than the total number of channels (40) in the channel specification 40.
+2025-09-16 16:08:13	SEVERE	imcontsub::::casa+	... thrown by static std::vector<unsigned int> casa::ParameterParser::spectralRangesFromChans(casacore::uInt&, const casacore::String&, casacore::uInt) at File: /source/casa6/casatools/src/code/imageanalysis/IO/ParameterParser.cc, line: 183

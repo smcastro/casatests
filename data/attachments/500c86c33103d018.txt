@@ -1,0 +1,12 @@
+2025-09-16 14:56:55	INFO	ImageFactory::createImage	Created Temp image  of shape [20, 20, 20] with float valued pixels.
+2025-09-16 14:56:55	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:56:55	INFO	ImageRegion::fromRecord+	    [0, 0, 0] to [19, 19, 19]  (00:00:40.000, -00.10.00.001, 1.41499e+09Hz to 23:59:24.000, +00.09.00.001, 1.41501e+09Hz)
+2025-09-16 14:56:55	INFO	::::ImageFactory::createImage	Created Temp image  of shape [20, 20, 20] with float valued pixels.
+2025-09-16 14:56:55	INFO	::::image::fromshape	Ran ia.fromshape
+2025-09-16 14:56:55	INFO	::::image::fromshape	ia.fromshape(outfile="", shape=[20,20,20], csys={...}, linear=false, overwrite=false, log=true, type="f")
+2025-09-16 14:56:55	INFO	::::image::collapse	Ran ia.collapse on Temporary_Image
+2025-09-16 14:56:55	INFO	::::image::collapse	ia.collapse(function='mean', axes=2, outfile='', region='', box='', chans='', stokes='', mask='', overwrite=false, stretch=false)
+2025-09-16 14:56:55	INFO	name::	No table opened.
+2025-09-16 14:56:55	INFO	showcache::	The Table Cache is empty.
+2025-09-16 14:56:55	INFO	name::	No table opened.
+2025-09-16 14:56:55	INFO	name::	No table opened.

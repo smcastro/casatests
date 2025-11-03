@@ -1,0 +1,4 @@
+2025-09-16 15:21:30	SEVERE	MSTransformDataHandler::mergeSourceSubTables	SOURCE sub-table found but has no valid content
+2025-09-16 15:21:31	WARN	cvel2::::casa	Cannot combine spws in parallel because the subMSs do not contain all the selected spws
+2025-09-16 15:21:31	SEVERE	cvel2::::casa	Please set keepmms to False or use task mstransform in this case.
+2025-09-16 15:21:31	SEVERE	cvel2::::casa	Task cvel2 raised an exception of class RuntimeError with the following message: Unable to continue with MMS processing

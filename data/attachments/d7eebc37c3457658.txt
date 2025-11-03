@@ -1,0 +1,2 @@
+2025-09-16 15:45:59	WARN	AgentFlagger::parseAgentParameters	Mode shadow is not valid or doesn't exist
+2025-09-16 15:45:59	SEVERE	flagdata::::casa	Task flagdata raised an exception of class ValueError with the following message: Failed to parse parameters for mode shadow

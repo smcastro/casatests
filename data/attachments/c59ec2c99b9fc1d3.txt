@@ -1,0 +1,2 @@
+could not make way for new symlink: tosr0001_scan3_noonline.ms
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1189) [sender=3.1.3]

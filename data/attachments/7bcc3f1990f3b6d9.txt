@@ -1,0 +1,52 @@
+You are using 6.7.2-26
+global variable mysteps not set.
+Executing all steps:  range(0, 7)
+Step  0 Import of the ASDM
+Your observation is in Band 3.
+Step  1 Create the files of the observing infromation
+Step  2 A priori flagging1
+Step  3 Generation of the Tsys cal table
+Step  4 Do initial flagging
+Step  5 Calibration of the data into Kelvins
+The following MS spws have no corresponding cal spws in __sdcal_composite_mode_ps_058.tab: 0 1 2 3 8 9 10 11 
+The following MS spws have no corresponding cal spws in __sdcal_composite_mode_tsys_017.tab: 0 1 2 3 8 9 10 11 
+Step  6 Correction of the forward scattering & spillover
+Your observation is in Band 3.
+Now processing: uid___A002_X1003af4_X8ad2.ms.split.cal
+About to create an image member.uid___A001_X3571_X13f.fullSun-num0_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd
+ScanNum: 6 imaging finished.
+
+SB Sun_10_b_03_TP imaging completed.
+original duration = 57.000000
+scale = 1.101577
+Your observation is in Band 3.
+Now processing: 0000/0013:2022/10/25/17:38:54.77 ~ 2022/10/25/17:39:51.77:member.uid___A001_X3571_X13f.regSun.scn08_num0000_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd
+Now processing: 0001/0013:2022/10/25/17:39:51.77 ~ 2022/10/25/17:40:48.77:member.uid___A001_X3571_X13f.regSun.scn08_num0001_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd
+Now processing: 0002/0013:2022/10/25/17:40:48.77 ~ 2022/10/25/17:41:45.77:member.uid___A001_X3571_X13f.regSun.scn08_num0002_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd
+Now processing: 0003/0013:2022/10/25/17:41:45.77 ~ 2022/10/25/17:42:42.77:member.uid___A001_X3571_X13f.regSun.scn08_num0003_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd
+Now processing: 0004/0013:2022/10/25/17:42:42.77 ~ 2022/10/25/17:43:39.77:member.uid___A001_X3571_X13f.regSun.scn08_num0004_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd
+Now processing: 0005/0013:2022/10/25/17:43:39.77 ~ 2022/10/25/17:44:36.77:member.uid___A001_X3571_X13f.regSun.scn08_num0005_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd
+Now processing: 0006/0013:2022/10/25/17:44:36.77 ~ 2022/10/25/17:45:33.77:member.uid___A001_X3571_X13f.regSun.scn08_num0006_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd
+Now processing: 0007/0013:2022/10/25/17:45:33.77 ~ 2022/10/25/17:46:30.77:member.uid___A001_X3571_X13f.regSun.scn08_num0007_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd
+Now processing: 0008/0013:2022/10/25/17:46:30.77 ~ 2022/10/25/17:47:27.77:member.uid___A001_X3571_X13f.regSun.scn08_num0008_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd
+Now processing: 0009/0013:2022/10/25/17:47:27.77 ~ 2022/10/25/17:48:24.77:member.uid___A001_X3571_X13f.regSun.scn08_num0009_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd
+Now processing: 0010/0013:2022/10/25/17:48:24.77 ~ 2022/10/25/17:49:21.77:member.uid___A001_X3571_X13f.regSun.scn08_num0010_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd
+Now processing: 0011/0013:2022/10/25/17:49:21.77 ~ 2022/10/25/17:50:18.77:member.uid___A001_X3571_X13f.regSun.scn08_num0011_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd
+Now processing: 0012/0013:2022/10/25/17:50:18.77 ~ 2022/10/25/17:51:15.77:member.uid___A001_X3571_X13f.regSun.scn08_num0012_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd
+####################################################
+Reference Point Coordinate [Pixels in Image] X:98  Y:115
+####################################################
+circle[[13h59m30.19s,-12d09m38.9s]],66.345241arcsec]
+Now processing: [Org Map] member.uid___A001_X3571_X13f.regSun.scn08_num0000_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd.image / [Mod Map]member.uid___A001_X3571_X13f.regSun.scn08_num0000_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd.rescl
+Now processing: [Org Map] member.uid___A001_X3571_X13f.regSun.scn08_num0001_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd.image / [Mod Map]member.uid___A001_X3571_X13f.regSun.scn08_num0001_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd.rescl
+Now processing: [Org Map] member.uid___A001_X3571_X13f.regSun.scn08_num0002_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd.image / [Mod Map]member.uid___A001_X3571_X13f.regSun.scn08_num0002_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd.rescl
+Now processing: [Org Map] member.uid___A001_X3571_X13f.regSun.scn08_num0003_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd.image / [Mod Map]member.uid___A001_X3571_X13f.regSun.scn08_num0003_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd.rescl
+Now processing: [Org Map] member.uid___A001_X3571_X13f.regSun.scn08_num0004_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd.image / [Mod Map]member.uid___A001_X3571_X13f.regSun.scn08_num0004_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd.rescl
+Now processing: [Org Map] member.uid___A001_X3571_X13f.regSun.scn08_num0005_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd.image / [Mod Map]member.uid___A001_X3571_X13f.regSun.scn08_num0005_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd.rescl
+Now processing: [Org Map] member.uid___A001_X3571_X13f.regSun.scn08_num0006_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd.image / [Mod Map]member.uid___A001_X3571_X13f.regSun.scn08_num0006_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd.rescl
+Now processing: [Org Map] member.uid___A001_X3571_X13f.regSun.scn08_num0007_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd.image / [Mod Map]member.uid___A001_X3571_X13f.regSun.scn08_num0007_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd.rescl
+Now processing: [Org Map] member.uid___A001_X3571_X13f.regSun.scn08_num0008_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd.image / [Mod Map]member.uid___A001_X3571_X13f.regSun.scn08_num0008_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd.rescl
+Now processing: [Org Map] member.uid___A001_X3571_X13f.regSun.scn08_num0009_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd.image / [Mod Map]member.uid___A001_X3571_X13f.regSun.scn08_num0009_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd.rescl
+Now processing: [Org Map] member.uid___A001_X3571_X13f.regSun.scn08_num0010_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd.image / [Mod Map]member.uid___A001_X3571_X13f.regSun.scn08_num0010_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd.rescl
+Now processing: [Org Map] member.uid___A001_X3571_X13f.regSun.scn08_num0011_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd.image / [Mod Map]member.uid___A001_X3571_X13f.regSun.scn08_num0011_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd.rescl
+Now processing: [Org Map] member.uid___A001_X3571_X13f.regSun.scn08_num0012_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd.image / [Mod Map]member.uid___A001_X3571_X13f.regSun.scn08_num0012_sci.spw1_95916MHz.sd.TP.cont.I.manual.sd.rescl

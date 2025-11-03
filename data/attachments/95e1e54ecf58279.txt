@@ -1,0 +1,24 @@
+2025-09-16 14:58:47	INFO	test
+::FITSCoordinateUtil::fromFITSHeader	Neither SPECSYS nor VELREF keyword given, spectral reference frame not defined ...
+2025-09-16 14:58:47	INFO	test
+::AsciiRegionFileParser::_parse	Combined 3 image regions (which excludes any annotation regions)
+2025-09-16 14:58:47	INFO	test
+::AsciiRegionFileParser::_parse	The specified region will select all pixels that are included in the region. Full pixels will be included even when they are only partially covered by the region(s).
+2025-09-16 14:58:47	INFO	test
+::CasacRegionManager::fromBCS	Region read from text string box[[1pix,2pix],[3pix,4pix]]
+2025-09-16 14:58:47	INFO	test
+::CasacRegionManager::fromBCS+	box[[5pix,6pix],[7pix,8pix]]
+2025-09-16 14:58:47	INFO	test
+::CasacRegionManager::fromBCS+	box[[9pix,10pix],[11pix,12pix]]
+2025-09-16 14:58:47	WARN	test
+::CasacRegionManager::fromBCS	Stokes cannot be determined because this region type is not handled yet. But chances are very good this is no need to be alarmed.
+2025-09-16 14:58:47	INFO	test
+::FITSCoordinateUtil::fromFITSHeader	Neither SPECSYS nor VELREF keyword given, spectral reference frame not defined ...
+2025-09-16 14:58:47	INFO	test
+::ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:58:47	INFO	test
+::ImageRegion::fromRecord+	    [1, 2, 0, 0] to [11, 12, 19, 3]  (04:46:00.548, +44.50.13.123, 4.7351e+09Hz, I to 04:46:00.266, +44.50.16.127, 1.23351e+10Hz, V)
+2025-09-16 14:58:47	INFO	test
+::ImageRegion::fromRecord	Creating image 'xxyy.im' of shape [11, 11, 20, 4]
+2025-09-16 14:58:47	INFO	test
+::ImageMaskAttacher::makeMask	Created mask `mask0'

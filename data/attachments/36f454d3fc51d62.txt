@@ -1,0 +1,54 @@
+2025-09-16 14:57:44	INFO	test
+::ms::cvel	Input spectral window 0 has 63 channels of width 2.441406e+04 Hz
+2025-09-16 14:57:44	INFO	test
+::ms::cvel+	   First channel center = 1.412665074e+09 Hz, last channel center = 1.414178746e+09 Hz
+2025-09-16 14:57:44	INFO	test
+::ms::cvel	Starting combination of spectral windows ...
+2025-09-16 14:57:44	INFO	test
+::SubMS::combineSpws()	Less than two SPWs selected. No combination necessary.
+2025-09-16 14:57:44	INFO	test
+::ms::cvel	 
+2025-09-16 14:57:44	INFO	test
+::ms::cvel	Testing if spectral frame transformation/regridding is needed ...
+2025-09-16 14:57:44	INFO	test
+::SubMS::regridSpw()	Using tabulated observatory position for VLA:
+2025-09-16 14:57:44	INFO	test
+::SubMS::regridSpw()	   Position: [-1.60119e+06, -5.04198e+06, 3.55488e+06] (ITRF)
+2025-09-16 14:57:44	INFO	test
+::SubMS::regridSpw()	Regridded spectral window 0 will be created for field 0 with parameters 
+2025-09-16 14:57:44	INFO	test
+::SubMS::regridSpw()+	input frame = LSRK, output frame = LSRK
+2025-09-16 14:57:44	INFO	test
+::SubMS::regridSpw()+	 Channels equidistant in freq
+2025-09-16 14:57:44	INFO	test
+::SubMS::regridSpw()+	 Central frequency (in output frame) = 1.41341e+09 Hz
+2025-09-16 14:57:44	INFO	test
+::SubMS::regridSpw()+	 Width of central channel (in output frame) = 48828.1 Hz
+2025-09-16 14:57:44	INFO	test
+::SubMS::regridSpw()+	 Number of channels = 31
+2025-09-16 14:57:44	INFO	test
+::SubMS::regridSpw()+	 Total width of SPW (in output frame) = 1.51367e+06 Hz
+2025-09-16 14:57:44	INFO	test
+::SubMS::regridSpw()+	 Lower edge = 1.41265e+09 Hz, upper edge = 1.41417e+09 Hz
+2025-09-16 14:57:44	INFO	test
+::SubMS::regridSpw()+	 Interpolation Method = linear
+2025-09-16 14:57:44	INFO	test
+::SubMS::regridSpw()	Added 1 new rows to the DATA_DESCRIPTION table and deleted 1 old ones.
+2025-09-16 14:57:44	INFO	test
+::SubMS::regridSpw()+	Added 1 rows to the SPECTRAL_WINDOW table and deleted 1 old ones.
+2025-09-16 14:57:44	INFO	test
+::SubMS::regridSpw()+	Added 1 rows to the SOURCE table and deleted 3 old ones.
+2025-09-16 14:57:44	INFO	test
+::SubMS::regridSpw()	Main table data array columns will be rewritten.
+2025-09-16 14:57:44	INFO	test
+::SubMS::regridSpw()	The following columns will be Hanning-smoothed before regridding: 
+2025-09-16 14:57:44	INFO	test
+::SubMS::regridSpw()	 DATA 
+2025-09-16 14:57:45	INFO	test
+::ms::cvel	Spectral frame transformation/regridding completed.
+2025-09-16 14:57:45	INFO	test
+::ms::cvel	Hanning smoothing was applied.
+2025-09-16 14:57:46	INFO	test
+::ms::cvel	Final spectral window has 31 channels of width 4.882812e+04 Hz
+2025-09-16 14:57:46	INFO	test
+::ms::cvel+	First channel center = 1.412677281e+09 Hz, last channel center = 1.414142125e+09 Hz

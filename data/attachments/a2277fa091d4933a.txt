@@ -1,0 +1,2 @@
+ :  velocity, default start, width(measure)={'m0': {'unit': 'm/s', 'value': 11991700.0}, 'refer': 'TOPO', 'type': 'radialvelocity'}, TOPO
+[check_spec_frame] tstCubetest_veldefstmvwidth.image: Spec frame is TOPO with crval 1450000066.5460367 (Pass : should be TOPO with expected crval 1450000000.0 )

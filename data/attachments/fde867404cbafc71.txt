@@ -1,0 +1,4 @@
+2025-09-16 15:32:43	SEVERE	deconvolve::deconvolve::casa	Exception from deconvolve : Internal Error: imagename.model already exists! Either parameter startmodel must not be set ('') or imagename.model (tst.model) must not exist.
+2025-09-16 15:32:43	SEVERE	deconvolve::deconvolve::casa+		Either unset startmodel or remove tst.model to continue
+2025-09-16 15:32:43	SEVERE	deconvolve::::casa	Task deconvolve raised an exception of class RuntimeError with the following message: Exception from deconvolve : Internal Error: imagename.model already exists! Either parameter startmodel must not be set ('') or imagename.model (tst.model) must not exist.
+2025-09-16 15:32:43	SEVERE	deconvolve::::casa+		Either unset startmodel or remove tst.model to continue

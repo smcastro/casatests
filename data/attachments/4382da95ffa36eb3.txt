@@ -1,0 +1,8 @@
+Found 24 antennas in Antenna.xml
+Found 2 spw in SpectralWindow.xml
+Will construct spw flags using names
+Will construct polarization flags using polarizationType
+Found numAntenna=1 must be a new style SDM
+Found SpectralWindow=0 must be a new style SDM
+Found numPolarizationType=1 must be a new style SDM
+Found 214 flags in Flag.xml

@@ -1,0 +1,20 @@
+test_tool_sdm_toms : testing SDM columns in evla_numbin_2  writing to  evla_numbin_2.ms
+test_tool_sdm_toms : testing SDM columns in evla_numbin_2  writing to  evla_numbin_2.numBin.ms
+test_tool_sdm_toms : using SpectralWindow.xml.numBin for SpectralWindow.xml
+test_tool_sdm_toms : restored original SpectralWindow.xml
+test_tool_sdm_toms : testing SDM columns in evla_numbin_2  writing to  evla_numbin_2.mixed.ms
+test_tool_sdm_toms : using SpectralWindow.xml.mixed for SpectralWindow.xml
+test_tool_sdm_toms : restored original SpectralWindow.xml
+test_tool_sdm_toms : testing SDM columns in evla_numbin_2  writing to  evla_numbin_2.bad.ms
+test_tool_sdm_toms : using SpectralWindow.xml.bad for SpectralWindow.xml
+test_tool_sdm_toms : restored original SpectralWindow.xml
+test_tool_sdm_toms : testing SDM columns in evla_numbin_4  writing to  evla_numbin_4.ms
+test_tool_sdm_toms : testing SDM columns in evla_numbin_4  writing to  evla_numbin_4.numBin.ms
+test_tool_sdm_toms : using SpectralWindow.xml.numBin for SpectralWindow.xml
+test_tool_sdm_toms : restored original SpectralWindow.xml
+test_tool_sdm_toms : testing SDM columns in evla_numbin_4  writing to  evla_numbin_4.onlyNumBin.ms
+test_tool_sdm_toms : using SpectralWindow.xml.onlyNumBin for SpectralWindow.xml
+test_tool_sdm_toms : restored original SpectralWindow.xml
+test_tool_sdm_toms : testing SDM columns in evla_numbin_4  writing to  evla_numbin_4.unknownTel.ms
+test_tool_sdm_toms : using ExecBlock.xml.unknownTel for ExecBlock.xml
+test_tool_sdm_toms : restored original ExecBlock.xml

@@ -1,0 +1,22 @@
+2025-09-16 14:55:47	INFO	calibrater::open	****Using NEW VI2-driven calibrater tool****
+2025-09-16 14:55:47	INFO	calibrater::open	Opening MS: gaincaltest2.ms for calibration.
+2025-09-16 14:55:47	INFO		Clearing all model records in MS header.
+2025-09-16 14:55:47	INFO	VisSetUtil::addScrCols	Adding MODEL_DATA and CORRECTED_DATA column(s).
+2025-09-16 14:55:48	INFO	VisSetUtil::initScrCols	Initializing MODEL_DATA to (unity).
+2025-09-16 14:55:48	INFO	VisSetUtil::initScrCols	Initialized 328860 rows.
+2025-09-16 14:55:48	INFO	Calibrater::	Initializing nominal selection to the whole MS.
+2025-09-16 14:55:48	INFO	calibrater::setdata	Beginning selectvis--(MSSelection version)-------
+2025-09-16 14:55:48	INFO	calibrater::reset	Reseting solve/apply state
+2025-09-16 14:55:48	INFO	Calibrater::selectvis	Performing selection on MeasurementSet
+2025-09-16 14:55:48	INFO	Calibrater::selectvis+	 Selecting on field: '0'
+2025-09-16 14:55:48	INFO	Calibrater::selectvis	By selection 328860 rows are reduced to 172260
+2025-09-16 14:55:48	INFO	Calibrater::selectvis	Frequency selection: Selecting all channels in all spws.
+2025-09-16 14:55:48	INFO	calibrater::setdata	chanmode=none nchan=1 start=0 step=1 mStart='0km/s' mStep='0km/s' msSelect=''
+2025-09-16 14:55:48	INFO	calibrater::setapply	Beginning setapply--(MSSelection version)-------
+2025-09-16 14:55:48	INFO	Calibrater::setapply(type, applypar)	Arranging to APPLY:
+2025-09-16 14:55:48	INFO	Calibrater::setapply(type, applypar)	.   G Jones: table=gaincaltest2.ms.G0 select= interp=linear spwmap=[-1] calWt=false
+2025-09-16 14:55:48	INFO	calibrater::correct	Beginning correct---------------------------
+2025-09-16 14:55:48	INFO	Calibrater::correct2 (VI2/VB2)	The following calibration terms are arranged for apply:
+2025-09-16 14:55:48	INFO	Calibrater::correct2 (VI2/VB2)	.   G Jones: table=gaincaltest2.ms.G0 select= interp=linear spwmap=[-1] calWt=false
+2025-09-16 14:55:50	INFO	calibrater::correct	Finished correcting.
+2025-09-16 14:55:50	WARN	calibrater::setvi(bool,bool)	Already using NEW VisibilityIterator.

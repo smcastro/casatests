@@ -1,0 +1,7 @@
+
+0%....10....20....30....40....50....60....70....80....90....100%
+2025-09-16 17:14:36	WARN	ImageRegridder::_doImagesOverlap	At least one of the images exceeds one degree on at one side, not checking for direction plane overlap.
+
+0%....10....20....30....40....50....60....70....80....90....100%
+
+0%....10....20....30....40....50....60....70....80....90....100%

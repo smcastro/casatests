@@ -1,0 +1,6 @@
+2025-09-16 16:27:27	WARN	listobs::ms::msselect	RecordRep::get_pointer - incorrect data type String   used for field uvdist with type unknown 
+2025-09-16 16:27:27	WARN	listobs::ms::msselect	UV Distribution Expression: Parse error at or near '-'
+2025-09-16 16:27:27	WARN	listobs::ms::msselect+	(near char. 2 in string "0-100")
+2025-09-16 16:27:27	WARN	listobs::ms::msselect+	[TIP: Did you know we use "~" as the range operator (for a good reason)?]
+2025-09-16 16:27:27	WARN	listobs::ms::msselect	UV Distribution Expression: Parse error at or near 'a'
+2025-09-16 16:27:27	WARN	listobs::ms::msselect+	(near char. 1 in string "abc")

@@ -1,0 +1,4 @@
+2025-09-16 14:57:32	INFO	test
+::ms::statistics	Use /scratch/scastro/casa/Tests/reports/ngc5921.ms, useflags = 1, useweights = 0
+2025-09-16 14:57:32	INFO	test
+::ms::statistics	Compute statistics on DATA, use amp...

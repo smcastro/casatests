@@ -1,0 +1,89 @@
+*************
+[113  76]
+*************
+[113  76]
+25764 values checked
+*************
+shape before [113  76]
+*************
+shape after [339 152]
+{'coordsys': {'coordsys': {'direction0': {'axes': array(['Right Ascension', 'Declination'], dtype='<U15'), 'cdelt': [np.float64(-1.2928365333334897e-05), np.float64(2.9088819999995822e-05)], 'conversionSystem': 'J2000', 'crpix': [np.float64(165.0), np.float64(74.0)], 'crval': array([0., 0.]), 'latpole': 0.0, 'longpole': 180.0, 'pc': array([[ 1., -0.],
+       [ 0.,  1.]]), 'projection': 'SIN', 'projection_parameters': array([0., 0.]), 'system': 'J2000', 'units': array(['rad', 'rad'], dtype='<U3')}, 'obsdate': {'m0': {'unit': 'd', 'value': 0.0}, 'refer': 'LAST', 'type': 'epoch'}, 'observer': 'UNKNOWN', 'pixelmap0': array([0, 1]), 'pixelreplace0': array([0., 0.]), 'pointingcenter': {'initial': True, 'value': array([0., 0.])}, 'telescope': 'UNKNOWN', 'worldmap0': array([0, 1]), 'worldreplace0': array([ 0.00213319, -0.00215257])}}, 'imagearray': array([[ 0.24751741,  0.40720814,  0.5180462 , ...,  0.40594476,
+         0.2626079 , -0.27592227],
+       [-0.09279856, -0.05750896,  0.05366961, ...,  0.19611025,
+        -0.07035536, -0.57894927],
+       [-0.00530446, -0.03347426, -0.03657595, ..., -0.08527628,
+        -0.16471019, -0.36502451],
+       ...,
+       [-1.18632329, -1.30152488, -0.91397488, ..., -0.58123422,
+        -0.78325897, -0.83528405],
+       [-0.79094428, -0.76671404, -0.31254801, ..., -0.65870571,
+        -0.76716053, -0.76947355],
+       [-0.50030488, -0.41137382,  0.02565646, ..., -0.54939556,
+        -0.40126318, -0.25663996]], shape=(113, 76)), 'imageinfo': {'imagetype': 'Intensity', 'objectname': '', 'restoringbeam': {'major': {'unit': 'arcsec', 'value': 53.500003199999995}, 'minor': {'unit': 'arcsec', 'value': 34.19999892}, 'positionangle': {'unit': 'deg', 'value': 6.0}}}, 'shape': array([339, 152], dtype=int32)}
+out shape [339 152]
+S1:  {'blc': array([0, 0]), 'blcf': '00:00:29.333, -00.07.24.000', 'flux': array([83.95451659]), 'max': array([19.43354225]), 'maxpos': array([54, 31]), 'maxposf': '00:00:00.533, -00.01.12.000', 'mean': array([0.21111793]), 'medabsdevmed': array([0.40871633]), 'median': array([-0.15045302]), 'min': array([-1.86598611]), 'minpos': array([78, 62]), 'minposf': '23:59:47.733, +00.05.00.000', 'npts': array([8588.]), 'q1': array([-0.54036587]), 'q3': array([0.2838026]), 'quartile': array([0.82416847]), 'rms': array([1.98378508]), 'sigma': array([1.97263418]), 'sum': array([1813.08075854]), 'sumsq': array([33797.24320612]), 'trc': array([112,  75]), 'trcf': '23:59:29.600, +00.07.36.000'}
+ 
+ 
+S2:  {'blc': array([0, 0]), 'blcf': '00:00:29.333, -00.07.24.000', 'flux': array([83.75858989]), 'max': array([19.43354225]), 'maxpos': array([162,  62]), 'maxposf': '00:00:00.533, -00.01.12.000', 'mean': array([0.21062524]), 'medabsdevmed': array([0.39795039]), 'median': array([-0.15540633]), 'min': array([-1.86598611]), 'minpos': array([234, 124]), 'minposf': '23:59:47.733, +00.05.00.000', 'npts': array([51528.]), 'q1': array([-0.53181678]), 'q3': array([0.27121809]), 'quartile': array([0.80303487]), 'rms': array([1.96980791]), 'sigma': array([1.9585338]), 'sum': array([10853.09716732]), 'sumsq': array([199936.01937341]), 'trc': array([338, 151]), 'trcf': '23:59:29.244, +00.07.42.000'}
+{'blc': array([0, 0]), 'blcf': '00:00:29.333, -00.07.24.000', 'flux': array([83.95451659]), 'max': array([19.43354225]), 'maxpos': array([54, 31]), 'maxposf': '00:00:00.533, -00.01.12.000', 'mean': array([0.21111793]), 'medabsdevmed': array([0.40871633]), 'median': array([-0.15045302]), 'min': array([-1.86598611]), 'minpos': array([78, 62]), 'minposf': '23:59:47.733, +00.05.00.000', 'npts': array([8588.]), 'q1': array([-0.54036587]), 'q3': array([0.2838026]), 'quartile': array([0.82416847]), 'rms': array([1.98378508]), 'sigma': array([1.97263418]), 'sum': array([1813.08075854]), 'sumsq': array([33797.24320612]), 'trc': array([112,  75]), 'trcf': '23:59:29.600, +00.07.36.000'}
+{'blc': array([0, 0]), 'blcf': '00:00:29.333, -00.07.24.000', 'flux': array([83.95451659]), 'max': array([19.43354225]), 'maxpos': array([54, 31]), 'maxposf': '00:00:00.533, -00.01.12.000', 'mean': array([0.21111793]), 'medabsdevmed': array([0.40871633]), 'median': array([-0.15045302]), 'min': array([-1.86598611]), 'minpos': array([78, 62]), 'minposf': '23:59:47.733, +00.05.00.000', 'npts': array([8588.]), 'q1': array([-0.54036587]), 'q3': array([0.2838026]), 'quartile': array([0.82416847]), 'rms': array([1.98378508]), 'sigma': array([1.97263418]), 'sum': array([1813.08075854]), 'sumsq': array([33797.24320612]), 'trc': array([112,  75]), 'trcf': '23:59:29.600, +00.07.36.000'}
+Checking rms [ 0 ] 1.9837850843969744
+Checking medabsdevmed [ 0 ] 0.4087163284420967
+Checking minpos [ 0 ] 78
+Checking minpos [ 1 ] 62
+Checking min [ 0 ] -1.8659861087799072
+Checking max [ 0 ] 19.433542251586914
+Checking sum [ 0 ] 1813.0807585373987
+Checking string minposf 23:59:47.733, +00.05.00.000
+Checking median [ 0 ] -0.15045302361249924
+Checking flux [ 0 ] 83.9545165904789
+Checking sumsq [ 0 ] 33797.24320611992
+Checking string maxposf 00:00:00.533, -00.01.12.000
+Checking string trcf 23:59:29.600, +00.07.36.000
+Checking quartile [ 0 ] 0.824168473482132
+Checking npts [ 0 ] 8588.0
+Checking maxpos [ 0 ] 54
+Checking maxpos [ 1 ] 31
+Checking mean [ 0 ] 0.21111792717016753
+Checking sigma [ 0 ] 1.9726341752120582
+Checking trc [ 0 ] 112
+Checking trc [ 1 ] 75
+Checking blc [ 0 ] 0
+Checking blc [ 1 ] 0
+Checking string blcf 00:00:29.333, -00.07.24.000
+Regrid to J2000
+Regrid to JMEAN
+Regrid to JTRUE
+Regrid to APP
+Regrid to B1950
+Regrid to B1950_VLA
+Regrid to BMEAN
+Regrid to BTRUE
+Regrid to GALACTIC
+Regrid to HADEC
+Regrid to AZEL
+Regrid to AZELSW
+Regrid to AZELNE
+Regrid to AZELGEO
+Regrid to AZELSWGEO
+Regrid to AZELNEGEO
+Regrid to JNAT
+Regrid to ECLIPTIC
+Regrid to MECLIPTIC
+Regrid to TECLIPTIC
+Regrid to SUPERGAL
+Regrid to ITRF
+Regrid to TOPO
+Regrid to ICRS
+Regrid to MERCURY
+Regrid to VENUS
+Regrid to MARS
+Regrid to JUPITER
+Regrid to SATURN
+Regrid to URANUS
+Regrid to NEPTUNE
+Regrid to PLUTO
+Regrid to SUN
+Regrid to MOON
+Regrid to COMET

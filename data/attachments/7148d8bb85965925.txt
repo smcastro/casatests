@@ -1,0 +1,174 @@
+2025-09-16 14:57:15	INFO	ImageFactory::createImage	Created Temp image  of shape [10, 10, 10, 4] with float valued pixels.
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	This image currently has no beams of any kind. Since channel and/or polarization were specified, a set of per plane beams, each equal to the specified beam, will be created.
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 4 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 2 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 2 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 1 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 3 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 2 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 4 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 3 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 5 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 4 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 3 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 2 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 4 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 3 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 5 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 4 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 6 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 5 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 4 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 3 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 5 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 4 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 6 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 5 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 7 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 6 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 5 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 4 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 6 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 5 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 7 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 6 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 8 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 7 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 6 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 5 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 7 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 6 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 8 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 7 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 9 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 8 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 7 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 6 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 8 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 7 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 9 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 8 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 10 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 9 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 8 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 7 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 9 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 8 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 10 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 9 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 11 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 10 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 9 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 8 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 10 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 9 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 11 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 10 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 12 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 11 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 10 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 9 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 11 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 10 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 12 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 11 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 13 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 12 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 11 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 10 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 12 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 11 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 13 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 12 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	image::_casaQuantityFromVar 	Will use values specified in major, minor, pa to set beam
+2025-09-16 14:57:15	INFO	BeamManipulator::set	Beam parameters:  Major          : 14 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Minor          : 13 arcsec
+2025-09-16 14:57:15	INFO	BeamManipulator::set+	  Position Angle : 5 deg
+2025-09-16 14:57:15	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:15	INFO	ImageRegion::fromRecord+	    [2, 2, 2, 2] to [5, 5, 5, 3]  (00:00:12.000, -00.03.00.000, 1.415e+09Hz, U to 00:00:00.000, +00.00.00.000, 1.415e+09Hz, V)
+2025-09-16 14:57:15	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:15	INFO	ImageRegion::fromRecord+	    [2, 2, 2, 2] to [5, 5, 5, 2]  (00:00:12.000, -00.03.00.000, 1.415e+09Hz, U to 00:00:00.000, +00.00.00.000, 1.415e+09Hz, U)
+2025-09-16 14:57:15	INFO	ImageRegion::fromRecord	Selected bounding box : 
+2025-09-16 14:57:15	INFO	ImageRegion::fromRecord+	    [2, 2, 6, 1] to [5, 5, 6, 3]  (00:00:12.000, -00.03.00.000, 1.415e+09Hz, Q to 00:00:00.000, +00.00.00.000, 1.415e+09Hz, V)
+2025-09-16 14:57:15	INFO	name::	No table opened.
+2025-09-16 14:57:15	INFO	showcache::	The Table Cache is empty.

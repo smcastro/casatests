@@ -1,0 +1,2 @@
+ :  velocity(quantity), start={'unit': 'km/s', 'value': 11991.7}, default width, TOPO 
+[check_spec_frame] tstCubetest_stqveldefwd.image: Spec frame is TOPO with crval 1200000000.0 (Pass : should be TOPO with expected crval 1200000000.0 )

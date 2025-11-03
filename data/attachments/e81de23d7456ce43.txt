@@ -1,0 +1,38 @@
+
+Checking firstquartile: 0.024146264419 vs 0.02414626255631447
+
+Checking isMasked: True vs True
+
+Checking isWeighted: False vs False
+
+Checking max: 73.75 vs 73.75
+
+Checking maxDatasetIndex: 12 vs 12
+
+Checking maxIndex: 2408 vs 2408
+
+Checking mean: 4.837103133618731 vs 4.837103133596521
+
+Checking medabsdevmed: 0.04501341888681054 vs 0.04501341888681054
+
+Checking median: 0.05355948396027088 vs 0.05355948396027088
+
+Checking min: 2.2130521756480448e-05 vs 2.2130521756480448e-05
+
+Checking minDatasetIndex: 54 vs 54
+
+Checking minIndex: 8692 vs 8692
+
+Checking npts: 2660994.0 vs 2660994.0
+
+Checking thirdquartile: 0.3291134536266327 vs 0.3291134536266327
+
+Checking rms: 17.081207832906546 vs 17.081207832905257
+
+Checking stddev: 16.382008276126726 vs 16.382008276132133
+
+Checking sum: 12871502.415939873 vs 12871502.4158821
+
+Checking sumsq: 776391995.3973862 vs 776391995.3972691
+
+Checking variance: 268.3701951590845 vs 268.37019515926175

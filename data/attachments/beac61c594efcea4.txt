@@ -1,0 +1,10 @@
+report= [ check_ret_structure ] Return dictionary struture check: type=reduced ( Pass : found all expected keys  ) 
+[ check_ims ] Image made : ['tst.mask', 'tst.image'] =  [True, True] ( Pass : should all be True )
+All expected keywords in imageinfo, miscinfo, and coords found. (check_keywords)
+[check_history] All expected history entries found. (Pass)
+[ check_pix_val ] tst.mask : Value is 1.0 at [256, 256, 0, 0] ( Pass : should be 1.0 , Epsilon: 0.05)
+[ check_pix_val ] tst.mask : Value is 1.0 at [255, 253, 0, 3] ( Pass : should be 1.0 , Epsilon: 0.05)
+[ check_pix_val ] tst.mask : Value is 0.0 at [260, 259, 0, 0] ( Pass : should be 0.0 , Epsilon: 0.05)
+[check_tabcache] Fail: Found open tables after run 
+[ check_logs ]: found 1 matching log lines (Pass)
+

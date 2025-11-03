@@ -1,0 +1,9 @@
+2025-09-16 16:11:46	WARN	ImageExprCalculator::compute	image units are not the same: 'Jy/beam' vs 'Jy/pixel'. Proceed with caution. Output image metadata will be copied from image a.im
+2025-09-16 16:11:46	WARN	ImageExprCalculator::compute	image units are not the same: 'Jy/beam' vs 'Jy/pixel'. Proceed with caution. Output image metadata will be copied from image b.im
+2025-09-16 16:11:46	WARN	ImageExprCalculator::compute	image units are not the same: 'Jy/beam' vs 'Jy/pixel'. Proceed with caution. Output image metadata will be copied from image c.im
+2025-09-16 16:11:46	WARN	ImageExprCalculator::compute	image units are not the same: 'Jy/beam' vs 'Jy/pixel'. Proceed with caution. Output image metadata will be copied from image a.im
+2025-09-16 16:11:46	WARN	ImageExprCalculator::compute	image units are not the same: 'Jy/beam' vs 'Jy/pixel'. Proceed with caution. Output image metadata will be copied from image a.im
+2025-09-16 16:11:46	WARN	ImageExprCalculator::compute	image units are not the same: 'Jy/beam' vs 'Jy/pixel'. Proceed with caution. Output image metadata will be copied from image b.im
+2025-09-16 16:11:46	WARN	ImageExprCalculator::compute	image units are not the same: 'Jy/beam' vs 'Jy/pixel'. Proceed with caution. Output image metadata will be copied from image b.im
+2025-09-16 16:11:46	WARN	ImageExprCalculator::compute	image units are not the same: 'Jy/beam' vs 'Jy/pixel'. Proceed with caution. Output image metadata will be copied from image c.im
+2025-09-16 16:11:46	WARN	ImageExprCalculator::compute	image units are not the same: 'Jy/beam' vs 'Jy/pixel'. Proceed with caution. Output image metadata will be copied from image c.im

@@ -1,0 +1,8 @@
+2025-09-16 14:58:01	INFO	test
+::SubMS::parseColumnNames()	Using DATA column.
+2025-09-16 14:58:01	INFO	test
+::SubMS::makeSelection()	4509 out of 22653 rows are going to be considered due to the selection criteria.
+2025-09-16 14:58:01	INFO	test
+::SubMS::fillDDTables()	The last output channel of spw 0 has only 3 input channels.
+2025-09-16 14:58:01	INFO	test
+::SubMS::doChannelMods()	Data binned.

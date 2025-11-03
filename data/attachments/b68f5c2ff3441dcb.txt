@@ -1,0 +1,62 @@
+test_importasdm: Success! Now checking output ...
+test_importasdm: table.f8 present.
+test_importasdm: FIELD/table.dat present.
+test_importasdm: table.f7 present.
+test_importasdm: POINTING/table.f0 present.
+test_importasdm: POLARIZATION/table.f0 present.
+test_importasdm: SPECTRAL_WINDOW/table.f0 present.
+test_importasdm: STATE/table.f0 present.
+test_importasdm: table.f4 present.
+test_importasdm: POINTING/table.dat present.
+test_importasdm: FLAG_CMD/table.dat present.
+test_importasdm: SYSCAL/table.dat present.
+test_importasdm: POLARIZATION/table.dat present.
+test_importasdm: table.f6 present.
+test_importasdm: table.f1 present.
+test_importasdm: FLAG_CMD/table.f0 present.
+test_importasdm: ANTENNA/table.f0 present.
+test_importasdm: HISTORY/table.dat present.
+test_importasdm: SYSPOWER/table.dat present.
+test_importasdm: ANTENNA/table.dat present.
+test_importasdm: SYSPOWER/table.f0 present.
+test_importasdm: FIELD/table.f0 present.
+test_importasdm: OBSERVATION/table.dat present.
+test_importasdm: OBSERVATION/table.f0 present.
+test_importasdm: SOURCE/table.f0 present.
+test_importasdm: table.f5 present.
+test_importasdm: table.dat present.
+test_importasdm: SPECTRAL_WINDOW/table.dat present.
+test_importasdm: CALDEVICE/table.f0 present.
+test_importasdm: STATE/table.dat present.
+test_importasdm: SYSCAL/table.f0 present.
+test_importasdm: WEATHER/table.dat present.
+test_importasdm: CALDEVICE/table.dat present.
+test_importasdm: FEED/table.f0 present.
+test_importasdm: PROCESSOR/table.dat present.
+test_importasdm: HISTORY/table.f0 present.
+test_importasdm: table.f3 present.
+test_importasdm: SOURCE/table.dat present.
+test_importasdm: table.f2 present.
+test_importasdm: WEATHER/table.f0 present.
+test_importasdm: DATA_DESCRIPTION/table.dat present.
+test_importasdm: PROCESSOR/table.f0 present.
+test_importasdm: DATA_DESCRIPTION/table.f0 present.
+test_importasdm: FEED/table.dat present.
+test_importasdm: MS exists. All tables present. Try opening as MS ...
+test_importasdm: OK. Checking tables in detail ...
+test_importasdm: comparing ['UVW', 42, [1607.46416559, -1241.44101203, 584.54265781], 2e-07]
+test_importasdm: comparing ['EXPOSURE', 42, 1.0, 0]
+test_importasdm: table MAIN as expected.
+test_importasdm: comparing ['UVW', 638, [14.21738626, 722.5956813, 57.58092887], 2e-07]
+test_importasdm: comparing ['EXPOSURE', 638, 1.0, 0]
+test_importasdm: table MAIN as expected.
+test_importasdm: comparing ['OFFSET', 1, [-4.8e-12, 0.0, 0.0], 0]
+test_importasdm: comparing ['POSITION', 1, [-1599644.8611, -5042953.6623, 3554197.0332], 0.0001]
+test_importasdm: comparing ['DISH_DIAMETER', 1, 25.0, 0]
+test_importasdm: table ANTENNA as expected.
+test_importasdm: comparing ['FLAG_ROW', 0, False, 0]
+test_importasdm: comparing ['MODE_ID', 0, 0, 0]
+test_importasdm: comparing ['TYPE', 0, 'CORRELATOR', 0]
+test_importasdm: comparing ['TYPE_ID', 0, -1, 0]
+test_importasdm: comparing ['SUB_TYPE', 0, 'NRAO_WIDAR', 0]
+test_importasdm: table PROCESSOR as expected.

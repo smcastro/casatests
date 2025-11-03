@@ -1,0 +1,11 @@
+2025-09-16 14:56:53	INFO	ImageRotator::rotate	Rotating DirectionCoordinate holding axes [0, 1]
+2025-09-16 14:56:53	INFO	CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2025-09-16 14:56:53	INFO	ImageMaskAttacher::makeMask	Created and initialized mask `mask0'
+2025-09-16 14:56:53	WARN	ImageRegridder::_doImagesOverlap	At least one of the images exceeds one degree on at one side, not checking for direction plane overlap.
+2025-09-16 14:56:53	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:56:53	INFO	image::_casaQuantityFromVar 	Using position angle rotation 45deg
+2015-10-14 13:22:40	INFO	::image::fromshape	Ran ia.fromshape
+2015-10-14 13:22:40	INFO	::image::fromshape	ia.fromshape(outfile='', shape=[200,200], csys={...}, linear=false, overwrite=false, log=true, type='f')
+2015-10-14 13:22:40	INFO	::::ImageFactory::createImage	Created Temp image  of shape [200, 200] with float valued pixels.
+2025-09-16 14:56:53	INFO	::::image::_rotate	Ran ia.rotate
+2025-09-16 14:56:53	INFO	::::image::_rotate	ia.rotate(outfile="", shape=[-1], pa="45deg", region={...}, mask="", method="cubic", decimate=0, replicate=false, dropdeg=false, overwrite=false, stretch=false)

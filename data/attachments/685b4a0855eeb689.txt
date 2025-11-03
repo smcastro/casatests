@@ -1,0 +1,26 @@
+2025-09-16 14:57:06	INFO	ImageFactory::createImage	Created Temp image  of shape [20, 20, 20, 4] with float valued pixels.
+2025-09-16 14:57:06	INFO	ImageMaskAttacher::makeMask	Created and initialized mask `mask0'
+2025-09-16 14:57:06	INFO	ImageRegrid::_checkAxes 	The Stokes axis cannot be regridded - removing from list
+2025-09-16 14:57:06	INFO	SubImageFactory::createImage	Creating image 'first' of shape [20, 20, 20, 4]
+2025-09-16 14:57:06	INFO	ImageMaskAttacher::makeMask	Created and initialized mask `mask0'
+2025-09-16 14:57:06	SEVERE	image::regrid	Exception Reported: Exception: There is no overlap between the (region chosen in) the input image and the output image with respect to the axes being regridded..
+2025-09-16 14:57:06	SEVERE	image::regrid+	... thrown by std::shared_ptr<casacore::ImageInterface<T> > casa::ImageRegridder<T>::_regrid() const [with T = float] at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/ImageRegridder.tcc, line: 151
+2025-09-16 14:57:06	INFO	ImageMaskAttacher::makeMask	Created and initialized mask `mask0'
+2025-09-16 14:57:06	INFO	SubImageFactory::createImage	Creating image 'fourth' of shape [20, 20, 20, 4]
+2025-09-16 14:57:06	INFO	ImageFactory::createImage	Created Temp image  of shape [200, 200, 20, 4] with float valued pixels.
+2025-09-16 14:57:06	INFO	ImageMaskAttacher::makeMask	Created and initialized mask `mask0'
+2025-09-16 14:57:06	WARN	ImageRegridder::_doImagesOverlap	At least one of the images exceeds one degree on at one side, not checking for direction plane overlap.
+2025-09-16 14:57:06	INFO	ImageRegrid::_checkAxes 	The Stokes axis cannot be regridded - removing from list
+2025-09-16 14:57:06	INFO	SubImageFactory::createImage	Creating image 'third' of shape [200, 200, 20, 4]
+2025-09-16 14:57:06	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:57:06	INFO	ImageMaskAttacher::makeMask	Created and initialized mask `mask0'
+2025-09-16 14:57:06	WARN	ImageRegridder::_doImagesOverlap	At least one of the images exceeds one degree on at one side, not checking for direction plane overlap.
+2025-09-16 14:57:06	SEVERE	image::regrid	Exception Reported: Exception: There is no overlap between the (region chosen in) the input image and the output image with respect to the axes being regridded..
+2025-09-16 14:57:06	SEVERE	image::regrid+	... thrown by std::shared_ptr<casacore::ImageInterface<T> > casa::ImageRegridder<T>::_regrid() const [with T = float] at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/ImageRegridder.tcc, line: 151
+2025-09-16 14:57:06	INFO	ImageFactory::createImage	Created Temp image  of shape [20, 20, 1001, 4] with float valued pixels.
+2025-09-16 14:57:06	INFO	ImageMaskAttacher::makeMask	Created and initialized mask `mask0'
+2025-09-16 14:57:06	INFO	SubImageFactory::createImage	Creating image 'sixth' of shape [20, 20, 1001, 4]
+2025-09-16 14:57:06	INFO	ImageMaskAttacher::makeMask	Created mask `mask0'
+2025-09-16 14:57:06	INFO	ImageMaskAttacher::makeMask	Created and initialized mask `mask0'
+2025-09-16 14:57:06	SEVERE	image::regrid	Exception Reported: Exception: There is no overlap between the (region chosen in) the input image and the output image with respect to the axes being regridded..
+2025-09-16 14:57:06	SEVERE	image::regrid+	... thrown by std::shared_ptr<casacore::ImageInterface<T> > casa::ImageRegridder<T>::_regrid() const [with T = float] at File: /source/casainstall/include/casacpp/imageanalysis/ImageAnalysis/ImageRegridder.tcc, line: 151

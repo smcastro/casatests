@@ -1,0 +1,16 @@
+2025-09-16 17:01:37	SEVERE	sdbaseline::singledishms::apply_baseline_table (file src/tools/singledishms/singledishms_cmpt.cc, line 312)	Exception Reported: Unsupported baseline type.
+2025-09-16 17:01:37	SEVERE	sdbaseline::::casa	Traceback (most recent call last):
+2025-09-16 17:01:37	SEVERE	sdbaseline::::casa+	             ^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:01:37	SEVERE	sdbaseline::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdbaseline.py", line 61, in sdbaseline
+2025-09-16 17:01:37	SEVERE	sdbaseline::::casa+	    _do_apply(infile, datacolumn, antenna, field, spw, timerange, scan, pol, intent,
+2025-09-16 17:01:37	SEVERE	sdbaseline::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatasks/private/task_sdbaseline.py", line 470, in _do_apply
+2025-09-16 17:01:37	SEVERE	sdbaseline::::casa+	    mysdms.apply_baseline_table(bltable=bltable,
+2025-09-16 17:01:37	SEVERE	sdbaseline::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/singledishms.py", line 87, in apply_baseline_table
+2025-09-16 17:01:37	SEVERE	sdbaseline::::casa+	    return self._swigobj.apply_baseline_table(bltable, datacolumn, spw, updateweight, sigmavalue, outfile)
+2025-09-16 17:01:37	SEVERE	sdbaseline::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:01:37	SEVERE	sdbaseline::::casa+	  File "/scratch/scastro/casa/Tests/reports/casa-6.7.2-15-py3.12.el8/lib/py/lib/python3.12/site-packages/casatools/__casac__/singledishms.py", line 433, in apply_baseline_table
+2025-09-16 17:01:37	SEVERE	sdbaseline::::casa+	    return _singledishms.singledishms_apply_baseline_table(self, *args, **kwargs)
+2025-09-16 17:01:37	SEVERE	sdbaseline::::casa+	           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-16 17:01:37	SEVERE	sdbaseline::::casa+	RuntimeError: Unsupported baseline type.
+2025-09-16 17:01:37	SEVERE	sdbaseline::::casa	Unsupported baseline type.
+2025-09-16 17:01:37	SEVERE	sdbaseline::::casa	Task sdbaseline raised an exception of class RuntimeError with the following message: Unsupported baseline type.

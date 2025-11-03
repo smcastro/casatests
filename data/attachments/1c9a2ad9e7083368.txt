@@ -1,0 +1,9 @@
+2025-09-16 17:34:37	WARN	image::open (file src/tools/image/image_cmpt.cc, line 4208)	Another image is already open, closing first
+2025-09-16 17:34:37	WARN	image::open (file src/tools/image/image_cmpt.cc, line 4208)	Another image is already open, closing first
+2025-09-16 17:34:38	WARN	spxfit::ImageConcat::setImage (file /source/casainstall/include/casacore/images/Images/ImageConcat.tcc, line 288)	Images are not contiguous along the concatenation axis For this axis, a non-regular Spectral coordinate will be made
+2025-09-16 17:34:38	WARN	spxfit::ImageConcat::setImage (file /source/casainstall/include/casacore/images/Images/ImageConcat.tcc, line 288)	Images are not contiguous along the concatenation axis For this axis, a non-regular Spectral coordinate will be made
+2025-09-16 17:34:38	WARN	image::open (file src/tools/image/image_cmpt.cc, line 4208)	Another image is already open, closing first
+2025-09-16 17:34:38	WARN	image::open (file src/tools/image/image_cmpt.cc, line 4208)	Another image is already open, closing first
+2025-09-16 17:34:38	WARN	spxfit::ImageConcat::setImage (file /source/casainstall/include/casacore/images/Images/ImageConcat.tcc, line 288)	Images are not contiguous along the concatenation axis For this axis, a non-regular Spectral coordinate will be made
+2025-09-16 17:34:38	WARN	spxfit::ImageConcat::setImage (file /source/casainstall/include/casacore/images/Images/ImageConcat.tcc, line 288)	Images are not contiguous along the concatenation axis For this axis, a non-regular Spectral coordinate will be made
+2025-09-16 17:34:38	WARN	image::open (file src/tools/image/image_cmpt.cc, line 4208)	Another image is already open, closing first

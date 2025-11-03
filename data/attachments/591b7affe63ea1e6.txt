@@ -1,0 +1,22 @@
+2025-09-16 18:39:00	WARN	task_tclean::SIImageStore::restore (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SIImageStore.cc, line 2345)	Restoring with an empty model image. Only residuals will be processed to form the output restored image.
+2025-09-16 18:39:00	WARN	task_tclean::SIImageStore::restore (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SIImageStore.cc, line 2345)	Restoring with an empty model image. Only residuals will be processed to form the output restored image.
+2025-09-16 18:39:01	WARN	AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]	Setting up for weights accumulation for term 0 during gridding to compute sensitivity pattern.
+2025-09-16 18:39:01	WARN	AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]+	Consequently, the first gridding cycle will be slower than the subsequent ones.
+2025-09-16 18:39:01	WARN	AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]	Setting up for weights accumulation for term 1 during gridding to compute sensitivity pattern.
+2025-09-16 18:39:01	WARN	AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]+	Consequently, the first gridding cycle will be slower than the subsequent ones.
+2025-09-16 18:39:01	WARN	AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]	Setting up for weights accumulation for term 2 during gridding to compute sensitivity pattern.
+2025-09-16 18:39:01	WARN	AWProjectWBFT2::makeSensitivityImage(Complex)[R&D]+	Consequently, the first gridding cycle will be slower than the subsequent ones.
+2025-09-16 18:39:04	WARN	AWProjectFT::finalizeToSky	time to massage data 0.28
+2025-09-16 18:39:04	WARN	AWProjectFT::finalizeToSky	time gridding 0.67
+2025-09-16 18:39:04	WARN	AWProjectFT::finalizeToSky	time to massage data 0.16
+2025-09-16 18:39:04	WARN	AWProjectFT::finalizeToSky	time gridding 0.64
+2025-09-16 18:39:04	WARN	AWProjectFT::finalizeToSky	time to massage data 0.16
+2025-09-16 18:39:04	WARN	AWProjectFT::finalizeToSky	time gridding 0.71
+2025-09-16 18:39:05	WARN	task_tclean::AWProjectFT::finalizeToSky	time to massage data 0.19
+2025-09-16 18:39:05	WARN	task_tclean::AWProjectFT::finalizeToSky	time gridding 0.12
+2025-09-16 18:39:06	WARN	task_tclean::AWProjectFT::finalizeToSky	time to massage data 0.18
+2025-09-16 18:39:06	WARN	task_tclean::AWProjectFT::finalizeToSky	time gridding 0.15
+2025-09-16 18:39:06	WARN	task_tclean::SIImageStore::restore (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SIImageStore.cc, line 2345)	Restoring with an empty model image. Only residuals will be processed to form the output restored image.
+2025-09-16 18:39:06	WARN	task_tclean::SIImageStore::restore (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SIImageStore.cc, line 2345)	Restoring with an empty model image. Only residuals will be processed to form the output restored image.
+2025-09-16 18:39:07	WARN	SIImageStore::restore (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SIImageStore.cc, line 2345)	Restoring with an empty model image. Only residuals will be processed to form the output restored image.
+2025-09-16 18:39:07	WARN	SIImageStore::restore (file /source/casa6/casatools/src/code/synthesis/ImagerObjects/SIImageStore.cc, line 2345)	Restoring with an empty model image. Only residuals will be processed to form the output restored image.
