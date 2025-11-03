@@ -1,0 +1,110 @@
+digraph casacpp_deps {
+
+        subgraph cluster_extern_deps {
+                node [color=lightgreen shape=box style=filled]
+                label="External Deps"
+
+                "bison/flex"
+                casacore
+                libsakura
+                "libxml++"
+                fftw
+                gsl
+                grpc
+                mirlib
+                mpi
+                "rpfits (embedded)"
+                sqlite
+                wcslib
+        }
+
+subgraph casa_deps {
+
+alma -> casacore
+alma -> "libxml++"
+
+asdmstman -> casacore
+
+atnf -> casacore
+atnf -> "rpfits (embedded)"
+
+calanalysis -> synthesis
+calanalysis -> casacore
+
+casa_sakura -> libsakura
+
+casatools -> grpc
+casatools -> casacore
+
+components -> casatools
+components -> stdcasa
+components -> casacore
+components -> gsl
+
+flagging -> casatools
+flagging -> msvis
+flagging -> mstransform
+flagging -> stdcasa
+flagging -> synthesis
+flagging -> casacore
+flagging -> grpc
+
+imageanalysis -> components
+imageanalysis -> stdcasa
+
+miriad -> casacore
+miriad -> mirlib
+
+mstransform -> asdmstman
+mstransform -> atmosphere
+mstransform -> imageanalysis
+mstransform -> msvis
+mstransform -> stdcasa
+mstransform -> gsl
+mstransform -> wcslib
+
+msvis -> asdmstman
+msvis -> components
+msvis -> stdcasa
+msvis -> casacore
+
+nrao -> casacore
+
+parallel -> casacore
+
+singledish -> casa_sakura
+singledish -> mstransform
+singledish -> msvis
+singledish -> singledishfiller
+singledish -> stdcasa
+singledish -> casacore
+singledish -> libsakura
+
+singledishfiller -> casacore
+
+spectrallines -> casatools
+spectrallines -> imageanalysis
+spectrallines -> casacore
+spectrallines -> sqlite
+
+stdcasa -> casacore
+
+synthesis -> atmosphere
+synthesis -> casadbus
+synthesis -> casatools
+synthesis -> components
+synthesis -> graphics
+synthesis -> imageanalysis
+synthesis -> msvis
+synthesis -> mstransform
+synthesis -> stdcasa
+synthesis -> casacore
+synthesis -> "bison/flex"
+synthesis -> fftw
+synthesis -> grpc
+synthesis -> gsl
+synthesis -> libsakura
+synthesis -> mpi
+synthesis -> wcslib
+}
+}

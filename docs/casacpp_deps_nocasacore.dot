@@ -1,0 +1,129 @@
+digraph casacpp_deps {
+    graph [pad="0.5", nodesep = ".21", ranksep="1.5"];
+        rank=LR;
+
+        subgraph cluster_extern_deps {
+                node [color=lightgreen shape=box style=filled]
+                label="External Deps"
+
+                "bison/flex" [color=lightblue]
+                libsakura
+                "libxml++" [color=lightblue]
+                hpg
+                fftw [color=lightblue]
+                gsl [color=lightblue]
+                grpc [color=lightblue]
+                mirlib
+                mpi [color=lightblue]
+                "rpfits (embedded)"
+                sqlite [color=lightblue]
+                wcslib [color=lightblue]
+        }
+
+subgraph cluster_fillers {
+                label="Fillers"
+    miriad
+    alma
+    atnf
+    nrao
+    singledishfiller
+}
+
+subgraph cluster_support {
+                label="Support"
+    casatools
+    stdcasa
+    parallel
+    casadbus
+    graphics
+}
+
+subgraph cluster_other {
+                label="Other"
+    components
+    atmosphere
+    casa_sakura
+    asdmstman
+    msvis
+}
+
+subgraph casa_deps {
+
+alma -> "libxml++"
+
+asdmstman 
+
+atnf -> "rpfits (embedded)"
+
+calanalysis -> synthesis
+
+casa_sakura -> libsakura
+
+casatools -> grpc [ minlen="40" ]
+
+components -> casatools
+components -> stdcasa
+components -> gsl
+
+flagging -> casatools
+flagging -> msvis
+flagging -> mstransform
+flagging -> stdcasa
+flagging -> synthesis
+flagging -> grpc
+
+imageanalysis -> components
+imageanalysis -> stdcasa
+
+miriad -> mirlib
+
+mstransform -> asdmstman
+mstransform -> atmosphere
+mstransform -> imageanalysis
+mstransform -> msvis
+mstransform -> stdcasa
+mstransform -> gsl
+mstransform -> wcslib
+
+msvis -> asdmstman
+msvis -> components
+msvis -> stdcasa
+
+nrao 
+
+parallel 
+
+singledish -> casa_sakura
+singledish -> mstransform
+singledish -> msvis
+singledish -> singledishfiller
+singledish -> stdcasa
+singledish -> libsakura
+
+singledishfiller 
+
+spectrallines -> casatools
+spectrallines -> imageanalysis
+spectrallines -> sqlite
+
+stdcasa 
+
+synthesis -> atmosphere
+synthesis -> casadbus
+synthesis -> casatools
+synthesis -> components
+synthesis -> graphics
+synthesis -> imageanalysis
+synthesis -> msvis
+synthesis -> mstransform
+synthesis -> stdcasa
+synthesis -> "bison/flex"
+synthesis -> hpg
+synthesis -> fftw
+synthesis -> grpc
+synthesis -> gsl
+synthesis -> libsakura
+synthesis -> mpi
+synthesis -> wcslib
+}
+}
